@@ -1,0 +1,4076 @@
+{
+  "@@locale": "pt",
+  "@@last_modified": "2026-11-03 14:17:00.000000",
+  "about": "Sobre",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Aceitar",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} aceitou o convite",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Conta",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} ativou a encriptação de ponta a ponta",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Adicionar e-mail",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Administrador",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Alias",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Tudo",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} atendeu a chamada",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Qualquer pessoa pode entrar",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Bloqueio de aplicação",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Arquivo",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Permitir a entrada de convidados?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Tem a certeza?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Tem a certeza de que pretende terminar sessão?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Introduza a sua frase-passe de armazenamento seguro ou chave de recuperação para assinar.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Aceitar o pedido de verificação de {username}?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Métodos de início de sessão suportados pelo servidor principal:\\n{serverVersions}\\nMas esta aplicação suporta apenas:\\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Banir da conversa",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Banir membro",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Banido",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} baniu {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Bloquear dispositivo",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Bloqueado",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Alterar nome do dispositivo",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} alterou o avatar da conversa",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} alterou as permissões da conversa",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} alterou o nome de exibição para: '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} alterou as regras de acesso para convidados",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} alterou as regras de acesso para convidados para: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} alterou a visibilidade do histórico",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} alterou a visibilidade do histórico para: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} alterou as regras de entrada",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} alterou as regras de entrada para: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} alterou o avatar do perfil",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} alterou os aliases da sala",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} alterou o link de convite da sala",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Alterar palavra-passe",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Alterar servidor principal",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Alterar tema",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Alterar o nome do grupo",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Alterar o seu avatar",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "A encriptação foi corrompida",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Conversa",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Cópia de segurança de conversas",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Detalhes da conversa",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Conversas",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Escolha uma palavra-passe forte",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Limpar arquivo",
+  "close": "Fechar",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Banir o utilizador especificado desta sala",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Enviar texto formatado em HTML",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Convidar o utilizador especificado para esta sala",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Entrar na sala especificada",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Remover o utilizador especificado desta sala",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Sair desta sala",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Descrever-se a si próprio",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Definir o seu avatar para esta sala (via mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Definir a sua alcunha para esta sala",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Definir nível de permissão para o utilizador especificado (predefinição: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Enviar texto simples",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Enviar resposta como uma reação",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Enviar texto",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Anular o banimento do utilizador especificado nesta sala",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Comando inválido",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} não é um comando.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Por favor, compare os emojis",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Por favor, compare os seguintes números",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Configurar conversa",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "O contacto foi convocado para o grupo",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Este conteúdo foi reportado ao administrador do servidor",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Copiado para a área de transferência",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Copiar",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Copiar para a área de transferência",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Não foi possível desencriptar a mensagem: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "A mensagem não pode ser desencriptada temporariamente, tente novamente mais tarde",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} participantes",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Criar",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} criou a conversa",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Atualmente ativo",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "Escuro",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Isto desativará a sua conta de utilizador. Esta ação não pode ser revertida! Tem a certeza?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Nível de permissão predefinido para novos utilizadores",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Eliminar",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Eliminar conta",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Eliminar mensagem",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Eliminar todas as mensagens",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Limpar histórico de conversas",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Tem a certeza de que quer eliminar todas as mensagens nesta conversa? Esta ação é irreversível.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Tem a certeza de que quer limpar este histórico de conversas? Esta ação é irreversível.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Ativar eliminação automática",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Eliminar automaticamente novas mensagens nesta conversa após algum tempo",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 dia",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 semana",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 mês",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Desativar",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Dispositivos",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Conversas diretas",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "O nome de exibição foi alterado",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Descarregar ficheiro",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Editar",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Editar servidores bloqueados",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Editar nome de exibição",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Editar aliases da sala",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Editar avatar da sala",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "O emote já existe!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Atalho de emote inválido!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Atalho de emote",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Conversa vazia",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Ativar emotes globalmente",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Ativar encriptação",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Não poderá desativar a encriptação depois. Tem a certeza?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Encriptado",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Encriptação",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Encriptação não ativada",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} terminou a chamada",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Introduza um endereço de e-mail",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Tamanho da letra",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Reencaminhar",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "Reencaminhado com sucesso",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Desde a adesão",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Desde o convite",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Grupo",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "O grupo é público",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Grupos",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Grupo com {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Convidados proibidos",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Convidados podem entrar",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} cancelou o convite para {targetName}",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Ajuda",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Ocultar eventos desconhecidos",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Ignorar",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Utilizadores ignorados",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Já cliquei no link",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Frase-passe ou chave de recuperação incorreta",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Convidar contacto",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Convidar contacto para {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Convidado",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} convidou {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Apenas utilizadores convidados",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} convida-o(a) a utilizar o NYX.\\n1. Instale o NYX: https://fluffychat.im\\n2. Registe-se ou inicie sessão\\n3. Abra o link de convite:\\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "a escrever",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} entrou na conversa",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Entrar na sala",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Introduza o endereço da sala",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "Ex. !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Endereço inválido!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Sala não encontrada!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Falha ao entrar na sala",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Encontrada sala correspondente",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Continuar",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Sem descrição ainda ~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Pedir para entrar",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Entrar na sala",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Descrição",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} expulsou {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} expulsou e baniu {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Expulsar da conversa",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Foi expulso(a) deste grupo",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Remover membro",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Última atividade: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Sair",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "saiu da conversa",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Claro",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Carregar mais {count} participantes",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "A carregar... Por favor, aguarde.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Carregar mais...",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Iniciar sessão",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Iniciar sessão em {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Terminar sessão",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Tem a certeza de que deseja terminar sessão na sua conta NYX?",
+  "mention": "Menção",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Mensagens",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Moderador",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Silenciar",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Nova conversa",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 Nova mensagem no NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Novo pedido de verificação!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Seguinte",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Não",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Sem ligação ao servidor",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Nenhum emote encontrado. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Só pode ativar a encriptação quando a sala não for acessível ao público.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Parece que o seu dispositivo não tem o Firebase Cloud Messaging. Se ainda assim quiser receber notificações push do NYX, recomendamos a instalação do ntfy. Através do ntfy ou de outro programa UnifiedPush, pode receber notificações push de forma segura. Pode descarregar o ntfy na Play Store ou F-Droid.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Ainda não adicionou um método de recuperação de palavra-passe.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Sem permissão",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Nenhuma sala encontrada...",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Notificações",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} pessoas a escrever...",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Cópia de segurança de chaves online ativada",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Ups! Infelizmente ocorreu um erro ao configurar as notificações push.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Ups, algo correu mal...",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Abra a aplicação para ler as mensagens",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Abrir câmara",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "ou",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Participante",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Frase-passe ou chave de recuperação",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Palavra-passe",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Palavra-passe esquecida",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "A palavra-passe foi alterada",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Recuperação de palavra-passe",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Fixar",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Por favor, escolha um código de acesso",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Por favor, clique no link do e-mail e depois continue.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Por favor, introduza a sua palavra-passe",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Por favor, introduza o seu PIN",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Por favor, introduza o código de bloqueio",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Por favor, introduza o seu nome de utilizador",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Siga as instruções no site e clique em seguinte.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Privacidade",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Salas públicas",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Motivo",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} eliminou um evento",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Eliminar mensagem",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Rejeitar",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} rejeitou o convite",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Remover",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Remover todos os outros dispositivos",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Anular banimento da conversa",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Remover o seu avatar",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Atualizar sala para versão mais recente",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Responder",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Reportar mensagem",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "A sala foi atualizada",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Versão da sala",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Guardar ficheiro",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Pesquisar",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Segurança",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Enviar",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Enviar uma mensagem",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Enviar como texto",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Enviar áudio",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Enviar ficheiro",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Enviar imagem",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Enviar mensagens",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Enviar vídeo",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} enviou um ficheiro",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} enviou um áudio",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} enviou uma imagem",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} enviou um autocolante",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} enviou um vídeo",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} enviou informações da chamada",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Definir como alias principal",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Definir estado",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Definições",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Partilhar",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} partilhou a localização",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Saltar",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Código-fonte",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} iniciou uma chamada",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Estado",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Como está hoje?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Submeter",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "A sincronizar... Por favor, aguarde.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Sistema",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Não coincidem",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Coincidem",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Demasiados pedidos. Tente novamente mais tarde!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Tentar enviar novamente",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} anulou o banimento de {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Desbloquear dispositivo",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Dispositivo desconhecido",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Algoritmo de encriptação desconhecido",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Evento desconhecido '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Ativar som",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Desafixar",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} e mais {count} pessoas estão a escrever...",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} e {username2} estão a escrever...",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} está a escrever...",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} saiu da conversa",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} enviou um evento {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Verificado",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Verificar utilizador",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Verificar este utilizador",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Para maior segurança, verifique este utilizador comparando um conjunto de emojis no seu dispositivo através de um meio seguro, como pessoalmente",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "A aguardar pelo outro utilizador",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "Assim que for aceite, poderá prosseguir com a verificação",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Comparar emojis",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Compare os emojis para garantir que estão na mesma ordem",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Por favor, verifique se os emojis abaixo coincidem com os do outro dispositivo",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Pedido de verificação",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Para maior segurança, outro utilizador quer verificar a sua identidade. Irá ver um conjunto de emojis para comparar.",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Verificação bem-sucedida",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Pode agora confiar na identidade deste utilizador para efetuar chamadas ou trocar mensagens.",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "A verificação falhou",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "O pedido expirou, foi rejeitado ou os dados de verificação não coincidem.",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Concluído",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Tentar novamente",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Verificar este utilizador?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Esta é a sua primeira mensagem para este utilizador. Por segurança, pode verificar a identidade dele primeiro ou enviar diretamente.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Verificar agora",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Enviar diretamente",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Notificações de mensagens",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Notificação de mensagem",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Adicionar biografia",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Definir novo avatar",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Membros",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Funções e permissões",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Perfil pessoal",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Definir alcunha/nota",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Mensagens fixadas",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 mensagem fixada} other{{count} mensagens fixadas}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Sem mensagens fixadas",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Acordo",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Multimédia e ficheiros",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Votações",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Sair da comunidade",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Eliminar conversa de grupo",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Multimédia",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Sem multimédia",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Sem ficheiros",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "A descarregar ficheiro...",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Adicionar aos contactos",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Adicionar contacto",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Eliminar contacto",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Biografia",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Sem biografia",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Bloquear utilizador",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Desbloquear",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Chamada",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Iniciar verificação",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Verificado com sucesso!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Verificar outra conta",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Visibilidade do histórico de conversas",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Visível para todos os participantes",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Visível para todos",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Mensagem de voz",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "A aguardar que o outro aceite o pedido...",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "A aguardar que o outro aceite o emoji...",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "A aguardar que o outro aceite os números...",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Aviso!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Enviamos-lhe um e-mail",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Quem pode realizar cada ação",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Quem pode entrar neste grupo",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Qual é o motivo para reportar isto?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Com estes endereços pode recuperar a sua palavra-passe.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Escreva uma mensagem...",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Sim",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Tu",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Já não participa nesta conversa",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Foi banido(a) desta conversa",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "A sua chave pública",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Adicionar ao espaço",
+  "obtainingLocation": "A obter localização...",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} não é um servidor Matrix, pretende experimentar {server2}?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Permissão de localização negada. Conceda esta permissão para partilhar a sua localização.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Serviços de localização desativados. Ative-os para partilhar a sua localização.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Erro ao obter localização: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Criar novo espaço",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Não é possível abrir o URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Reproduzir automaticamente autocolantes e emotes animados",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Nome do espaço",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "O espaço é público",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Partilhar localização",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Abrir no mapa",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Pressionar Enter para enviar",
+  "scanQrCode": "Ler código QR",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "Código QR",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Partilhar código QR",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Um dos seus clientes terminou sessão",
+  "removeFromBundle": "Remover deste conjunto",
+  "unverified": "Não verificado",
+  "repeatPassword": "Repetir palavra-passe",
+  "addAccount": "Adicionar conta",
+  "editBundlesForAccount": "Editar conjuntos para esta conta",
+  "addToBundle": "Adicionar ao conjunto",
+  "bundleName": "Nome do conjunto",
+  "link": "Link",
+  "sender": "Remetente",
+  "openGallery": "Abrir galeria",
+  "messageInfo": "Informação da mensagem",
+  "time": "Hora",
+  "removeFromSpace": "Remover deste espaço",
+  "commandHint_discardsession": "Descartar sessão",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Criar mensagem direta\\nUtilize a opção --no-encryption para desativar a encriptação",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Limpar cache",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Criar conversa de grupo vazia\\nUtilize a opção --no-encryption para desativar a encriptação",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Marcar como lida",
+  "reportUser": "Reportar utilizador",
+  "reactedWith": "{sender} reagiu com {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Tem a certeza de que pretende desafixar permanentemente este evento?",
+  "pinMessage": "Fixar na sala",
+  "emojis": "Emojis",
+  "unsupportedAndroidVersionLong": "Esta funcionalidade requer uma versão mais recente do Android. Verifique atualizações ou o suporte do LineageOS.",
+  "unsupportedAndroidVersion": "Versão do Android não suportada",
+  "youRejectedTheInvitation": "Rejeitou o convite",
+  "youJoinedTheChat": "Entrou na conversa",
+  "youBannedUser": "Baniu {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Foi convidado(a) por {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Convidou {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Expulsou {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Anulou o banimento de {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Aceitou o convite",
+  "youHaveWithdrawnTheInvitationFor": "Cancelou o convite para {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Expulsou e baniu {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Guardar no Apple KeyChain",
+  "storeInAndroidKeystore": "Guardar no Android KeyStore",
+  "storeSecurlyOnThisDevice": "Guardar de forma segura neste dispositivo",
+  "users": "Utilizadores",
+  "countFiles": "{count} ficheiros",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Restaurar a partir de cópia de segurança",
+  "dehydrate": "Exportar sessão e apagar dados do dispositivo",
+  "dehydrateWarning": "Esta ação não pode ser revertida. Certifique-se de que guarda o ficheiro de cópia de segurança num local seguro.",
+  "user": "Utilizador",
+  "userNotFound": "Utilizador não encontrado",
+  "custom": "Personalizado",
+  "confirmMatrixId": "Por favor, confirme o seu ID Matrix para eliminar a conta.",
+  "supposedMxid": "Deveria ser {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Marcar como grupo",
+  "commandHint_markasdm": "Marcar o ID Matrix fornecido como conversa privada",
+  "whyIsThisMessageEncrypted": "Porque é que esta mensagem não pode ser lida?",
+  "noKeyForThisMessage": "Isto pode acontecer se a mensagem foi enviada antes de iniciar sessão neste dispositivo.\\n\\nTambém é possível que o remetente tenha bloqueado o seu dispositivo ou que haja um problema de ligação à rede.\\n\\nConsegue ler a mensagem noutra sessão? Se sim, pode transferir a chave a partir daí! Vá a Definições > Dispositivos e certifique-se de que os seus dispositivos estão mutuamente verificados. A chave será transferida automaticamente na próxima vez que abrir a sala de chat com ambas as sessões ativas.\\n\\nNão quer perder as chaves ao terminar sessão ou mudar de dispositivo? Certifique-se de que ativa a cópia de segurança de conversas nas definições.",
+  "newSpace": "Novo espaço",
+  "doNotShowAgain": "Não mostrar novamente",
+  "googlyEyesContent": "{senderName} enviou-lhe olhos arregalados",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Enviar olhos arregalados",
+  "commandHint_cuddle": "Enviar aconchego",
+  "commandHint_hug": "Enviar abraço",
+  "cuddleContent": "{senderName} aconchegou-o(a)",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} deu-lhe um abraço",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Conversa vazia (era {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Os espaços permitem-lhe organizar conversas e criar comunidades públicas ou privadas.",
+  "encryptThisChat": "Encriptar esta conversa",
+  "disableEncryptionWarning": "Por motivos de segurança, não pode desativar a encriptação numa conversa que já a tinha ativada.",
+  "sorryThatsNotPossible": "Lamento, isso não é possível",
+  "report": "Reportar",
+  "fileIsTooBigForServer": "Não foi possível enviar! O servidor suporta apenas ficheiros com tamanho máximo de {max}.",
+  "noOtherDevicesFound": "Nenhum outro dispositivo encontrado",
+  "jumpToLastReadMessage": "Saltar para a última mensagem lida",
+  "readUpToHere": "Lido até aqui",
+  "jump": "Saltar",
+  "openLinkInBrowser": "Abrir link no navegador",
+  "fileHasBeenSavedAt": "O ficheiro foi guardado em {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 Oh, não. Algo correu mal. Se quiser, pode reportar este erro aos programadores.",
+  "noBackupWarning": "Aviso! Sem ativar a cópia de segurança de conversas, não conseguirá aceder a mensagens encriptadas. É altamente recomendável ativá-la antes de terminar sessão.",
+  "reopenChat": "Reabrir conversa",
+  "importEmojis": "Importar pacote de emotes",
+  "notAnImage": "Não é um ficheiro de imagem.",
+  "importNow": "Importar agora",
+  "importFromZipFile": "Importar a partir de ficheiro .zip",
+  "replace": "Substituir",
+  "exportEmotePack": "Exportar pacote de emotes como .zip",
+  "sendTypingNotifications": "Enviar notificações de escrita",
+  "createGroup": "Criar grupo",
+  "shareInviteLink": "Partilhar link de convite",
+  "tryAgain": "Tentar novamente",
+  "chatPermissions": "Permissões da conversa",
+  "chatDescription": "Descrição da conversa",
+  "chatDescriptionHasBeenChanged": "A descrição da conversa foi alterada",
+  "noChatDescriptionYet": "Ainda sem descrição.",
+  "invalidServerName": "Nome de servidor inválido",
+  "redactMessageDescription": "A mensagem será eliminada para todos os participantes desta conversa. Esta ação é irreversível.",
+  "optionalRedactReason": "(Opcional) Motivo para eliminar esta mensagem...",
+  "setChatDescription": "Definir descrição da conversa",
+  "setColorTheme": "Definir cor do tema:",
+  "invite": "Convidar",
+  "addMembers": "Adicionar membros",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Convidar via link",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Esta lista é visível apenas para administradores do grupo.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Contactos nesta conversa",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Este grupo não tem link de convite",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Mensagens:",
+  "redactedBy": "Eliminada por {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "Eliminada por {username}, motivo: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Convite para grupo",
+  "emoteKeyboardNoRecents": "Os emotes utilizados recentemente aparecerão aqui...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Entrada inválida!",
+  "wrongPinEntered": "PIN incorreto! Tente novamente daqui a {seconds} segundos...",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} pediu para entrar na sala",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Introduza um número superior a 0",
+  "banUserDescription": "O utilizador será banido da sala e não poderá voltar a entrar até que o banimento seja retirado.",
+  "removeDevicesDescription": "Será desligado(a) deste dispositivo e deixará de receber mensagens.",
+  "unbanUserDescription": "O utilizador poderá voltar a entrar na conversa se tentar.",
+  "pushNotificationsNotAvailable": "Notificações push não disponíveis",
+  "makeAdminDescription": "Assim que tornar este utilizador administrador, poderá não conseguir reverter a ação, uma vez que ele terá os mesmos privilégios que você.",
+  "archiveRoomDescription": "A conversa será movida para o arquivo. Outros utilizadores verão que abandonou a conversa.",
+  "learnMore": "Saber mais",
+  "roomUpgradeDescription": "A sala atual será recriada utilizando uma nova versão. Todos os participantes serão notificados para mudarem para a nova sala. Para mais informações sobre versões de salas, visite https://spec.matrix.org/latest/rooms/",
+  "kickUserDescription": "O utilizador será expulso da conversa, mas não banido. Em conversas públicas, o utilizador pode voltar a entrar a qualquer momento.",
+  "blockListDescription": "Pode bloquear utilizadores que a/o incomodam. Não receberá quaisquer mensagens ou convites de salas de utilizadores na sua lista de bloqueio.",
+  "createGroupAndInviteUsers": "Criar grupo e convidar utilizadores",
+  "blockedUsers": "Utilizadores bloqueados",
+  "groupCanBeFoundViaSearch": "O grupo pode ser encontrado através de pesquisa",
+  "noUsersFoundWithQuery": "Lamentamos, mas não foram encontrados utilizadores para \"{query}\". Verifique se escreveu corretamente.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Bloquear",
+  "yourGlobalUserIdIs": "O seu ID de utilizador global é: ",
+  "commandHint_sendraw": "Enviar JSON bruto",
+  "wrongRecoveryKey": "Lamentamos... Esta não parece ser a chave de recuperação correta.",
+  "blockUsername": "Ignorar nome de utilizador",
+  "groupName": "Nome do grupo",
+  "databaseMigrationTitle": "Base de dados otimizada",
+  "searchChatsRooms": "Pesquisar #conversas, @utilizadores...",
+  "databaseMigrationBody": "Por favor, aguarde. Isto pode demorar um momento.",
+  "thisDevice": "Este dispositivo:",
+  "publicSpaces": "Espaços públicos",
+  "passwordIsWrong": "A palavra-passe introduzida está incorreta",
+  "pleaseEnterYourCurrentPassword": "Introduza a sua palavra-passe atual",
+  "nothingFound": "Nada encontrado...",
+  "newPassword": "Nova palavra-passe",
+  "passwordsDoNotMatch": "As palavras-passe não coincidem",
+  "select": "Selecionar",
+  "pleaseChooseAStrongPassword": "Escolha uma palavra-passe forte",
+  "addChatOrSubSpace": "Adicionar conversa ou subespaço",
+  "leaveEmptyToClearStatus": "Deixe em branco para limpar o seu estado.",
+  "joinSpace": "Entrar no espaço",
+  "searchForUsers": "Pesquisar @utilizador...",
+  "initAppError": "Ocorreu um erro ao inicializar a aplicação",
+  "sessionLostBody": "A sua sessão foi perdida. Reporte este erro aos programadores em {url}. A mensagem de erro é: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "A aplicação está a tentar restaurar a sua sessão a partir da cópia de segurança. Reporte este erro aos programadores em {url}. A mensagem de erro é: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Os outros participantes na conversa podem ver quando está a escrever uma nova mensagem.",
+  "formattedMessagesDescription": "Utilize Markdown para formatar texto, por exemplo, texto a negrito.",
+  "verifyOtherUserDescription": "Se verificar outro utilizador, pode ter a certeza de com quem está a comunicar. 💪\\n\\nQuando iniciar a verificação, você e o outro utilizador verão uma janela pop-up na aplicação. Depois, verá uma série de emojis ou números que ambos deverão comparar para garantir que coincidem.\\n\\nA melhor forma de o fazer é pessoalmente ou através de uma videochamada. 👭",
+  "verifyOtherDeviceDescription": "Quando verifica outro dispositivo, estes dispositivos podem trocar chaves, melhorando a segurança geral. 💪 Quando iniciar a verificação, a aplicação em ambos os dispositivos mostrará uma janela pop-up. Depois, verá uma série de emojis ou números que terá de comparar em ambos os dispositivos. É aconselhável ter ambos os dispositivos à mão antes de iniciar a verificação. 🤳",
+  "canceledKeyVerification": "{sender} cancelou a verificação de chaves",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Enviar confirmações de leitura",
+  "formattedMessages": "Mensagens formatadas",
+  "verifyOtherDevice": "🔐 Verificar outro dispositivo",
+  "verifyOtherUser": "🔐 Verificar outro utilizador",
+  "sendReadReceiptsDescription": "Os outros participantes na conversa podem ver se leu as mensagens.",
+  "acceptedKeyVerification": "{sender} aceitou a verificação de chaves",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} está pronto(a) para a verificação de chaves",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} concluiu a verificação de chaves",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} pediu a verificação de chaves",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} iniciou a verificação de chaves",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Mensagens recebidas",
+  "stickers": "Autocolantes",
+  "discover": "Descobrir",
+  "commandHint_ignore": "Ignorar o ID Matrix especificado",
+  "commandHint_unignore": "Deixar de ignorar o ID Matrix especificado",
+  "unreadChatsInApp": "{appname}: {unread} conversas não lidas",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "Utilize um PIN para bloquear o NYX quando não estiver a ser utilizado",
+  "globalChatId": "ID de conversa global",
+  "accessAndVisibility": "Acesso e visibilidade",
+  "accessAndVisibilityDescription": "Quem pode entrar nesta conversa e como pode ser encontrada.",
+  "customEmojisAndStickers": "Emojis e autocolantes personalizados",
+  "hideRedactedMessages": "Ocultar mensagens eliminadas",
+  "passwordRecoverySettings": "Definições de recuperação de palavra-passe",
+  "knock": "Pedir para entrar",
+  "noOneCanJoin": "Ninguém pode entrar",
+  "knocking": "A pedir para entrar",
+  "chatCanBeDiscoveredViaSearchOnServer": "A conversa pode ser descoberta via pesquisa em {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Existem atualmente {count} utilizadores bloqueados.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Se alguém eliminar uma mensagem, esta nunca mais será exibida na conversa.",
+  "hideInvalidOrUnknownMessageFormats": "Ocultar formatos de mensagem inválidos ou desconhecidos",
+  "customEmojisAndStickersBody": "Adicione ou partilhe emojis e autocolantes utilizáveis em qualquer conversa.",
+  "usersMustKnock": "Os utilizadores devem pedir para entrar",
+  "noDatabaseEncryption": "A encriptação da base de dados não é suportada nesta plataforma",
+  "publicChatAddresses": "Endereços públicos da conversa",
+  "createNewAddress": "Criar novo endereço",
+  "searchMore": "Pesquisar mais...",
+  "gallery": "Galeria",
+  "files": "Ficheiros",
+  "searchIn": "Pesquisar em “{chat}”...",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Deslize da direita para a esquerda para responder",
+  "noMoreChatsFound": "Não foram encontradas mais conversas...",
+  "space": "Espaço",
+  "goToSpace": "Ir para o espaço: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Marcar como não lida",
+  "unread": "Não lidas",
+  "userLevel": "{level} - Utilizador",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Moderador",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Administrador",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Convidar outros utilizadores para esta conversa",
+  "changeTheChatPermissions": "Alterar permissões da conversa",
+  "changeTheVisibilityOfChatHistory": "Alterar visibilidade do histórico de conversas",
+  "changeTheCanonicalRoomAlias": "Alterar endereço principal da sala pública",
+  "sendRoomNotifications": "Enviar notificações para todos na sala",
+  "changeTheDescriptionOfTheGroup": "Alterar descrição da conversa",
+  "changeGeneralChatSettings": "Alterar definições gerais da conversa",
+  "chatPermissionsDescription": "Defina o nível de permissão necessário para ações específicas nesta conversa. Os níveis 0, 50 e 100 representam habitualmente utilizadores, moderadores e administradores, mas pode personalizar qualquer nível.",
+  "changelog": "Registo de alterações",
+  "updateInstalled": "🎉 Atualização {version} instalada!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Envio cancelado",
+  "noChatsFoundHere": "Ainda não foram encontradas conversas aqui. Utilize o botão abaixo ⤵️ para iniciar uma nova conversa",
+  "loginWithMatrixId": "Iniciar sessão com ID Matrix",
+  "doesNotSeemToBeAValidHomeserver": "Não parece ser um servidor principal compatível. O URL está incorreto?",
+  "calculatingFileSize": "A calcular o tamanho do ficheiro...",
+  "oneOfYourDevicesIsNotVerified": "Um dos seus dispositivos não está verificado",
+  "noticeChatBackupDeviceVerification": "Aviso: quando ligar todos os seus dispositivos à cópia de segurança de conversas, os mesmos serão verificados automaticamente.",
+  "continueText": "Continuar",
+  "blur": "Desfoque:",
+  "opacity": "Opacidade:",
+  "setWallpaper": "Definir papel de parede",
+  "manageAccount": "Gerir conta",
+  "aboutHomeserver": "Sobre {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Versão",
+  "noContactInformationProvided": "O servidor não forneceu nenhuma informação de contacto válida",
+  "contactServerAdmin": "Contactar o administrador do servidor",
+  "name": "Nome",
+  "surname": "Apelido",
+  "personalIntro": "Apresentação pessoal",
+  "nameDescription": "Introduza o seu nome, podendo também adicionar um avatar.",
+  "aboutYourselfDescription": "Texto sobre si próprio.",
+  "email": "E-mail",
+  "emailForLogin": "Utilizado para iniciar sessão na conta NYX.",
+  "changeEmail": "Alterar e-mail",
+  "changeEmailDescription": "Pode alterar o seu e-mail de recuperação para conseguir repor a palavra-passe e recuperar o acesso à sua conta NYX.",
+  "bindNewEmail": "Vincular novo e-mail",
+  "newEmailSameAsOld": "O novo e-mail não pode ser igual ao atual",
+  "bindEmail": "Vincular e-mail",
+  "bindEmailDescription": "Pode vincular um e-mail para conseguir repor a palavra-passe e recuperar o acesso à sua conta NYX.",
+  "enterEmail": "Introduzir e-mail",
+  "enterValidEmail": "Introduza um e-mail válido",
+  "getVerificationCode": "Obter código de verificação",
+  "verificationCode": "Código de verificação",
+  "enterVerificationCode": "Introduzir código de verificação",
+  "enterCodeSentTo": "Introduza o código enviado para {email}.",
+  "createPassword": "Criar palavra-passe",
+  "createPasswordDescription": "Defina uma palavra-passe de início de sessão para segurança da conta.",
+  "enterPassword": "Introduzir palavra-passe",
+  "enterPasswordAgain": "Introduzir palavra-passe novamente",
+  "bind": "Vincular",
+  "walletAddress": "Endereço da carteira",
+  "walletForLogin": "Utilizado para iniciar sessão na conta NYX.",
+  "ethereumMainnetAddress": "Endereço da rede principal Ethereum",
+  "none": "Nenhum",
+  "username": "Nome de utilizador",
+  "usernameDescription": "Pode definir um nome de utilizador no NYX. Após configurá-lo, os outros poderão encontrá-lo e contactá-lo através dele.",
+  "usernameRuleHint": "Pode utilizar a-z, 0-9 e underscores (_). O comprimento mínimo é de 5 carateres.",
+  "chatViaLink": "Pode ser contactado através deste link:",
+  "contactServerSecurity": "Contactar a segurança do servidor",
+  "supportPage": "Página de suporte",
+  "serverInformation": "Informação do servidor:",
+  "website": "Site",
+  "italicText": "Texto em itálico",
+  "strikeThrough": "Rasurado",
+  "pleaseFillOut": "Por favor, preencha",
+  "addLink": "Adicionar link",
+  "boldText": "Texto a negrito",
+  "invalidUrl": "URL inválido",
+  "unableToJoinChat": "Não é possível entrar na conversa. É possível que o outro lado tenha encerrado o diálogo.",
+  "sendImages": "Enviar {count} imagens",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Comprimir",
+  "previous": "Anterior",
+  "otherPartyNotLoggedIn": "A outra parte não tem sessão iniciada de momento, pelo que não pode receber mensagens!",
+  "appWantsToUseForLoginDescription": "Por este meio, autoriza esta aplicação e site a partilharem informações sobre si.",
+  "open": "Abrir",
+  "appWantsToUseForLogin": "Iniciar sessão com o servidor '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "A aguardar pelo servidor...",
+  "synchronizingPleaseWaitCounter": " A sincronizar... ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Novo pedido de conversa",
+  "generalNotificationSettings": "Definições gerais de notificação",
+  "userSpecificNotificationSettings": "Utilizar definições específicas de notificação",
+  "notificationRuleMaster": "Silenciar todas as notificações",
+  "notificationRuleSuppressNotices": "Ocultar mensagens automáticas",
+  "notificationRuleInviteForMe": "Convites para mim",
+  "notificationRuleInviteForMeDescription": "Notificar o utilizador quando for convidado(a) para uma sala.",
+  "notificationRuleMemberEvent": "Eventos de membros",
+  "notificationRuleMemberEventDescription": "Ocultar notificações de eventos de membros.",
+  "notificationRuleIsUserMention": "Menção de utilizador",
+  "notificationRuleIsUserMentionDescription": "Notificar o utilizador quando o seu nome de utilizador for mencionado diretamente.",
+  "notificationRuleContainsDisplayName": "Contém nome de exibição",
+  "notificationRuleIsRoomMention": "Menção na sala",
+  "notificationRuleRoomnotifDescription": "Notificar o utilizador quando a mensagem contiver '@room'.",
+  "notificationRuleTombstone": "Lápide (Sala encerrada)",
+  "notificationRuleRoomServerAcl": "ACL do servidor da sala",
+  "notificationRuleSuppressEdits": "Ocultar edições",
+  "notificationRuleCall": "Chamada",
+  "notificationRuleRoomOneToOne": "Sala individual",
+  "notificationRuleRoomOneToOneDescription": "Notificar o utilizador de mensagens em salas individuais.",
+  "notificationRuleEncrypted": "Encriptado",
+  "notificationRuleEncryptedDescription": "Notificar o utilizador de mensagens em salas encriptadas.",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Notificar o utilizador sobre eventos do widget Jitsi.",
+  "notificationRuleServerAcl": "Ocultar eventos de ACL do servidor",
+  "notificationRuleServerAclDescription": "Ocultar notificações de eventos de ACL do servidor.",
+  "deletePushRuleCanNotBeUndone": "A eliminação desta regra de notificação não pode ser revertida.",
+  "more": "Mais",
+  "notificationRuleReactionDescription": "Ocultar notificações de reações.",
+  "notificationRuleMessageDescription": "Notificar o utilizador de mensagens gerais.",
+  "notificationRuleContainsUserName": "Contém nome de utilizador",
+  "otherNotificationSettings": "Outras definições de notificação",
+  "notificationRuleContainsUserNameDescription": "Notificar o utilizador quando a mensagem contiver o seu nome de utilizador.",
+  "notificationRuleIsRoomMentionDescription": "Notificar o utilizador quando houver uma menção na sala.",
+  "contentNotificationSettings": "Definições de notificação de conteúdo",
+  "notificationRuleMasterDescription": "Sobrepõe-se a todas as outras regras e desativa todas as notificações.",
+  "notificationRuleSuppressNoticesDescription": "Ocultar notificações de clientes automáticos, como bots.",
+  "roomNotificationSettings": "Definições de notificação da sala",
+  "notificationRuleRoomServerAclDescription": "Ocultar notificações de listas de controlo de acessos (ACL) do servidor da sala.",
+  "notificationRuleContainsDisplayNameDescription": "Notificar o utilizador quando a mensagem contiver o seu nome de exibição.",
+  "notificationRuleRoomnotif": "Notificação da sala",
+  "notificationRuleTombstoneDescription": "Notificar o utilizador sobre mensagens de encerramento da sala.",
+  "notificationRuleReaction": "Reação",
+  "notificationRuleSuppressEditsDescription": "Ocultar notificações de edição de mensagens.",
+  "notificationRuleCallDescription": "Notificar o utilizador sobre mensagens de chamada.",
+  "notificationRuleEncryptedRoomOneToOne": "Sala individual encriptada",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Notificar o utilizador de mensagens em salas individuais encriptadas.",
+  "notificationRuleMessage": "Mensagem",
+  "unknownPushRule": "Regra push desconhecida '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Dispositivos com verificação cruzada",
+  "shareKeysWithDescription": "Selecione quais os dispositivos em que confia para lhes permitir ler as suas mensagens em conversas encriptadas.",
+  "shareKeysWith": "Partilhar chaves com...",
+  "allDevices": "Todos os dispositivos",
+  "crossVerifiedDevicesIfEnabled": "Dispositivos com verificação cruzada (se ativado)",
+  "verifiedDevicesOnly": "Apenas dispositivos verificados",
+  "optionalMessage": "(Opcional) Mensagem...",
+  "takeAPhoto": "Tirar uma fotografia",
+  "recordAVideo": "Gravar um vídeo",
+  "notSupportedOnThisDevice": "Não suportado neste dispositivo",
+  "enterNewChat": "Entrar numa nova conversa",
+  "commandHint_roomupgrade": "Atualizar esta sala para a versão especificada",
+  "approve": "Aprovar",
+  "youHaveKnocked": "Pediu para entrar",
+  "pleaseWaitUntilInvited": "Aguarde até que alguém da sala o(a) convide.",
+  "countInvited": "{count} convidados",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Lista de verificação",
+  "sentVoiceMessage": "🎙️ {duration} - Mensagem de voz de {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Terminar sessão neste dispositivo",
+  "commandHint_logoutall": "Terminar sessão em todos os dispositivos ativos",
+  "displayNavigationRail": "Mostrar barra de navegação em dispositivos móveis",
+  "customReaction": "Reação personalizada",
+  "moreEvents": "Mais eventos",
+  "declineInvitation": "Recusar convite",
+  "noMessagesYet": "Ainda sem mensagens",
+  "longPressToRecordVoiceMessage": "Mantenha premido para gravar uma mensagem de voz.",
+  "pause": "Pausa",
+  "resume": "Retomar",
+  "removeFromSpaceDescription": "Isto removerá a conversa do espaço, mas continuará a aparecer na sua lista de conversas.",
+  "countChats": "{chats} conversas",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Membro do espaço de {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Membros do espaço de {spaces} podem pedir para entrar",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Votação",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Iniciar votação",
+  "endPoll": "Terminar votação",
+  "editPoll": "Editar votação",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Eliminar votação",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Resultados visíveis",
+  "hiddenPoll": "Votação ocultada",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Tema da votação",
+  "answerOption": "Opção",
+  "addAnswerOption": "Adicionar opção",
+  "allowMultipleAnswers": "Permitir múltiplas opções de voto",
+  "pollHasBeenEnded": "A votação terminou",
+  "startedAPoll": "{senderName} iniciou uma votação",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{1 voto} other{{count} votos}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Os resultados serão visíveis quando a votação terminar",
+  "active": "A decorrer",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Terminado",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Tópico",
+  "replyInThread": "Responder no tópico",
+  "countReplies": "{count, plural, =1{1 resposta} other{{count} respostas}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Voltar à conversa principal",
+  "saveChanges": "Guardar alterações",
+  "createSticker": "Criar autocolante ou emote",
+  "useAsSticker": "Utilizar como autocolante",
+  "useAsEmoji": "Utilizar como emote",
+  "stickerPackNameAlreadyExists": "O nome do pacote de autocolantes já existe",
+  "newStickerPack": "Novo pacote de autocolantes",
+  "stickerPackName": "Nome do pacote de autocolantes",
+  "attribution": "Atribuição",
+  "skipChatBackup": "Saltar cópia de segurança",
+  "skipChatBackupWarning": "Tem a certeza? Sem a cópia de segurança, poderá não conseguir aceder às mensagens se mudar de dispositivo.",
+  "changedTheChatDescription": "{username} alterou a descrição da conversa",
+  "changedTheChatName": "{username} alterou o nome da conversa",
+  "noMoreResultsFound": "Não foram encontrados mais resultados",
+  "chatSearchedUntil": "Histórico de conversas pesquisado até {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "URL base da federação",
+  "clientWellKnownInformation": "Informação Client-Well-Known:",
+  "baseUrl": "URL base",
+  "identityServer": "Servidor de identidade:",
+  "versionWithNumber": "Versão: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Registos",
+  "advancedConfigs": "Configurações avançadas",
+  "advancedConfigurations": "Configurações avançadas",
+  "signIn": "Iniciar sessão",
+  "createNewAccount": "Criar nova conta",
+  "signUpGreeting": "O NYX é descentralizado! Escolha o servidor onde pretende criar uma conta!",
+  "signInGreeting": "Já tem uma conta Matrix? Bem-vindo(a) de volta! Escolha o seu servidor principal para iniciar sessão.",
+  "theProcessWasCanceled": "O processo foi cancelado.",
+  "join": "Entrar",
+  "searchOrEnterHomeserverAddress": "Pesquisar ou introduzir o endereço do servidor principal",
+  "matrixId": "ID Matrix",
+  "setPowerLevel": "Definir nível de poder",
+  "makeModerator": "Moderador",
+  "makeAdmin": "Administrador",
+  "removeModeratorRights": "Remover privilégios de moderador",
+  "removeAdminRights": "Remover privilégios de administrador",
+  "powerLevel": "Nível de poder",
+  "setPowerLevelDescription": "O nível de poder define o que os membros podem fazer nesta sala, variando de 0 a 100.",
+  "owner": "Proprietário",
+  "mute": "Silenciar",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Nova conversa",
+  "reset": "Repor",
+  "supportFluffyChat": "Apoiar o NYX",
+  "support": "Suporte",
+  "setLowPriority": "Definir baixa prioridade",
+  "unsetLowPriority": "Remover baixa prioridade",
+  "playSoundOnNotification": "Reproduzir som de notificação",
+  "addTag": "Adicionar etiqueta",
+  "removeTag": "Remover etiqueta",
+  "tagName": "Nome da etiqueta",
+  "createNewTag": "Criar nova etiqueta",
+  "discardEdits": "Tem alterações não guardadas. Deseja descartar a edição?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Ocultar salas que se encontram em espaços",
+  "possibleByYou": "Esta versão não seria possível sem o seu apoio. O NYX continua gratuito, de código aberto e totalmente impulsionado pela comunidade.",
+  "showThumbnailsInTimeline": "Mostrar miniaturas de imagens e vídeos",
+  "appSubtitle": "Comunicação [matrix] segura",
+  "appDescription": "Comunicação encriptada através da rede descentralizada [matrix] de forma simples e acessível a todos.",
+  "interactiveVerification": "Verificação interativa",
+  "interactiveVerificationDescription": "Se você e o contacto estiverem juntos ou comunicarem através de um canal seguro, podem verificar todos os dispositivos em simultâneo comparando números ou emojis de segurança.",
+  "countUnverifiedDevices": "Existem {count} dispositivos não verificados nesta conversa.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Mensagem encriptada",
+  "unencryptedMessage": "Mensagem não encriptada",
+  "publicKey": "Chave pública: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Chave de identidade do dispositivo",
+  "showMore": "Mostrar mais",
+  "showLess": "Mostrar menos",
+  "restoreBootstrapEmptyDevicesDescription": "Introduza a sua frase-passe ou chave de recuperação para verificar este dispositivo e aceder à cópia de segurança de mensagens encriptadas.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Selecione um dos seus outros dispositivos para verificar esta sessão:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Repor conta",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Restaurar identidade criptográfica",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Repor identidade criptográfica",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Configurar identidade criptográfica",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "A aguardar chaves... Mantenha o outro dispositivo ativo.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Nenhuma chave transmitida. Tente novamente.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Desbloquear",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Abrir ficheiro",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Repor a conta tornará as mensagens antigas permanentemente inacessíveis. Todos os dispositivos atuais terão de ser verificados novamente. Realize esta ação apenas se não tiver outros dispositivos para verificar a sessão e tiver perdido a chave de recuperação e a frase-passe!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "O NYX utiliza encriptação de ponta a ponta. Para evitar perder mensagens, escolha uma frase-passe forte para proteger a sua identidade criptográfica e a cópia de segurança de mensagens encriptadas.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Nova frase-passe",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Repetir frase-passe",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "As frases-passe coincidem",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Pelo menos 12 carateres de comprimento.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Contém letras maiúsculas e minúsculas.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Contém carateres especiais.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Contém um número.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Anote a sua chave de recuperação para poder restaurar as mensagens encriptadas e a identidade criptográfica.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Guardar como ficheiro",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Está pronto(a) para começar!",
+  "noUserKeyFound": "Nenhuma chave de utilizador encontrada",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Dispositivo não assinado",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Dispositivo assinado",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Nenhuma chave curve25519 encontrada",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Mensagem não desencriptável",
+  "knownSince": "Conhecido desde: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "A sua mensagem é encriptada de ponta a ponta e só pode ser lida por este utilizador:",
+  "messageCanOnlyBeReadByUsers": "A sua mensagem é encriptada de ponta a ponta e só pode ser lida por estes utilizadores:",
+  "today": "Hoje",
+  "sending": "A enviar",
+  "generatingThumbnail": "A gerar miniatura",
+  "encrypting": "A encriptar",
+  "uploading": "A carregar",
+  "edited": "(editado)",
+  "couldNotBeSent": "Não foi possível enviar",
+  "yesterday": "Ontem",
+  "resetRecoveryKey": "Repor chave de recuperação",
+  "pleaseEnter6Digits": "Introduza 6 dígitos para ativar o bloqueio da aplicação.",
+  "disableAppLock": "Desativar bloqueio da aplicação",
+  "disableAppLockAreYouSure": "Tem a certeza de que pretende desativar o bloqueio da aplicação?",
+  "enableBiometrics": "Ativar autenticação biométrica",
+  "disableBiometrics": "Desativar autenticação biométrica",
+  "biometricsDescription": "Com a autenticação biométrica, pode desbloquear a aplicação com o seu rosto ou impressão digital. A disponibilidade depende do seu dispositivo.",
+  "useAppLock": "Utilizar bloqueio da aplicação",
+  "unlockWithBiometrics": "Desbloquear com biometria",
+  "resetPin": "Repor PIN",
+  "forwardCountMessages": "Reencaminhar {count, plural, =1{1 mensagem} other{{count} mensagens}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Editar imagem",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Rodar à esquerda",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Rodar à direita",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Espelhar",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Guardar",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Desenhar",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Desfazer",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Limpar",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Borracha",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Cortar",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "A carregar mensagens...",
+  "buildDoesNotSupportFirebase": "Esta versão não suporta o Firebase Cloud Messaging.",
+  "unableToRegisterDeviceForFirebase": "Não foi possível registar o dispositivo para o Firebase Cloud Messaging.",
+  "unifiedPushDistributors": "Distribuidores UnifiedPush:",
+  "doubleTapToReact": "Tocar duas vezes para reagir",
+  "doubleTapToReactDescription": "Tocar duas vezes numa mensagem para reagir em vez de selecionar texto",
+  "doubleTapReaction": "Reação ao duplo toque",
+  "sendingFilesDoNotExit": "A enviar {count} ficheiros... Não saia!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "A comprimir vídeo...",
+  "shareCrashReports": "Partilhar relatórios de falhas",
+  "shareCrashReportsDescription": "Partilhar automaticamente relatórios de falhas com os programadores?",
+  "videoCallsBetaWarning": "As videochamadas são uma funcionalidade em versão beta. Podem ocorrer falhas ou comportamento inesperado. Agradecemos o seu feedback.",
+  "callNotAllowed": "Apenas os administradores ou o proprietário podem iniciar uma chamada nesta sala. Peça-lhes que a iniciem primeiro para poder entrar.",
+  "countActiveCallMembers": "{count} membros ativos na chamada",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Entrar na chamada",
+  "noDevicesFound": "Nenhum dispositivo encontrado",
+  "incomingCall": "Chamada recebida",
+  "waitingForParticipant": "A aguardar participante...",
+  "decline": "Recusar",
+  "videoCall": "Videochamada",
+  "voiceCall": "Chamada de áudio",
+  "previewImage": "[Imagem]",
+  "previewVideo": "[Vídeo]",
+  "previewVoice": "[Voz]",
+  "previewAudio": "[Áudio]",
+  "previewFile": "[Ficheiro]",
+  "previewLocation": "[Localização]",
+  "previewSticker": "[Autocolante]",
+  "previewVoiceCall": "[Chamada de voz]",
+  "previewVideoCall": "[Videochamada]",
+  "missedCall": "Chamada perdida",
+  "callBack": "Ligar de volta",
+  "hangUp": "Desligar",
+  "startCall": "Iniciar chamada",
+  "selectCamera": "Selecionar câmara",
+  "selectMicrophone": "Selecionar microfone",
+  "selectSpeaker": "Selecionar altifalante",
+  "toggleMicrophone": "Ativar/desativar microfone",
+  "toggleCamera": "Ativar/desativar câmara",
+  "startScreensharing": "Iniciar partilha de ecrã",
+  "stopScreensharing": "Parar partilha de ecrã",
+  "raiseHand": "Levantar a mão",
+  "stopRaiseHand": "Baixar a mão",
+  "preferSpeaker": "Preferir altifalante",
+  "unexpectedErrorOccurded": "Ocorreu um erro inesperado: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Contas e definições",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Chamada recebida de {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "O servidor respondeu com um erro: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Atualização da versão {version} disponível",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Descarregar",
+  "sharedLocation": "Localização partilhada",
+  "contacts": "Contactos",
+  "groupChats": "Conversas de grupo",
+  "publicGroups": "Grupos públicos",
+  "createGroupChat": "Criar conversa de grupo",
+  "inviteFriends": "Convidar amigos",
+  "emptyChatsTitle": "Sem conversas",
+  "emptyChatsDesc": "Toque no ícone + no canto superior direito para iniciar uma nova conversa",
+  "emptyUsersTitle": "Ainda não tem mensagens diretas",
+  "emptyUsersDesc": "Pode remover a seleção do filtro para ver outras conversas",
+  "emptyUnreadTitle": "Sem mensagens não lidas",
+  "emptyUnreadDesc": "Pode adicionar conversas aos favoritos nas definições de conversa",
+  "emptyGroupChatsTitle": "Ainda não entrou em nenhuma conversa de grupo",
+  "emptyGroupChatsDesc": "Pode remover a seleção do filtro para ver outras conversas",
+  "emptyPinnedTitle": "Não tem conversas fixadas",
+  "emptyPinnedDesc": "Pode fixar conversas nas definições de conversa",
+  "startChat": "Iniciar conversa",
+  "newGroupChat": "Novo grupo",
+  "invitedYouToJoinGroup": "{username} convidou-o(a) a entrar no grupo",
+  "joinGroupBannerTitle": "Entre no grupo e mantenha-se em contacto",
+  "joinGroupBannerDesc": "As conversas de grupo organizam os membros por tópicos. Todos os grupos a que se juntar aparecerão aqui.",
+  "certifiedGroups": "{count} grupos certificados",
+  "membersCount": "{count} membros",
+  "recentlyOnline": "Online recentemente",
+  "lastSeenLongAgo": "Visto por último há muito tempo",
+  "appearance": "Aspeto",
+  "language": "Idioma",
+  "selectLanguage": "Selecionar idioma",
+  "privacyAndSecurity": "Privacidade e segurança",
+  "qrScanRecognizing": "A reconhecer...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Tempo limite de reconhecimento excedido, tente novamente",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "Código QR não reconhecido",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "O conteúdo do código QR está vazio",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Falha no reconhecimento",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "Código QR inválido",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Este é o código QR da sua própria conta",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Recusar entrada no grupo",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Tem a certeza de que deseja recusar o convite para o grupo {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Câmara",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Fotografias e vídeos",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Ficheiro",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Online",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Offline",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Mensagem eliminada",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Retirou uma mensagem",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} retirou uma mensagem",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Ficheiro guardado",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Guardado na galeria",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Não foi possível abrir o ficheiro",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Ficheiro desconhecido",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Videochamada perdida",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Chamada cancelada",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} pessoas na chamada",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Entrar",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "A aguardar que outros entrem...",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Apenas administradores da sala podem iniciar chamadas nesta sala",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Remove a conversa da lista sem sair da conversa. Reaparecerá automaticamente quando receber uma nova mensagem.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Depois de dissolver o grupo, todos os membros serão removidos e esta ação não poderá ser desfeita.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Traduzir",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "A traduzir...",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Falha na tradução, tente novamente mais tarde",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Chamada em curso",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Apresentado enquanto uma chamada de áudio ou vídeo está ativa",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Toque para voltar à chamada",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "A outra parte cancelou a chamada",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Videochamada cancelada",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "A outra parte cancelou a videochamada",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Voltar",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "A chamar...",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "A ligar...",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Chamada terminada",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "A chamada falhou",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Altifalante",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Auscultador",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Inverter",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Vídeo",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Microfone desativado",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Terminar",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Eu",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Efetuada",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} segundos",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} minutos",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} horas e {minutes} minutos",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Alterar o meu cargo",
+  "permissions": "Permissões",
+  "changeMyRoleConfirmMessage": "Está a despromover-se. Esta alteração não pode ser desfeita. Se for o último utilizador privilegiado no grupo, deixará de poder recuperar as permissões.",
+  "demoteToAdmin": "Despromover a administrador",
+  "demoteToModerator": "Despromover a moderador",
+  "demoteToMember": "Despromover a membro",
+  "addAdmin": "Adicionar administrador",
+  "addModerator": "Adicionar moderador",
+  "groupAdmins": "Administradores do grupo",
+  "groupModerators": "Moderadores do grupo",
+  "addAdminHelp": "Pode adicionar administradores para o(a) ajudarem a gerir a comunidade.",
+  "addModeratorHelp": "Pode adicionar moderadores para o(a) ajudarem a gerir a comunidade.",
+  "noCandidatesToAdd": "Sem membros disponíveis para adicionar",
+  "setAsAdminSuccess": "Definido como administrador",
+  "setAsModeratorSuccess": "Definido como moderador",
+  "searchMembers": "Pesquisar membros",
+  "noResults": "Sem resultados",
+  "noResultsDescription": "Não foram encontrados resultados relacionados. Tente pesquisar novamente.",
+  "removeAdminConfirm": "Tem a certeza de que pretende retirar os privilégios de administrador a este utilizador?",
+  "removeModeratorConfirm": "Tem a certeza de que pretende retirar os privilégios de moderador a este utilizador?",
+  "removeAdminSuccess": "Privilégios de administrador removidos",
+  "removeModeratorSuccess": "Privilégios de moderador removidos",
+  "manageMembers": "Gerir membros",
+  "inviteMembers": "Convidar membros",
+  "removeMembers": "Remover membros",
+  "banMembers": "Banir membros",
+  "editCommunity": "Editar comunidade",
+  "changeCommunityName": "Alterar nome da comunidade",
+  "changeCommunityAvatar": "Alterar avatar da comunidade",
+  "changeCommunityDescription": "Alterar biografia da comunidade",
+  "messagesAndContent": "Mensagens e conteúdo",
+  "removeMessages": "Remover mensagens",
+  "adminsOnly": "Apenas administradores",
+  "adminsAndModerators": "Administradores e moderadores",
+  "resetPermissions": "Repor permissões",
+  "resetPermissionsConfirmMessage": "Tem a certeza de que pretende restaurar todas as permissões para as predefinições?",
+  "changeSettings": "Alterar definições",
+  "permissionChangedFromTo": "{sender} alterou {permission} de {from} para {to}",
+  "changedUserRoleTo": "{username} definiu {target} como {role}",
+  "viewInChat": "Ver na conversa",
+  "playbackSpeed": "Velocidade de reprodução",
+  "normalSpeed": "Normal",
+  "qrScanHint": "Posicione o código QR dentro da moldura para ler",
+  "torch": "Lanterna",
+  "remarkVisibleOnlyToYou": "Apenas visível para si",
+  "pollVotes": "{count} votos",
+  "totalPollVotes": "Total de {count} votos",
+  "scanQrMobileOnly": "A leitura de códigos QR é suportada apenas em dispositivos móveis",
+  "publicGroupTech": "Tecnologia e serviços de desenvolvimento",
+  "publicGroupMarketing": "Tráfego e publicidade de marketing",
+  "publicGroupWeb3": "Web3 e negociação de ativos virtuais",
+  "publicGroupCrossBorder": "Serviços transfronteiriços e ativos virtuais",
+  "publicGroupFreelance": "Comércio geral / freelancer",
+  "blockUsers": "Bloquear utilizadores",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Ativado",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Código de bloqueio de ecrã",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Palavra-passe de início de sessão",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Chave de recuperação",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Permitir armazenamento de chaves",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Guarde a sua identidade criptográfica e as chaves de mensagem em segurança no servidor, para poder ver o seu histórico de mensagens em qualquer novo dispositivo.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Configurar recuperação",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Se perder todos os seus dispositivos existentes, utilize a chave de recuperação para restaurar a sua identidade criptográfica e histórico de mensagens",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Definir chave de recuperação",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Guarde a sua identidade criptográfica e as chaves de mensagem em segurança no servidor. Assim, poderá ver o seu histórico de mensagens em qualquer novo dispositivo.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Gerar chave de recuperação",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Clique para copiar a chave de recuperação",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Guardar chave de recuperação",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Guarde esta chave de recuperação num local seguro, como um gestor de palavras-passe, notas encriptadas ou um cofre físico.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Guardar chave de recuperação",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Chave de recuperação copiada",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Chave de recuperação guardada",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "A gerar chave de recuperação...",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Partilhar estado online",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Se desativado, não poderá enviar ou receber confirmações de leitura nem notificações de escrita",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Otimizar para carregamento",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Moderação de conteúdo e segurança",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Ocultar avatar em pedidos de convite para salas",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Mostrar multimédia na linha temporal",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Ocultar sempre",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "Em salas privadas",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Mostrar sempre",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Todos",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Apenas menções",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Conversa de grupo",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Conversa privada",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Notificar-me em conversas de grupo",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Notificar-me em conversas privadas",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Todas as mensagens",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Apenas menções e palavras-chave",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "O servidor não suporta esta opção em conversas de grupo encriptadas, pelo que poderá não receber notificações em alguns grupos",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Definições independentes por conversa",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Ativar esta opção irá substituir as suas definições predefinidas.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Notificar-me nesta conversa",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Apenas menções e palavras-chave",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "O seu servidor principal não suporta esta opção em salas encriptadas, pelo que poderá não receber notificações em algumas salas.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Permitir definições personalizadas",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Notificar-me neste dispositivo",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Menções",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Notificar-me quando mencionado(a) num grupo",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Mais definições",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Palavra-passe antiga",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Código de bloqueio",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Ativar bloqueio",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Introduza um código de bloqueio",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Introduza novamente o novo código de bloqueio",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Introduza o código de bloqueio original",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Palavra-passe original incorreta, tente novamente",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Alterar código de bloqueio",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Aviso: Se esquecer o seu código de bloqueio, terá de reinstalar a aplicação.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Os códigos introduzidos não coincidem",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Código de bloqueio ativado",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Código de bloqueio desativado",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Este dispositivo",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Terminar sessão em todos os outros dispositivos",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Terminar sessão em todos os dispositivos exceto este.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Sessões ativas",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Eliminar dispositivo",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Tem a certeza do dispositivo {name}?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "ID do dispositivo",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Último início de sessão",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "Endereço IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Cliente",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "ID do cliente",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Nome",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Remover dispositivo",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "há {time}",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "minutos",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "horas",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "dias",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Bem-vindo(a) ao seu {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "Bem-vindo(a) ao {appName}, a aplicação de mensagens rápida e minimalista.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Criar conta",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Atualização pronta",
+  "updateReadyMessage": "Otimizamos algumas funcionalidades. Reinicie a aplicação para aplicar a atualização.",
+  "restartNow": "Reiniciar agora",
+  "noPublicGroupsYet": "Ainda não há grupos certificados"
+}

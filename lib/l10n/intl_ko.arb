@@ -1,0 +1,4053 @@
+{
+  "@@locale": "ko",
+  "about": "정보",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "수락",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username}님이 초대를 수락했습니다.",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "계정",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username}님이 종단간 암호화를 활성화했습니다.",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "이메일 추가",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "관리자",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "별칭",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "모두",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName}님이 통화에 응답했습니다.",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "누구나 참여할 수 있습니다.",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "앱 잠금",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "보관함",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "게스트 참여가 허용되나요?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "확실한가요?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "정말 로그아웃하시겠습니까?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "서명하려면 비밀번호 또는 보안 복구 키를 입력하세요.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "{username}님의 인증 요청을 수락하시겠습니까?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "서버 지원 로그인 유형:\\n{serverVersions}\\n하지만 이 앱은 다음만 지원합니다:\\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "채팅에서 차단",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "멤버 차단",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "차단됨",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username}님이 {targetName}님을 차단했습니다.",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "기기 차단",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "차단됨",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "취소",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "기기 이름 변경",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username}님이 채팅 아바타를 변경했습니다.",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username}님이 채팅 권한을 변경했습니다.",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username}님이 표시 이름을 '{displayname}'(으)로 변경했습니다.",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username}님이 게스트 액세스 규칙을 변경했습니다.",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username}님이 게스트 액세스 규칙을 다음으로 변경했습니다: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username}님이 기록 가시성을 변경했습니다.",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username}님이 기록 가시성을 다음으로 변경했습니다: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username}님이 참여 규칙을 변경했습니다.",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username}님이 참여 규칙을 다음으로 변경했습니다: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username}님이 프로필 아바타를 변경했습니다.",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username}님이 방 별칭을 변경했습니다.",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username}님이 방 초대 링크를 변경했습니다.",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "비밀번호 변경",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "홈서버 변경",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "테마 변경",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "그룹 이름 변경",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "아바타 변경",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "암호화가 손상되었습니다.",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "채팅",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "채팅 백업",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "채팅 상세 정보",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "채팅 목록",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrong_password": "강력한 비밀번호를 선택하세요.",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "보관함 비우기",
+  "close": "닫기",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "이 방에서 특정 사용자 차단",
+  "@commandHint_ban": {
+    "type": "String"
+  },
+  "commandHint_html": "HTML로 포맷된 텍스트 전송",
+  "@commandHint_html": {
+    "type": "String"
+  },
+  "commandHint_invite": "이 방으로 사용자 초대",
+  "@commandHint_invite": {
+    "type": "String"
+  },
+  "commandHint_join": "특정 방에 참여",
+  "@commandHint_join": {
+    "type": "String"
+  },
+  "commandHint_kick": "이 방에서 특정 사용자 내보내기",
+  "@commandHint_kick": {
+    "type": "String"
+  },
+  "commandHint_leave": "이 방 나가기",
+  "@commandHint_leave": {
+    "type": "String"
+  },
+  "commandHint_me": "자기 자신 설명하기",
+  "@commandHint_me": {
+    "type": "String"
+  },
+  "commandHint_myroomavatar": "mxc-uri를 사용하여 이 방에서 내 아바타 설정",
+  "@commandHint_myroomavatar": {
+    "type": "String"
+  },
+  "commandHint_myroomnick": "이 방에서 내 닉네임 설정",
+  "@commandHint_myroomnick": {
+    "type": "String"
+  },
+  "commandHint_op": "사용자 권한 수준 설정 (기본값: 50)",
+  "@commandHint_op": {
+    "type": "String"
+  },
+  "commandHint_plain": "일반 텍스트 전송",
+  "@commandHint_plain": {
+    "type": "String"
+  },
+  "commandHint_react": "메시지에 리액션 전송",
+  "@commandHint_react": {
+    "type": "String"
+  },
+  "commandHint_send": "텍스트 전송",
+  "@commandHint_send": {
+    "type": "String"
+  },
+  "commandHint_unban": "이 방에서 사용자의 차단 해제",
+  "@commandHint_unban": {
+    "type": "String"
+  },
+  "commandInvalid": "잘못된 명령어입니다.",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} 명령어가 유효하지 않습니다.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    }
+  },
+  "compareEmojiMatch": "이모지 비교",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "아래 숫자들을 비교하세요.",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "채팅 구성",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "연락처가 그룹에 초대되었습니다.",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "서버 관리자에게 콘텐츠가 신고되었습니다.",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "클립보드에 복사되었습니다.",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "복사",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "클립보드에 복사",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "메시지를 복호화할 수 없습니다: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "메시지 복호화에 일시적으로 실패했습니다. 나중에 다시 시도하세요.",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "참가자 {count}명",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "만들기",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username}님이 채팅을 만들었습니다.",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "현재 활동 중",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "다크 모드",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "이 작업은 계정을 영구적으로 비활성화하며 되돌릴 수 없습니다. 정말 진행하시겠습니까?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "새 사용자의 기본 권한 수준",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "삭제",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "계정 삭제",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "메시지 삭제",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "모든 메시지 삭제",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "채팅 기록 지우기",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "이 채팅의 모든 메시지를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "이 채팅 기록을 지우시겠습니까? 이 작업은 되돌릴 수 없습니다.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "자동 삭제 활성화",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "일정 시간이 지나면 새 메시지가 자동으로 삭제됩니다.",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1일",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1주일",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1개월",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "비활성화",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "기기",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "1:1 채팅",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "표시 이름이 변경되었습니다.",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "파일 다운로드",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "편집",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "차단된 서버 편집",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "표시 이름 편집",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "방 별칭 편집",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "방 아바타 편집",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "이미 존재하는 이모티콘입니다!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "잘못된 이모티콘 단축 코드입니다!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "이모티콘 단축 코드",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "빈 채팅",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "전체 이모티콘 활성화",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "암호화 활성화",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "암호화를 활성화하면 나중에 끌 수 없습니다. 정말 활성화하시겠습니까?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "암호화됨",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "암호화",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "암호화가 활성화되지 않았습니다.",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName}님이 통화를 종료했습니다.",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "이메일 주소를 입력하세요.",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "글꼴 크기",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "전달",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "전달됨",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "참여 시점부터",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "초대 시점부터",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "그룹",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "공개 그룹입니다.",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "그룹",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "{displayname}님과의 그룹",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "게스트는 금지되어 있습니다.",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "게스트가 참여할 수 있습니다.",
+  "hasWithdrawnTheInvitationFor": "{username}님이 {targetName}님에 대한 초대를 철회했습니다.",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "도움말",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "알 수 없는 이벤트 숨기기",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "무시",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "무시된 사용자",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "링크를 클릭했습니다.",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "잘못된 비밀번호 또는 키입니다.",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "연락처 초대",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "{groupName} 그룹에 연락처 초대",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "초대됨",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username}님이 {targetName}님을 초대했습니다.",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "초대된 사용자만",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username}님이 NYX로 초대했습니다.\\n1. NYX 설치: https://fluffychat.im\\n2. 가입 또는 로그인\\n3. 초대 링크 열기:\\n{link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "입력 중...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username}님이 채팅에 참여했습니다.",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "방 참여",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "방 주소 입력",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "예시: !roomname:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "잘못된 주소입니다!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "방을 찾을 수 없습니다!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "방 참여 실패",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "방을 찾았습니다.",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "계속",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "주제가 없습니다...",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "참여 신청",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "방 입장",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "소개",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username}님이 {targetName}님을 내보냈습니다.",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username}님이 {targetName}님을 내보내고 차단했습니다.",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "채팅에서 내보내기",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "이 그룹 채팅에서 강퇴되었습니다.",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "멤버 제거",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "최근 활동: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "나가기",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "채팅을 나갔습니다.",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "라이트 모드",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "참가자 {count}명 더 불러오기",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "불러오는 중... 잠시만 기다려주세요.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "더 보기...",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "로그인",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "{homeserver}에 로그인",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "로그아웃",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "NYX 계정에서 로그아웃하시겠습니까?",
+  "mention": "멘션",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "메시지",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "모더레이터",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "채팅 알림 끄기",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "새 채팅",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 NYX의 새 메시지",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "새로운 인증 요청!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "다음",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "아니요",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "서버와 연결할 수 없습니다.",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "이모티콘을 찾을 수 없습니다. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "공개 방에는 암호화를 활성화할 수 없습니다.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "이 기기에는 Firebase Cloud Messaging 서비스가 없는 것 같습니다. NYX 알림을 위해 ntfy 사용을 강력히 권장합니다.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "아직 비밀번호 복구 방법을 추가하지 않았습니다.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "권한이 없습니다.",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "방을 찾을 수 없습니다...",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "알림",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "사용자 {count}명이 입력 중...",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "확인",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "온라인 키 백업이 활성화되었습니다.",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "앗! 알림을 설정하는 동안 오류가 발생했습니다.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "앗, 무언가 잘못되었습니다...",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "메시지를 읽으려면 앱을 여세요.",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "카메라 열기",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "또는",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "참가자",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "비밀번호 또는 복구 키",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "비밀번호",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "비밀번호를 잊으셨나요?",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "비밀번호가 변경되었습니다.",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "비밀번호 복구",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "고정",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "비밀번호를 선택하세요.",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "이메일에 포함된 링크를 클릭한 후 계속 진행하세요.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "비밀번호를 입력하세요.",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "PIN 번호를 입력하세요.",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "잠금 비밀번호를 입력하세요.",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "사용자 이름을 입력하세요.",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "웹의 안내를 따른 후 '다음'을 누르세요.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "개인정보 보호",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "공개 방",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "사유",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username}님이 이벤트를 삭제했습니다.",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "메시지 삭제",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "거절",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username}님이 초대를 거절했습니다.",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "제거",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "다른 모든 기기 제거",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "채팅방 차단 해제",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "내 아바타 제거",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "더 최신 버전으로 방 교체",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "답장",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "메시지 신고",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "방이 업그레이드되었습니다.",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "방 버전",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "파일 저장",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "검색",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "보안",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "전송",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "메시지 보내기",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "텍스트로 전송",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "오디오 보내기",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "파일 보내기",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "이미지 보내기",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "메시지 보내기",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "동영상 보내기",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username}님이 파일을 보냈습니다.",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username}님이 오디오를 보냈습니다.",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username}님이 사진을 보냈습니다.",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username}님이 스티커를 보냈습니다.",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username}님이 동영상을 보냈습니다.",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName}님이 통화 정보를 보냈습니다.",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "기본 별칭으로 설정",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "상태 설정",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "설정",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "공유",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username}님이 위치를 공유했습니다.",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "건너뛰기",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "소스 코드",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName}님이 통화를 시작했습니다.",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "상태",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "오늘 하루는 어떠신가요?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "제출",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "동기화 중... 잠시만 기다려주세요.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "시스템 테마",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "일치하지 않습니다.",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "일치합니다.",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "요청이 너무 많습니다. 나중에 다시 시도하세요!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "다시 전송 시도",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username}님이 {targetName}님의 차단을 해제했습니다.",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "기기 차단 해제",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "알 수 없는 기기",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "알 수 없는 암호화 알고리즘",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "알 수 없는 이벤트: '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "채팅 알림 켜기",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "고정 해제",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username}님 외 {count}명이 입력 중...",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username}님과 {username2}님이 입력 중...",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username}님이 입력 중...",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username}님이 채팅을 나갔습니다.",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username}님이 {type} 이벤트를 보냈습니다.",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "인증됨",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "사용자 인증",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "이 사용자 인증",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "안전을 위해 대면 만남 등 안전한 채널을 통해 이모지와 형식을 비교하여 이 사용자를 인증하세요.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "상대방 대기 중",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "상대방이 수락한 후 인증을 계속할 수 있습니다.",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "이모지 비교",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "이모지 순서가 정확히 일치하는지 비교하세요.",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "다른 기기에 표시된 이모지와 아래 이모지가 일치하는지 확인하세요.",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "인증 요청",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "보안을 강화하기 위해 상대방이 인증을 요청했습니다. 비교할 이모지 시퀀스가 표시됩니다.",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "인증 성공",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "이제 이 사용자의 신원을 신뢰하고 통화나 메시지를 보낼 수 있습니다.",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "인증 실패",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "요청이 만료되었거나 거부되었거나 데이터가 일치하지 않습니다.",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "완료",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "다시 시도",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "이 사용자를 인증하시겠습니까?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "이 사용자에게 보내는 첫 번째 메시지입니다. 보안을 위해 신원을 먼저 인증하거나 바로 메시지를 보낼 수 있습니다.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "지금 인증",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "바로 보내기",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "메시지 알림",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "메시지 알림",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "소개 추가",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "새 아바타 설정",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "멤버",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "역할 및 권한",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "개인 프로필",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "비고 / 닉네임 설정",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "고정된 메시지",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "고정된 메시지 {count}개",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "고정된 메시지가 없습니다.",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "동의",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "미디어 및 파일",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "투표",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "커뮤니티 나가기",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "그룹 채팅 삭제",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "미디어",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "미디어 없음",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "파일 없음",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "파일 다운로드 중...",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "연락처에 추가",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "연락처 추가",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "연락처 삭제",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "소개",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "소개 없음",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "사용자 차단",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "사용자 차단 해제",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "통화",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "인증 시작",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "인증 성공!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "다른 계정 인증",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "채팅 기록 가시성",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "모든 참가자에게 표시됨",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "모든 사람에게 표시됨",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "음성 메시지",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "상대방의 요청 수락 대기 중...",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "상대방의 이모지 수락 대기 중...",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "상대방의 숫자 수락 대기 중...",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "경고!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "이메일이 전송되었습니다.",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "누가 어떤 작업을 수행할 수 있는지",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "이 그룹에 참여할 수 있는 사람",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "이 항목을 신고하려는 이유는 무엇인가요?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "이 주소를 사용하여 비밀번호를 복구할 수 있습니다.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "메시지 입력...",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "예",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "나",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "더 이상 이 채팅에 참여하지 않습니다.",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "이 채팅에서 차단되었습니다.",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "내 공개 키",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "스페이스에 추가",
+  "obtainingLocation": "위치 가져오는 중...",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1}은(는) Matrix 서버가 아닙니다. {server2}(으)로 시도하시겠습니까?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "위치 권한이 거부되었습니다. 위치 공유를 허용해 주세요.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "위치 서비스가 비활성화되어 있습니다. 활성화해 주세요.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "위치 가져오기 오류: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "새 스페이스 만들기",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "URI를 열 수 없습니다: {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "움직이는 스티커 및 이모지 자동 재생",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholders": {
+      "placeholder": {}
+    }
+  },
+  "spaceName": "스페이스 이름",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "공개 스페이스입니다.",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "위치 공유",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "지도에서 열기",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Enter 키로 전송",
+  "scanQrCode": "QR 코드 스캔",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR 코드",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "QR 코드 공유",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "하나의 클라이언트에서 로그아웃되었습니다.",
+  "removeFromBundle": "이 번들에서 제거",
+  "unverified": "미인증",
+  "repeatPassword": "비밀번호 확인",
+  "addAccount": "계정 추가",
+  "editBundlesForAccount": "이 계정의 번들 편집",
+  "addToBundle": "번들에 추가",
+  "bundleName": "번들 이름",
+  "link": "링크",
+  "sender": "보낸 사람",
+  "openGallery": "갤러리 열기",
+  "messageInfo": "메시지 정보",
+  "time": "시간",
+  "removeFromSpace": "이 스페이스에서 제거",
+  "commandHint_discardsession": "세션 파기",
+  "@commandHint_discardsession": {
+    "type": "String"
+  },
+  "commandHint_dm": "1:1 채팅 생성\\n암호화를 비활성화하려면 --no-encryption 플래그 사용",
+  "@commandHint_dm": {
+    "type": "String"
+  },
+  "commandHint_clearcache": "캐시 지우기",
+  "@commandHint_clearcache": {
+    "type": "String"
+  },
+  "commandHint_create": "빈 그룹 채팅 생성\\n암호화를 비활성화하려면 --no-encryption 플래그 사용",
+  "@commandHint_create": {
+    "type": "String"
+  },
+  "markAsRead": "읽은 상태로 표시",
+  "reportUser": "사용자 신고",
+  "reactedWith": "{sender}님이 {reaction}(으)로 반응했습니다.",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "이 이벤트의 고정을 영구적으로 해제하시겠습니까?",
+  "pinMessage": "방에 고정",
+  "emojis": "이모지",
+  "unsupportedAndroidVersionLong": "이 기능은 더 최신 Android 버전이 필요합니다.",
+  "unsupportedAndroidVersion": "지원되지 않는 Android 버전",
+  "youRejectedTheInvitation": "초대를 거절했습니다.",
+  "youJoinedTheChat": "채팅에 참여했습니다.",
+  "youBannedUser": "{user}님을 차단했습니다.",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 {user}님이 초대했습니다.",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 {user}님을 초대했습니다.",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 {user}님을 내보냈습니다.",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "{user}님의 차단을 해제했습니다.",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 초대를 수락했습니다.",
+  "youHaveWithdrawnTheInvitationFor": "{user}님에 대한 초대를 철회했습니다.",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 {user}님을 내보내고 차단했습니다.",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Apple 키체인에 저장",
+  "storeInAndroidKeystore": "Android 키스토어에 저장",
+  "storeSecurlyOnThisDevice": "이 기기에 안전하게 저장",
+  "users": "사용자",
+  "countFiles": "파일 {count}개",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "백업에서 복원",
+  "dehydrate": "세션 내보내기 및 기기 지우기",
+  "dehydrateWarning": "이 작업은 되돌릴 수 없습니다. 백업이 안전하게 저장되었는지 확인하세요.",
+  "user": "사용자",
+  "userNotFound": "사용자를 찾을 수 없습니다.",
+  "custom": "사용자 지정",
+  "confirmMatrixId": "계정을 삭제하려면 Matrix ID를 확인해주세요.",
+  "supposedMxid": "이 값이어야 합니다: {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "그룹으로 표시",
+  "commandHint_markasdm": "Matrix ID를 1:1 채팅으로 표시",
+  "whyIsThisMessageEncrypted": "이 메시지를 읽을 수 없는 이유는 무엇인가요?",
+  "noKeyForThisMessage": "이 기기에 로그인하기 전에 메시지가 전송되었기 때문일 수 있습니다.\\n\\n또는 발신자가 사용자의 기기를 차단했거나 네트워크 문제가 발생했을 수 있습니다.\\n\\n다른 세션에서 읽고 계신가요? 그렇다면 키를 가져오세요! 설정 > 기기로 이동하여 기기가 인증되었는지 확인하세요.",
+  "newSpace": "새 스페이스",
+  "doNotShowAgain": "다시 보지 않기",
+  "googlyEyesContent": "{senderName}님이 땡글이 눈을 보냈습니다.",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "땡글이 눈 보내기",
+  "commandHint_cuddle": "쓰다듬기 보내기",
+  "commandHint_hug": "포옹 보내기",
+  "cuddleContent": "{senderName}님이 쓰다듬어 주었습니다.",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName}님이 안아주었습니다.",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "빈 채팅 (이전 이름: {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "전용 스페이스를 통해 채팅을 그룹화하고 공개 또는 비공개 커뮤니티를 만들 수 있습니다.",
+  "encryptThisChat": "이 채팅 암호화",
+  "disableEncryptionWarning": "보안상의 이유로 이미 암호화된 채팅은 암호화를 끌 수 없습니다.",
+  "sorryThatsNotPossible": "죄송합니다. 불가능합니다...",
+  "report": "신고",
+  "fileIsTooBigForServer": "전송 실패! 서버에서 지원하는 최대 파일 크기는 {max}입니다.",
+  "noOtherDevicesFound": "다른 기기를 찾을 수 없습니다.",
+  "jumpToLastReadMessage": "마지막으로 읽은 메시지로 이동",
+  "readUpToHere": "여기까지 읽음",
+  "jump": "이동",
+  "openLinkInBrowser": "브라우저에서 링크 열기",
+  "fileHasBeenSavedAt": "파일이 저장되었습니다: {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 오 안 됩니다. 문제가 발생했습니다. 원하시면 개발자에게 오류를 신고할 수 있습니다.",
+  "noBackupWarning": "경고! 채팅 백업을 활성화하지 않으면 암호화된 메시지에 대한 액세스 권한을 잃게 됩니다. 로그아웃하기 전에 활성화하는 것을 강력히 권장합니다.",
+  "reopenChat": "채팅 다시 열기",
+  "importEmojis": "이모지 팩 가져오기",
+  "notAnImage": "이미지 파일이 아닙니다.",
+  "importNow": "지금 가져오기",
+  "importFromZipFile": "ZIP 파일에서 가져오기",
+  "replace": "바꾸기",
+  "exportEmotePack": "이모티콘 팩을 ZIP 파일로 내보내기",
+  "sendTypingNotifications": "입력 중 알림 전송",
+  "createGroup": "그룹 채팅 만들기",
+  "shareInviteLink": "초대 링크 공유",
+  "tryAgain": "다시 시도",
+  "chatPermissions": "채팅 권한",
+  "chatDescription": "채팅 설명",
+  "chatDescriptionHasBeenChanged": "채팅 설명이 변경되었습니다.",
+  "noChatDescriptionYet": "아직 채팅 설명이 없습니다.",
+  "invalidServerName": "잘못된 서버 이름",
+  "redactMessageDescription": "메시지가 모든 채팅 참가자에게서 삭제됩니다. 이 작업은 되돌릴 수 없습니다.",
+  "optionalRedactReason": "(선택 사항) 메시지 삭제 사유...",
+  "setChatDescription": "채팅 설명 설정",
+  "setColorTheme": "색상 테마 설정:",
+  "invite": "초대",
+  "addMembers": "멤버 추가",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "링크로 초대",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "이 목록은 관리자에게만 표시됩니다.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "이 채팅의 연락처",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "이 그룹에는 초대 링크가 없습니다.",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "메시지 스타일:",
+  "redactedBy": "{username}님에 의해 삭제됨",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "{username}님에 의해 삭제됨. 사유: '{reason}'",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 그룹 채팅으로 초대",
+  "emoteKeyboardNoRecents": "최근 이모지가 여기에 표시됩니다...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "잘못된 입력입니다!",
+  "wrongPinEntered": "잘못된 PIN 번호입니다! {seconds}초 후에 다시 시도하세요...",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user}님이 방에 노크했습니다.",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "0보다 큰 숫자를 입력하세요.",
+  "banUserDescription": "이 사용자는 채팅방에서 차단되며 차단이 해제될 때까지 돌아올 수 없습니다.",
+  "removeDevicesDescription": "이 기기에서 로그아웃되며 더 이상 알림을 받지 않습니다.",
+  "unbanUserDescription": "차단이 해제되면 사용자가 채팅에 다시 참여할 수 있습니다.",
+  "pushNotificationsNotAvailable": "푸시 알림을 사용할 수 없습니다.",
+  "makeAdminDescription": "이 사용자를 관리자로 지정하면 본인과 동일한 권한을 갖게 되므로 나중에 권한을 회수하지 못할 수 있습니다.",
+  "archiveRoomDescription": "채팅이 보관함으로 이동하고 다른 멤버들은 회원님이 방을 나간 것으로 보게 됩니다.",
+  "learnMore": "자세히 알아보기",
+  "roomUpgradeDescription": "현재 채팅방이 재구축되어 새 버전으로 업그레이드됩니다. 모든 멤버에게 방 변경 사항이 알림됩니다.",
+  "kickUserDescription": "사용자가 채팅에서 내보내지지만 차단되지는 않습니다. 공개 채팅의 경우 사용자가 다시 들어올 수 있습니다.",
+  "blockListDescription": "성가신 사용자를 차단할 수 있습니다. 차단된 사용자의 메시지나 초대를 받지 않습니다.",
+  "createGroupAndInviteUsers": "그룹 만들기 및 사용자 초대",
+  "blockedUsers": "차단된 사용자",
+  "groupCanBeFoundViaSearch": "검색을 통해 그룹을 찾을 수 있습니다.",
+  "noUsersFoundWithQuery": "'{query}' 검색 결과 사용자를 찾을 수 없습니다. 입력한 내용을 확인하세요.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "차단",
+  "yourGlobalUserIdIs": "전역 사용자 ID: ",
+  "commandHint_sendraw": "원시 JSON 파일 전송",
+  "wrongRecoveryKey": "제공된 복구 키가 올바르지 않은 것 같습니다.",
+  "blockUsername": "사용자 이름 무시",
+  "groupName": "그룹 이름",
+  "databaseMigrationTitle": "데이터베이스 최적화됨",
+  "searchChatsRooms": "검색: #chat, @user...",
+  "databaseMigrationBody": "잠시만 기다려주세요. 시간이 걸릴 수 있습니다.",
+  "thisDevice": "이 기기: ",
+  "publicSpaces": "공개 스페이스",
+  "passwordIsWrong": "입력한 비밀번호가 올바르지 않습니다.",
+  "pleaseEnterYourCurrentPassword": "현재 비밀번호를 입력하세요.",
+  "nothingFound": "아무것도 찾을 수 없습니다...",
+  "newPassword": "새 비밀번호",
+  "passwordsDoNotMatch": "비밀번호가 일치하지 않습니다.",
+  "select": "선택",
+  "addChatOrSubSpace": "채팅 또는 하위 스페이스 추가",
+  "leaveEmptyToClearStatus": "상태를 지우려면 비워두세요.",
+  "joinSpace": "스페이스 참여",
+  "searchForUsers": "검색: @user...",
+  "initAppError": "앱 초기화 오류",
+  "sessionLostBody": "세션이 만료되었습니다. 개발자에게 오류를 신고해 주세요: {url}. 오류: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "앱이 백업에서 세션을 복원하려고 시도하고 있습니다. 신고 링크: {url}. 오류: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "다른 채팅 멤버들이 회원님이 입력 중임을 볼 수 있습니다.",
+  "formattedMessagesDescription": "굵게 표시 등 Markdown 스타일로 포맷된 텍스트 표시.",
+  "verifyOtherDeviceDescription": "다른 기기를 인증하면 키가 교환되어 전체 보안이 향상됩니다. 💪",
+  "canceledKeyVerification": "{sender}님이 키 인증을 취소했습니다.",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "읽음 확인 전송",
+  "formattedMessages": "포맷된 메시지",
+  "verifyOtherDevice": "🔐 다른 기기 인증",
+  "verifyOtherUser": "🔐 다른 사용자 인증",
+  "sendReadReceiptsDescription": "다른 채팅 사용자가 회원님이 메시지를 읽은 시점을 볼 수 있습니다.",
+  "acceptedKeyVerification": "{sender}님이 키 인증을 수락했습니다.",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender}님이 키 인증 준비가 되었습니다.",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender}님이 키 인증을 완료했습니다.",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender}님이 키 인증을 요청했습니다.",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender}님이 키 인증을 시작했습니다.",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "수신 메시지",
+  "stickers": "스티커",
+  "discover": "탐색",
+  "commandHint_ignore": "특정 Matrix ID 무시",
+  "commandHint_unignore": "Matrix ID 무시 해제",
+  "unreadChatsInApp": "{appname}: 읽지 않은 채팅 {unread}개",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "비밀번호를 설정하면 NYX을 열 때 인증이 필요합니다.",
+  "globalChatId": "전역 채팅 ID",
+  "accessAndVisibility": "액세스 및 가시성",
+  "accessAndVisibilityDescription": "채팅에 참여할 수 있는 사람과 검색 가능한지 여부.",
+  "customEmojisAndStickers": "사용자 지정 이모지 및 스티커",
+  "hideRedactedMessages": "삭제된 메시지 숨기기",
+  "passwordRecoverySettings": "비밀번호 복구 설정",
+  "knock": "노크",
+  "noOneCanJoin": "아무도 참여할 수 없음",
+  "knocking": "노크 중",
+  "chatCanBeDiscoveredViaSearchOnServer": "{server} 서버 검색을 통해 채팅을 찾을 수 있습니다.",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "현재 {count}명의 사용자가 차단되어 있습니다.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "누군가 자신의 메시지를 삭제하면 완전히 사라집니다.",
+  "hideInvalidOrUnknownMessageFormats": "알 수 없거나 잘못된 메시지 형식 숨기기",
+  "customEmojisAndStickersBody": "모든 채팅에서 사용할 수 있는 이모지와 스티커를 추가하고 공유하세요.",
+  "usersMustKnock": "사용자가 노크해야 함",
+  "noDatabaseEncryption": "이 플랫폼에서는 데이터베이스 암호화가 지원되지 않습니다.",
+  "publicChatAddresses": "공개 채팅 주소",
+  "createNewAddress": "새 주소 만들기",
+  "searchMore": "더 검색...",
+  "gallery": "갤러리",
+  "files": "파일",
+  "searchIn": "'{chat}'에서 검색...",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "답장하려면 오른쪽에서 왼쪽으로 밀기",
+  "noMoreResultsFound": "더 이상 결과를 찾을 수 없습니다.",
+  "space": "스페이스",
+  "goToSpace": "{space} 스페이스로 이동",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "읽지 않은 상태로 표시",
+  "unread": "읽지 않음",
+  "userLevel": "{level} - 사용자",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - 모더레이터",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - 관리자",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "이 채팅에 다른 사용자 초대",
+  "changeTheVisibilityOfChatHistory": "채팅 기록 가시성 변경",
+  "changeTheCanonicalRoomAlias": "기본 공개 채팅 주소 변경",
+  "sendRoomNotifications": "채팅의 모든 멤버에게 알림 전송",
+  "changeTheDescriptionOfTheGroup": "채팅 설명 변경",
+  "changeGeneralChatSettings": "채팅 일반 설정 변경",
+  "chatPermissionsDescription": "채팅 내 다양한 작업에 필요한 권한 수준을 설정하세요. 0, 50, 100 수준은 각각 일반 사용자, 모더레이터, 관리자에 해당합니다.",
+  "changelog": "변경 로그",
+  "updateInstalled": "🎉 새 버전 {version}(이)가 성공적으로 설치되었습니다!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "전송이 취소되었습니다.",
+  "noChatsFoundHere": "여기에 채팅이 없습니다. 새 채팅을 시작하려면 아래 버튼을 누르세요 ⤵️",
+  "loginWithMatrixId": "Matrix ID로 로그인",
+  "doesNotSeemToBeAValidHomeserver": "올바른 홈서버가 아닌 것 같습니다. URL이 올바른가요?",
+  "calculatingFileSize": "파일 크기 계산 중...",
+  "oneOfYourDevicesIsNotVerified": "연결된 기기 중 하나가 인증되지 않았습니다.",
+  "noticeChatBackupDeviceVerification": "참고: 모든 기기가 채팅 백업에 가입하면 자동으로 인증됩니다.",
+  "continueText": "계속",
+  "blur": "흐림:",
+  "opacity": "불투명도:",
+  "setWallpaper": "배경화면 설정",
+  "manageAccount": "계정 관리",
+  "aboutHomeserver": "{homeserver} 정보",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "버전",
+  "noContactInformationProvided": "서버에서 제공된 연락처 정보가 없습니다.",
+  "contactServerAdmin": "서버 관리자에게 연락",
+  "name": "이름",
+  "surname": "성",
+  "personalIntro": "개인 소개",
+  "nameDescription": "이름을 입력하고 아바타를 추가할 수 있습니다.",
+  "aboutYourselfDescription": "자신에 대한 간단한 설명.",
+  "email": "이메일",
+  "emailForLogin": "NYX 계정에 로그인하는 데 사용됩니다.",
+  "changeEmail": "이메일 변경",
+  "changeEmailDescription": "비밀번호 재설정 및 계정 복구를 위한 복구 이메일을 변경할 수 있습니다.",
+  "bindNewEmail": "새 이메일 연결",
+  "newEmailSameAsOld": "새 이메일은 기존 이메일과 달라야 합니다.",
+  "bindEmail": "이메일 연결",
+  "bindEmailDescription": "필요한 경우 비밀번호 재설정 및 계정 복구를 위해 이메일 주소를 연결할 수 있습니다.",
+  "enterEmail": "이메일 입력",
+  "enterValidEmail": "올바른 이메일 주소를 입력하세요.",
+  "getVerificationCode": "인증 코드 받기",
+  "verificationCode": "인증 코드",
+  "enterVerificationCode": "인증 코드 입력",
+  "enterCodeSentTo": "{email}(으)로 전송된 코드를 입력하세요.",
+  "createPassword": "비밀번호 생성",
+  "createPasswordDescription": "계정 보안을 위해 로그인 비밀번호를 설정하세요.",
+  "enterPassword": "비밀번호 입력",
+  "enterPasswordAgain": "비밀번호 다시 입력",
+  "bind": "연결",
+  "walletAddress": "지갑 주소",
+  "walletForLogin": "NYX 계정에 로그인하는 데 사용됩니다.",
+  "ethereumMainnetAddress": "Ethereum 메인넷 주소",
+  "none": "없음",
+  "username": "사용자 이름",
+  "usernameDescription": "NYX에서 사용할 사용자 이름을 설정할 수 있습니다. 다른 사용자가 회원님을 찾아 메시지를 보낼 수 있습니다.",
+  "usernameRuleHint": "영소문자(a-z), 숫자(0-9), 밑줄(_)을 사용할 수 있습니다. 최소 길이는 5자입니다.",
+  "chatViaLink": "다른 사용자가 이 링크를 사용하여 회원님께 메시지를 보낼 수 있습니다:",
+  "contactServerSecurity": "서버 팀에 연락",
+  "supportPage": "지원 페이지",
+  "serverInformation": "서버 정보:",
+  "website": "웹사이트",
+  "italicText": "기울임꼴 텍스트",
+  "strikeThrough": "취소선",
+  "pleaseFillOut": "이 필드를 채워주세요.",
+  "addLink": "링크 추가",
+  "boldText": "굵은 텍스트",
+  "invalidUrl": "잘못된 URL",
+  "unableToJoinChat": "채팅에 참여할 수 없습니다. 상대방이 채팅을 닫았을 수 있습니다.",
+  "sendImages": "이미지 {count}개 보내기",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "압축",
+  "previous": "이전",
+  "otherPartyNotLoggedIn": "상대방이 현재 로그인하지 않아 메시지를 받을 수 없습니다!",
+  "appWantsToUseForLoginDescription": "이 앱과 웹사이트가 회원님의 데이터를 공유할 수 있도록 허용합니다.",
+  "open": "열기",
+  "appWantsToUseForLogin": "'{server}' 서버로 로그인",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "서버 응답 대기 중...",
+  "synchronizingPleaseWaitCounter": "동기화 중... ({percentage} %)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 새 채팅 요청",
+  "generalNotificationSettings": "일반 알림 설정",
+  "userSpecificNotificationSettings": "사용자별 설정",
+  "notificationRuleMaster": "모든 알림 끄기",
+  "notificationRuleSuppressNotices": "자동 알림 숨기기",
+  "notificationRuleInviteForMe": "나를 위한 초대",
+  "notificationRuleInviteForMeDescription": "방 초대를 받을 때 사용자에게 알립니다.",
+  "notificationRuleMemberEvent": "멤버 이벤트",
+  "notificationRuleMemberEventDescription": "멤버 참여 또는 퇴장 알림 숨기기.",
+  "notificationRuleIsUserMention": "사용자 멘션",
+  "notificationRuleIsUserMentionDescription": "메시지에서 사용자 이름이 언급될 때 알립니다.",
+  "notificationRuleContainsDisplayName": "표시 이름 포함",
+  "notificationRuleIsRoomMention": "방 멘션",
+  "notificationRuleRoomnotifDescription": "메시지에 @room이 포함된 경우 사용자에게 알립니다.",
+  "notificationRuleTombstone": "방 종료",
+  "notificationRuleRoomServerAcl": "방 서버 ACL 목록",
+  "notificationRuleSuppressEdits": "편집 내용 숨기기",
+  "notificationRuleCall": "통화",
+  "notificationRuleRoomOneToOne": "1:1 방",
+  "notificationRuleRoomOneToOneDescription": "1:1 채팅의 새 메시지 알림.",
+  "notificationRuleEncrypted": "암호화됨",
+  "notificationRuleEncryptedDescription": "암호화된 채팅의 새 메시지 알림.",
+  "notificationRuleJitsi": "Jitsi 위젯",
+  "notificationRuleJitsiDescription": "Jitsi 이벤트 알림.",
+  "notificationRuleServerAcl": "서버 ACL 이벤트 숨기기",
+  "notificationRuleServerAclDescription": "서버 권한과 관련된 알림 숨기기.",
+  "deletePushRuleCanNotBeUndone": "알림 규칙을 삭제할 수 없습니다.",
+  "more": "더 보기",
+  "notificationRuleReactionDescription": "반응과 관련된 알림 숨기기.",
+  "notificationRuleMessageDescription": "사용자에게 일반 메시지 알림.",
+  "notificationRuleContainsUserName": "사용자 이름 포함",
+  "otherNotificationSettings": "기타 알림 설정",
+  "notificationRuleContainsUserNameDescription": "메시지에 사용자 이름이 포함된 경우 알립니다.",
+  "notificationRuleIsRoomMentionDescription": "방 멘션에 대해 사용자에게 알립니다.",
+  "contentNotificationSettings": "콘텐츠 알림 설정",
+  "notificationRuleMasterDescription": "다른 모든 규칙을 무시하고 알림을 완전히 끕니다.",
+  "notificationRuleSuppressNoticesDescription": "봇 및 자동 시스템의 알림 숨기기.",
+  "roomNotificationSettings": "방 알림 설정",
+  "notificationRuleRoomServerAclDescription": "서버 액세스 제어 목록(ACL) 알림 숨기기.",
+  "notificationRuleContainsDisplayNameDescription": "메시지에 표시 이름이 포함된 경우 알립니다.",
+  "notificationRuleRoomnotif": "채팅방 알림",
+  "notificationRuleTombstoneDescription": "방 해상도 알림.",
+  "notificationRuleReaction": "반응",
+  "notificationRuleSuppressEditsDescription": "메시지 수정 알림 숨기기.",
+  "notificationRuleCallDescription": "통화와 관련된 알림.",
+  "notificationRuleEncryptedRoomOneToOne": "암호화된 1:1 채팅",
+  "notificationRuleEncryptedRoomOneToOneDescription": "암호화된 1:1 채팅의 새 메시지 알림.",
+  "notificationRuleMessage": "메시지",
+  "unknownPushRule": "알 수 없는 알림 규칙: '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "교차 인증된 기기",
+  "shareKeysWithDescription": "암호화된 메시지를 읽을 수 있는 기기를 지정하세요.",
+  "shareKeysWith": "키 공유...",
+  "allDevices": "모든 기기",
+  "crossVerifiedDevicesIfEnabled": "교차 인증된 기기 (활성화된 경우)",
+  "verifiedDevicesOnly": "인증된 기기만",
+  "optionalMessage": "(선택 사항) 메시지...",
+  "takeAPhoto": "사진 촬영",
+  "recordAVideo": "동영상 녹화",
+  "notSupportedOnThisDevice": "이 기기에서는 지원되지 않습니다.",
+  "enterNewChat": "새 채팅 입력",
+  "commandHint_roomupgrade": "지정한 버전으로 방 업그레이드",
+  "approve": "승인",
+  "youHaveKnocked": "참여 요청이 전송되었습니다.",
+  "pleaseWaitUntilInvited": "방 멤버 중 누군가 초대할 때까지 기다려주세요.",
+  "countInvited": "초대됨 {count}명",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "체크리스트",
+  "sentVoiceMessage": "🎙️ {duration} - {sender}님의 음성 메시지",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "현재 세션에서 로그아웃",
+  "commandHint_logoutall": "활성화된 모든 기기에서 로그아웃",
+  "displayNavigationRail": "모바일에서 내비게이션 바 표시",
+  "customReaction": "사용자 지정 반응",
+  "moreEvents": "이벤트 더 보기",
+  "declineInvite": "초대 거절",
+  "noMessagesYet": "아직 메시지가 없습니다.",
+  "longPressToRecordVoiceMessage": "음성 메시지를 녹음하려면 길게 누르세요.",
+  "pause": "일시 정지",
+  "resume": "재개",
+  "removeFromSpaceDescription": "채팅이 스페이스에서 제거되지만 일반 채팅 목록에는 유지됩니다.",
+  "countChats": "채팅 {chats}개",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "스페이스 멤버: {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "{spaces} 스페이스 멤버는 참여를 요청할 수 있습니다.",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "투표",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "투표 시작",
+  "endPoll": "투표 종료",
+  "editPoll": "투표 편집",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "투표 삭제",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "투표 결과 표시됨",
+  "hiddenPoll": "비공개 투표",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "투표 질문",
+  "answerOption": "답변 옵션",
+  "addAnswerOption": "답변 옵션 추가",
+  "allowMultipleAnswers": "복수 선택 허용",
+  "pollHasBeenEnded": "투표가 종료되었습니다.",
+  "startedAPoll": "{senderName}님이 투표를 시작했습니다.",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "표 {count}개",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "결과는 투표가 종료된 후에 표시됩니다.",
+  "active": "활성",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "종료됨",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "스레드",
+  "replyInThread": "스레드에서 답장",
+  "countReplies": "답글 {count}개",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "메인 채팅으로 돌아가기",
+  "saveChanges": "변경 사항 저장",
+  "createSticker": "스티커 또는 이모지 만들기",
+  "useAsSticker": "스티커로 사용",
+  "useAsEmoji": "이모지로 사용",
+  "stickerPackNameAlreadyExists": "이미 존재하는 스티커 팩 이름입니다.",
+  "newStickerPack": "새 스티커 팩",
+  "stickerPackName": "스티커 팩 이름",
+  "attribution": "귀속",
+  "skipChatBackup": "채팅 백업 건너뛰기",
+  "skipChatBackupWarning": "정말 건너뛰시겠습니까? 백업 없이 기기를 변경하면 메시지를 잃을 수 있습니다.",
+  "changedTheChatDescription": "{username}님이 채팅 설명을 변경했습니다.",
+  "changedTheChatName": "{username}님이 채팅 이름을 변경했습니다.",
+  "chatSearchedUntil": "{time}까지의 채팅 기록을 검색했습니다.",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "페더레이션 기본 URL",
+  "clientWellKnownInformation": "클라이언트 잘 알려진 정보:",
+  "baseUrl": "기본 URL",
+  "identityServer": "아이덴티티 서버:",
+  "versionWithNumber": "버전: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "로그",
+  "advancedConfigs": "고급 설정",
+  "advancedConfigurations": "고급 설정",
+  "signIn": "로그인",
+  "createNewAccount": "새 계정 만들기",
+  "signUpGreeting": "NYX은 탈중앙화되어 있습니다! 가입할 선호하는 서버를 선택하세요.",
+  "signInGreeting": "이미 Matrix 계정이 있으신가요? 환영합니다! 로그인할 서버를 선택하세요.",
+  "theProcessWasCanceled": "프로세스가 취소되었습니다.",
+  "join": "참여",
+  "searchOrEnterHomeserverAddress": "홈서버 주소를 검색하거나 입력하세요.",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "권한 수준 설정",
+  "makeModerator": "모더레이터로 지정",
+  "makeAdmin": "관리자로 지정",
+  "removeModeratorRights": "모더레이터 권한 제거",
+  "removeAdminRights": "관리자 권한 제거",
+  "powerLevel": "권한 수준",
+  "setPowerLevelDescription": "권한 수준은 이 방에서 멤버의 권한을 결정합니다 (0–100).",
+  "owner": "소유자",
+  "mute": "음소거",
+  "@mute": {
+    "description": "Very short string"
+  },
+  "createNewChat": "새 채팅 만들기",
+  "reset": "재설정",
+  "supportFluffyChat": "NYX 지원하기",
+  "support": "지원",
+  "setLowPriority": "낮은 우선순위로 설정",
+  "unsetLowPriority": "낮은 우선순위 해제",
+  "playSoundOnNotification": "알림 시 소리 재생",
+  "addTag": "태그 추가",
+  "removeTag": "태그 제거",
+  "tagName": "태그 이름",
+  "createNewTag": "새 태그 만들기",
+  "discardEdits": "저장되지 않은 변경 사항이 있습니다. 버리시겠습니까?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "스페이스에서 방 숨기기",
+  "possibleByYou": "이 버전은 여러분의 지원 없이는 불가능했습니다. NYX은 무료이며 오픈소스이고 커뮤니티 중심입니다.",
+  "showThumbnailsInTimeline": "타임라인에 이미지 및 동영상 미리보기 표시",
+  "appSubtitle": "웹상의 안전한 커뮤니케이션 [matrix]",
+  "appDescription": "웹상의 암호화되고 탈중앙화된 메시징 [matrix] 간편한 인터페이스.",
+  "interactiveVerification": "대화형 인증",
+  "interactiveVerificationDescription": "대면 또는 안전한 채널을 통해 이모지 식별자를 비교하여 모든 기기를 인증하세요.",
+  "countUnverifiedDevices": "이 채팅에는 인증되지 않은 기기가 {count}개 포함되어 있습니다.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "암호화된 메시지",
+  "unencryptedMessage": "일반 메시지 (암호화되지 않음)",
+  "publicKey": "공개 키: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "기기 신원 키",
+  "showMore": "더 보기",
+  "showLess": "간단히 보기",
+  "restoreBootstrapEmptyDevicesDescription": "기기 인증 및 암호화된 백업에 액세스하려면 비밀번호나 복구 키를 입력하세요.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "세션 인증을 위해 다른 기기 중 하나를 선택하세요:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "계정 재설정",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "암호화 신원 복원",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "암호화 신원 재설정",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "암호화 신원 설정",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "키 대기 중... 다른 기기를 켜둔 상태로 유지하세요.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "전송된 키가 없습니다. 다시 시도하세요.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "잠금 해제",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "파일 열기",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "계정을 재설정하면 이전 메시지를 영구적으로 읽을 수 없게 됩니다. 모든 기기를 다시 인증해야 합니다. 인증할 다른 기기가 없는 경우에만 이 작업을 수행하세요!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "NYX은 종단간 암호화를 사용합니다. 암호화된 신원과 백업을 보호할 강력한 비밀번호를 선택하세요.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "새 비밀번호",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "비밀번호 확인",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "비밀번호가 일치합니다.",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "최소 12자 이상이어야 합니다.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "대소문자를 모두 포함해야 합니다.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "특수 문자를 포함해야 합니다.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "숫자를 하나 이상 포함해야 합니다.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "나중에 메시지와 암호화된 신원을 복구할 수 있도록 복구 키를 적어 두세요.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "파일로 저장",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "시청할 준비가 되었습니다!",
+  "noUserKeyFound": "사용자 키를 찾을 수 없습니다.",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "서명되지 않은 기기",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "서명된 기기",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Curve25519 키를 찾을 수 없습니다.",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "복호화할 수 없는 메시지",
+  "knownSince": "알려진 날짜: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "메시지가 종단간 암호화되어 있어 이 사용자만 읽을 수 있습니다:",
+  "messageCanOnlyBeReadByUsers": "메시지가 종단간 암호화되어 있어 이 사용자들만 읽을 수 있습니다:",
+  "today": "오늘",
+  "sending": "보내는 중",
+  "generatingThumbnail": "미리보기 생성 중",
+  "encrypting": "암호화 중",
+  "uploading": "업로드 중",
+  "edited": "(편집됨)",
+  "couldNotBeSent": "보낼 수 없습니다.",
+  "yesterday": "어제",
+  "resetRecoveryKey": "복구 키 재설정",
+  "pleaseEnter6Digits": "앱 잠금을 설정하려면 6자리 숫자를 입력하세요.",
+  "disableAppLock": "앱 잠금 비활성화",
+  "disableAppLockAreYouSure": "정말 앱 잠금을 비활성화하시겠습니까?",
+  "enableBiometrics": "생체 인식 로그인 활성화",
+  "disableBiometrics": "생체 인식 로그인 비활성화",
+  "biometricsDescription": "지문이나 안면 인식을 사용하여 앱 잠금을 해제할 수 있습니다. 기기 지원 여부에 따라 다릅니다.",
+  "useAppLock": "앱 잠금 사용",
+  "unlockWithBiometrics": "지문 / 얼굴로 잠금 해제",
+  "resetPin": "PIN 재설정",
+  "forwardCountMessages": "메시지 {count}개를 전달하시겠습니까?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "이미지 편집",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "왼쪽으로 회전",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "오른쪽으로 회전",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "대칭 이동",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "저장",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "그리기",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "실행 취소",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "지우기",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "지우개",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "자르기",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "메시지를 불러오는 중...",
+  "buildDoesNotSupportFirebase": "이 빌드는 Firebase 푸시 알림을 지원하지 않습니다.",
+  "unableToRegisterDeviceForFirebase": "Firebase Cloud Messaging에 기기를 등록할 수 없습니다.",
+  "unifiedPushDistributors": "UnifiedPush 배포자:",
+  "doubleTapToReact": "두 번 탭하여 반응",
+  "doubleTapToReactDescription": "텍스트를 선택하는 대신 메시지를 빠르게 두 번 탭하여 반응을 보냅니다.",
+  "doubleTapReaction": "두 번 탭 반응",
+  "sendingFilesDoNotExit": "파일 {count}개를 전송하는 중... 앱을 닫지 마세요!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "동영상 압축 중...",
+  "shareCrashReports": "오류 보고서 공유",
+  "shareCrashReportsDescription": "오류 보고서를 개발자에게 자동으로 보내시겠습니까?",
+  "videoCallsBetaWarning": "영상 통화는 베타 버전이며 버그가 포함될 수 있습니다. 피드백을 주셔서 감사합니다.",
+  "callNotAllowed": "방 관리자나 소유자만 통화를 시작할 수 있습니다.",
+  "countActiveCallMembers": "활성 통화 멤버 {count}명",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "통화 참여",
+  "noDevicesFound": "기기를 찾을 수 없습니다.",
+  "incomingCall": "수신 전화",
+  "waitingForParticipant": "참가자 대기 중...",
+  "decline": "거절",
+  "videoCall": "영상 통화",
+  "voiceCall": "음성 통화",
+  "previewImage": "[이미지]",
+  "previewVideo": "[동영상]",
+  "previewVoice": "[음성 메시지]",
+  "previewAudio": "[오디오]",
+  "previewFile": "[파일]",
+  "previewLocation": "[위치]",
+  "previewSticker": "[스티커]",
+  "previewVoiceCall": "[음성 통화]",
+  "previewVideoCall": "[영상 통화]",
+  "missedCall": "부재중 전화",
+  "callBack": "다시 연락",
+  "hangUp": "통화 종료",
+  "startCall": "통화 시작",
+  "selectCamera": "카메라 선택",
+  "selectMicrophone": "마이크 선택",
+  "selectSpeaker": "스피커 선택",
+  "toggleMicrophone": "마이크 전환",
+  "toggleCamera": "카메라 전환",
+  "startScreensharing": "화면 공유 시작",
+  "stopScreensharing": "화면 공유 중지",
+  "raiseHand": "손 들기",
+  "stopRaiseHand": "손 내리기",
+  "preferSpeaker": "스피커 우선",
+  "unexpectedErrorOccurded": "예기치 않은 오류가 발생했습니다: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "계정 및 설정",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "{user}님으로부터의 수신 전화",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "서버 오류 응답: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "업데이트 사용 가능: {version}",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "다운로드",
+  "sharedLocation": "공유된 위치",
+  "contacts": "연락처",
+  "groupGroups": "그룹",
+  "publicGroups": "공개 그룹",
+  "createGroupChat": "그룹 채팅 만들기",
+  "inviteFriends": "친구 초대",
+  "emptyChatsTitle": "아직 채팅이 없습니다.",
+  "emptyChatsDesc": "새 채팅을 시작하려면 상단의 + 버튼을 누르세요.",
+  "emptyUsersTitle": "아직 1:1 채팅이 없습니다.",
+  "emptyUsersDesc": "다른 채팅을 보려면 필터를 끌 수 있습니다.",
+  "emptyUnreadTitle": "읽지 않은 메시지가 없습니다.",
+  "emptyUnreadDesc": "중요한 채팅을 설정에서 고정할 수 있습니다.",
+  "emptyGroupChatsTitle": "참여 중인 그룹 채팅이 없습니다.",
+  "emptyGroupChatsDesc": "다른 채팅을 보려면 필터를 끌 수 있습니다.",
+  "emptyPinnedTitle": "고정된 채팅이 없습니다.",
+  "emptyPinnedDesc": "즐겨찾는 채팅을 목록 맨 위에 고정할 수 있습니다.",
+  "startChat": "채팅 시작",
+  "newGroupChat": "새 그룹",
+  "invitedYouToJoinGroup": "{username}님이 그룹 채팅에 초대했습니다.",
+  "joinGroupBannerTitle": "그룹에 참여하고 소통을 유지하세요.",
+  "joinGroupBannerDesc": "그룹은 주제별로 분류되어 있습니다. 참여하는 모든 그룹이 여기에 표시됩니다.",
+  "certifiedGroups": "인증된 그룹 {count}개",
+  "membersCount": "멤버 {count}명",
+  "recentlyOnline": "최근 온라인",
+  "lastSeenLongAgo": "오랫동안 활동 없음",
+  "appearance": "외관",
+  "language": "언어",
+  "selectLanguage": "언어 선택",
+  "privacyAndSecurity": "개인정보 보호 및 보안",
+  "qrScanRecognizing": "인식 중...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "스캔 시간이 초과되었습니다. 다시 시도하세요.",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "QR 코드를 찾을 수 없습니다.",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "QR 코드가 비어 있습니다.",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "스캔 실패",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "잘못된 QR 코드",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "내 계정의 QR 코드입니다.",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "그룹 초대 거절",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "{groupName} 그룹 초대를 거절하시겠습니까?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "카메라",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "사진 및 동영상",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "파일",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "온라인",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "오프라인",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "메시지가 삭제되었습니다.",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "메시지를 취소했습니다.",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username}님이 메시지를 취소했습니다.",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "파일이 저장되었습니다.",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "갤러리에 저장되었습니다.",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "파일을 열 수 없습니다.",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "알 수 없는 파일",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "부재중 영상 통화",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "통화가 취소되었습니다.",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "통화 중인 사람 {count}명",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "통화 참여",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "참가자 대기 중...",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "방 관리자만 이 방에서 통화를 시작할 수 있습니다.",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "이 채팅은 목록에서 삭제되지만 그룹을 나가지는 않습니다. 새 메시지가 오면 채팅이 다시 표시됩니다.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "그룹이 삭제되면 모든 멤버가 나가게 되며 복구할 수 없습니다.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "번역",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "번역 중...",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "번역에 실패했습니다. 다시 시도하세요.",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "활성 통화",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "음성 또는 영상 통화 중에 표시됩니다.",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "통화로 돌아가려면 누르세요.",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "상대방이 통화를 취소했습니다.",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "영상 통화가 취소되었습니다.",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "상대방이 영상 통화를 취소했습니다.",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "뒤로",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "벨 울리는 중...",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "연결 중...",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "통화 종료됨",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "통화 실패",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "스피커",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "수화기",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "카메라 전환",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "동영상",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "마이크 꺼짐",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "종료",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "나",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "발신 통화",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds}초",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes}분",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours}시간 {minutes}분",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "내 역할 변경",
+  "permissions": "권한",
+  "changeMyRoleConfirmMessage": "내 권한 수준을 낮추고 있으며, 이 작업은 되돌릴 수 없습니다.",
+  "demoteToAdmin": "관리자로 강등",
+  "demoteToModerator": "모더레이터로 강등",
+  "demoteToMember": "멤버로 강등",
+  "addAdmin": "관리자 추가",
+  "addModerator": "모더레이터 추가",
+  "groupAdmins": "그룹 관리자",
+  "groupModerators": "그룹 모더레이터",
+  "addAdminHelp": "커뮤니티를 더 잘 관리할 수 있도록 새로운 관리자를 추가할 수 있습니다.",
+  "addModeratorHelp": "모니터링을 도울 새로운 모더레이터를 추가할 수 있습니다.",
+  "noCandidatesToAdd": "추가할 후보가 없습니다.",
+  "setAsAdminSuccess": "관리자로 설정되었습니다.",
+  "setAsModeratorSuccess": "모더레이터로 설정되었습니다.",
+  "searchMembers": "멤버 검색",
+  "noResults": "결과 없음",
+  "noResultsDescription": "결과를 찾을 수 없습니다. 다시 시도하세요.",
+  "removeAdminConfirm": "이 사용자의 관리자 권한을 제거하시겠습니까?",
+  "removeModeratorConfirm": "이 사용자의 모더레이터 권한을 제거하시겠습니까?",
+  "removeAdminSuccess": "관리자 권한이 제거되었습니다.",
+  "removeModeratorSuccess": "모더레이터 권한이 제거되었습니다.",
+  "manageMembers": "멤버 관리",
+  "inviteMembers": "멤버 초대",
+  "removeMembers": "멤버 제거",
+  "banMembers": "멤버 차단",
+  "editCommunity": "커뮤니티 편집",
+  "changeCommunityName": "커뮤니티 이름 변경",
+  "changeCommunityAvatar": "커뮤니티 아바타 변경",
+  "changeCommunityDescription": "커뮤니티 설명 변경",
+  "messagesAndContent": "메시지 및 콘텐츠",
+  "removeMessages": "메시지 제거",
+  "adminsOnly": "관리자만",
+  "adminsAndModerators": "관리자 및 모더레이터",
+  "resetPermissions": "권한 재설정",
+  "resetPermissionsConfirmMessage": "모든 권한을 기본값으로 되돌리시겠습니까?",
+  "changeSettings": "설정 변경",
+  "permissionChangedFromTo": "{sender}님이 {permission} 권한을 {from}에서 {to}(으)로 변경했습니다.",
+  "changedUserRoleTo": "{username}님이 {target}님의 역할을 {role}(으)로 변경했습니다.",
+  "viewInChat": "채팅에서 보기",
+  "playbackSpeed": "재생 속도",
+  "normalSpeed": "보통",
+  "qrScanHint": "프레임 안에 QR 코드를 맞추세요.",
+  "torch": "손전등",
+  "remarkVisibleOnlyToUser": "비고는 회원님에게만 표시됩니다.",
+  "pollVotes": "투표 {count}개",
+  "totalPollVotes": "총 투표 수: {count}",
+  "scanQrMobileOnly": "QR 코드 스캔은 모바일 버전에서만 지원됩니다.",
+  "publicGroupTech": "기술 서비스 및 소프트웨어 개발",
+  "publicGroupMarketing": "디지털 마케팅 및 광고",
+  "publicGroupWeb3": "Web3 네트워크 및 암호화폐",
+  "publicGroupCrossBorder": "국제 무역 및 국경 간 서비스",
+  "publicGroupFreelance": "프리랜서 및 독립 업무",
+  "blockUsers": "사용자 차단",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "켜짐 / 허용됨",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "화면 잠금 비밀번호",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "로그인 비밀번호",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "복구 키",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "키 저장 허용",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "새 기기에서 기록을 볼 수 있도록 암호화된 신원 및 메시지 키를 서버에 안전하게 저장합니다.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "복구 설정",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "기기를 분실한 경우 복구 키를 사용하여 암호화된 신원 및 메시지 기록을 복원하세요.",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "복구 키 설정",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "새 기기에서 메시지를 볼 수 있도록 서버에 키를 안전하게 저장합니다.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "복구 키 생성",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "복구 키를 복사하려면 클릭하세요.",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "복구 키 저장",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "비밀번호 관리자나 암호화된 메모 등 안전한 곳에 복구 키를 저장하세요.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "복구 키 저장",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "복구 키가 복사되었습니다.",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "복구 키가 저장되었습니다.",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "복구 키를 생성하는 중...",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "온라인 상태 공유",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "비활성화하면 읽음 확인 및 입력 상태 전송 또는 수신이 중지됩니다.",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "더 빠른 전송을 위해 파일 최적화",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "콘텐츠 중재 및 보안",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "방 초대 요청에서 아바타 숨기기",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "채팅 타임라인에 미디어 파일 표시",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "항상 숨기기",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "비공개 방",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "항상 표시",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "모든 항목",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "멘션만",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "그룹 채팅",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "1:1 채팅",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "그룹 채팅 알림",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "1:1 채팅 알림",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "모든 메시지",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "멘션 및 키워드",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "서버가 암호화된 그룹 채팅에서 이 옵션을 지원하지 않으므로 일부 그룹에서 알림을 받지 못할 수 있습니다.",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "채팅별 독립 설정",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "이 옵션을 켜면 기본 설정을 덮어씁니다.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "이 채팅에서 알림 받기",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "멘션 및 키워드",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "서버가 암호화된 방에서 이 옵션을 지원하지 않습니다.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "사용자 지정 설정 허용",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "이 기기에서 알림 받기",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "멘션",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "그룹에서 멘션될 때 알림",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "추가 설정",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "기존 비밀번호",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "앱 잠금 비밀번호",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "화면 잠금 켜기",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "화면 잠금 비밀번호 입력",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "새 비밀번호 확인",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "기존 비밀번호 입력",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "기존 비밀번호가 올바르지 않습니다. 다시 시도하세요.",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "잠금 비밀번호 변경",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "참고: 비밀번호를 잊어버린 경우 앱을 다시 설치해야 합니다.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "앱 잠금 켜짐",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "앱 잠금 꺼짐",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "이 기기",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "다른 모든 기기 세션에서 로그아웃",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "현재 기기를 제외한 다른 모든 기기에서 로그아웃합니다.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "활성 세션",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "기기 삭제",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "'{name}' 기기를 정말 삭제하시겠습니까?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "기기 ID (Device ID)",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "마지막 로그인",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "IP 주소",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "클라이언트 / 앱",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "클라이언트 ID",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "기기 이름",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "기기 제거",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} 전",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "분",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "시간",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "일",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "{appName} 서버에 로그인",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "{appName}에 오신 것을 환영합니다. 빠르고 간편한 커뮤니케이션.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "계정 만들기",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "업데이트 준비 완료",
+  "updateReadyMessage": "일부 기능을 최적화했습니다. 업데이트를 적용하려면 앱을 다시 시작하세요.",
+  "restartNow": "지금 다시 시작",
+  "noPublicGroupsYet": "아직 인증된 그룹이 없습니다"
+}

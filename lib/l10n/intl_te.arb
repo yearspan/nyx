@@ -1,0 +1,4079 @@
+{
+  "@@locale": "te",
+  "@@last_modified": "2026-11-03 15:30:00.000000",
+  "about": "గురించి",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "స్వీకరించు",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} ఆహ్వానాన్ని స్వీకరించారు",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "ఖాతా",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} ఎండ్-టు-ఎండ్ ఎన్‌క్రిప్షన్‌ను సక్రియం చేశారు",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "ఈమెయిల్ జోడించండి",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "అడ్మిన్",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "ఉపనామం",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "అన్నీ",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} కాల్‌కి సమాధానం ఇచ్చారు",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "ఎవరైనా చేరవచ్చు",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "యాప్ లాక్",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "ఆర్కైవ్",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "అతిథులు చేరడానికి అనుమతి ఉందా?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "మీరు ఖచ్చితంగా ఉన్నారా?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "మీరు ఖచ్చితంగా లాగ్ అవుట్ చేయాలనుకుంటున్నారా?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "సంతకం చేయడానికి దయచేసి మీ భద్రతా రహస్యపదం లేదా పునరుద్ధరణ కీని నమోదు చేయండి.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "{username} నుండి వచ్చిన ధృవీకరణ అభ్యర్థనను మీరు అంగీకరించాలనుకుంటున్నారా?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "హోమ్‌సర్వర్ మద్దతు ఇచ్చే లాగిన్ రకాలు:\\n{serverVersions}\\nకానీ ఈ యాప్ కేవలం వీటికే మద్దతు ఇస్తుంది:\\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "చాట్ నుండి నిషేధించు",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "సభ్యుడిని నిషేధించు",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "నిషేధించబడ్డారు",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} {targetName} ను నిషేధించారు",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "పరికరాన్ని బ్లాక్ చేయి",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "బ్లాక్ చేయబడింది",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "రద్దు చేయి",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "పరికరం పేరు మార్చు",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} చాట్ అవతార్ మార్చారు",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} చాట్ అనుమతులను మార్చారు",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} ప్రదర్శన పేరును '{displayname}' కి మార్చారు",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} అతిథి ప్రవేశ నియమాలను మార్చారు",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} అతిథి ప్రవేశ నియమాలను ఈ విధంగా మార్చారు: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} హిస్టరీ దృశ్యమానతను మార్చారు",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} హిస్టరీ దృశ్యమానతను ఈ విధంగా మార్చారు: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} చేరే నియమాలను మార్చారు",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} చేరే నియమాలను ఈ విధంగా మార్చారు: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} ప్రొఫైల్ అవతార్ మార్చారు",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} గది ఉపనామాలను మార్చారు",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} గది ఆహ్వాన లింక్‌ను మార్చారు",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "పాస్‌వర్డ్ మార్చు",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "హోమ్‌సర్వర్ మార్చు",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "థీమ్ మార్చు",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "గ్రూప్ పేరు మార్చు",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "మీ అవతార్ మార్చుకోండి",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "ఎన్‌క్రిప్షన్ పాడైంది",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "చాట్",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "చాట్ బ్యాకప్",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "చాట్ వివరాలు",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "చాట్‌లు",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "ఒక బలమైన పాస్‌వర్డ్‌ను ఎంచుకోండి",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "ఆర్కైవ్ ఖాళీ చేయి",
+  "close": "మూసివేయి",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "ఈ గది నుండి పేర్కొన్న వినియోగదారుని నిషేధించండి",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "HTML ఆకృతీకరణ టెక్స్ట్‌ను పంపండి",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "పేర్కొన్న వినియోగదారుని ఈ గదికి ఆహ్వానించండి",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "పేర్కొన్న గదిలో చేరండి",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "ఈ గది నుండి పేర్కొన్న వినియోగదారుని తొలగించండి",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "ఈ గది నుండి నిష్క్రమించండి",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "మిమ్మల్ని మీరు పరిచయం చేసుకోండి",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "ఈ గది కోసం మీ అవతార్‌ను అమర్చండి (mxc-uri ద్వారా)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "ఈ గది కోసం మీ మారుపేరును అమర్చండి",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "పేర్కొన్న వినియోగదారు అనుమతి స్థాయిని అమర్చండి (డిఫాల్ట్: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "సారళిక టెక్స్ట్‌ను పంపండి",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "సమాధానాన్ని ప్రతిస్పందనగా పంపండి",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "టెక్స్ట్‌ను పంపండి",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "ఈ గదిలో పేర్కొన్న వినియోగదారుపై నిషేధాన్ని ఎత్తివేయండి",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "చెల్లని కమాండ్",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} అనేది కమాండ్ కాదు.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "దయచేసి ఎమోజీలను పోల్చండి",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "దయచేసి క్రింది సంఖ్యలను పోల్చండి",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "చాట్‌ను కాన్ఫిగర్ చేయి",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "పరిచయం గ్రూప్‌లోకి ఆహ్వానించబడింది",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "కంటెంట్ సర్వర్ అడ్మినిస్ట్రేటర్‌కు రిపోర్ట్ చేయబడింది",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "క్లిప్‌బోర్డ్‌కు కాపీ చేయబడింది",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "కాపీ చేయి",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "క్లిప్‌బోర్డ్‌కు కాపీ చేయి",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "సందేశాన్ని డిక్రిప్ట్ చేయలేకపోయాము: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "సందేశ డిక్రిప్షన్ విఫలమైంది, దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} మంది పాల్గొనేవారు",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "సృష్టించు",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} చాట్‌ను సృష్టించారు",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "ప్రస్తుతం యాక్టివ్‌గా ఉన్నారు",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "డార్క్",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "ఇది మీ యూజర్ ఖాతాను నిష్క్రియం చేస్తుంది. దీనిని రద్దు చేయలేము! మీరు నిశ్చయించుకున్నారా?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "కొత్త వినియోగదారుల కోసం డిఫాల్ట్ అనుమతి స్థాయి",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "తొలగించు",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "ఖాతాను తొలగించు",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "సందేశాన్ని తొలగించు",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "అన్ని సందేశాలను తొలగించు",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "చాట్ హిస్టరీని క్లియర్ చేయి",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "మీరు ఖచ్చితంగా ఈ చాట్‌లోని అన్ని సందేశాలను తొలగించాలనుకుంటున్నారా? దీనిని తిరిగి మార్చలేరు.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "మీరు ఖచ్చితంగా ఈ చాట్ హిస్టరీని క్లియర్ చేయాలనుకుంటున్నారా? దీనిని తిరిగి మార్చలేరు.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "ఆటో-తొలగింపును ప్రారంభించు",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "నిర్దిష్ట సమయం తర్వాత ఈ చాట్‌లోని కొత్త సందేశాలను స్వయంచాలకంగా తొలగించండి",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 రోజు",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 వారం",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 నెల",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "నిలిపివేయి",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "పరికరాలు",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "నేరు చాట్‌లు",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "ప్రదర్శన పేరు మార్చబడింది",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "ఫైల్‌ను డౌన్‌లోడ్ చేయి",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "సవరించు",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "బ్లాక్ చేసిన సర్వర్లను సవరించు",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "ప్రదర్శన పేరును సవరించు",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "గది ఉపనామాలను సవరించు",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "గది అవతార్‌ను సవరించు",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "ఎమోట్ ఇప్పటికే ఉంది!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "చెల్లని ఎమోట్ షార్ట్‌కోడ్!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "ఎమోట్ షార్ట్‌కోడ్",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "ఖాళీ చాట్",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "ప్రపంచవ్యాప్తంగా ఎమోట్ ప్యాక్‌లను ప్రారంభించండి",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "ఎన్‌క్రిప్షన్‌ను ప్రారంభించు",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "మీరు తర్వాత ఎన్‌క్రిప్షన్‌ను నిలిపివేయలేరు. మీరు ఖచ్చితంగా ఉన్నారా?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "ఎన్‌క్రిప్ట్ చేయబడింది",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "ఎన్‌క్రిప్షన్",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "ఎన్‌క్రిప్షన్ ప్రారంభించబడలేదు",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} కాల్ ముగించారు",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "ఈమెయిల్ చిరునామాను నమోదు చేయండి",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "అక్షర పరిమాణం",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "ఫార్వర్డ్ చేయి",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "ఫార్వర్డ్ చేయబడింది",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "చేరినప్పటి నుండి",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "ఆహ్వానం నుండి",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "గ్రూప్",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "గ్రూప్ బహిరంగమైనది",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "గ్రూప్‌లు",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "{displayname} తో గ్రూప్",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "అతిథులు నిషిద్ధం",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "అతిథులు చేరవచ్చు",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} {targetName} కోసం ఆహ్వానాన్ని ఉపసంహరించుకున్నారు",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "సహాయం",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "తెలియని ఈవెంట్‌లను దాచు",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "అలక్ష్యం చేయి",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "అలక్ష్యం చేసిన వినియోగదారులు",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "నేను లింక్‌పై క్లిక్ చేశాను",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "తప్పు రహస్యపదం లేదా పునరుద్ధరణ కీ",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "పరిచయాన్ని ఆహ్వానించండి",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "పరిచయాన్ని {groupName} కు ఆహ్వానించండి",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "ఆహ్వానించబడ్డారు",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} {targetName} ను ఆహ్వానించారు",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "ఆహ్వానించబడిన వినియోగదారులు మాత్రమే",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} మిమ్మల్ని NYXకి ఆహ్వానిస్తున్నారు. \\n1. NYX ని ఇన్‌స్టాల్ చేయండి: https://fluffychat.im \\n2. సైన్ అప్ చేయండి లేదా లాగిన్ అవ్వండి \\n3. ఆహ్వాన లింక్‌ను తెరిచేందుకు క్లిక్ చేయండి:\\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "టైప్ చేస్తున్నారు...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} చాట్‌లో చేరారు",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "గదిలో చేరండి",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "గది చిరునామాను నమోదు చేయండి",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "ఉదా. !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "చెల్లని చిరునామా!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "గది కనుగొనబడలేదు!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "గదిలో చేరడం విఫలమైంది",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "ఒక గది కనుగొనబడింది",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "కొనసాగించు",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "ఇంకా ఏ వివరణా లేదు ~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "చేరడానికి దరఖాస్తు చేసుకోండి",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "గదిలోకి ప్రవేశించండి",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "వివరణ",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} {targetName} ను తొలగించారు",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} {targetName} ను తొలగించి నిషేధించారు",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "చాట్ నుండి తొలగించు",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "మీరు ఈ గ్రూప్ చాట్ నుండి తొలగించబడ్డారు",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "సభ్యుడిని తొలగించు",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "చివరిగా యాక్టివ్‌గా ఉన్నది: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "నిష్క్రమించు",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "చాట్ నుండి నిష్క్రమించారు",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "లైట్",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "మరో {count} మంది సభ్యులను లోడ్ చేయి",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "లోడ్ అవుతోంది… దయచేసి వేచి ఉండండి.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "ఇంకా లోడ్ చేయి…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "లాగిన్",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "{homeserver} కి లాగిన్ అవ్వండి",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "లాగ్ అవుట్",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "మీరు ప్రస్తుత NYX ఖాతా నుండి నిష్క్రమించాలనుకుంటున్నారా?",
+  "mention": "టాగ్ చేయి",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "సందేశాలు",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "మోడరేటర్",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "చాట్‌ను మ్యూట్ చేయి",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "కొత్త చాట్",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 NYX లో కొత్త సందేశం",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "కొత్త ధృవీకరణ అభ్యర్థన!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "తరువాత",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "కాదు",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "సర్వర్‌తో కనెక్షన్ లేదు",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "ఏ ఎమోట్‌లు కనుగొనబడలేదు. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "గది బహిరంగంగా అందుబాటులో లేనప్పుడు మాత్రమే మీరు ఎన్‌క్రిప్షన్‌ను ప్రారంభించగలరు.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "మీ ఫోన్‌లో ఫైర్‌బేస్ క్లౌడ్ మెసేజింగ్ ఉన్నట్లు కనిపించడం లేదు. NYX నుండి నోటిఫికేషన్‌లను పొందడానికి ntfy ఇన్‌స్టాల్ చేసుకోవాలని సిఫార్సు చేయబడింది.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "మీ పాస్‌వర్డ్‌ను పునరుద్ధరించడానికి మీరు ఇంకా ఏ మార్గాన్నీ జోడించలేదు.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "అనుమతి లేదు",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "ఏ గదులు కనుగొనబడలేదు…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "నోటిఫికేషన్‌లు",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} మంది వ్యక్తులు టైప్ చేస్తున్నారు…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "సరే",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "ఆన్‌లైన్ కీ బ్యాకప్ ప్రారంభించబడింది",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "అయ్యో! పుష్ నోటిఫికేషన్‌లను కాన్ఫిగర్ చేస్తున్నప్పుడు ఒక లోపం సంభవించింది.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "అయ్యో, ఏదో తప్పు జరిగింది…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "సందేశాలను చదవడానికి యాప్‌ను తెరవండి",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "కెమెరా తెరవండి",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "లేదా",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "పాల్గొనేవారు",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "రహస్యపదం లేదా పునరుద్ధరణ కీ",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "పాస్‌వర్డ్",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "పాస్‌వర్డ్ మర్చిపోయారా",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "పాస్‌వర్డ్ మార్చబడింది",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "పాస్‌వర్డ్ పునరుద్ధరణ",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "పిన్ చేయి",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "దయచేసి ఒక పాస్‌కోడ్‌ను ఎంచుకోండి",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "దయచేసి ఈమెయిల్‌లోని లింక్‌పై క్లిక్ చేసి, ఆపై కొనసాగించండి.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "దయచేసి మీ పాస్‌వర్డ్‌ను నమోదు చేయండి",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "దయచేసి మీ పిన్‌ను నమోదు చేయండి",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "దయచేసి లాక్ పాస్‌కోడ్‌ను నమోదు చేయండి",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "దయచేసి మీ వినియోగదారు పేరును నమోదు చేయండి",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "దయచేసి వెబ్‌సైట్‌లోని సూచనలను అనుసరించి, ఆపై 'తరువాత' క్లిక్ చేయండి.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "గోప్యత",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "బహిరంగ గదులు",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "కారణం",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} ఒక ఈవెంట్‌ను తొలగించారు",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "సందేశాన్ని తొలగించు",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "తిరస్కరించు",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} ఆహ్వానాన్ని తిరస్కరించారు",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "తొలగించు",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "మిగిలిన పరికరాలన్నింటినీ తొలగించు",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "చాట్ నుండి నిషేధాన్ని తీసివేయి",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "మీ అవతార్‌ను తొలగించండి",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "గదిని కొత్త వెర్షన్‌తో భర్తీ చేయి",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "సమాధానమివ్వు",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "సందేశాన్ని ఫిర్యాదు చేయి",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "గది అప్‌గ్రేడ్ చేయబడింది",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "గది వెర్షన్",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "ఫైల్‌ను భద్రపరచు",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "వెతుకు",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "భద్రత",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "పంపు",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "సందేశాన్ని పంపండి",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "టెక్స్ట్ రూపంలో పంపు",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "ఆడియో పంపు",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "ఫైల్ పంపు",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "చిత్రం పంపు",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "సందేశాలను పంపు",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "వీడియో పంపు",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} ఒక ఫైల్‌ను పంపారు",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} ఆడియో సందేశాన్ని పంపారు",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} చిత్రం పంపారు",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} ఒక స్టిక్కర్‌ను పంపారు",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} వీడియో పంపారు",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} కాల్ సమాచారాన్ని పంపారు",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "ప్రధాన ఉపనామంగా అమర్చు",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "స్థితిని అమర్చు",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "సెట్టింగ్‌లు",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "షేర్ చేయి",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} లొకేషన్ పంచుకున్నారు",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "దాటవేయి",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "సోర్స్ కోడ్",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} కాల్ ప్రారంభించారు",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "స్థితి",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "ఈ రోజు మీరు ఎలా ఉన్నారు?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "సమర్పించు",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "సింక్రొనైజ్ అవుతోంది… దయచేసి వేచి ఉండండి.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "సిస్టమ్ థీమ్",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "అవి సరిపోలడం లేదు",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "అవి సరిపోలుతున్నాయి",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "చాలా అభ్యర్థనలు పంపబడ్డాయి. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "మళ్లీ పంపడానికి ప్రయత్నించండి",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} {targetName} పై నిషేధాన్ని ఎత్తివేశారు",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "పరికరాన్ని అన్‌బ్లాక్ చేయి",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "తెలియని పరికరం",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "తెలియని ఎన్‌క్రిప్షన్ అల్గోరిథం",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "తెలియని ఈవెంట్ '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "చాట్‌ను అన్‌మ్యూట్ చేయి",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "అన్‌పిన్ చేయి",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} మరియు మరో {count} మంది టైప్ చేస్తున్నారు…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} మరియు {username2} టైప్ చేస్తున్నారు…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} టైప్ చేస్తున్నారు…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} చాట్ నుండి బయటకు వెళ్లారు",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} {type} ఈవెంట్‌ను పంపారు",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "ధృవీకరించబడింది",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "వినియోగదారుని ధృవీకరించు",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "ఈ వినియోగదారుని ధృవీకరించు",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "అధిక భద్రత కోసం, వారి పరికరంలో చూపబడే ఎమోజీల సమితిని మీ పరికరంతో పోల్చడం ద్వారా ఈ వినియోగదారుని ధృవీకరించండి. నేరుగా కలవడం ద్వారా లేదా వీడియో కాల్ ద్వారా దీనిని చేయండి.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "ఇతర వినియోగదారు కోసం వేచి చూస్తోంది",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "అభ్యర్థన ఆమోదించబడిన తర్వాత, ధృవీకరణ ముందుకు సాగుతుంది",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "ఎమోజీలను పోల్చండి",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "ఎమోజీలను పోల్చండి మరియు అవి ఒకే క్రమంలో ఉన్నాయని నిర్ధారించుకోండి",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "దయచేసి క్రింది ఎమోజీలు ఎదుటి పరికరంలోని ఎమోజీలతో సరిపోలుతున్నాయో లేదో నిర్ధారించండి",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "ధృవీకరణ అభ్యర్థన",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "మరింత భద్రత కోసం, మరొక వినియోగదారు మీ గుర్తింపును ధృవీకరించాలనుకుంటున్నారు. పోల్చడానికి మీకు కొన్ని ఎమోజీలు చూపబడతాయి",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "ధృవీకరణ విజయవంతమైంది",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "మీరు ఇప్పుడు సందేశాలు పంపడానికి లేదా కాల్స్ చేయడానికి ఈ వినియోగదారు గుర్తింపును నమ్మవచ్చు",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "ధృవీకరణ విఫలమైంది",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "అభ్యర్థన గడువు ముగిసింది, తిరస్కరించబడింది లేదా చిహ్నాలు సరిపోలలేదు",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "పూర్తయింది",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "మళ్లీ ప్రయత్నించండి",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "మీరు ఈ వినియోగదారుని ధృవీకరించాలనుకుంటున్నారా?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "మీరు ఈ వినియోగదారుకి పంపుతున్న మొదటి సందేశం ఇది. భద్రతను నిర్ధారించడానికి, మొదట వారిని ధృవీకరించండి లేదా నేరుగా సందేశం పంపండి.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "ఇప్పుడే ధృవీకరించు",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "నేరుగా పంపు",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "సందేశ నోటిఫికేషన్‌లు",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "సందేశం నోటిఫై చేయి",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "బయో జోడించు",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "కొత్త అవతార్‌ను అమర్చు",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "సభ్యులు",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "పాత్రలు & అనుమతులు",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "వ్యక్తిగత ప్రొఫైల్",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "గమనిక అమర్చు",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "పిన్ చేసిన సందేశాలు",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count} పిన్ చేసిన సందేశాలు",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "పిన్ చేసిన సందేశాలు లేవు",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "ఒప్పందం",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "మీడియా & ఫైళ్లు",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "పోల్స్",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "కమ్యూనిటీ నిష్క్రమించు",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "గ్రూప్ చాట్‌ను తొలగించు",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "మీడియా",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "మీడియా లేదు",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "ఫైళ్లు లేవు",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "ఫైల్ డౌన్‌లోడ్ అవుతోంది…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "పరిచయాలకు జోడించు",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "పరిచయాన్ని జోడించు",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "పరిచయాన్ని తొలగించు",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "బయో",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "బయో ఖాళీగా ఉంది",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "వినియోగదారుని బ్లాక్ చేయి",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "వినియోగదారుని అన్‌బ్లాక్ చేయి",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "కాల్",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "ధృవీకరణ ప్రారంభించు",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "విజయవంతంగా ధృవీకరించబడింది!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "ఇతర ఖాతాలను ధృవీకరించు",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "చాట్ హిస్టరీ దృశ్యమానత",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "పాల్గొనేవారందరికీ కనిపించేలా",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "అందరికీ కనిపించేలా",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "వాయిస్ సందేశం",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "అభ్యర్థనను ఆమోదించడానికి ఎదుటి వారి కోసం వేచి చూస్తోంది…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "ఎమోజీలను ఆమోదించడానికి ఎదుటి వారి కోసం వేచి చూస్తోంది…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "సంఖ్యలను ఆమోదించడానికి ఎదుటి వారి కోసం వేచి చూస్తోంది…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "హెచ్చరిక!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "మేము మీకు ఈమెయిల్ పంపాము",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "ఎవరు ఏ చర్య చేయవచ్చు",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "ఈ గ్రూప్‌లో చేరడానికి ఎవరికి అనుమతి ఉంది",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "దీనిని రిపోర్ట్ చేయడానికి గల కారణం ఏమిటి?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "ఈ చిరునామాలతో మీ పాస్‌వర్డ్‌ను పునరుద్ధరించవచ్చు.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "ఒక సందేశాన్ని రాయండి…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "అవును",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "మీరు",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "మీరు ఇకపై ఈ చాట్‌లో సభ్యులు కాదు",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "మీరు ఈ చాట్ నుండి నిషేధించబడ్డారు",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "మీ పబ్లిక్ కీ",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "స్పేస్‌కి జోడించు",
+  "obtainingLocation": "లొకేషన్ పొందుతోంది…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} అనేది మ్యాట్రిక్స్ సర్వర్ కాదు, {server2} ప్రయతించాలా?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "లొకేషన్ అనుమతి నిరాకరించబడింది. దయచేసి లొకేషన్ పంచుకోవడానికి అనుమతివ్వండి.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "లొకేషన్ సేవలు నిలిపివేయబడ్డాయి. దయచేసి లొకేషన్ పంచుకోవడానికి వాటిని ప్రారంభించండి.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "లొకేషన్ పొందడంలో లోపం: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "కొత్త స్పేస్‌ని సృష్టించు",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "URI తెరిచేందుకు వీలు పడలేదు: {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "అనిమేటెడ్ స్టిక్కర్‌లు, ఎమోజీలను ఆటో ప్లే చేయి",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "స్పేస్ పేరు",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "స్పేస్ పబ్లిక్ అని నిర్ధారించు",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "లొకేషన్‌ను షేర్ చేయి",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "మ్యాప్స్‌లో తెరవండి",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "ఎంటర్ కీతో సందేశం పంపు",
+  "scanQrCode": "QR కోడ్‌ని స్కాన్ చేయండి",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR కోడ్",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "QR కోడ్‌ని షేర్ చేయి",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "మీ క్లయింట్‌లలో ఒకటి లాగ్ అవుట్ అయింది",
+  "removeFromBundle": "ఈ బండిల్ నుండి తొలగించు",
+  "unverified": "ధృవీకరించబడలేదు",
+  "repeatPassword": "పాస్‌వర్డ్‌ను మళ్లీ టైప్ చేయండి",
+  "addAccount": "ఖాతా జోడించు",
+  "editBundlesForAccount": "ఈ ఖాతా బండిళ్లను సవరించు",
+  "addToBundle": "బండిల్‌కు జోడించు",
+  "bundleName": "బండిల్ పేరు",
+  "link": "లింక్",
+  "sender": "పంపినవారు",
+  "openGallery": "గ్యాలరీ తెరవండి",
+  "messageInfo": "సందేశం సమాచారం",
+  "time": "సమయం",
+  "removeFromSpace": "ఈ స్పేస్ నుండి తొలగించు",
+  "commandHint_discardsession": "సెషన్‌ను రద్దు చేయి",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "నేరు చాట్‌ను ప్రారంభించండి",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "క్యాషే నింపడాన్ని క్లియర్ చేయి",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "ఖాళీ గ్రూప్ చాట్‌ని ప్రారంభించండి",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "చదివినట్లుగా మార్క్ చేయి",
+  "reportUser": "వినియోగదారుని రిపోర్ట్ చేయి",
+  "reactedWith": "{sender} {reaction} ద్వారా ప్రతిస్పందించారు",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "మీరు నిజంగా ఈ ఈవెంట్‌ను పిన్ తీసివేయాలనుకుంటున్నారా?",
+  "pinMessage": "గదికి పిన్ చేయి",
+  "emojis": "ఎమోజీలు",
+  "unsupportedAndroidVersionLong": "ఈ ఫీచర్‌కు కొత్త ఆండ్రాయిడ్ వెర్షన్ అవసరం.",
+  "unsupportedAndroidVersion": "మద్దతు లేని ఆండ్రాయిడ్ వెర్షన్",
+  "youRejectedTheInvitation": "మీరు ఆహ్వానాన్ని తిరస్కరించారు",
+  "youJoinedTheChat": "మీరు చాట్‌లో చేరారు",
+  "youBannedUser": "మీరు {user} ని నిషేధించారు",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 {user} నుండి మీకు ఆహ్వానం వచ్చింది",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 మీరు {user} ని ఆహ్వానించారు",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 మీరు {user} ని తొలగించారు",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "మీరు {user} పై నిషేధాన్ని తీసివేశారు",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 మీరు ఆహ్వానాన్ని అంగీకరించారు",
+  "youHaveWithdrawnTheInvitationFor": "మీరు {user} కోసం ఆహ్వానాన్ని ఉపసంహరించుకున్నారు",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 మీరు {user} ని తొలగించి నిషేధించారు",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "ఆపిల్ కీచైన్‌లో భద్రపరచు",
+  "storeInAndroidKeystore": "ఆండ్రాయిడ్ కీస్టోర్‌లో భద్రపరచు",
+  "storeSecurlyOnThisDevice": "ఈ పరికరంలో సురక్షితంగా భద్రపరచు",
+  "users": "వినియోగదారులు",
+  "countFiles": "{count} ఫైళ్ళు",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "బ్యాకప్ నుండి పునరుద్ధరించు",
+  "dehydrate": "సెషన్‌ను ఎగుమతి చేసి పరికరాన్ని తీసివేయి",
+  "dehydrateWarning": "ఈ చర్యను రద్దు చేయలేము. భద్రతా ఫైల్‌ను సురక్షిత ప్రాంతంలో ఉంచండి.",
+  "user": "వినియోగదారు",
+  "userNotFound": "వినియోగదారు కనుగొనబడలేదు",
+  "custom": "కస్టమ్",
+  "confirmMatrixId": "ఖాతాను తొలగించడానికి మీ మ్యాట్రిక్స్ ID ని నిర్ధారించండి.",
+  "supposedMxid": "ఇది {mxid} గా ఉండాలి",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "గ్రూప్‌గా మార్క్ చేయి",
+  "commandHint_markasdm": "ఈ మ్యాట్రిక్స్ ID ని డైరెక్ట్ మెసేజ్ గదిగా మార్చు",
+  "whyIsThisMessageEncrypted": "ఈ సందేశం ఎందుకు చదవలేము?",
+  "noKeyForThisMessage": "మీరు ఈ పరికరం నుండి లాగిన్ అవ్వడానికి ముందే ఈ సందేశం పంపబడి ఉండవచ్చు.",
+  "newSpace": "కొత్త స్పేస్",
+  "doNotShowAgain": "మళ్లీ చూపవద్దు",
+  "googlyEyesContent": "{senderName} రోలింగ్ ఐస్ ఎమోజీని పంపారు",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "రోలింగ్ ఐస్ ఎమోజీని పంపు",
+  "commandHint_cuddle": "కుదురైన కావలించు పంపు",
+  "commandHint_hug": "ఒక ఆలింగనం పంపు",
+  "cuddleContent": "{senderName} మిమ్మల్ని హత్తుకున్నారు",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} మిమ్మల్ని ఆలింగనం చేసుకున్నారు",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "ఖాళీ చాట్ (గతంలో {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "స్పేస్‌లు చాట్‌లను ఏకీకృతం చేయడానికి మరియు సంఘాలను నిర్వహించడానికి సహాయపడతాయి.",
+  "encryptThisChat": "ఈ చాట్‌ను ఎన్‌క్రిప్ట్ చేయి",
+  "disableEncryptionWarning": "భద్రతా కారణాల దృష్ట్యా ఎన్‌క్రిప్షన్‌ను నిలిపివేయలేరు.",
+  "sorryThatsNotPossible": "క్షమించండి... అది సాధ్యం కాదు",
+  "report": "రిపోర్ట్ చేయి",
+  "fileIsTooBigForServer": "పంపడం సాధ్యం కాలేదు! సర్వర్ కేవలం {max} పరిమాణం వరకే అనుమతిస్తుంది.",
+  "noOtherDevicesFound": "ఇతర పరికరాలేవీ కనుగొనబడలేదు",
+  "jumpToLastReadMessage": "చివరిగా చదివిన సందేశానికి వెళ్లండి",
+  "readUpToHere": "ఇక్కడ వరకు చదివారు",
+  "jump": "వెళ్ళు",
+  "openLinkInBrowser": "బ్రౌజర్‌లో లింక్ తెరవండి",
+  "fileHasBeenSavedAt": "ఫైల్ {path} వద్ద భద్రపరచబడింది",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "ఏదో లోపం జరిగింది. నివేదికను డెవలపర్లకు పంపవచ్చు.",
+  "noBackupWarning": "హెచ్చరిక! చాట్ బ్యాకప్ లేకుండా సందేశాల ప్రాప్యత కోల్పోతారు.",
+  "reopenChat": "చాట్‌ను మళ్లీ తెరవండి",
+  "importEmojis": "ఎమోజీలను దిగుమతి చేయి",
+  "notAnImage": "ఇది చిత్రం ఫైల్ కాదు.",
+  "importNow": "ఇప్పుడే దిగుమతి చేయి",
+  "importFromZipFile": ".zip ఫైల్ నుండి దిగుమతి చేయి",
+  "replace": "భర్తీ చేయి",
+  "exportEmotePack": "ఎమోజీ ప్యాక్‌ను ఎగుమతి చేయి",
+  "sendTypingNotifications": "టైపింగ్ నోటిఫికేషన్‌లను పంపు",
+  "createGroup": "గ్రూప్ చాట్‌ను సృష్టించు",
+  "shareInviteLink": "ఆహ్వాన లింక్‌ను షేర్ చేయి",
+  "tryAgain": "మళ్లీ ప్రయత్నించండి",
+  "chatPermissions": "చాట్ అనుమతులు",
+  "chatDescription": "చాట్ వివరణ",
+  "chatDescriptionHasBeenChanged": "చాట్ వివరణ మార్చబడింది",
+  "noChatDescriptionYet": "ఇంకా ఎలాంటి వివరణ లేదు.",
+  "invalidServerName": "చెల్లని సర్వర్ పేరు",
+  "redactMessageDescription": "ఈ చాట్‌లోని ప్రతి ఒక్కరికీ ఈ సందేశం తొలగించబడుతుంది.",
+  "optionalRedactReason": "(ఐచ్ఛికం) తొలగించడానికి గల కారణం...",
+  "setChatDescription": "చాట్ వివరణను నిర్ధారించండి",
+  "setColorTheme": "రంగు థీమ్‌ను ఎంచుకోండి:",
+  "invite": "ఆహ్వానించు",
+  "addMembers": "సభ్యులను జోడించు",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "లింక్ ద్వారా ఆహ్వానించు",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "ఈ జాబితా అడ్మిన్‌లకు మాత్రమే కనిపిస్తుంది.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "ఈ చాట్‌లోని పరిచయాలు",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "ఈ గ్రూప్‌నకు ఎలాంటి ఆహ్వాన లింక్ లేదు",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "సందేశాల శైలి:",
+  "redactedBy": "{username} ద్వారా తొలగించబడింది",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "{username} ద్వారా తొలగించబడింది, కారణం: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 గ్రూప్ చాట్ ఆహ్వానం",
+  "emoteKeyboardNoRecents": "ఇటీవల ఉపయోగించిన ఎమోజీలు ఇక్కడ కనిపిస్తాయి...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "చెల్లని ఇన్‌పుట్!",
+  "wrongPinEntered": "తప్పు పిన్ అందించబడింది! {seconds} సెకన్ల తర్వాత ప్రయత్నించండి…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} గదిలో చేరేందుకు అభ్యర్థించారు",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "దయచేసి 0 కంటే పెద్ద సంఖ్యను నమోదు చేయండి",
+  "banUserDescription": "వినియోగదారు ఈ చాట్ నుండి నిషేధించబడతారు.",
+  "removeDevicesDescription": "ఈ పరికరం నుండి లాగ్ అవుట్ అవుతారు.",
+  "unbanUserDescription": "వినియోగదారుపై నిషేధం ఎత్తివేయబడుతుంది.",
+  "pushNotificationsNotAvailable": "పుష్ నోటిఫికేషన్‌లు అందుబాటులో లేవు",
+  "makeAdminDescription": "ఈ వినియోగదారుకి మీతో సమానంగా అడ్మిన్ హక్కులు ఇవ్వబడతాయి.",
+  "archiveRoomDescription": "చాట్ ఆర్కైవ్‌కి తరలించబడుతుంది.",
+  "learnMore": "మరింత తెలుసుకోండి",
+  "roomUpgradeDescription": "గది యొక్క క్రొత్త వెర్షన్‌కి నవీకరించబడుతుంది.",
+  "kickUserDescription": "వినియోగదారు చాట్ నుండి తొలగించబడతారు కాని నిషేధించబడరు.",
+  "blockListDescription": "వినియోగదారులను బ్లాక్ చేయవచ్చు.",
+  "createGroupAndInviteUsers": "గ్రూప్‌ని సృష్టించి వినియోగదారులను ఆహ్వానించండి",
+  "blockedUsers": "బ్లాక్ చేయబడిన వినియోగదారులు",
+  "groupCanBeFoundViaSearch": "శోధన ద్వారా గ్రూప్ కనుగొనవచ్చు",
+  "noUsersFoundWithQuery": "\"{query}\" కోసం ఏ వినియోగదారుల వివరాలు లభించలేదు.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "బ్లాక్ చేయి",
+  "yourGlobalUserIdIs": "మీ గ్లోబల్ యూజర్ ఐడీ: ",
+  "commandHint_sendraw": "ముడి JSON పంపు",
+  "wrongRecoveryKey": "తప్పు పునరుద్ధరణ కీ.",
+  "blockUsername": "వాడుకరి పేరును అలక్ష్యం చేయి",
+  "groupName": "గ్రూప్ పేరు",
+  "databaseMigrationTitle": "డేటాబేస్ ఆప్టిమైజ్ చేయబడింది",
+  "searchChatsRooms": "శోధించు #చాట్‌లు, @వినియోగదారులు…",
+  "databaseMigrationBody": "దయచేసి కొద్దిసేపు వేచి ఉండండి.",
+  "thisDevice": "ఈ పరికరం:",
+  "publicSpaces": "పబ్లిక్ స్పేస్‌లు",
+  "passwordIsWrong": "పాస్‌వర్డ్ తప్పు",
+  "pleaseEnterYourCurrentPassword": "మీ ప్రస్తుత పాస్‌వర్డ్‌ను నమోదు చేయండి",
+  "nothingFound": "ఏమీ దొరకలేదు…",
+  "newPassword": "కొత్త పాస్‌వర్డ్",
+  "passwordsDoNotMatch": "పాస్‌వర్డ్‌లు సరిపోలడం లేదు",
+  "select": "ఎంచుకోండి",
+  "pleaseChooseAStrongPassword": "ఒక బలమైన పాస్‌వర్డ్‌ను ఎంచుకోండి",
+  "addChatOrSubSpace": "చాట్ లేదా సబ్-స్పేస్‌ని జోడించండి",
+  "leaveEmptyToClearStatus": "మీ స్థితిని క్లియర్ చేయడానికి ఖాళీగా ఉంచండి.",
+  "joinSpace": "స్పేస్‌లో చేరండి",
+  "searchForUsers": "శోధించు @వినియోగదారులు…",
+  "initAppError": "యాప్‌ను ప్రారంభించడంలో లోపం",
+  "sessionLostBody": "మీ సెషన్ కోల్పోయింది. లోపాన్ని తెలియజేయండి: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "సెషన్‌ను బ్యాకప్ నుండి పునరుద్ధరించడానికి ప్రయత్నిస్తోంది.",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "మీరు టైప్ చేస్తున్నప్పుడు ఇతరులకు చూపిస్తుంది.",
+  "formattedMessagesDescription": "మార్క్‌డౌన్ ఆకృతీకరణతో వచనాన్ని ప్రదర్శిస్తుంది.",
+  "verifyOtherUserDescription": "ఎదుటి వ్యక్తి నిజాన్ని ధృవీకరించడానికి ఎమోజీ పోలిక జరపవచ్చు.",
+  "verifyOtherDeviceDescription": "మరొక పరికరాన్ని ధృవీకరించి సురక్షిత సంకేతాలు పంచుకోండి.",
+  "canceledKeyVerification": "{sender} కీ ధృవీకరణను రద్దు చేశారు",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "రీడ్ రసీదులను పంపు",
+  "formattedMessages": "ఆకృతీకరించిన సందేశాలు",
+  "verifyOtherDevice": "🔐 ఇతర పరికరాన్ని ధృవీకరించు",
+  "verifyOtherUser": "🔐 ఇతర వినియోగదారుని ధృవీకరించు",
+  "sendReadReceiptsDescription": "మీరు మెసేజ్ చూసినట్లు ఇతరులు తెలుసుకోగలరు.",
+  "acceptedKeyVerification": "{sender} కీ ధృవీకరణను స్వీకరించారు",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} కీ ధృవీకరణకు సిద్ధంగా ఉన్నారు",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} కీ ధృవీకరణను పూర్తి చేశారు",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} కీ ధృవీకరణను అభ్యర్థించారు",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} కీ ధృవీకరణను ప్రారంభించారు",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "వచ్చే సందేశాలు",
+  "stickers": "స్టిక్కర్లు",
+  "discover": "కనుగొను",
+  "commandHint_ignore": "ఇచ్చిన మ్యాట్రిక్స్ ID ని అలక్ష్యం చేయి",
+  "commandHint_unignore": "అలక్ష్యాన్ని ఉపసంహరించు",
+  "unreadChatsInApp": "{appname}: {unread} చదవని చాట్‌లు",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "యాప్‌లోకి ప్రవేశించడానికి పాస్‌కోడ్ అవసరం.",
+  "globalChatId": "గ్లోబల్ చాట్ ID",
+  "accessAndVisibility": "ప్రవేశం మరియు దృశ్యమానత",
+  "accessAndVisibilityDescription": "చాట్‌లో ఎవరు చేరవచ్చో నిర్ణయించండి.",
+  "customEmojisAndStickers": "కస్టమ్ ఎమోజీలు మరియు స్టిక్కర్లు",
+  "hideRedactedMessages": "తొలగించబడిన సందేశాలను దాచు",
+  "passwordRecoverySettings": "పాస్‌వర్డ్ పునరుద్ధరణ సెట్టింగ్‌లు",
+  "knock": "తట్టు (Knock)",
+  "noOneCanJoin": "ఎవరూ చేరలేరు",
+  "knocking": "తడుతున్నారు",
+  "chatCanBeDiscoveredViaSearchOnServer": "{server} పై చాట్‌ను వెతకవచ్చు",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "ప్రస్తుతం {count} మంది బ్లాక్ చేయబడ్డారు.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "తొలగించిన సందేశాలు ఇక కనబడవు.",
+  "hideInvalidOrUnknownMessageFormats": "తెలియని లేదా చెల్లని సందేశ రూపాలను దాచు",
+  "customEmojisAndStickersBody": "మీకు నచ్చిన ఎమోజీలను పంచుకోండి.",
+  "usersMustKnock": "చేరడానికి ముందు వినియోగదారులు తట్టాలి (Knock)",
+  "noDatabaseEncryption": "డేటాబేస్ ఎన్‌క్రిప్షన్‌కు మద్దతు లేదు",
+  "publicChatAddresses": "పబ్లిక్ చాట్ చిరునామాలు",
+  "createNewAddress": "కొత్త చిరునామాను సృష్టించు",
+  "searchMore": "మరింత వెతుకు…",
+  "gallery": "గ్యాలరీ",
+  "files": "ఫైళ్ళు",
+  "searchIn": "\"{chat}\" లో వెతుకు…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "సమాధానం ఇవ్వడానికి కుడి నుండి ఎడమకు స్వైప్ చేయండి",
+  "noMoreChatsFound": "ఇక ఎలాంటి చాట్‌లు దొరకలేదు…",
+  "space": "స్పేస్",
+  "goToSpace": "స్పేస్‌కు వెళ్ళు: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "చదవనిదిగా గుర్తుంచుకో",
+  "unread": "చదవలేదు",
+  "userLevel": "{level} - వాడుకరి",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - మోడరేటర్",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - అడ్మిన్",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "ఈ చాట్‌కు ఇతర వినియోగదారులను ఆహ్వానించండి",
+  "changeTheChatPermissions": "చాట్ అనుమతులను మార్చండి",
+  "changeTheVisibilityOfChatHistory": "చాట్ చరిత్ర దృశ్యమానతను మార్చండి",
+  "changeTheCanonicalRoomAlias": "ప్రధాన పబ్లిక్ చిరునామాను మార్చండి",
+  "sendRoomNotifications": "గదిలోని ప్రతీ ఒక్కరికీ నోటిఫికేషన్లు పంపండి (@room)",
+  "changeTheDescriptionOfTheGroup": "గ్రూప్ వివరణను మార్చండి",
+  "changeGeneralChatSettings": "సాధారణ చాట్ సెట్టింగ్‌లను మార్చండి",
+  "chatPermissionsDescription": "అనుమతి స్థాయిలను నిర్ణయించండి.",
+  "changelog": "మార్పుల లాగ్",
+  "updateInstalled": "🎉 నవీకరణ {version} ఇన్‌స్టాల్ చేయబడింది!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "పంపడం రద్దు చేయబడింది",
+  "noChatsFoundHere": "ఇక్కడ ఏ చాట్‌లు లేవు. క్రింది బటన్ ద్వారా ప్రారంభించండి ⤵️",
+  "loginWithMatrixId": "మ్యాట్రిక్స్ ఐడీతో ప్రవేశించండి",
+  "doesNotSeemToBeAValidHomeserver": "ఇది సరియైన హోమ్‌సర్వర్ లాగా లేదు.",
+  "calculatingFileSize": "ఫైల్ పరిమాణాన్ని లెక్కిస్తోంది…",
+  "oneOfYourDevicesIsNotVerified": "మీ పరికరాలలో ఒకటి ధృవీకరించబడలేదు",
+  "noticeChatBackupDeviceVerification": "గమనిక: మీ పరికరాలను చాట్ బ్యాకప్‌కు కనెక్ట్ చేస్తే స్వయం ధృవీకరణ జరుగుతుంది.",
+  "continueText": "కొనసాగించు",
+  "blur": "బ్లర్ స్థాయి:",
+  "opacity": "ఒపాసిటీ:",
+  "setWallpaper": "వాల్‌పేపర్‌ను అమర్చు",
+  "manageAccount": "ఖాతాను నిర్వహించండి",
+  "aboutHomeserver": "{homeserver} గురించి",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "వెర్షన్",
+  "noContactInformationProvided": "సమాచారం అందుబాటులో లేదు",
+  "contactServerAdmin": "సర్వర్ అడ్మిన్‌ను సంప్రదించండి",
+  "name": "పేరు",
+  "surname": "ఇంటిపేరు",
+  "personalIntro": "వ్యక్తిగత పరిచయం",
+  "nameDescription": "మీ పేరు నమోదు చేయండి.",
+  "aboutYourselfDescription": "మీ గురించి కొన్ని మాటలు.",
+  "email": "ఈమెయిల్",
+  "emailForLogin": "లాగిన్ అవ్వడానికి ఉపయోగించబడుతుంది.",
+  "changeEmail": "ఈమెయిల్ మార్చు",
+  "changeEmailDescription": "పునరుద్ధరణ ఈమెయిల్‌ను మార్చవచ్చు.",
+  "bindNewEmail": "కొత్త ఈమెయిల్ జోడించు",
+  "newEmailSameAsOld": "కొత్త ఈమెయిల్ మునుపటి లాగా ఉండకూడదు",
+  "bindEmail": "ఈమెయిల్ అనుసంధానించు",
+  "bindEmailDescription": "పాస్‌వర్డ్ మార్చడానికి ఈమెయిల్‌ను అనుసంధానించవచ్చు.",
+  "enterEmail": "ఈమెయిల్ నమోదు చేయండి",
+  "enterValidEmail": "సరియైన ఈమెయిల్ నమోదు చేయండి",
+  "getVerificationCode": "ధృవీకరణ కోడ్‌ను పొందండి",
+  "verificationCode": "ధృవీకరణ కోడ్",
+  "enterVerificationCode": "ధృవీకరణ కోడ్ నమోదు చేయండి",
+  "enterCodeSentTo": "{email} కి పంపిన కోడ్‌ను ఎంటర్ చేయండి.",
+  "createPassword": "పాస్‌వర్డ్‌ను సృష్టించండి",
+  "createPasswordDescription": "ఖాతా భద్రత కోసం పాస్‌వర్డ్ అమర్చండి.",
+  "enterPassword": "పాస్‌వర్డ్ నమోదు చేయండి",
+  "enterPasswordAgain": "పాస్‌వర్డ్ మళ్లీ నమోదు చేయండి",
+  "bind": "అనుసంధానించు",
+  "walletAddress": "వాలెట్ చిరునామా",
+  "walletForLogin": "లాగిన్ కోసం ఉపయోగించబడుతుంది.",
+  "ethereumMainnetAddress": "ఈథీరియం మెయిన్‌నెట్ చిరునామా",
+  "none": "ఏమీ లేదు",
+  "username": "వాడుకరి పేరు",
+  "usernameDescription": "మీరు ప్రత్యేక వాడుకరి పేరు అమర్చుకోవచ్చు.",
+  "usernameRuleHint": "a-z, 0-9 మరియు అండర్‌స్కోర్ అనుమతించబడతాయి.",
+  "chatViaLink": "ఈ లింక్ ద్వారా చాట్ చేయవచ్చు:",
+  "contactServerSecurity": "సెక్యూరిటీ టీమ్‌ను సంప్రదించండి",
+  "supportPage": "సపోర్ట్ పేజీ",
+  "serverInformation": "సర్వర్ సమాచారం:",
+  "website": "వెబ్‌సైట్",
+  "italicText": "ఇటాలిక్ టెక్స్ట్",
+  "strikeThrough": "కొట్టివేసిన టెక్స్ట్",
+  "pleaseFillOut": "దయచేసి నింపండి",
+  "addLink": "లింక్ జోడించు",
+  "boldText": "బోల్డ్ టెక్స్ట్",
+  "invalidUrl": "చెల్లని URL",
+  "unableToJoinChat": "చాట్‌లో చేరలేకపోయాము.",
+  "sendImages": "{count} చిత్రాలను పంపు",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "కుదించు (Compress)",
+  "previous": "మునుపటి",
+  "otherPartyNotLoggedIn": "ఎదుటి వ్యక్తి లాగిన్ అయి లేనందున సందేశాలు వెళ్లవు!",
+  "appWantsToUseForLoginDescription": "సమాచారం పంచుకోవడానికి అనుమతిస్తున్నారు.",
+  "open": "తెరవండి",
+  "appWantsToUseForLogin": "'{server}' సర్వర్ ఉపయోగించి లాగిన్ చేయి",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "సర్వర్ కోసం వేచి చూస్తోంది…",
+  "synchronizingPleaseWaitCounter": " సింక్రొనైజ్ అవుతోంది… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 కొత్త చాట్ అభ్యర్థన",
+  "generalNotificationSettings": "సాధారణ నోటిఫికేషన్ సెట్టింగ్‌లు",
+  "userSpecificNotificationSettings": "ప్రత్యేక నోటిఫికేషన్ నియమాలు",
+  "notificationRuleMaster": "అన్ని నోటిఫికేషన్‌లు ఆఫ్ చేయి",
+  "notificationRuleSuppressNotices": "స్వయంచాలక సందేశాలను నిరోధించు",
+  "notificationRuleInviteForMe": "నాకు వచ్చిన ఆహ్వానాలు",
+  "notificationRuleInviteForMeDescription": "ఆహ్వానం వచ్చినప్పుడు నోటిఫై చేయి.",
+  "notificationRuleMemberEvent": "సభ్యత్వ ఈవెంట్‌లు",
+  "notificationRuleMemberEventDescription": "సభ్యత్వ ఈవెంట్‌ల నోటిఫికేషన్‌లను దాచు.",
+  "notificationRuleIsUserMention": "యూజర్ మెన్షన్",
+  "notificationRuleIsUserMentionDescription": "మిమ్మల్ని టాగ్ చేసినప్పుడు తెలియజేయి.",
+  "notificationRuleContainsDisplayName": "పేరు కలిగిన సందేశాలు",
+  "notificationRuleIsRoomMention": "గది మెన్షన్",
+  "notificationRuleRoomnotifDescription": "@room ఉపయోగించినప్పుడు తెలియజేయి.",
+  "notificationRuleTombstone": "గది రద్దు ఈవెంట్‌లు",
+  "notificationRuleRoomServerAcl": "సర్వర్ ACL నియమాలు",
+  "notificationRuleSuppressEdits": "సవరణల నోటిఫికేషన్ దాచు",
+  "notificationRuleCall": "కాల్స్",
+  "notificationRuleRoomOneToOne": "వన్‌-టు-వన్‌ చాట్‌లు",
+  "notificationRuleRoomOneToOneDescription": "వ్యక్తిగత చాట్‌లలో నోటిఫికేషన్లు చూపు.",
+  "notificationRuleEncrypted": "ఎన్‌క్రిప్టెడ్ చాట్‌లు",
+  "notificationRuleEncryptedDescription": "ఎన్‌క్రిప్ట్ చేసిన చాట్‌ల నోటిఫికేషన్లు.",
+  "notificationRuleJitsi": "Jitsi కాల్స్",
+  "notificationRuleJitsiDescription": "Jitsi ఘటనల ఆధారిత నోటిఫికేషన్లు.",
+  "notificationRuleServerAcl": "ACL ఈవెంట్‌లను దాచు",
+  "notificationRuleServerAclDescription": "సర్వర్ ACL ల నోటిఫికేషన్ల దాచివేత.",
+  "deletePushRuleCanNotBeUndone": "ఈ నోటిఫికేషన్ నియమం రద్దు రద్దుకాదు.",
+  "more": "మరిన్ని",
+  "notificationRuleReactionDescription": "రియాక్షన్ల నోటిఫికేషన్‌లను దాచు.",
+  "notificationRuleMessageDescription": "సాధారణ సందేశ నోటిఫికేషన్లు.",
+  "notificationRuleContainsUserName": "యూజర్‌నేమ్ కలిగిన సందేశాలు",
+  "otherNotificationSettings": "ఇతర నోటిఫికేషన్ సెట్టింగ్‌లు",
+  "notificationRuleContainsUserNameDescription": "మీ యూజర్‌నేమ్ కలిగిన సందేశాలను తెలియజేయి.",
+  "notificationRuleIsRoomMentionDescription": "గది మెన్షన్‌లపై హెచ్చరించు.",
+  "contentNotificationSettings": "కంటెంట్ నోటిఫికేషన్ సెట్టింగ్‌లు",
+  "notificationRuleMasterDescription": "అన్ని నోటిఫికేషన్‌లను నిలిపివేస్తుంది.",
+  "notificationRuleSuppressNoticesDescription": "బాట్‌ల సందేశాలను దాచు.",
+  "roomNotificationSettings": "రూమ్ నోటిఫికేషన్ సెట్టింగ్‌లు",
+  "notificationRuleRoomServerAclDescription": "సర్వర్ పరిమితి ఆంక్షలను దాచు.",
+  "notificationRuleContainsDisplayNameDescription": "ప్రదర్శన పేరు ఉన్నప్పుడు హెచ్చరించు.",
+  "notificationRuleRoomnotif": "గది నోటిఫికేషన్",
+  "notificationRuleTombstoneDescription": "గది ఉపసంహరణ సందేశాలు.",
+  "notificationRuleReaction": "రియాక్షన్",
+  "notificationRuleSuppressEditsDescription": "ఎడిట్ చేసిన నోటిఫికేషన్లను నిరోధించు.",
+  "notificationRuleCallDescription": "కాల్స్ నోటిఫికేషన్లు.",
+  "notificationRuleEncryptedRoomOneToOne": "ఎన్‌క్రిప్టెడ్ వన్-టు-వన్ గది",
+  "notificationRuleEncryptedRoomOneToOneDescription": "ఎన్‌క్రిప్టెడ్ చాట్‌లకు హెచ్చరికలు.",
+  "notificationRuleMessage": "సందేశం",
+  "unknownPushRule": "తెలియని పుష్ రూల్ '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "క్రాస్-వెరిఫై చేసిన పరికరాలు",
+  "shareKeysWithDescription": "ఎన్‌క్రిప్ట్ చేసిన సందేశాలు చదవడానికి నమ్మకమైన పరికరాలను ఎంచుకోండి:",
+  "shareKeysWith": "కీలు పంచుకోడానికి పరికరాలు…",
+  "allDevices": "అన్ని పరికరాలు",
+  "crossVerifiedDevicesIfEnabled": "క్రాస్-వెరిఫై చేసిన పరికరాలు",
+  "verifiedDevicesOnly": "ధృవీకరించిన పరికరాలు మాత్రమే",
+  "optionalMessage": "(ఐచ్ఛికం) సందేశం…",
+  "takeAPhoto": "ఫోటో తీయండి",
+  "recordAVideo": "వీడియో రికార్డ్ చేయండి",
+  "notSupportedOnThisDevice": "ఈ పరికరంలో మద్దతు లేదు",
+  "enterNewChat": "కొత్త చాట్‌లో ప్రవేశించండి",
+  "commandHint_roomupgrade": "గదిని నిర్దిష్ట వెర్షన్‌కు అప్‌గ్రేడ్ చేయండి",
+  "approve": "ఆమోదించు",
+  "youHaveKnocked": "మీరు చేరడానికి అభ్యర్థించారు",
+  "pleaseWaitUntilInvited": "మిమ్మల్ని ఆహ్వానించే వరకు వేచి ఉండండి.",
+  "countInvited": "{count} మంది ఆహ్వానించబడ్డారు",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "చెక్-లిస్ట్",
+  "sentVoiceMessage": "🎙️ {duration} - వాయిస్ సందేశం: {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "ప్రస్తుత పరికరం నుండి లాగ్ అవుట్ చేయి",
+  "commandHint_logoutall": "అన్ని పరికరాల నుండి లాగ్ అవుట్ చేయి",
+  "displayNavigationRail": "మోబైల్‌లో నావిగేషన్ బార్ చూపించు",
+  "customReaction": "కస్టమ్ రియాక్షన్",
+  "moreEvents": "మరిన్ని ఈవెంట్‌లు",
+  "declineInvitation": "ఆహ్వానాన్ని తిరస్కరించు",
+  "noMessagesYet": "ఇంకా సందేశాలు లేవు",
+  "longPressToRecordVoiceMessage": "వాయిస్ సందేశం రికార్డ్ చేయడానికి నొక్కి పట్టుకోండి.",
+  "pause": "పాజ్ చేయి",
+  "resume": "పునఃప్రారంభించు",
+  "removeFromSpaceDescription": "ఇది స్పేస్ నుండి మాత్రమే చాట్‌ను తొలగిస్తుంది.",
+  "countChats": "{chats} చాట్‌లు",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "{spaces} స్పేస్‌లో సభ్యులు",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "{spaces} స్పేస్‌లోని సభ్యులు చేరడానికి తట్టవచ్చు (Knock)",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "పోల్",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "పోల్ ప్రారంభించు",
+  "endPoll": "పోల్ ముగించు",
+  "editPoll": "పోల్ సవరించు",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "పోల్ తొలగించు",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "పోలింగ్ ఫలితాలు కనిపిస్తాయి",
+  "hiddenPoll": "దాచబడిన పోల్",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "పోల్ ప్రశ్న",
+  "answerOption": "ఎంపిక",
+  "addAnswerOption": "ఎంపికను జోడించు",
+  "allowMultipleAnswers": "బహుళ సమాధానాలను అనుమతించు",
+  "pollHasBeenEnded": "పోల్ ముగిసింది",
+  "startedAPoll": "{senderName} ఒక పోల్ ప్రారంభించారు",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count} ఓట్లు",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "పోల్ ముగిసిన తర్వాత ఫలితాలు కనిపిస్తాయి",
+  "active": "యాక్టివ్",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "ముగిసింది",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "థ్రెడ్",
+  "replyInThread": "థ్రెడ్‌లో సమాధానమివ్వు",
+  "countReplies": "{count} సమాధానాలు",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "ప్రధాన చాట్‌కి తిరిగి వెళ్ళు",
+  "saveChanges": "మార్పులను సేవ్ చేయి",
+  "createSticker": "స్టిక్కర్ లేదా ఎమోజీ సృష్టించు",
+  "useAsSticker": "స్టిక్కర్‌గా ఉపయోగించు",
+  "useAsEmoji": "ఎమోజీగా ఉపయోగించు",
+  "stickerPackNameAlreadyExists": "ఈ స్టిక్కర్ ప్యాక్ పేరు ఇప్పటికే ఉనికిలో ఉంది",
+  "newStickerPack": "కొత్త స్టిక్కర్ ప్యాక్",
+  "stickerPackName": "స్టిక్కర్ ప్యాక్ పేరు",
+  "attribution": "కర్తృత్వం",
+  "skipChatBackup": "చాట్ బ్యాకప్‌ను దాటవేయి",
+  "skipChatBackupWarning": "మీరు ఖచ్చితంగా దాటవేయాలనుకుంటున్నారా?",
+  "changedTheChatDescription": "{username} చాట్ వివరణను మార్చారు",
+  "changedTheChatName": "{username} చాట్ పేరు మార్చారు",
+  "noMoreResultsFound": "ఇకపై ఎటువంటి ఫలితాలు లభించలేదు",
+  "chatSearchedUntil": "{time} వరకు చాట్ శోధన పూర్తయింది",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "ఫెడరేషన్ బేస్ URL",
+  "clientWellKnownInformation": "క్లయింట్ వెల్-నోన్ సమాచారం:",
+  "baseUrl": "బేస్ URL",
+  "identityServer": "ఐడెంటిటీ సర్వర్:",
+  "versionWithNumber": "వెర్షన్: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "లాగ్‌లు",
+  "advancedConfigs": "అధునాతన కాన్ఫిగరేషన్‌లు",
+  "advancedConfigurations": "అధునాతన కాన్ఫిగరేషన్‌లు",
+  "signIn": "సైన్ ఇన్",
+  "createNewAccount": "కొత్త ఖాతాను సృష్టించండి",
+  "signUpGreeting": "NYX వికేంద్రీకృతమైనది! సర్వర్‌ను ఎంచుకోండి.",
+  "signInGreeting": "మ్యాట్రిక్స్ ఖాతా ఉందా? తిరిగి స్వాగతం!",
+  "theProcessWasCanceled": "ప్రక్రియ రద్దు చేయబడింది.",
+  "join": "చేరండి",
+  "searchOrEnterHomeserverAddress": "హోమ్‌సర్వర్ చిరునామాను వెతకండి లేదా ఎంటర్ చేయండి",
+  "matrixId": "మ్యాట్రిక్స్ ID",
+  "setPowerLevel": "పవర్ లెవల్‌ను అమర్చు",
+  "makeModerator": "మోడరేటర్‌గా చేయి",
+  "makeAdmin": "అడ్మిన్‌గా చేయి",
+  "removeModeratorRights": "మోడరేటర్ హక్కులను తీసివేయి",
+  "removeAdminRights": "అడ్మిన్ హక్కులను తీసివేయి",
+  "powerLevel": "పవర్ లెవెల్",
+  "setPowerLevelDescription": "వినియోగదారులు గదిలో ఏమి చేయవచ్చో నిర్ణయిస్తుంది.",
+  "owner": "యజమాని",
+  "mute": "మ్యూట్",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "కొత్త చాట్‌ను ప్రారంభించండి",
+  "reset": "రీసెట్",
+  "supportFluffyChat": "NYX కి మద్దతు ఇవ్వండి",
+  "support": "మద్దతు",
+  "setLowPriority": "తక్కువ ప్రాధాన్యతగా అమర్చు",
+  "unsetLowPriority": "తక్కువ ప్రాధాన్యతను తొలగించు",
+  "playSoundOnNotification": "నోటిఫికేషన్ వచ్చినప్పుడు శబ్దం రానివ్వండి",
+  "addTag": "ట్యాగ్ జోడించు",
+  "removeTag": "ట్యాగ్ తొలగించు",
+  "tagName": "ట్యాగ్ పేరు",
+  "createNewTag": "కొత్త ట్యాగ్ సృష్టించు",
+  "discardEdits": "మార్పులను రద్దు చేయాలనుకుంటున్నారా?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "స్పేస్‌లలోని గదులను దాచు",
+  "possibleByYou": "మీ మద్దతు వల్లే ఇది సాధ్యమైంది.",
+  "showThumbnailsInTimeline": "థంబ్‌నెయిల్‌లను చూపించు",
+  "appSubtitle": "సురక్షితమైన మ్యాట్రిక్స్ కమ్యూనికేషన్",
+  "appDescription": "వికేంద్రీకృత నెట్‌వర్క్ ద్వారా సురక్షిత సంభాషణలు.",
+  "interactiveVerification": "ఇంటరాక్టివ్ ధృవీకరణ",
+  "interactiveVerificationDescription": "ఎమోజీలు లేదా అంకెలు పోల్చి పరికరాలను ధృవీకరించండి.",
+  "countUnverifiedDevices": "ఈ చాట్‌లో {count} ధృవీకరించని పరికరాలు ఉన్నాయి.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "ఎన్‌క్రిప్ట్ చేసిన సందేశం",
+  "unencryptedMessage": "ఎన్‌క్రిప్ట్ చేయని సందేశం",
+  "publicKey": "పబ్లిక్ కీ: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "పరికర గుర్తింపు కీ",
+  "showMore": "మరిన్ని చూపు",
+  "showLess": "తక్కువ చూపు",
+  "restoreBootstrapEmptyDevicesDescription": "పరికరాన్ని ధృవీకరించడానికి పునరుద్ధరణ కీని ఎంటర్ చేయండి.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "ఈ సెషన్‌ను ధృవీకరించడానికి మరొక పరికరాన్ని ఎంచుకోండి:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "ఖాతాను రీసెట్ చేయి",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "క్రిప్టో గుర్తింపును పునరుద్ధరించు",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "క్రిప్టో గుర్తింపును రీసెట్ చేయి",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "క్రిప్టో గుర్తింపును అమర్చు",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "కీల కోసం వేచి చూస్తోంది…",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "ఏ కీలు బదిలీ కాలేదు.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "అన్‌లాక్ చేయి",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "ఫైల్‌ను తెరవండి",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "ఖాతా రీసెట్ చేయడం వల్ల పాత సందేశాల యాక్సెస్ కోల్పోతారు.",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "మీ డేటా రక్షణ కోసం బలమైన రహస్యపదం ఎంచుకోండి.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "కొత్త రహస్యపదం",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "రహస్యపదాన్ని మళ్లీ నమోదు చేయండి",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "రహస్యపదాలు సరిపోలాయి",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "కనీసం 12 అక్షరాలు ఉండాలి.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "పెద్ద మరియు చిన్న అక్షరాలు ఉండాలి.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "ప్రత్యేక అక్షరాలు ఉండాలి.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "కనీసం ఒక సంఖ్య ఉండాలి.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "పునరుద్ధరణ కీని సురక్షితంగా దాచుకోండి.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "ఫైల్‌గా భద్రపరచు",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "ప్రారంభించడానికి సిద్ధంగా ఉన్నారు!",
+  "noUserKeyFound": "వినియోగదారు కీ కనుగొనబడలేదు",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "సంతకం చేయని పరికరం",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "సంతకం చేసిన పరికరం",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Curve25519 కీ దొరకలేదు",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "సందేశం డిక్రిప్ట్ చేయలేనిది",
+  "knownSince": "తెలిసిన తేదీ: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "ఈ సందేశం ఎండ్-టు-ఎండ్ ఎన్‌క్రిప్ట్ చేయబడింది.",
+  "messageCanOnlyBeReadByUsers": "ఈ సందేశం ఈ వినియోగదారులకు మాత్రమే అందుబాటులో ఉంటుంది.",
+  "today": "ఈరోజు",
+  "sending": "పంపుతోంది",
+  "generatingThumbnail": "థంబ్‌నెయిల్ సృష్టిస్తోంది",
+  "encrypting": "ఎన్‌క్రిప్ట్ చేస్తోంది",
+  "uploading": "అప్‌లోడ్ చేస్తోంది",
+  "edited": "(సవరించబడింది)",
+  "couldNotBeSent": "పంపడం సాధ్యపడలేదు",
+  "yesterday": "నిన్న",
+  "resetRecoveryKey": "పునరుద్ధరణ కీని రీసెట్ చేయి",
+  "pleaseEnter6Digits": "యాప్ లాక్ కోసం 6 అంకెలు ఎంటర్ చేయండి.",
+  "disableAppLock": "పాస్‌కోడ్‌ను నిలిపివేయి",
+  "disableAppLockAreYouSure": "యాప్ లాక్‌ను నిలిపివేయాలా?",
+  "enableBiometrics": "బయోమెట్రిక్స్‌ని ప్రారంభించు",
+  "disableBiometrics": "బయోమెట్రిక్స్‌ని నిలిపివేయి",
+  "biometricsDescription": "ఫింగర్ ప్రింట్ లేదా ఫేస్ అన్‌లాక్ ని ఉపయోగించండి.",
+  "useAppLock": "యాప్ లాక్ ఉపయోగించు",
+  "unlockWithBiometrics": "బయోమెట్రిక్స్‌తో అన్‌లాక్ చేయండి",
+  "resetPin": "పిన్ రీసెట్ చేయి",
+  "forwardCountMessages": "{count} సందేశాలను ఫార్వర్డ్ చేయాలా?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "చిత్రాన్ని సవరించు",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "ఎడమవైపు తిప్పు",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "కుడివైపు తిప్పు",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "మిర్రర్ చేయి",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "భద్రపరచు",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "చిత్రించు",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "రద్దు చేయి (Undo)",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "క్లియర్ చేయి",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "రబ్బరు (Eraser)",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "క్రాప్ చేయి",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "సందేశాలను లోడ్ చేస్తోంది…",
+  "buildDoesNotSupportFirebase": "ఫైర్‌బేస్‌కు మద్దతు లేదు.",
+  "unableToRegisterDeviceForFirebase": "ఫైర్‌బేస్‌కు రిజిస్టర్ కాలేకపోయింది.",
+  "unifiedPushDistributors": "యూనిఫైడ్ పుష్ పంపిణీదారులు:",
+  "doubleTapToReact": "రియాక్ట్ అవ్వడానికి రెండుసార్లు నొక్కండి",
+  "doubleTapToReactDescription": "డబుల్ టాప్ చేసి రియాక్షన్లు ఇవ్వండి.",
+  "doubleTapReaction": "డబుల్ టాప్ రియాక్షన్",
+  "sendingFilesDoNotExit": "{count} ఫైళ్లు పంపబడుతున్నాయి... బయటకు వెళ్లకండి!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "వీడియో కుదించబడుతోంది…",
+  "shareCrashReports": "యాప్ క్రాష్ నివేదికలు షేర్ చేయి",
+  "shareCrashReportsDescription": "క్రాష్ నివేదికలు పంపాలా?",
+  "videoCallsBetaWarning": "వీడియో కాల్స్ బీటా దశలో ఉన్నాయి.",
+  "callNotAllowed": "అడ్మిన్‌లు మాత్రమే కాల్ ప్రారంభించగలరు.",
+  "countActiveCallMembers": "కాల్‌లో {count} మంది క్రియాశీలకంగా ఉన్నారు",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "కాల్‌లో చేరండి",
+  "noDevicesFound": "పరికరాలు ఏవీ దొరకలేదు",
+  "incomingCall": "వస్తున్న కాల్",
+  "waitingForParticipant": "సభ్యుల కోసం వేచి చూస్తోంది…",
+  "decline": "తిరస్కరించు",
+  "videoCall": "వీడియో కాల్",
+  "voiceCall": "వాయిస్ కాల్",
+  "previewImage": "[చిత్రం]",
+  "previewVideo": "[వీడియో]",
+  "previewVoice": "[వాయిస్ మెసేజ్]",
+  "previewAudio": "[ఆడియో]",
+  "previewFile": "[ఫైల్]",
+  "previewLocation": "[లొకేషన్]",
+  "previewSticker": "[స్టిక్కర్]",
+  "previewVoiceCall": "[వాయిస్ కాల్]",
+  "previewVideoCall": "[వీడియో కాల్]",
+  "missedCall": "మిస్డ్ కాల్",
+  "callBack": "తిరిగి కాల్ చేయండి",
+  "hangUp": "కాల్ ముగించు",
+  "startCall": "కాల్ ప్రారంభించు",
+  "selectCamera": "కెమెరాను ఎంచుకోండి",
+  "selectMicrophone": "మైక్రోఫోన్‌ను ఎంచుకోండి",
+  "selectSpeaker": "స్పీకర్‌ను ఎంచుకోండి",
+  "toggleMicrophone": "మైక్రోఫోన్‌ను ఆన్/ఆఫ్ చేయండి",
+  "toggleCamera": "కెమెరాను ఆన్/ఆఫ్ చేయండి",
+  "startScreensharing": "స్క్రీన్ షేరింగ్ ప్రారంభించు",
+  "stopScreensharing": "స్క్రీన్ షేరింగ్ నిలిపివేయి",
+  "raiseHand": "చెయ్యి ఎత్తండి",
+  "stopRaiseHand": "చెయ్యి దించండి",
+  "preferSpeaker": "స్పీకర్‌కు ప్రాధాన్యత ఇవ్వు",
+  "unexpectedErrorOccurded": "అనుకోని లోపం జరిగింది: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "ఖాతాలు & సెట్టింగ్‌లు",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "{user} నుండి కాల్ వస్తోంది",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "సర్వర్ లోపం ఇచ్చింది: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "వెర్షన్ {version} అప్‌డేట్ అందుబాటులో ఉంది",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "డౌన్‌లోడ్",
+  "sharedLocation": "పంచుకున్న లొకేషన్",
+  "contacts": "పరిచయాలు",
+  "groupChats": "గ్రూప్ చాట్‌లు",
+  "publicGroups": "పబ్లిక్ గ్రూప్‌లు",
+  "createGroupChat": "గ్రూప్ చాట్ సృష్టించు",
+  "inviteFriends": "స్నేహితులను ఆహ్వానించండి",
+  "emptyChatsTitle": "ఇంకా చాట్‌లు లేవు",
+  "emptyChatsDesc": "కొత్త చాట్ కోసం + నొక్కండి",
+  "emptyUsersTitle": "నేరు సందేశాలు లేవు",
+  "emptyUsersDesc": "ఫిల్టర్‌లను తీసివేయవచ్చు",
+  "emptyUnreadTitle": "చదవని సందేశాలు లేవు",
+  "emptyUnreadDesc": "చాట్‌ను పిన్ చేయవచ్చు",
+  "emptyGroupChatsTitle": "గ్రూప్‌లలో చేరలేదు",
+  "emptyGroupChatsDesc": "ఇతర గ్రూప్‌లను చూడవచ్చు",
+  "emptyPinnedTitle": "పిన్ చేసిన చాట్‌లు లేవు",
+  "emptyPinnedDesc": "ముఖ్యమైన వాటిని పిన్ చేయవచ్చు",
+  "startChat": "చాట్ ప్రారంభించు",
+  "newGroupChat": "కొత్త గ్రూప్ చాట్",
+  "invitedYouToJoinGroup": "{username} గ్రూప్‌లోకి ఆహ్వానించారు",
+  "joinGroupBannerTitle": "గ్రూప్‌లో చేరండి",
+  "joinGroupBannerDesc": "అన్ని గ్రూప్‌లు ఇక్కడ ప్రదర్శించబడతాయి.",
+  "certifiedGroups": "{count} ధృవీకరించిన గ్రూప్‌లు",
+  "membersCount": "{count} సభ్యులు",
+  "recentlyOnline": "ఇటీవల ఆన్‌లైన్‌లో ఉన్నారు",
+  "lastSeenLongAgo": "చాలా కాలం క్రితం చూశారు",
+  "appearance": "రూపురేఖలు (Appearance)",
+  "language": "భాష",
+  "selectLanguage": "భాషను ఎంచుకోండి",
+  "privacyAndSecurity": "గోప్యత & భద్రత",
+  "qrScanRecognizing": "గుర్తిస్తోంది...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "గడువు ముగిసింది",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "QR కోడ్ కనుగొనబడలేదు",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "QR కోడ్ ఖాళీగా ఉంది",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "గుర్తింపు విఫలమైంది",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "చెల్లని QR కోడ్",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "ఇది మీ స్వంత QR కోడ్",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "ఆహ్వానాన్ని తిరస్కరించు",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "{groupName} ఆహ్వానాన్ని తిరస్కరించాలా?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "కెమెరా",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "ఫోటోలు & వీడియోలు",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "ఫైల్",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "ఆన్‌లైన్",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "ఆఫ్‌లైన్",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "సందేశం తొలగించబడింది",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "మీరు ఒక సందేశాన్ని తొలగించారు",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} ఒక సందేశాన్ని తొలగించారు",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "ఫైల్ సేవ్ చేయబడింది",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "గ్యాలరీకి సేవ్ చేయబడింది",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "ఫైల్ తెరుచుకోలేదు",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "తెలియని ఫైల్",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "మిస్డ్ వీడియో కాల్",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "కాల్ రద్దు చేయబడింది",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "కాల్‌లో {count} మంది ఉన్నారు",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "కాల్‌లో చేరండి",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "సభ్యుల కోసం వేచి చూస్తోంది…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "అడ్మిన్‌లు మాత్రమే కాల్ ప్రారంభించగలరు",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "ఇది జాబితా నుండి మాత్రమే తీసివేస్తుంది.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "గ్రూప్ చాట్ శాశ్వతంగా తొలగించబడుతుంది.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "అనువదించు",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "అనువదిస్తోంది…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "అనువాదం విఫలమైంది",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "కొనసాగుతున్న కాల్",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "కాల్ జరుగుతున్నప్పుడు కనిపిస్తుంది",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "తిరిగి కాల్‌కు వెళ్ళడానికి క్లిక్ చేయండి",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "ఎదుటి వారు కాల్ రద్దు చేశారు",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "వీడియో కాల్ రద్దు చేయబడింది",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "ఎదుటి వారు వీడియో కాల్ రద్దు చేశారు",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "వెనుకకు",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "రింగ్ అవుతోంది…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "కనెక్ట్ అవుతోంది…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "కాల్ ముగిసింది",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "కాల్ విఫలమైంది",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "స్పీకర్",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "ఇయర్ పీస్",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "కెమెరా తిప్పు",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "వీడియో",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "మైక్రోఫోన్ నిలిపివేయబడింది",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "ముగించు",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "నేను",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "వెళ్తున్న కాల్",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds}సె",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes}ని",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours}గం {minutes}ని",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "నా పాత్రను మార్చు",
+  "permissions": "అనుమతులు",
+  "changeMyRoleConfirmMessage": "మీరు మీ అనుమతి స్థాయిని తగ్గిస్తున్నారు.",
+  "demoteToAdmin": "అడ్మిన్‌గా తగ్గించు",
+  "demoteToModerator": "మోడరేటర్‌గా తగ్గించు",
+  "demoteToMember": "సభ్యుడిగా తగ్గించు",
+  "addAdmin": "అడ్మిన్‌ను జోడించు",
+  "addModerator": "మోడరేటర్‌ను జోడించు",
+  "groupAdmins": "గ్రూప్ అడ్మిన్‌లు",
+  "groupModerators": "గ్రూప్ మోడరేటర్‌లు",
+  "addAdminHelp": "కమ్యూనిటీని నిర్వహించడానికి అడ్మిన్‌లను నియమించండి.",
+  "addModeratorHelp": "కమ్యూనిటీని నిరీక్షించడానికి మోడరేటర్‌లను నియమించండి.",
+  "noCandidatesToAdd": "సభ్యులెవరూ అందుబాటులో లేరు",
+  "setAsAdminSuccess": "అడ్మిన్‌గా నియమించబడ్డారు",
+  "setAsModeratorSuccess": "మోడరేటర్‌గా నియమించబడ్డారు",
+  "searchMembers": "సభ్యులను వెతకండి",
+  "noResults": "ఏమీ దొరకలేదు",
+  "noResultsDescription": "తగిన ఫలితాలు లభించలేదు.",
+  "removeAdminConfirm": "అడ్మిన్ అనుమతులను తీసివేయాలా?",
+  "removeModeratorConfirm": "మోడరేటర్ అనుమతులను తీసివేయాలా?",
+  "removeAdminSuccess": "అడ్మిన్ అనుమతులు తీసివేయబడ్డాయి",
+  "removeModeratorSuccess": "మోడరేటర్ అనుమతులు తీసివేయబడ్డాయి",
+  "manageMembers": "సభ్యులను నిర్వహించండి",
+  "inviteMembers": "సభ్యులను ఆహ్వానించండి",
+  "removeMembers": "సభ్యులను తొలగించండి",
+  "banMembers": "సభ్యులను నిషేధించండి",
+  "editCommunity": "కమ్యూనిటీని సవరించండి",
+  "changeCommunityName": "కమ్యూనిటీ పేరు మార్చండి",
+  "changeCommunityAvatar": "కమ్యూనిటీ అవతార్ మార్చండి",
+  "changeCommunityDescription": "కమ్యూనిటీ వివరణను మార్చండి",
+  "messagesAndContent": "సందేశాలు & కంటెంట్",
+  "removeMessages": "సందేశాలను తొలగించండి",
+  "adminsOnly": "అడ్మిన్‌లు మాత్రమే",
+  "adminsAndModerators": "అడ్మిన్‌లు మరియు మోడరేటర్‌లు",
+  "resetPermissions": "అనుమతులను రీసెట్ చేయి",
+  "resetPermissionsConfirmMessage": "అనుమతులను డిఫాల్ట్‌గా రీసెట్ చేయాలా?",
+  "changeSettings": "సెట్టింగ్‌లను మార్చండి",
+  "permissionChangedFromTo": "{sender} {permission} అనుమతిని మార్చారు",
+  "changedUserRoleTo": "{username} {target} పాత్రను {role} కు మార్చారు",
+  "viewInChat": "చాట్‌లో చూడండి",
+  "playbackSpeed": "ప్లేబ్యాక్ వేగం",
+  "normalSpeed": "సాధారణం",
+  "qrScanHint": "స్కాన్ చేయడానికి QR కోడ్‌ను ఫ్రేమ్‌లో ఉంచండి",
+  "torch": "ఫ్లాష్ లైట్",
+  "remarkVisibleOnlyToYou": "ఈ గమనిక మీకు మాత్రమే కనిపిస్తుంది",
+  "pollVotes": "{count} ఓట్లు",
+  "totalPollVotes": "మొత్తం {count} ఓట్లు",
+  "scanQrMobileOnly": "మొబైల్‌లలో మాత్రమే QR స్కాన్ మద్దతు ఉనికిలో ఉంది",
+  "publicGroupTech": "సాంకేతికత & అభివృద్ధి సేవలు",
+  "publicGroupMarketing": "మార్కెటింగ్ & ప్రకటనలు",
+  "publicGroupWeb3": "Web3 & డిజిటల్ అసెట్స్",
+  "publicGroupCrossBorder": "అంతర్జాతీయ సేవలు",
+  "publicGroupFreelance": "ఫ్రీలాన్స్ సేవలు",
+  "blockUsers": "వినియోగదారులను బ్లాక్ చేయండి",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "స్క్రీన్ లాక్ పాస్‌కోడ్",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "లాగిన్ పాస్‌వర్డ్",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "పునరుద్ధరణ కీ",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "కీల భద్రతను అనుమతించు",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "సర్వర్‌లో మీ ఎన్‌క్రిప్షన్ కీలను భద్రపరచండి.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "పునరుద్ధరణను అమర్చు",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "చాట్ బ్యాకప్‌ను రీస్టోర్ చేయడానికి రీకవరీ కీ అమర్చుకోండి.",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "పునరుద్ధరణ కీని అమర్చు",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "కొత్త పరికరాలలో సందేశాలు పొందడానికి కీ భద్రపరచండి.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "పునరుద్ధరణ కీని సృష్టించు",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "పునరుద్ధరణ కీని కాపీ చేయడానికి క్లిక్ చేయండి",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "పునరుద్ధరణ కీని భద్రపరచు",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "పునరుద్ధరణ కీని భద్రమైన చోట ఉంచండి.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "పునరుద్ధరణ కీని భద్రపరచు",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "పునరుద్ధరణ కీ కాపీ చేయబడింది",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "పునరుద్ధరణ కీ భద్రపరచబడింది",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "పునరుద్ధరణ కీని సృష్టిస్తోంది…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "ఆన్‌లైన్ స్థితిని పంచుకోండి",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "నోటిఫికేషన్‌లు మరియు రీడ్ రసీదులను నియంత్రించండి.",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "అప్‌లోడ్ కోసం అనుకూలమైనది",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "కంటెంట్ పర్యవేక్షణ & భద్రత",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "అవతార్‌ను దాచు",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "మీడియాని టైమ్‌లైన్‌లో చూపు",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "ఎల్లప్పుడూ దాచు",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "ప్రైవేట్ చాట్‌లలో",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "ఎల్లప్పుడూ చూపించు",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "అన్నిటినీ హెచ్చరించు",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "టాగ్స్ మాత్రమే",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "గ్రూప్ చాట్",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "ప్రైవేట్ చాట్",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "గ్రూప్ చాట్‌లలో తెలియజేయి",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "ప్రైవేట్ చాట్‌లలో తెలియజేయి",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "అన్ని సందేశాలు",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "టాగ్లు మరియు ముఖ్య పదాలు మాత్రమే",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "ఎన్‌క్రిప్ట్ చేసిన గ్రూప్‌లలో సపోర్ట్ అందుబాటులో ఉండకపోవచ్చు.",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "ప్రతి చాట్‌కు ప్రత్యేక సెట్టింగ్‌లు",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "ఇది డిఫాల్ట్ సెట్టింగ్‌లను అధిగమిస్తుంది.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "ఈ చాట్‌లో తెలియజేయి",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "టాగ్లు మరియు ముఖ్య పదాలు మాత్రమే",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "ఎన్‌క్రిప్టెడ్ చాట్‌ల పరిమితులు ఉనికిలో ఉన్నాయి.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "కస్టమ్ సెట్టింగ్‌లను అనుమతించు",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "ఈ పరికరంలో తెలియజేయి",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "టాగ్స్ (Mentions)",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "గ్రూప్‌లో టాగ్ చేసినప్పుడు తెలియజేయి",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "మరిన్ని సెట్టింగ్‌లు",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "పాత పాస్‌వర్డ్",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "పాస్‌కోడ్ లాక్",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "స్క్రీన్ లాక్‌ను ప్రారంభించు",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "లాక్ పాస్‌కోడ్‌ను నమోదు చేయండి",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "కొత్త పాస్‌కోడ్‌ను మళ్లీ నమోదు చేయండి",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "పాత పాస్‌కోడ్‌ను నమోదు చేయండి",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "పాత పాస్‌కోడ్ తప్పు, మళ్లీ ప్రయత్నించండి",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "పాస్‌కోడ్‌ను మార్చండి",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "గమనిక: పాస్‌కోడ్ మర్చిపోతే యాప్‌ను మళ్లీ ఇన్‌స్టాల్ చేయాలి.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "పాస్‌కోడ్‌లు సరిపోలడం లేదు",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "స్క్రీన్ లాక్ పాస్‌కోడ్ ప్రారంభించబడింది",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "స్క్రీన్ లాక్ పాస్‌కోడ్ నిలిపివేయబడింది",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "ఈ పరికరం",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "మిగిలిన పరికరాల సెషన్‌లను లాగ్ అవుట్ చేయి",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "ఈ పరికరం తప్ప మిగతా పరికరాల నుండి లాగ్ అవుట్ చేస్తుంది.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "క్రియాశీల సెషన్‌లు",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "పరికరాన్ని తొలగించు",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "{name} పరికరాన్ని తొలగించాలా?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "పరికర ID",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "చివరిగా లాగిన్ అయినది",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "IP చిరునామా",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "క్లయింట్ వివరాలు",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "క్లయింట్ ID",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "పేరు",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "పరికరాన్ని తీసివేయి",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} క్రితం",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "నిమిషాలు",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "గంటలు",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "రోజులు",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "{appName} కి స్వాగతం",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "{appName} ని ఉపయోగించినందుకు ధన్యవాదాలు.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "ఖాతాను సృష్టించండి",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "నవీకరణ సిద్ధంగా ఉంది",
+  "updateReadyMessage": "మేము కొన్ని ఫీచర్‌లను ఆప్టిమైజ్ చేసాము. నవీకరణను వర్తింపజేయడానికి యాప్‌ను తిరిగి ప్రారంభించండి.",
+  "restartNow": "ఇప్పుడే తిరిగి ప్రారంభించండి",
+  "noPublicGroupsYet": "ఇంకా ధృవీకరించబడిన సమూహాలు లేవు"
+}

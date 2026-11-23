@@ -1,0 +1,4088 @@
+{
+  "@@locale": "el",
+  "@@last_modified": "2026-11-02 19:12:00.000000",
+  "about": "Σχετικά",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Αποδοχή",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 Ο/Η {username} αποδέχθηκε την πρόσκληση",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Λογαριασμός",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 Ο/Η {username} ενεργοποίησε την κρυπτογράφηση άκρου σε άκρο",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Προσθήκη email",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Διαχειριστής",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Ψευδώνυμο",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Όλα",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "Ο/Η {senderName} απάντησε την κλήση",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Οποιοσδήποτε μπορεί να συμμετάσχει",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Κλείδωμα εφαρμογής",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Αρχειοθέτηση",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Επιτρέπεται η είσοδος σε επισκέπτες;",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Είστε βέβαιοι;",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε;",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Εισαγάγετε τη συνθηματική φράση ή το κλειδί ανάκτησης για υπογραφή.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Αποδοχή αιτήματος επαλήθευσης από {username};",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Ο διακομιστής υποστηρίζει τύπους σύνδεσης:\n{serverVersions}\nΑλλά αυτή η εφαρμογή υποστηρίζει μόνο:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Αποκλεισμός από τη συνομιλία",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Αποκλεισμός μέλους",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Αποκλεισμένος/η",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "Ο/Η {username} απέκλεισε τον/την {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Αποκλεισμός συσκευής",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Αποκλεισμένος/η",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Ακύρωση",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Αλλαγή ονόματος συσκευής",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "Ο/Η {username} άλλαξε την εικόνα συνομιλίας",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "Ο/Η {username} άλλαξε δικαιώματα συνομιλίας",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "Ο/Η {username} άλλαξε το όνομα σε: '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "Ο/Η {username} άλλαξε τους κανόνες πρόσβασης επισκεπτών",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "Ο/Η {username} άλλαξε τους κανόνες πρόσβασης επισκεπτών σε: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "Ο/Η {username} άλλαξε την ορατότητα ιστορικού",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "Ο/Η {username} άλλαξε την ορατότητα ιστορικού σε: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "Ο/Η {username} άλλαξε τους κανόνες συμμετοχής",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "Ο/Η {username} άλλαξε τους κανόνες συμμετοχής σε: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "Ο/Η {username} άλλαξε την εικόνα προφίλ",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "Ο/Η {username} άλλαξε τα ψευδώνυμα δωματίου",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "Ο/Η {username} άλλαξε τον σύνδεσμο πρόσκλησης",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Αλλαγή κωδικού πρόσβασης",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Αλλαγή κύριου διακομιστή",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Αλλαγή θέματος",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Αλλαγή ονόματος ομάδας",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Αλλαγή εικόνας προφίλ",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "Η κρυπτογράφηση έχει καταστραφεί",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Συνομιλία",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Αντίγραφο ασφαλείας συνομιλίας",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Λεπτομέρειες συνομιλίας",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Συνομιλίες",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Επιλέξτε έναν ισχυρό κωδικό πρόσβασης",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Εκκαθάριση αρχείου",
+  "close": "Κλείσιμο",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Αποκλεισμός χρήστη από το δωμάτιο",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Αποστολή κειμένου με μορφοποίηση HTML",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Πρόσκληση χρήστη στο δωμάτιο",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Συμμετοχή σε δωμάτιο",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Αφαίρεση χρήστη από το δωμάτιο",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Αποχώρηση από το δωμάτιο",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Παρουσίαση του εαυτού σας",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Ορισμός εικόνας προφίλ για αυτό το δωμάτιο (mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Ορισμός ψευδώνυμου για αυτό το δωμάτιο",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Ορισμός επιπέδου δικαιωμάτων χρήστη (προεπιλογή: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Αποστολή απλού κειμένου",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Αποστολή αλληλεπίδρασης ως απάντηση",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Αποστολή κειμένου",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Άρση αποκλεισμού χρήστη από το δωμάτιο",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Μη έγκυρη εντολή",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "Το {command} δεν είναι εντολή.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Συγκρίνετε τα emoji",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Συγκρίνετε τους αριθμούς",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Διαμόρφωση συνομιλίας",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "Η επαφή προσκλήθηκε στην ομάδα",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Το περιεχόμενο αναφέρθηκε στους διαχειριστές",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Αντιγράφηκε στο πρόχειρο",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Αντιγραφή",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Αντιγραφή στο πρόχειρο",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Αδυναμία αποκρυπτογράφησης μηνύματος: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Αποτυχία αποκρυπτογράφησης, δοκιμάστε ξανά αργότερα",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} συμμετέχοντες",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Δημιουργία",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 Ο/Η {username} δημιούργησε τη συνομιλία",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Ενεργός/ή τώρα",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "Σκούρο",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Αυτό θα απενεργοποιήσει τον λογαριασμό σας. Η ενέργεια δεν αναιρείται! Είστε βέβαιοι;",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Προεπιλεγμένο επίπεδο δικαιωμάτων νέων χρηστών",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Διαγραφή",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Διαγραφή λογαριασμού",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Διαγραφή μηνύματος",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Διαγραφή όλων των μηνυμάτων",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Εκκαθάριση ιστορικού συνομιλίας",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Θέλετε οριστικά να διαγράψετε όλα τα μηνύματα; Η ενέργεια δεν αναιρείται.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Θέλετε να καθαρίσετε το ιστορικό συνομιλίας; Η ενέργεια δεν αναιρείται.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Ενεργοποίηση αυτόματης διαγραφής",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Αυτόματη διαγραφή νέων μηνυμάτων μετά από καθορισμένο χρόνο",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 ημέρα",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 εβδομάδα",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 μήνας",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Απενεργοποίηση",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Συσκευές",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Προσωπικές συνομιλίες",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Το εμφανιζόμενο όνομα αλλάχθηκε",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Λήψη αρχείου",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Επεξεργασία",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Επεξεργασία αποκλεισμένων διακομιστών",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Επεξεργασία εμφανιζόμενου ονόματος",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Επεξεργασία ψευδώνυμων δωματίου",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Επεξεργασία εικόνας δωματίου",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Το emoji υπάρχει ήδη!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Μη έγκυρος σύντομος κωδικός emoji!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Σύντομος κωδικός emoji",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Κενή συνομιλία",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Ενεργοποίηση emoji παγκόσμια",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Ενεργοποίηση κρυπτογράφησης",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Δεν θα μπορείτε να απενεργοποιήσετε την κρυπτογράφηση αργότερα. Συνέχεια;",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Κρυπτογραφημένο",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Κρυπτογράφηση",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Η κρυπτογράφηση δεν είναι ενεργοποιημένη",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "Ο/Η {senderName} τερμάτισε την κλήση",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Εισαγάγετε διεύθυνση email",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Μέγεθος γραμματοσειράς",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Προώθηση",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "Προωθήθηκε",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Από τη στιγμή συμμετοχής",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Από τη στιγμή πρόσκλησης",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Ομάδα",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Η ομάδα είναι δημόσια",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Ομάδες",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Ομάδα με {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Απαγορεύεται η είσοδος σε επισκέπτες",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Επιτρέπεται η είσοδος σε επισκέπτες",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "Ο/Η {username} απέσυρε την πρόσκληση για τον/την {targetName}",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Βοήθεια",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Απόκρυψη άγνωστων συμβάντων",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Παράβλεψη",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Αγνοημένοι χρήστες",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Έχω κάνει κλικ στον σύνδεσμο",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Λανθασμένη συνθηματική φράση ή κλειδί ανάκτησης",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Πρόσκληση επαφής",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Πρόσκληση επαφής στην ομάδα {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Προσκλήθηκε",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 Ο/Η {username} προσκάλεσε τον/την {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Μόνο προσκεκλημένοι χρήστες",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "Ο/Η {username} σας προσκαλεί στο NYX. \n1. Εγκαταστήστε το NYX: https://fluffychat.im \n2. Εγγραφείτε ή συνδεθείτε \n3. Ανοίξτε τον σύνδεσμο πρόσκλησης: \n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "πληκτρολογεί...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 Ο/Η {username} συμμετέχει στη συνομιλία",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Συμμετοχή στο δωμάτιο",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Εισαγάγετε διεύθυνση δωματίου",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "Π.χ. !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Μη έγκυρη διεύθυνση!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Το δωμάτιο δεν βρέθηκε!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Αποτυχία συμμετοχής στο δωμάτιο",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Βρέθηκε αντιστοιχία δωματίου",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Συνέχεια",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Δεν υπάρχει περιγραφή",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Αίτημα συμμετοχής",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Είσοδος στο δωμάτιο",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Περιγραφή",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 Ο/Η {username} απομάκρυνε τον/την {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 Ο/Η {username} απομάκρυνε και απέκλεισε τον/την {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Απομάκρυνση από τη συνομιλία",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Έχετε αφαιρεθεί από αυτή την ομάδα",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Αφαίρεση μέλους",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Τελευταία δραστηριότητα: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Αποχώρηση",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "αποχώρησε από τη συνομιλία",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Φωτεινό",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Φόρτωση {count} επιπλέον συμμετεχόντων",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Φόρτωση… παρακαλώ περιμένετε.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Φόρτωση περισσότερων…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Σύνδεση",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Σύνδεση στο {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Αποσύνδεση",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε από το NYX;",
+  "mention": "Αναφορά",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Μηνύματα",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Συντονιστής",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Σίγαση",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Νέα συνομιλία",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 Νέο μήνυμα NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Νέο αίτημα επαλήθευσης!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Επόμενο",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Όχι",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Δεν υπάρχει σύνδεση με τον διακομιστή",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Δεν βρέθηκαν emoji. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Μπορείτε να ενεργοποιήσετε την κρυπτογράφηση μόνο όταν το δωμάτιο δεν είναι προσβάσιμο στο κοινό.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Φαίνεται ότι η συσκευή σας δεν διαθέτει Firebase Cloud Messaging. Συνιστάται η εγκατάσταση του ntfy για τη λήψη ειδοποιήσεων.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Δεν έχετε προσθέσει μέθοδο ανάκτησης κωδικού πρόσβασης.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Χωρίς δικαίωμα",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Δεν βρέθηκαν δωμάτια…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Ειδοποιήσεις",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} άτομα πληκτρολογούν…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Ενεργοποιήθηκε η διαδικτυακή δημιουργία αντιγράφων ασφαλείας κλειδιών",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Όπα! Σφάλμα κατά τη ρύθμιση ειδοποιήσεων push.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Όπα, κάτι πήγε στραβά…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Ανοίξτε την εφαρμογή για ανάγνωση μηνυμάτων",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Άνοιγμα κάμερας",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "ή",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Συμμετέχων",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Συνθηματική φράση ή κλειδί ανάκτησης",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Κωδικός πρόσβασης",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Ξεχάσατε τον κωδικό πρόσβασης;",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Ο κωδικός πρόσβασης άλλαξε",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Ανάκτηση κωδικού πρόσβασης",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Καρφίτσωμα",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Παρακαλώ επιλέξτε έναν κωδικό πρόσβασης",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Κάντε κλικ στον σύνδεσμο στο email σας και μετά συνεχίστε.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Εισαγάγετε τον κωδικό πρόσβασης",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Εισαγάγετε το PIN σας",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Εισαγάγετε κωδικό κλειδώματος",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Εισαγάγετε το όνομα χρήστη",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Ακολουθήστε τις οδηγίες στον ιστότοπο.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Ιδιωτικότητα",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Δημόσια δωμάτια",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Αιτία",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "Ο/Η {username} διέγραψε ένα συμβάν",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Διαγραφή μηνύματος",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Απόρριψη",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "Ο/Η {username} απέρριψε την πρόσκληση",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Αφαίρεση",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Αφαίρεση όλων των άλλων συσκευών",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Άρση αποκλεισμού από τη συνομιλία",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Αφαίρεση της εικόνας προφίλ σας",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Αναβάθμιση δωματίου σε νεότερη έκδοση",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Απάντηση",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Αναφορά μηνύματος",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "Το δωμάτιο αναβαθμίστηκε",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Έκδοση δωματίου",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Αποθήκευση αρχείου",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Αναζήτηση",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Ασφάλεια",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Αποστολή",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Σύνταξη μηνύματος",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Αποστολή ως κείμενο",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Αποστολή ηχητικού",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Αποστολή αρχείου",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Αποστολή εικόνας",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Αποστολή μηνυμάτων",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Αποστολή βίντεο",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 Ο/Η {username} έστειλε ένα αρχείο",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 Ο/Η {username} έστειλε ένα ηχητικό",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ Ο/Η {username} έστειλε μια εικόνα",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 Ο/Η {username} έστειλε ένα αυτοκόλλητο",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 Ο/Η {username} έστειλε ένα βίντεο",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "Ο/Η {senderName} έστειλε πληροφορίες κλήσης",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Ορισμός ως κύριο ψευδώνυμο",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Ορισμός κατάστασης",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Ρυθμίσεις",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Κοινοποίηση",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "Ο/Η {username} κοινοποίησε μια τοποθεσία",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Παράκαμψη",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Πηγαίος κώδικας",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "Ο/Η {senderName} ξεκίνησε μια κλήση",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Κατάσταση",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Πώς είστε σήμερα;",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Υποβολή",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Συγχρονισμός… παρακαλώ περιμένετε.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Σύστημα",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Δεν ταιριάζουν",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Ταιριάζουν",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Πολλά αιτήματα. Παρακαλώ δοκιμάστε ξανά αργότερα!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Δοκιμάστε να στείλετε ξανά",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "Ο/Η {username} ήρε τον αποκλεισμό του/της {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Άρση αποκλεισμού συσκευής",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Άγνωστη συσκευή",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Άγνωστος αλγόριθμος κρυπτογράφησης",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Άγνωστο συμβάν '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Κατάργηση σίγασης",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Ξεκαρφίτσωμα",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "Ο/Η {username} και άλλα {count} άτομα πληκτρολογούν…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "Ο/Η {username} και ο/η {username2} πληκτρολογούν…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "Ο/Η {username} πληκτρολογεί…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 Ο/Η {username} αποχώρησε από τη συνομιλία",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "Ο/Η {username} έστειλε ένα συμβάν {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Επαληθευμένο",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Επαλήθευση χρήστη",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Επαλήθευση αυτού του χρήστη",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Για αυξημένη ασφάλεια, επαληθεύστε αυτόν τον χρήστη συγκρίνοντας emoji προσωπικά ή μέσω ασφαλούς καναλιού.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Αναμονή για τον άλλον χρήστη",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "Μόλις γίνει αποδοχή, θα μπορείτε να συνεχίσετε με την επαλήθευση",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Σύγκριση emoji",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Συγκρίνετε τα emoji για να βεβαιωθείτε ότι είναι στην ίδια σειρά",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Επαληθεύστε ότι τα emoji παρακάτω είναι ίδια με της άλλης συσκευής",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Αίτημα επαλήθευσης",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Για μεγαλύτερη ασφάλεια, ένας άλλος χρήστης θέλει να επαληθεύσει την ταυτότητά σας.",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Επιτυχής επαλήθευση",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Τώρα μπορείτε να εμπιστεύεστε αυτόν τον χρήστη.",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Αποτυχία επαλήθευσης",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "Το αίτημα έληξε, απορρίφθηκε ή τα στοιχεία δεν ταιριάζουν.",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Ολοκληρώθηκε",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Δοκιμάστε ξανά",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Επαλήθευση χρήστη;",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Αυτό είναι το πρώτο μήνυμα προς αυτόν τον χρήστη. Μπορείτε να τον επαληθεύσετε πρώτα.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Επαλήθευση τώρα",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Άμεση αποστολή",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Ειδοποιήσεις μηνυμάτων",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Ειδοποίηση μηνύματος",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Προσθήκη βιογραφικού",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Ορισμός νέας εικόνας προφίλ",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Μέλη",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Ρόλοι και δικαιώματα",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Προσωπικό προφίλ",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Ορισμός σημείωσης",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Καρφιτσωμένα μηνύματα",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 καρφιτσωμένο μήνυμα} other{{count} καρφιτσωμένα μηνύματα}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Δεν υπάρχουν καρφιτσωμένα μηνύματα",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Όροι & Συμφωνία",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Πολυμέσα & αρχεία",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Δημοσκοπήσεις",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Αποχώρηση από την κοινότητα",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Διαγραφή ομαδικής συνομιλίας",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Πολυμέσα",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Δεν υπάρχουν πολυμέσα",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Δεν υπάρχουν αρχεία",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Λήψη αρχείου…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Προσθήκη στις επαφές",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Προσθήκη επαφής",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Διαγραφή επαφής",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Βιογραφικό",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Δεν υπάρχει βιογραφικό",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Αποκλεισμός χρήστη",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Άρση αποκλεισμού χρήστη",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Κλήση",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Έναρξη επαλήθευσης",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Επαληθευτήκατε με επιτυχία!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Επαλήθευση άλλου λογαριασμού",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Ορατότητα ιστορικού συνομιλίας",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Ορατό σε όλους τους συμμετέχοντες",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Ορατό σε όλους",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Φωνητικό μήνυμα",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Αναμονή αποδοχής αιτήματος…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Αναμονή αποδοχής emoji…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Αναμονή αποδοχής αριθμών…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Προειδοποίηση!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Σας στείλαμε ένα email",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Ποιος μπορεί να εκτελέσει ποια ενέργεια",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Ποιος επιτρέπεται να συμμετάσχει σε αυτήν την ομάδα",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Γιατί θέλετε να το αναφέρετε αυτό;",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Με αυτές τις διευθύνσεις μπορείτε να ανακτήσετε τον κωδικό πρόσβασης.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Γράψτε ένα μήνυμα…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Ναι",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Εσείς",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Δεν συμμετέχετε πλέον σε αυτήν τη συνομιλία",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Έχετε αποκλειστεί από αυτήν τη συνομιλία",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Το δημόσιο κλειδί σας",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Προσθήκη στον χώρο",
+  "obtainingLocation": "Λήψη τοποθεσίας…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "Ο διακομιστής {server1} δεν είναι Matrix, δοκιμάστε τον {server2};",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Δεν δόθηκε άδεια τοποθεσίας.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Οι υπηρεσίες τοποθεσίας είναι απενεργοποιημένες.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Σφάλμα λήψης τοποθεσίας: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Δημιουργία νέου χώρου",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Αδυναμία ανοίγματος URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Αυτόματη αναπαραγωγή κινουμένων σχεδίων",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Όνομα χώρου",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Ο χώρος είναι δημόσιος",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Κοινοποίηση τοποθεσίας",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Άνοιγμα στους Χάρτες",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Αποστολή με Enter",
+  "scanQrCode": "Σάρωση QR code",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR Code",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Κοινοποίηση QR Code",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Μία από τις συσκευές σας αποσυνδέθηκε",
+  "removeFromBundle": "Αφαίρεση από αυτή τη συλλογή",
+  "unverified": "Μη επαληθευμένο",
+  "repeatPassword": "Επαναλάβετε τον κωδικό πρόσβασης",
+  "addAccount": "Προσθήκη λογαριασμού",
+  "editBundlesForAccount": "Επεξεργασία συλλογών λογαριασμού",
+  "addToBundle": "Προσθήκη στη συλλογή",
+  "bundleName": "Όνομα συλλογής",
+  "link": "Σύνδεσμος",
+  "sender": "Αποστολέας",
+  "openGallery": "Άνοιγμα συλλογής",
+  "messageInfo": "Πληροφορίες μηνύματος",
+  "time": "Ώρα",
+  "removeFromSpace": "Αφαίρεση από τον χώρο",
+  "commandHint_discardsession": "Απόρριψη συνεδρίας",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Δημιουργία προσωπικής συνομιλίας",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Εκκαθάριση λανθάνουσας μνήμης",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Δημιουργία κενής ομαδικής συνομιλίας",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Σήμανση ως αναγνωσμένο",
+  "reportUser": "Αναφορά χρήστη",
+  "reactedWith": "Ο/Η {sender} αντέδρασε με {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Είστε βέβαιοι ότι θέλετε να ξεκαρφιτσώσετε μόνιμα αυτό το συμβάν;",
+  "pinMessage": "Καρφίτσωμα στο δωμάτιο",
+  "emojis": "Emoji",
+  "unsupportedAndroidVersionLong": "Αυτή η λειτουργία απαιτεί νεότερη έκδοση Android.",
+  "unsupportedAndroidVersion": "Μη υποστηριζόμενη έκδοση Android",
+  "youRejectedTheInvitation": "Απορρίψατε την πρόσκληση",
+  "youJoinedTheChat": "Συμμετέχετε στη συνομιλία",
+  "youBannedUser": "Αποκλείσατε τον/την {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Προσκληθήκατε από τον/την {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Προσκαλέσατε τον/την {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Απομακρύνατε τον/την {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Άρατε τον αποκλεισμό του/της {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Αποδεχτήκατε την πρόσκληση",
+  "youHaveWithdrawnTheInvitationFor": "Αποσύρατε την πρόσκληση για τον/την {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Απομακρύνατε και αποκλείσατε τον/την {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Αποθήκευση στο Apple KeyChain",
+  "storeInAndroidKeystore": "Αποθήκευση στο Android KeyStore",
+  "storeSecurlyOnThisDevice": "Ασφαλής αποθήκευση στη συσκευή",
+  "users": "Χρήστες",
+  "countFiles": "{count} αρχεία",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Επαναφορά από εφεδρικό αρχείο",
+  "dehydrate": "Εξαγωγή συνεδρίας και διαγραφή συσκευής",
+  "dehydrateWarning": "Η ενέργεια δεν αναιρείται. Αποθηκεύστε το αρχείο ασφαλώς.",
+  "user": "Χρήστης",
+  "userNotFound": "Ο χρήστης δεν βρέθηκε",
+  "custom": "Προσαρμοσμένο",
+  "confirmMatrixId": "Επιβεβαιώστε το Matrix ID για διαγραφή.",
+  "supposedMxid": "Αναμενόμενο {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Σήμανση ως ομάδα",
+  "commandHint_markasdm": "Σήμανση Matrix ID ως προσωπική συνομιλία",
+  "whyIsThisMessageEncrypted": "Γιατί αυτό το μήνυμα δεν είναι αναγνώσιμο;",
+  "noKeyForThisMessage": "Αυτό μπορεί να συμβεί εάν το μήνυμα στάλθηκε πριν συνδεθείτε σε αυτή τη συσκευή.",
+  "newSpace": "Νέος χώρος",
+  "doNotShowAgain": "Να μην εμφανιστεί ξανά",
+  "googlyEyesContent": "Ο/Η {senderName} σας έστειλε μάτια",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Αποστολή ματιών",
+  "commandHint_cuddle": "Αποστολή χάδι",
+  "commandHint_hug": "Αποστολή αγκαλιάς",
+  "cuddleContent": "Ο/Η {senderName} σας χάιδεψε",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "Ο/Η {senderName} σας αγκάλιασε",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Κενή συνομιλία (πρώην {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Οι χώροι σάς επιτρέπουν να οργανώνετε συνομιλίες.",
+  "encryptThisChat": "Κρυπτογράφηση αυτής της συνομιλίας",
+  "disableEncryptionWarning": "Για λόγους ασφαλείας, δεν μπορείτε να απενεργοποιήσετε την κρυπτογράφηση.",
+  "sorryThatsNotPossible": "Λυπούμαστε, αυτό δεν είναι δυνατόν",
+  "report": "Αναφορά",
+  "fileIsTooBigForServer": "Αδυναμία αποστολής! Μέγιστο μέγεθος: {max}.",
+  "noOtherDevicesFound": "Δεν βρέθηκαν άλλες συσκευές",
+  "jumpToLastReadMessage": "Μετάβαση στο τελευταίο αναγνωσμένο μήνυμα",
+  "readUpToHere": "Αναγνώσθηκε έως εδώ",
+  "jump": "Μετάβαση",
+  "openLinkInBrowser": "Άνοιγμα συνδέσμου στο πρόγραμμα περιήγησης",
+  "fileHasBeenSavedAt": "Το αρχείο αποθηκεύτηκε στο {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 Κάτι πήγε στραβά. Μπορείτε να αναφέρετε το σφάλμα στους προγραμματιστές.",
+  "noBackupWarning": "Προειδοποίηση! Ενεργοποιήστε τα αντίγραφα ασφαλείας συνομιλιών για να μην χάσετε πρόσβαση στα κρυπτογραφημένα μηνύματα.",
+  "reopenChat": "Επαννοιχτή συνομιλία",
+  "importEmojis": "Εισαγωγή πακέτων emoji",
+  "notAnImage": "Δεν είναι αρχείο εικόνας.",
+  "importNow": "Εισαγωγή τώρα",
+  "importFromZipFile": "Εισαγωγή από αρχείο .zip",
+  "replace": "Αντικατάσταση",
+  "exportEmotePack": "Εξαγωγή πακέτου emoji ως .zip",
+  "sendTypingNotifications": "Αποστολή ειδοποιήσεων πληκτρολόγησης",
+  "createGroup": "Δημιουργία ομάδας",
+  "shareInviteLink": "Κοινοποίηση συνδέσμου πρόσκλησης",
+  "tryAgain": "Δοκιμάστε ξανά",
+  "chatPermissions": "Δικαιώματα συνομιλίας",
+  "chatDescription": "Περιγραφή συνομιλίας",
+  "chatDescriptionHasBeenChanged": "Η περιγραφή συνομιλίας άλλαξε",
+  "noChatDescriptionYet": "Δεν έχει οριστεί περιγραφή συνομιλίας.",
+  "invalidServerName": "Μη έγκυρο όνομα διακομιστή",
+  "redactMessageDescription": "Το μήνυμα θα διαγραφεί για όλους τους συμμετέχοντες. Η ενέργεια δεν αναιρείται.",
+  "optionalRedactReason": "(Προαιρετικά) Αιτία διαγραφής...",
+  "setChatDescription": "Ορισμός περιγραφής συνομιλίας",
+  "setColorTheme": "Ορισμός θέματος χρώματος:",
+  "invite": "Πρόσκληση",
+  "addMembers": "Προσθήκη μελών",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Πρόσκληση μέσω συνδέσμου",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Αυτή η λίστα είναι ορατή μόνο στους διαχειριστές.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Επαφές σε αυτή τη συνομιλία",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Δεν υπάρχει σύνδεσμος πρόσκλησης",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Στυλ μηνυμάτων:",
+  "redactedBy": "Διαγράφηκε από τον/την {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "Διαγράφηκε από τον/την {username}, αιτία: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Πρόσκληση σε ομαδική συνομιλία",
+  "emoteKeyboardNoRecents": "Τα πρόσφατα emoji θα εμφανιστούν εδώ...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Μη έγκυρη καταχώριση!",
+  "wrongPinEntered": "Λανθασμένο PIN! Δοκιμάστε ξανά σε {seconds} δευτερόλεπτα…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "Ο/Η {user} ζήτησε να συμμετάσχει στο δωμάτιο",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Εισαγάγετε έναν αριθμό μεγαλύτερο του 0",
+  "banUserDescription": "Ο χρήστης θα αποκλειστεί από το δωμάτιο.",
+  "removeDevicesDescription": "Θα αποσυνδεθείτε από αυτή τη συσκευή.",
+  "unbanUserDescription": "Ο χρήστης θα μπορεί να ξαναμπεί στο δωμάτιο.",
+  "pushNotificationsNotAvailable": "Οι ειδοποιήσεις push δεν είναι διαθέσιμες",
+  "makeAdminDescription": "Αν ορίσετε τον χρήστη διαχειριστή, δεν θα μπορείτε να το αναιρέσετε εύκολα.",
+  "archiveRoomDescription": "Η συνομιλία θα μεταφερθεί στο αρχείο.",
+  "learnMore": "Μάθετε περισσότερα",
+  "roomUpgradeDescription": "Το δωμάτιο θα αναβαθμιστεί σε νέα έκδοση.",
+  "kickUserDescription": "Ο χρήστης θα αφαιρεθεί αλλά δεν θα αποκλειστεί.",
+  "blockListDescription": "Μπορείτε να αποκλείσετε ανεπιθύμητους χρήστες.",
+  "createGroupAndInviteUsers": "Δημιουργία ομάδας και πρόσκληση χρηστών",
+  "blockedUsers": "Αποκλεισμένοι χρήστες",
+  "groupCanBeFoundViaSearch": "Η ομάδα είναι αναζητήσιμη",
+  "noUsersFoundWithQuery": "Δεν βρέθηκε χρήστης με \"{query}\".",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Αποκλεισμός",
+  "yourGlobalUserIdIs": "Το παγκόσμιο ID χρήστη είναι: ",
+  "commandHint_sendraw": "Αποστολή ακατέργαστου JSON",
+  "wrongRecoveryKey": "Λανθασμένο κλειδί ανάκτησης.",
+  "blockUsername": "Αποκλεισμός ονόματος χρήστη",
+  "groupName": "Όνομα ομάδας",
+  "databaseMigrationTitle": "Βελτιστοποίηση βάσης δεδομένων",
+  "searchChatsRooms": "Αναζήτηση #συνομιλιών, @χρηστών…",
+  "databaseMigrationBody": "Παρακαλώ περιμένετε λίγο.",
+  "thisDevice": "Αυτή η συσκευή:",
+  "publicSpaces": "Δημόσιοι χώροι",
+  "passwordIsWrong": "Λανθασμένος κωδικός πρόσβασης",
+  "pleaseEnterYourCurrentPassword": "Εισαγάγετε τον τρέχοντα κωδικό πρόσβασης",
+  "nothingFound": "Δεν βρέθηκε τίποτα…",
+  "newPassword": "Νέος κωδικός πρόσβασης",
+  "passwordsDoNotMatch": "Οι κωδικοί πρόσβασης δεν ταιριάζουν",
+  "select": "Επιλογή",
+  "pleaseChooseAStrongPassword": "Επιλέξτε έναν ισχυρό κωδικό πρόσβασης",
+  "addChatOrSubSpace": "Προσθήκη συνομιλίας ή υποχώρου",
+  "leaveEmptyToClearStatus": "Αφήστε κενό για εκκαθάριση κατάστασης.",
+  "joinSpace": "Συμμετοχή στον χώρο",
+  "searchForUsers": "Αναζήτηση @χρηστών…",
+  "initAppError": "Σφάλμα κατά την εκκίνηση της εφαρμογής",
+  "sessionLostBody": "Η συνεδρία σας χάθηκε. Σφάλμα: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "Προσπάθεια επαναφοράς συνεδρίας. Σφάλμα: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Οι άλλοι θα βλέπουν πότε πληκτρολογείτε.",
+  "formattedMessagesDescription": "Εμφάνιση μορφοποιημένου κειμένου Markdown.",
+  "verifyOtherUserDescription": "Επαληθεύστε την ταυτότητα των συνομιλητών σας.",
+  "verifyOtherDeviceDescription": "Επαληθεύστε άλλες δικές σας συσκευές.",
+  "canceledKeyVerification": "Ο/Η {sender} ακύρωσε την επαλήθευση κλειδιού",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Αποστολή αποδεικτικών ανάγνωσης",
+  "formattedMessages": "Μορφοποιημένα μηνύματα",
+  "verifyOtherDevice": "🔐 Επαλήθευση άλλης συσκευής",
+  "verifyOtherUser": "🔐 Επαλήθευση άλλου χρήστη",
+  "sendReadReceiptsDescription": "Οι άλλοι θα βλέπουν αν διαβάσατε τα μηνύματα.",
+  "acceptedKeyVerification": "Ο/Η {sender} αποδέχθηκε την επαλήθευση κλειδιού",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "Ο/Η {sender} είναι έτοιμος/η για επαλήθευση",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "Ο/Η {sender} ολοκλήρωσε την επαλήθευση",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "Ο/Η {sender} ζήτησε επαλήθευση κλειδιού",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "Ο/Η {sender} ξεκίνησε επαλήθευση κλειδιού",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Εισερχόμενα μηνύματα",
+  "stickers": "Αυτοκόλλητα",
+  "discover": "Ανακάλυψη",
+  "commandHint_ignore": "Παράβλεψη Matrix ID",
+  "commandHint_unignore": "Κατάργηση παράβλεψης Matrix ID",
+  "unreadChatsInApp": "{appname}: {unread} μη αναγνωσμένες συνομιλίες",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "Απαιτείται ταυτοποίηση κατά την είσοδο στο NYX.",
+  "globalChatId": "Παγκόσμιο ID συνομιλίας",
+  "accessAndVisibility": "Πρόσβαση και ορατότητα",
+  "accessAndVisibilityDescription": "Ποιος μπορεί να εισέλθει και πώς βρίσκεται η συνομιλία.",
+  "customEmojisAndStickers": "Προσαρμοσμένα emoji και αυτοκόλλητα",
+  "hideRedactedMessages": "Απόκρυψη διαγραμμένων μηνυμάτων",
+  "passwordRecoverySettings": "Ρυθμίσεις ανάκτησης κωδικού",
+  "knock": "Αίτημα συμμετοχής",
+  "noOneCanJoin": "Κανείς δεν μπορεί να συμμετάσχει",
+  "knocking": "Αποστολή αιτήματος...",
+  "chatCanBeDiscoveredViaSearchOnServer": "Η συνομιλία βρέθηκε μέσω αναζήτησης στον διακομιστή {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Αυτή τη στιγμή υπάρχουν {count} αποκλεισμένοι χρήστες.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Εάν ένα μήνυμα διαγραφεί, δεν θα εμφανίζεται καθόλου.",
+  "hideInvalidOrUnknownMessageFormats": "Απόκρυψη μη έγκυρων μορφών μηνυμάτων",
+  "customEmojisAndStickersBody": "Προσθήκη και κοινοποίηση emoji ή αυτοκόλλητων.",
+  "usersMustKnock": "Οι χρήστες πρέπει να υποβάλουν αίτημα",
+  "noDatabaseEncryption": "Δεν υποστηρίζεται κρυπτογράφηση βάσης δεδομένων σε αυτή τη πλατφόρμα",
+  "publicChatAddresses": "Δημόσιες διευθύνσεις συνομιλίας",
+  "createNewAddress": "Δημιουργία νέας διεύθυνσης",
+  "searchMore": "Αναζήτηση περισσότερων…",
+  "gallery": "Συλλογή",
+  "files": "Αρχεία",
+  "searchIn": "Αναζήτηση στη συνομιλία \"{chat}\"…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Σύρετε από δεξιά προς τα αριστερά για απάντηση",
+  "noMoreChatsFound": "Δεν βρέθηκαν άλλες συνομιλίες…",
+  "space": "Χώρος",
+  "goToSpace": "Μετάβαση στον χώρο: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Σήμανση ως μη αναγνωσμένο",
+  "unread": "Μη αναγνωσμένα",
+  "userLevel": "{level} - Χρήστης",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Συντονιστής",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Διαχειριστής",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Πρόσκληση άλλων χρηστών",
+  "changeTheChatPermissions": "Αλλαγή δικαιωμάτων συνομιλίας",
+  "changeTheVisibilityOfChatHistory": "Αλλαγή ορατότητας ιστορικού",
+  "changeTheCanonicalRoomAlias": "Αλλαγή κύριας διεύθυνσης",
+  "sendRoomNotifications": "Αποστολή ειδοποιήσεων σε όλους",
+  "changeTheDescriptionOfTheGroup": "Αλλαγή περιγραφής ομάδας",
+  "changeGeneralChatSettings": "Αλλαγή γενικών ρυθμίσεων συνομιλίας",
+  "chatPermissionsDescription": "Ορισμός των απαιτούμενων επιπέδων δικαιωμάτων.",
+  "changelog": "Αρχείο αλλαγών",
+  "updateInstalled": "🎉 Εγκαταστάθηκε η ενημέρωση {version}!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Η αποστολή ακυρώθηκε",
+  "noChatsFoundHere": "Δεν βρέθηκαν συνομιλίες. Χρησιμοποιήστε το ⤵️ για νέα συνομιλία",
+  "loginWithMatrixId": "Σύνδεση με Matrix-ID",
+  "doesNotSeemToBeAValidHomeserver": "Μη συμβατός διακομιστής.",
+  "calculatingFileSize": "Υπολογισμός μεγέθους αρχείου…",
+  "oneOfYourDevicesIsNotVerified": "Μία συσκευή σας δεν είναι επαληθευμένη",
+  "noticeChatBackupDeviceVerification": "Σημείωση: Οι συσκευές που συνδέονται στα αντίγραφα ασφαλείας επαληθεύονται αυτόματα.",
+  "continueText": "Συνέχεια",
+  "blur": "Θόλωση:",
+  "opacity": "Αδιαφάνεια:",
+  "setWallpaper": "Ορισμός φόντου",
+  "manageAccount": "Διαχείριση λογαριασμού",
+  "aboutHomeserver": "Σχετικά με το {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Έκδοση",
+  "noContactInformationProvided": "Δεν παρέχονται πληροφορίες επικοινωνίας",
+  "contactServerAdmin": "Επικοινωνία με τον διαχειριστή",
+  "name": "Όνομα",
+  "surname": "Επώνυμο",
+  "personalIntro": "Προσωπική εισαγωγή",
+  "nameDescription": "Εισαγάγετε το όνομά σας.",
+  "aboutYourselfDescription": "Περιγράψτε τον εαυτό σας.",
+  "email": "Email",
+  "emailForLogin": "Χρησιμοποιείται για σύνδεση.",
+  "changeEmail": "Αλλαγή email",
+  "changeEmailDescription": "Τροποποίηση email ανάκτησης.",
+  "bindNewEmail": "Σύνδεση νέου email",
+  "newEmailSameAsOld": "Το νέο email πρέπει να διαφέρει από το τρέχον",
+  "bindEmail": "Σύνδεση email",
+  "bindEmailDescription": "Συνδέστε email για ανάκτηση πρόσβασης.",
+  "enterEmail": "Εισαγάγετε email",
+  "enterValidEmail": "Εισαγάγετε έγκυρο email",
+  "getVerificationCode": "Λήψη κωδικού επαλήθευσης",
+  "verificationCode": "Κωδικός επαλήθευσης",
+  "enterVerificationCode": "Εισαγάγετε τον κωδικό",
+  "enterCodeSentTo": "Εισαγάγετε τον κωδικό που στάλθηκε στο {email}.",
+  "createPassword": "Δημιουργία κωδικού πρόσβασης",
+  "createPasswordDescription": "Ορίστε κωδικό πρόσβασης ασφαλείας.",
+  "enterPassword": "Εισαγάγετε κωδικό πρόσβασης",
+  "enterPasswordAgain": "Εισαγάγετε ξανά τον κωδικό",
+  "bind": "Σύνδεση",
+  "walletAddress": "Διεύθυνση πορτοφολιού",
+  "walletForLogin": "Χρήση για σύνδεση NYX.",
+  "ethereumMainnetAddress": "Διεύθυνση Ethereum Mainnet",
+  "none": "Κανένα",
+  "username": "Όνομα χρήστη",
+  "usernameDescription": "Ορίστε όνομα χρήστη για εύρεση από άλλους.",
+  "usernameRuleHint": "Χαρακτήρες a-z, 0-9 και κάτω παύλα (_). Τουλάχιστον 5 χαρακτήρες.",
+  "chatViaLink": "Σύνδεσμος συνομιλίας:",
+  "contactServerSecurity": "Επικοινωνία με την ασφάλεια",
+  "supportPage": "Σελίδα υποστήριξης",
+  "serverInformation": "Πληροφορίες διακομιστή:",
+  "website": "Ιστότοπος",
+  "italicText": "Πλάγια γραφή",
+  "strikeThrough": "Διαγραφή",
+  "pleaseFillOut": "Συμπληρώστε το πεδίο",
+  "addLink": "Προσθήκη συνδέσμου",
+  "boldText": "Έντονη γραφή",
+  "invalidUrl": "Μη έγκυρο URL",
+  "unableToJoinChat": "Αδυναμία συμμετοχής στη συνομιλία.",
+  "sendImages": "Αποστολή {count} εικόνων",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Συμπίεση",
+  "previous": "Προηγούμενο",
+  "otherPartyNotLoggedIn": "Ο παραλήπτης δεν είναι συνδεδεμένος!",
+  "appWantsToUseForLoginDescription": "Επιτρέπετε την κοινοποίηση πληροφοριών.",
+  "open": "Άνοιγμα",
+  "appWantsToUseForLogin": "Σύνδεση μέσω διακομιστή '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Αναμονή για διακομιστή…",
+  "synchronizingPleaseWaitCounter": " Συγχρονισμός… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Νέο αίτημα συνομιλίας",
+  "generalNotificationSettings": "Γενικές ρυθμίσεις ειδοποιήσεων",
+  "userSpecificNotificationSettings": "Ειδικές ρυθμίσεις χρήστη",
+  "notificationRuleMaster": "Σίγαση όλων των ειδοποιήσεων",
+  "notificationRuleSuppressNotices": "Απόκρυψη αυτόματων μηνυμάτων",
+  "notificationRuleInviteForMe": "Προσκλήσεις για εμένα",
+  "notificationRuleInviteForMeDescription": "Ειδοποίηση όταν λαμβάνετε πρόσκληση.",
+  "notificationRuleMemberEvent": "Συμβάντα μελών",
+  "notificationRuleMemberEventDescription": "Απόκρυψη ειδοποιήσεων ιδιότητας μέλους.",
+  "notificationRuleIsUserMention": "Αναφορά χρήστη",
+  "notificationRuleIsUserMentionDescription": "Ειδοποίηση όταν αναφέρεται το όνομα χρήστη.",
+  "notificationRuleContainsDisplayName": "Περιέχει το εμφανιζόμενο όνομα",
+  "notificationRuleIsRoomMention": "Αναφορά δωματίου",
+  "notificationRuleRoomnotifDescription": "Ειδοποίηση κατά την αναφορά @room.",
+  "notificationRuleTombstone": "Συμβάντα διάλυσης",
+  "notificationRuleRoomServerAcl": "ACL διακομιστή δωματίου",
+  "notificationRuleSuppressEdits": "Απόκρυψη τροποποιήσεων",
+  "notificationRuleCall": "Κλήσεις",
+  "notificationRuleRoomOneToOne": "Προσωπικά δωμάτια",
+  "notificationRuleRoomOneToOneDescription": "Ειδοποίηση σε προσωπικές συνομιλίες.",
+  "notificationRuleEncrypted": "Κρυπτογραφημένα",
+  "notificationRuleEncryptedDescription": "Ειδοποίηση σε κρυπτογραφημένα δωμάτια.",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Ειδοποίηση για συμβάντα Jitsi.",
+  "notificationRuleServerAcl": "Απόκρυψη συμβάντων ACL",
+  "notificationRuleServerAclDescription": "Απόκρυψη ειδοποιήσεων ACL διακομιστή.",
+  "deletePushRuleCanNotBeUndone": "Η διαγραφή δεν αναιρείται.",
+  "more": "Περισσότερα",
+  "notificationRuleReactionDescription": "Απόκρυψη ειδοποιήσεων αλληλεπιδράσεων.",
+  "notificationRuleMessageDescription": "Ειδοποίηση για κανονικά μηνύματα.",
+  "notificationRuleContainsUserName": "Περιέχει το όνομα χρήστη",
+  "otherNotificationSettings": "Άλλες ρυθμίσεις ειδοποιήσεων",
+  "notificationRuleContainsUserNameDescription": "Ειδοποίηση όταν το μήνυμα περιέχει το όνομα χρήστη.",
+  "notificationRuleIsRoomMentionDescription": "Ειδοποίηση σε αναφορές δωματίου.",
+  "contentNotificationSettings": "Ρυθμίσεις ειδοποιήσεων περιεχομένου",
+  "notificationRuleMasterDescription": "Απενεργοποίηση όλων των ειδοποιήσεων.",
+  "notificationRuleSuppressNoticesDescription": "Απόκρυψη αυτόματων ειδοποιήσεων (bots).",
+  "roomNotificationSettings": "Ρυθμίσεις ειδοποιήσεων δωματίου",
+  "notificationRuleRoomServerAclDescription": "Απόκρυψη ειδοποιήσεων ACL διακομιστή.",
+  "notificationRuleContainsDisplayNameDescription": "Ειδοποίηση όταν περιέχεται το εμφανιζόμενο όνομα.",
+  "notificationRuleRoomnotif": "Ειδοποίηση δωματίου",
+  "notificationRuleTombstoneDescription": "Ειδοποίηση για διάλυση δωματίου.",
+  "notificationRuleReaction": "Αλληλεπίδραση",
+  "notificationRuleSuppressEditsDescription": "Απόκρυψη ειδοποιήσεων επεξεργασίας.",
+  "notificationRuleCallDescription": "Ειδοποιήσεις για κλήσεις.",
+  "notificationRuleEncryptedRoomOneToOne": "Κρυπτογραφημένα προσωπικά δωμάτια",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Ειδοποίηση σε κρυπτογραφημένα προσωπικά δωμάτια.",
+  "notificationRuleMessage": "Μήνυμα",
+  "unknownPushRule": "Άγνωστος κανόνας push '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Διασταυρωμένα επαληθευμένες συσκευές",
+  "shareKeysWithDescription": "Επιλέξτε ποιες συσκευές θα είναι εμπιστευτικές.",
+  "shareKeysWith": "Κοινοποίηση κλειδιών με…",
+  "allDevices": "Όλες τις συσκευές",
+  "crossVerifiedDevicesIfEnabled": "Διασταυρωμένα επαληθευμένες συσκευές (εφόσον είναι ενεργό)",
+  "verifiedDevicesOnly": "Μόνο επαληθευμένες συσκευές",
+  "optionalMessage": "(Προαιρετικά) Μήνυμα…",
+  "takeAPhoto": "Λήψη φωτογραφίας",
+  "recordAVideo": "Εγγραφή βίντεο",
+  "notSupportedOnThisDevice": "Δεν υποστηρίζεται σε αυτή τη συσκευή",
+  "enterNewChat": "Είσοδος σε νέα συνομιλία",
+  "commandHint_roomupgrade": "Αναβάθμιση δωματίου σε άλλη έκδοση",
+  "approve": "Έγκριση",
+  "youHaveKnocked": "Έχετε υποβάλει αίτημα συμμετοχής",
+  "pleaseWaitUntilInvited": "Παρακαλώ περιμένετε πρόσκληση.",
+  "countInvited": "Προσκλήθηκαν {count}",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Λίστα ελέγχου",
+  "sentVoiceMessage": "🎙️ {duration} - Φωνητικό μήνυμα από {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Αποσύνδεση τρέχουσας συσκευής",
+  "commandHint_logoutall": "Αποσύνδεση όλων των ενεργών συσκευών",
+  "displayNavigationRail": "Εμφάνιση γραμμής πλοήγησης",
+  "customReaction": "Προσαρμοσμένη αλληλεπίδραση",
+  "moreEvents": "Περισσότερα συμβάντα",
+  "declineInvitation": "Απόρριψη πρόσκλησης",
+  "noMessagesYet": "Δεν υπάρχουν ακόμη μηνύματα",
+  "longPressToRecordVoiceMessage": "Πατήστε παρατεταμένα για εγγραφή φωνητικού μηνύματος.",
+  "pause": "Παύση",
+  "resume": "Συνέχιση",
+  "removeFromSpaceDescription": "Αφαίρεση συνομιλίας από τον χώρο.",
+  "countChats": "{chats} συνομιλίες",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Μέλος του χώρου {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Τα μέλη του χώρου {spaces} μπορούν να ζητήσουν είσοδο",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Δημοσκόπηση",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Έναρξη δημοσκόπησης",
+  "endPoll": "Τερματισμός δημοσκόπησης",
+  "editPoll": "Επεξεργασία δημοσκόπησης",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Διαγραφή δημοσκόπησης",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Αποτελέσματα ορατά",
+  "hiddenPoll": "Κρυφή δημοσκόπηση",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Ερώτηση δημοσκόπησης",
+  "answerOption": "Επιλογή",
+  "addAnswerOption": "Προσθήκη επιλογής",
+  "allowMultipleAnswers": "Να επιτρέπονται πολλαπλές επιλογές",
+  "pollHasBeenEnded": "Η δημοσκόπηση τερματίστηκε",
+  "startedAPoll": "Ο/Η {senderName} ξεκίνησε μια δημοσκόπηση",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{ψήφος} other{{count} ψήφοι}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Τα αποτελέσματα θα εμφανιστούν μετά τη λήξη",
+  "active": "Ενεργή",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Έληξε",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Νήμα",
+  "replyInThread": "Απάντηση στο νήμα",
+  "countReplies": "{count, plural, =1{απάντηση} other{{count} απαντήσεις}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Επιστροφή στη βασική συνομιλία",
+  "saveChanges": "Αποθήκευση αλλαγών",
+  "createSticker": "Δημιουργία αυτοκόλλητου ή emoji",
+  "useAsSticker": "Χρήση ως αυτοκόλλητο",
+  "useAsEmoji": "Χρήση ως emoji",
+  "stickerPackNameAlreadyExists": "Το όνομα πακέτου αυτοκόλλητων υπάρχει ήδη",
+  "newStickerPack": "Νέο πακέτο αυτοκόλλητων",
+  "stickerPackName": "Όνομα πακέτου αυτοκόλλητων",
+  "attribution": "Δημιουργός",
+  "skipChatBackup": "Παράκαμψη αντιγράφου ασφαλείας",
+  "skipChatBackupWarning": "Χωρίς αντίγραφο ασφαλείας μπορεί να χάσετε την πρόσβαση σε μηνύματα σε νέα συσκευή.",
+  "changedTheChatDescription": "Ο/Η {username} άλλαξε την περιγραφή συνομιλίας",
+  "changedTheChatName": "Ο/Η {username} άλλαξε το όνομα συνομιλίας",
+  "noMoreResultsFound": "Δεν βρέθηκαν άλλα αποτελέσματα",
+  "chatSearchedUntil": "Αναζήτηση έως {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "Βασικό URL ομοσπονδίας",
+  "clientWellKnownInformation": "Πληροφορίες Client-Well-Known:",
+  "baseUrl": "Βασικό URL",
+  "identityServer": "Διακομιστής ταυτότητας:",
+  "versionWithNumber": "Έκδοση: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Καταγραφές",
+  "advancedConfigs": "Προηγμένες ρυθμίσεις",
+  "advancedConfigurations": "Προηγμένες διαμορφώσεις",
+  "signIn": "Σύνδεση",
+  "createNewAccount": "Δημιουργία νέου λογαριασμού",
+  "signUpGreeting": "Το NYX είναι αποκεντρωμένο! Επιλέξτε διακομιστή!",
+  "signInGreeting": "Έχετε ήδη λογαριασμό Matrix; Καλώς ορίσατε!",
+  "theProcessWasCanceled": "Η διαδικασία ακυρώθηκε.",
+  "join": "Συμμετοχή",
+  "searchOrEnterHomeserverAddress": "Αναζήτηση ή εισαγωγή διεύθυνσης διακομιστή",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Ορισμός επιπέδου δικαιωμάτων",
+  "makeModerator": "Ορισμός ως συντονιστής",
+  "makeAdmin": "Ορισμός ως διαχειριστής",
+  "removeModeratorRights": "Αφαίρεση δικαιωμάτων συντονιστή",
+  "removeAdminRights": "Αφαίρεση δικαιωμάτων διαχειριστή",
+  "powerLevel": "Επίπεδο ισχύος",
+  "setPowerLevelDescription": "Ορισμός δικαιωμάτων μελών (0 έως 100).",
+  "owner": "Ιδιοκτήτης",
+  "mute": "Σίγαση",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Δημιουργία νέας συνομιλίας",
+  "reset": "Επαναφορά",
+  "supportFluffyChat": "Υποστηρίξτε το NYX",
+  "support": "Υποστήριξη",
+  "setLowPriority": "Ορισμός χαμηλής προτεραιότητας",
+  "unsetLowPriority": "Κατάργηση χαμηλής προτεραιότητας",
+  "playSoundOnNotification": "Αναπαραγωγή ήχου ειδοποίησης",
+  "addTag": "Προσθήκη ετικέτας",
+  "removeTag": "Αφαίρεση ετικέτας",
+  "tagName": "Όνομα ετικέτας",
+  "createNewTag": "Δημιουργία νέας ετικέτας",
+  "discardEdits": "Απόρριψη αλλαγών;",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Απόκρυψη δωματίων σε χώρους",
+  "possibleByYou": "Χάρη σε εσάς, το NYX παραμένει δωρεάν και ανοιχτού κώδικα.",
+  "showThumbnailsInTimeline": "Εμφάνιση μικρογραφιών εικόνων και βίντεο",
+  "appSubtitle": "Ασφαλής [matrix] επικοινωνία",
+  "appDescription": "Εύκολη και ασφαλής κρυπτογραφημένη επικοινωνία στο δίκτυο [matrix].",
+  "interactiveVerification": "Διαδραστική επαλήθευση",
+  "interactiveVerificationDescription": "Επαληθεύστε συσκευές συγκρίνοντας αριθμούς ή emoji.",
+  "countUnverifiedDevices": "Υπάρχουν {count} μη επαληθευμένες συσκευές σε αυτή τη συνομιλία.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Κρυπτογραφημένο μήνυμα",
+  "unencryptedMessage": "Μη κρυπτογραφημένο μήνυμα",
+  "publicKey": "Δημόσιο κλειδί: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Κλειδί ταυτότητας συσκευής",
+  "showMore": "Εμφάνιση περισσότερων",
+  "showLess": "Εμφάνιση λιγότερων",
+  "restoreBootstrapEmptyDevicesDescription": "Εισαγάγετε συνθηματική φράση ή κλειδί ανάκτησης.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Επιλέξτε άλλη συσκευή για επαλήθευση:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Επαναφορά λογαριασμού",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Επαναφορά κρυπτογραφικής ταυτότητας",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Επαναφορά κρυπτογραφικής ταυτότητας",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Ρύθμιση κρυπτογραφικής ταυτότητας",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Αναμονή για κλειδιά… Κρατήστε την άλλη συσκευή ενεργή.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Δεν μεταδόθηκαν κλειδιά. Δοκιμάστε ξανά.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Ξεκλείδωμα",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Άνοιγμα αρχείου",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Η επαναφορά λογαριασμού θα προκαλέσει οριστική απώλεια πρόσβασης στα παλιά μηνύματα!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "Επιλέξτε ισχυρή συνθηματική φράση για την προστασία των αντιγράφων ασφαλείας.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Νέα συνθηματική φράση",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Επαναλάβετε τη συνθηματική φράση",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Οι συνθηματικές φράσεις ταιριάζουν",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Τουλάχιστον 12 χαρακτήρες.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Περιλαμβάνει κεφαλαία και πεζά γράμματα.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Περιλαμβάνει ειδικούς χαρακτήρες.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Περιλαμβάνει τουλάχιστον έναν αριθμό.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Σημειώστε το κλειδί ανάκτησης σε ασφαλές μέρος.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Αποθήκευση ως αρχείο",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Είστε έτοιμοι!",
+  "noUserKeyFound": "Δεν βρέθηκε κλειδί χρήστη",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Μη υπογεγραμμένη συσκευή",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Υπογεγραμμένη συσκευή",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Δεν βρέθηκε κλειδί curve25519",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Το μήνυμα δεν μπορεί να αποκρυπτογραφηθεί",
+  "knownSince": "Γνωστό από: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Τα μηνύματά σας είναι κρυπτογραφημένα και αναγνώσιμα μόνο από αυτόν τον χρήστη:",
+  "messageCanOnlyBeReadByUsers": "Τα μηνύματά σας είναι κρυπτογραφημένα και αναγνώσιμα μόνο από αυτούς τους χρήστες:",
+  "today": "Σήμερα",
+  "sending": "Αποστολή...",
+  "generatingThumbnail": "Δημιουργία μικρογραφίας...",
+  "encrypting": "Κρυπτογράφηση...",
+  "uploading": "Μεταφόρτωση...",
+  "edited": "(τροποποιήθηκε)",
+  "couldNotBeSent": "Αδυναμία αποστολής",
+  "yesterday": "Χθες",
+  "resetRecoveryKey": "Επαναφορά κλειδιού ανάκτησης",
+  "pleaseEnter6Digits": "Εισαγάγετε 6 ψηφία για ενεργοποίηση κλειδώματος.",
+  "disableAppLock": "Απενεργοποίηση κλειδώματος εφαρμογής",
+  "disableAppLockAreYouSure": "Είστε βέβαιοι ότι θέλετε να απενεργοποιήσετε το κλείδωμα;",
+  "enableBiometrics": "Ενεργοποίηση βιομετρικού ελέγχου ταυτότητας",
+  "disableBiometrics": "Απενεργοποίηση βιομετρικού ελέγχου ταυτότητας",
+  "biometricsDescription": "Ξεκλείδωμα εφαρμογής με αποτύπωμα ή αναγνώριση προσώπου.",
+  "useAppLock": "Χρήση κλειδώματος εφαρμογής",
+  "unlockWithBiometrics": "Ξεκλείδωμα με βιομετρικά στοιχεία",
+  "resetPin": "Επαναφορά PIN",
+  "forwardCountMessages": "Προώθηση {count, plural, =1{μηνύματος} other{{count} μηνυμάτων}};",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Επεξεργασία εικόνας",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Περιστροφή αριστερά",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Περιστροφή δεξιά",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Καθρεφτισμός",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Αποθήκευση",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Σχεδίαση",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Αναίρεση",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Εκκαθάριση",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Γόμα",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Περικοπή",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Φόρτωση μηνυμάτων…",
+  "buildDoesNotSupportFirebase": "Αυτή η έκδοση δεν υποστηρίζει Firebase Cloud Messaging.",
+  "unableToRegisterDeviceForFirebase": "Αδυναμία καταχώρησης συσκευής στο Firebase.",
+  "unifiedPushDistributors": "Διανομείς UnifiedPush:",
+  "doubleTapToReact": "Διπλό πάτημα για αλληλεπίδραση",
+  "doubleTapToReactDescription": "Πατήστε διπλά σε μήνυμα για αλληλεπίδραση.",
+  "doubleTapReaction": "Αλληλεπίδραση με διπλό πάτημα",
+  "sendingFilesDoNotExit": "Αποστολή {count} αρχείων… Μην αποχωρείτε!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Συμπίεση βίντεο…",
+  "shareCrashReports": "Κοινοποίηση αναφορών κατάρρευσης",
+  "shareCrashReportsDescription": "Αυτόματη κοινοποίηση αναφορών σφαλμάτων με τους προγραμματιστές;",
+  "videoCallsBetaWarning": "Οι βιντεοκλήσεις βρίσκονται σε δοκιμαστική έκδοση (Beta).",
+  "callNotAllowed": "Μόνο διαχειριστές μπορούν να ξεκινήσουν κλήση σε αυτό το δωμάτιο.",
+  "countActiveCallMembers": "{count} ενεργά μέλη στην κλήση",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Συμμετοχή στην κλήση",
+  "noDevicesFound": "Δεν βρέθηκαν συσκευές",
+  "incomingCall": "Εισερχόμενη κλήση",
+  "waitingForParticipant": "Αναμονή για συμμετέχοντες…",
+  "decline": "Απόρριψη",
+  "videoCall": "Βιντεοκλήση",
+  "voiceCall": "Ηχητική κλήση",
+  "previewImage": "[Εικόνα]",
+  "previewVideo": "[Βίντεο]",
+  "previewVoice": "[Φωνητικό μήνυμα]",
+  "previewAudio": "[Ήχος]",
+  "previewFile": "[Αρχείο]",
+  "previewLocation": "[Τοποθεσία]",
+  "previewSticker": "[Αυτοκόλλητο]",
+  "previewVoiceCall": "[Ηχητική κλήση]",
+  "previewVideoCall": "[Βιντεοκλήση]",
+  "missedCall": "Αναπάντητη κλήση",
+  "callBack": "Επανάκληση",
+  "hangUp": "Τερματισμός",
+  "startCall": "Έναρξη κλήσης",
+  "selectCamera": "Επιλογή κάμερας",
+  "selectMicrophone": "Επιλογή μικροφώνου",
+  "selectSpeaker": "Επιλογή ηχείου",
+  "toggleMicrophone": "Εναλλαγή μικροφώνου",
+  "toggleCamera": "Εναλλαγή κάμερας",
+  "startScreensharing": "Έναρξη κοινοποίησης οθόνης",
+  "stopScreensharing": "Διακοπή κοινοποίησης οθόνης",
+  "raiseHand": "Σήκωμα χεριού",
+  "stopRaiseHand": "Κατέβασμα χεριού",
+  "preferSpeaker": "Προτίμηση ηχείου",
+  "unexpectedErrorOccurded": "Προέκυψε μη αναμενόμενο σφάλμα: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Λογαριασμοί και ρυθμίσεις",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Εισερχόμενη κλήση από {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Ο διακομιστής απάντησε με σφάλμα: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Διαθέσιμη ενημέρωση έκδοσης {version}",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Λήψη",
+  "sharedLocation": "Κοινοποιημένη τοποθεσία",
+  "contacts": "Επαφές",
+  "groupChats": "Ομαδικές συνομιλίες",
+  "publicGroups": "Δημόσιες ομάδες",
+  "createGroupChat": "Δημιουργία ομαδικής συνομιλίας",
+  "inviteFriends": "Πρόσκληση φίλων",
+  "emptyChatsTitle": "Δεν υπάρχουν συνομιλίες",
+  "emptyChatsDesc": "Πατήστε + πάνω δεξιά για νέα συνομιλία",
+  "emptyUsersTitle": "Δεν έχετε προσωπικά μηνύματα",
+  "emptyUsersDesc": "Μπορείτε να αλλάξετε τα φίλτρα για να δείτε άλλες συνομιλίες",
+  "emptyUnreadTitle": "Δεν υπάρχουν μη αναγνωσμένα μηνύματα",
+  "emptyUnreadDesc": "Μπορείτε να καρφιτσώσετε συνομιλίες στις ρυθμίσεις",
+  "emptyGroupChatsTitle": "Δεν συμμετέχετε σε καμία ομάδα",
+  "emptyGroupChatsDesc": "Μπορείτε να αλλάξετε τα φίλτρα για να δείτε άλλες συνομιλίες",
+  "emptyPinnedTitle": "Δεν έχετε καρφιτσωμένες συνομιλίες",
+  "emptyPinnedDesc": "Μπορείτε να καρφιτσώσετε συνομιλίες στις ρυθμίσεις",
+  "startChat": "Έναρξη συνομιλίας",
+  "newGroupChat": "Νέα ομαδική συνομιλία",
+  "invitedYouToJoinGroup": "Ο/Η {username} σας προσκάλεσε στην ομάδα",
+  "joinGroupBannerTitle": "Γίνετε μέλος στην ομάδα",
+  "joinGroupBannerDesc": "Οι ομάδες οργανώνουν τα μέλη ανά θέμα.",
+  "certifiedGroups": "{count} πιστοποιημένες ομάδες",
+  "membersCount": "{count} μέλη",
+  "recentlyOnline": "Πρόσφατα σύνδεση",
+  "lastSeenLongAgo": "Εθεάθη πριν από καιρό",
+  "appearance": "Εμφάνιση",
+  "language": "Γλώσσα",
+  "selectLanguage": "Επιλογή γλώσσας",
+  "privacyAndSecurity": "Ιδιωτικότητα & Ασφάλεια",
+  "qrScanRecognizing": "Αναγνώριση...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Λήξη χρόνου σάρωσης, δοκιμάστε ξανά",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "Δεν βρέθηκε QR code",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "Το περιεχόμενο του QR code είναι κενό",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Αποτυχία αναγνώρισης",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "Μη έγκυρο QR code",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Αυτό είναι το QR code του δικού σας λογαριασμού",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Απόρριψη πρόσκλησης ομάδας",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Είστε βέβαιοι ότι θέλετε να απορρίψετε την πρόσκληση για την ομάδα {groupName};",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Κάμερα",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Φωτογραφίες & Βίντεο",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Αρχείο",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Συνδεδεμένος/η",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Εκτός σύνδεσης",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Το μήνυμα ανακλήθηκε",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Ανακαλέσατε ένα μήνυμα",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "Ο/Η {username} ανακάλεσε ένα μήνυμα",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Το αρχείο αποθηκεύτηκε",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Αποθηκεύτηκε στη συλλογή",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Αδυναμία ανοίγματος αρχείου",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Άγνωστο αρχείο",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Αναπάντητη βιντεοκλήση",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Η κλήση ακυρώθηκε",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} άτομα στην κλήση",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Συμμετοχή",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Αναμονή για άλλους συμμετέχοντες…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Μόνο οι διαχειριστές μπορούν να ξεκινήσουν κλήση",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Διαγραφή συνομιλίας από τη λίστα.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Μετά τη διάλυση της ομάδας, όλα τα μέλη θα αφαιρεθούν.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Μετάφραση",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Μετάφραση…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Η μετάφραση απέτυχε, δοκιμάστε ξανά",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Κλήση σε εξέλιξη",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Εμφανίζεται κατά τη διάρκεια ηχητικών ή βιντεοκλήσεων",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Πατήστε για επιστροφή στην κλήση",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Ο συνομιλητής ακύρωσε την κλήση",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Η βιντεοκλήση ακυρώθηκε",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Ο συνομιλητής ακύρωσε τη βιντεοκλήση",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Πίσω",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Κλήση…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Σύνδεση…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Η κλήση τερματίστηκε",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Αποτυχία κλήσης",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Ηχείο",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Ακουστικό",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Εναλλαγή κάμερας",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Βίντεο",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Το μικρόφωνο είναι απενεργοποιημένο",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Τέλος",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Εσείς",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Εξερχόμενη",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} δευτ.",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} λεπτά",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} ώρες {minutes} λεπτά",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Αλλαγή του ρόλου μου",
+  "permissions": "Δικαιώματα",
+  "changeMyRoleConfirmMessage": "Υποβαθμίζετε τη θέση σας. Η ενέργεια δεν αναιρείται.",
+  "demoteToAdmin": "Υποβιβασμός σε διαχειριστή",
+  "demoteToModerator": "Υποβιβασμός σε συντονιστή",
+  "demoteToMember": "Υποβιβασμός σε μέλος",
+  "addAdmin": "Προσθήκη διαχειριστή",
+  "addModerator": "Προσθήκη συντονιστή",
+  "groupAdmins": "Διαχειριστές ομάδας",
+  "groupModerators": "Συντονιστές ομάδας",
+  "addAdminHelp": "Προσθέστε διαχειριστές για τη διαχείριση της κοινότητας.",
+  "addModeratorHelp": "Προσθέστε συντονιστές για τη διαχείριση της κοινότητας.",
+  "noCandidatesToAdd": "Δεν υπάρχουν διαθέσιμα μέλη",
+  "setAsAdminSuccess": "Ορίστηκε ως διαχειριστής",
+  "setAsModeratorSuccess": "Ορίστηκε ως συντονιστής",
+  "searchMembers": "Αναζήτηση μελών",
+  "noResults": "Χωρίς αποτελέσματα",
+  "noResultsDescription": "Δεν βρέθηκαν αποτελέσματα, δοκιμάστε ξανά.",
+  "removeAdminConfirm": "Θέλετε να αφαιρέσετε τα δικαιώματα διαχειριστή;",
+  "removeModeratorConfirm": "Θέλετε να αφαιρέσετε τα δικαιώματα συντονιστή;",
+  "removeAdminSuccess": "Τα δικαιώματα διαχειριστή αφαιρέθηκαν",
+  "removeModeratorSuccess": "Τα δικαιώματα συντονιστή αφαιρέθηκαν",
+  "manageMembers": "Διαχείριση μελών",
+  "inviteMembers": "Πρόσκληση μελών",
+  "removeMembers": "Αφαίρεση μελών",
+  "banMembers": "Αποκλεισμός μελών",
+  "editCommunity": "Επεξεργασία κοινότητας",
+  "changeCommunityName": "Αλλαγή ονόματος κοινότητας",
+  "changeCommunityAvatar": "Αλλαγή εικόνας κοινότητας",
+  "changeCommunityDescription": "Αλλαγή περιγραφής κοινότητας",
+  "messagesAndContent": "Μηνύματα και περιεχόμενο",
+  "removeMessages": "Αφαίρεση μηνυμάτων",
+  "adminsOnly": "Μόνο διαχειριστές",
+  "adminsAndModerators": "Διαχειριστές και συντονιστές",
+  "resetPermissions": "Επαναφορά δικαιωμάτων",
+  "resetPermissionsConfirmMessage": "Επαναφορά όλων των δικαιωμάτων στις προεπιλογές;",
+  "changeSettings": "Αλλαγή ρυθμίσεων",
+  "permissionChangedFromTo": "Ο/Η {sender} άλλαξε το δικαίωμα {permission} από {from} σε {to}",
+  "changedUserRoleTo": "Ο/Η {username} όρισε τον/την {target} ως {role}",
+  "viewInChat": "Προβολή στη συνομιλία",
+  "playbackSpeed": "Ταχύτητα αναπαραγωγής",
+  "normalSpeed": "Κανονική",
+  "qrScanHint": "Τοποθετήστε το QR code στο πλαίσιο",
+  "torch": "Φακός",
+  "remarkVisibleOnlyToYou": "Η σημείωση είναι ορατή μόνο σε εσάς",
+  "pollVotes": "{count} ψήφοι",
+  "totalPollVotes": "Συνολικές ψήφοι: {count}",
+  "scanQrMobileOnly": "Η σάρωση QR υποστηρίζεται μόνο σε κινητά",
+  "publicGroupTech": "Τεχνολογία & Ανάπτυξη",
+  "publicGroupMarketing": "Μάρκετινγκ & Διαφήμιση",
+  "publicGroupWeb3": "Web3 & Ψηφιακά Στοιχεία",
+  "publicGroupCrossBorder": "Διασυνοριακές Υπηρεσίες",
+  "publicGroupFreelance": "Γενικά & Freelancing",
+  "blockUsers": "Αποκλεισμός χρηστών",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Ενεργοποιημένο",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Κωδικός κλειδώματος οθόνης",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Κωδικός πρόσβασης σύνδεσης",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Κλειδί ανάκτησης",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Επιλογή αποθήκευσης κλειδιών",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Αποθηκεύστε με ασφάλεια τα κλειδιά στον διακομιστή.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Ρύθμιση ανάκτησης",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Χρησιμοποιήστε το κλειδί ανάκτησης σε περίπτωση απώλειας συσκευών.",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Ορισμός κλειδιού ανάκτησης",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Αποθήκευση κρυπτογραφικών κλειδιών στον διακομιστή.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Δημιουργία κλειδιού ανάκτησης",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Πατήστε για αντιγραφή του κλειδιού ανάκτησης",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Αποθήκευση κλειδιού ανάκτησης",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Αποθηκεύστε το κλειδί σε ασφαλές μέρος.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Αποθήκευση κλειδιού ανάκτησης",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Το κλειδί ανάκτησης αντιγράφηκε",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Το κλειδί ανάκτησης αποθηκεύτηκε",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "Δημιουργία κλειδιού ανάκτησης…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Κοινοποίηση κατάστασης σύνδεσης",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Όταν είναι απενεργοποιημένο, δεν θα στέλνονται αποδεικτικά ανάγνωσης.",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Βελτιστοποίηση για μεταφόρτωση",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Επιτήρηση περιεχομένου & Ασφάλεια",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Απόκρυψη εικόνας προφίλ σε αιτήματα προσκλήσεων",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Εμφάνιση πολυμέσων στη ροή",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Πάντα απόκρυψη",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "Σε ιδιωτικά δωμάτια",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Πάντα εμφάνιση",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Όλα",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Μόνο αναφορές",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Ομαδική συνομιλία",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Προσωπική συνομιλία",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Ειδοποίηση σε ομαδικές συνομιλίες",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Ειδοποίηση σε προσωπικές συνομιλίες",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Όλα τα μηνύματα",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Μόνο αναφορές και λέξεις-κλειδιά",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "Ο διακομιστής ενδέχεται να μην υποστηρίζει αυτήν την επιλογή σε κρυπτογραφημένες ομάδες.",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Ανεξάρτητες ρυθμίσεις ανά συνομιλία",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Η ενεργοποίηση θα παρακάμψει τις προεπιλογές.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Ειδοποίηση σε αυτή τη συνομιλία",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Μόνο αναφορές και λέξεις-κλειδιά",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Ο διακομιστής δεν υποστηρίζει αυτή την επιλογή σε κρυπτογραφημένα δωμάτια.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Επιλογή προσαρμοσμένων ρυθμίσεων",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Ειδοποίηση σε αυτή τη συσκευή",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Αναφορές",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Ειδοποίηση κατά την αναφορά @ σε ομάδα",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Περισσότερες ρυθμίσεις",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Παλιός κωδικός πρόσβασης",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Κλείδωμα με κωδικό",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Ενεργοποίηση κλειδώματος οθόνης",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Εισαγάγετε κωδικό κλειδώματος",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Επιβεβαιώστε τον νέο κωδικό κλειδώματος",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Εισαγάγετε τον παλιό κωδικό κλειδώματος",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Λανθασμένος παλιός κωδικός",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Αλλαγή κωδικού κλειδώματος",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Σημείωση: Αν ξεχάσετε τον κωδικό, θα χρειαστεί επανεγκατάσταση.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Οι κωδικοί δεν ταιριάζουν",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Το κλείδωμα οθόνης ενεργοποιήθηκε",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Το κλείδωμα οθόνης απενεργοποιήθηκε",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Αυτή η συσκευή",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Αποσύνδεση όλων των άλλων συνεδριών",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Αποσύνδεση όλων των συσκευών εκτός από αυτή.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Ενεργές συνεδρίες",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Διαγραφή συσκευής",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Είστε βέβαιοι για τη διαγραφή της συσκευής {name};",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "ID Συσκευής",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Τελευταία σύνδεση",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "Διεύθυνση IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Πληροφορίες εφαρμογής",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "ID Εφαρμογής",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Όνομα",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Αφαίρεση συσκευής",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "Πριν από {time}",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "λεπτά",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "ώρες",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "ημέρες",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Καλώς ήρθατε στο {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "Καλώς ήρθατε στο {appName}, μια γρήγορη και απλή εφαρμογή ανταλλαγής μηνυμάτων.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Δημιουργία λογαριασμού",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Η ενημέρωση είναι έτοιμη",
+  "updateReadyMessage": "Έχουμε βελτιώσει ορισμένες λειτουργίες. Επανεκκινήστε την εφαρμογή για να εφαρμοστεί η ενημέρωση.",
+  "restartNow": "Επανεκκίνηση τώρα",
+  "noPublicGroupsYet": "Δεν υπάρχουν ακόμη πιστοποιημένες ομάδες"
+}

@@ -1,0 +1,4088 @@
+{
+  "@@locale": "ie",
+  "@@last_modified": "2021-08-14 12:41:09.767805",
+  "about": "Pri",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Acceptar",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} acceptat li invitation",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Conto",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} activat encryption de fin a fin",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Adjunter un email",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Administrator",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Alias",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Omni",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} respondet li apell",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Quicunc posse adherer",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Clavura del aplication",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Archiv",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Esque li invitates es permisser de adherer?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Esque vu es cert?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Esque vu es cert que vu vole deconnexer?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Ples intrar vor frase de passa de secur deposito o li clave de restauration por signar li alteri partisano.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Esque acceptar li demanda de verification de {username}?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Tipus de connexione suportat per li servitor doman: \n{serverVersions}\nMa ti aplication suporta solmen: \n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Bannir del babilie",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Bannir membre",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Bannit",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} bannit {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Blocar li aparatu",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Blocat",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Anullar",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Changear li nom del aparatu",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} changeat li avatar del babilie",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} changeat li permissiones del babilie",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} changeat li nom monstrat a '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} changeat li regulas d'acces por invitates",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} changeat li regulas d'acces por invitates a: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} changeat li visibilitá del historie",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} changeat li visibilitá del historie a: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} changeat li regulas de adhesion",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} changeat li regulas de adhesion a: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} changeat li avatar del profil",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} changeat li aliases del chambre",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} changeat li ligament d'invitation",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Changear li contrasigne",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Changear li servitor doman",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Changear li tema",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Changear li nom del trupp",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Changear vor avatar",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "Li encryption ha esset corrumpet",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Babilie",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Copia de securitá del babilie",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Detalies del babilie",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Babilies",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Selecter un fort contrasigne",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Vacuar li archiv",
+  "close": "Cluder",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Bannir li usator specificat de ti chambre",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Mmissar un text formate in HTML",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Invitar li usator specificat a ti chambre",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Adherer al chambre specificat",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Remover li usator specificat de ti chambre",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Lassar ti chambre",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Presentar vos self",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Definir vor avatar por ti chambre (per mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Definir vor nom de sincorn por ti chambre",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Definir li nivel de permission por li usator specificat (omissat: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Mmissar text pur",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Mmissar un responce quam reaction",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Mmissar un text",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Desbannir li usator del chambre",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Comando invalid",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} ne es un comando.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Ples comparar li emojis",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Ples comparar li numerós sequent",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Configurar li babilie",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "Li contact ha esset invitat al trupp",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Ti contenete ha esset raportat al administrator del servitor",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Copiat al papere-cultel",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Copiar",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Copiar al papere-cultel",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Ne posse decriptar li missage: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Desencription del missage falie, ples re-ensayar plu tard",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} participantes",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Crear",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} creat li babilie",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Actualmen activ",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "Obscur tema",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "To va desactivar vor conto de usator. To ne posse esset anullat! Esque vu es cert?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Nivel de permission omissat por nov usatores",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Deleter",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Deleter li conto",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Deleter li missage",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Deleter omni missages",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Vacuar li historie del babilie",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Esque vu es cert que vu vole deleter omni missages in ti babilie? Ti action ne posse esser anullat.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Esque vu es cert que vu vole vacuar ti historie de babilie? Ti action ne posse esser anullat.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Activar li auto-deletion",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Deleter auto nov missages in ti babilie pos un periode de témpore",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 die",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 siman",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 mense",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Desactivar",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Aparatus",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Direct babilies",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Li nom monstrat ha esset changeat",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Deschargiar li file",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Redacter",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Redacter servitores blocat",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Redacter li nom monstrat",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Redacter li aliases del chambre",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Redacter li avatar del chambre",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Li emotico ya existe!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Acurtament de emotico invalid!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Acurtament de emotico",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Babilie vacui",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Activar emoticos globalmen",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Activar encryption",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Vu ne va posser desactivar li encryption plu tard. Esque vu es cert?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Encryptat",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Encryption",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Encryption ne es activat",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} finat li apell",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Intrar un adresse email",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Grandor del fonde",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Rediriguer",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "Rediriguat",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Desde l'adhesion",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Desde li invitation",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Trupp",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Li trupp es public",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Trupps",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Trupp con {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Invitates es interdit de adherer",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Invitates posse adherer",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} ha tirat li invitation por {targetName}",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Auxilie",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Celar evenimentes inconosset",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Ignorar",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Usatores ignorat",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Yo ha clicat sur li ligament",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Frase de passa o clave de restauration incorrect",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Invitar un contact",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Invitar un contact a {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Invitat",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} invitat {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Solmen usatores invitat",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} invita vos a usar NYX. \n1. Installar NYX: https://fluffychat.im \n2. Inregistrar o connexer \n3. Aperter li ligament d'invitation: \n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "es scriente",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} adheret al babilie",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Adherer al chambre",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Intrar l'adresse del chambre",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "p.ex. !nom-de-chambre:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Adresse invalid!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Chambre ne trovat!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Adhesion al chambre falit",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Chambre trovat",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Continuar",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Null descrition anc",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Demandar por adherer",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Intrar in li chambre",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Introduction",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} expulsat {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} expulsat e bannit {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Expulsar del babilie",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Vu ha esset expulsat ex ti babilie de trupp",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Remover membre",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Ultim vice activ: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Lassar",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "lassat li babilie",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Lucid tema",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Cargar {count} plu participantes",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Cargante... ples atender.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Cargar plu...",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Connexer",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Connexer a {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Deconnexer",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Esque vu es cert que vu vole deconnexer del conto de NYX?",
+  "mention": "Mentionar",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Missages",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Moderator",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Assurdar babilie",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Nov babilie",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 Nov missage in NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Nov demanda de verification!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Sequent",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Null connexione al servitor",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Null emoticos trovat. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Vu posse solmen activar encryption quando li chambre ne es accessible al public.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Pare que vor telefón ne ha Firebase Cloud Messaging. Por reciver notificationes push de NYX, il es recomandat installar ntfy.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Vu ne ha anc adjuntat un metode de restauration de contrasigne.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Null permission",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Null chambres trovat...",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Notificationes",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} personas es scriente...",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Copia de securitá de claves en linea es activat",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Huch! Error durante li configuration del notificationes push.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Huch, alquó ne reussit...",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Aperter l'aplication por leter missages",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Aperter li cámera",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "o",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Participante",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Frase de passa o clave de restauration",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Contrasigne",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Contrasigne oblidat",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Li contrasigne ha esset changeat",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Restauration del contrasigne",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Fixar",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Ples selecter un codice de passa",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Ples clicar sur li ligament in li email e pos to continuar.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Ples intrar vor contrasigne",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Ples intrar vor PIN",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Ples intrar li codice de clavura",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Ples intrar vor nom de usator",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Ples sequer li instructiones sur li nett e clicar 'Sequent'.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Privatitá",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Chambres public",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Rason",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} deletet un eveniment",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Deleter missage",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Refusar",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} refusat li invitation",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Remover",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Remover omni alteri aparatus",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Desbannir del babilie",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Remover vor avatar",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Substituer li chambre per un nov version",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Responder",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Raportar missage",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "Li chambre ha esset modernisat",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Version del chambre",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Garantiar li file",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Cercar",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Securitá",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Missa",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Mmissar un missage",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Mmissar quam text",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Mmissar audio",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Mmissar file",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Mmissar imajine",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Mmissar missages",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Mmissar video",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} missat un file",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} missat un audio",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} missat un imajine",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} missat un autocollant",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} missat un video",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} missat informationes de apell",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Definir quam alias canonic",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Definir statu",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Parametres",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Partiprender",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} partprendet li localisation",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Omisser",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Code fonte",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} initiat un apell",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Statu",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Qualmen vu va hodie?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Submisser",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Sincronisante... ples atender.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Sistema",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Ili ne mecie",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Ili mecie",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Trope demandas. Ples provar plu tard!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Provar re-mmissar",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} desbannit {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Desblocar li aparatu",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Aparatu inconosset",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Algoritmo de encryption inconosset",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Eveniment inconosset '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Desassurdar babilie",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Desfixar",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} e {count} alteris es scriente...",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} e {username2} es scriente...",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} es scriente...",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} lassat li babilie",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} missat un eveniment {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Verificat",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Verificar li usator",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Verificar ti usator",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Por plu securitá, ples verificar ti usator per comparar emojis sur li aparatu.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Atendente li alteri usator",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "Un vice acceptat, vu va posser continuar li verification",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Comparar emojis",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Ples comparar li emojis e assecurar que ili es in li mem órdine",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Ples verificar que li emojis in sequent es identic sur li ambi aparatus",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Demanda de verification",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Por meliorar la securitá, un alteri usator vole verificar vor identitá.",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Verification reussit",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Vu posse nu fider li identitá de ti usator por mandar missages.",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Verification falit",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "Li demanda expirat, esset refusat, o li verification ne meciat.",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Finit",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Re-provar",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Verificar ti usator?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "To es li prim missage a ti usator. Vu posse verificar l'identitá por securitá o mmissar directmen.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Verificar nu",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Mmissar directmen",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Notificationes de missage",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Notificar missage",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Adjunter biografia",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Definir nov avatar",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Membres",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Roles e permissiones",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Profil personal",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Definir nota",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Missages fixat",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 missage fixat} other{{count} missages fixat}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Null missages fixat",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Acord",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Medias e files",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Scrutines",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Lassar li comunitá",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Deleter li babilie de trupp",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Medias",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Null medias",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Null files",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Deschargiante li file...",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Adjunter a li contactos",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Adjunter un contact",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Deleter li contact",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Biografia",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Null biografia",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Blocar li usator",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Desblocar li usator",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Apellar",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Comensar li verification",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Vu ha verificat con reussi!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Verificar li alteri conto",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Visibilitá del historie del babilie",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Visibil por omni participantes",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Visibil por omnicunc",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Missage de voce",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Atendente li partisano acceptar li demanda...",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Atendente li partisano acceptar li emojis...",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Atendente li partisano acceptar li numerós...",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Aviso!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Nos ha missat un email a vu",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Qui posse far qual action",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Qui es permisset adherer a ti trupp",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Pro quo vu vole raportar ti contenete?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Con ti adresses vu posse restaurar vor contrasigne.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Scri un missage...",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Si",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Vu",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Vu ne plu participa in ti babilie",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Vu ha esset bannit ex ti babilie",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Vor clave public",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Adjunter al spatio",
+  "obtainingLocation": "Obtenente li localisation...",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} ne es un servitor Matrix, essayar {server2}?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Permission de localisation refusat. Ples conceder ti permission por partprender vor localisation.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Servicie de localisation desactivat. Ples activar it por partprender vor localisation.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Error in li obtention del localisation: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Crear nov spatio",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Ne posse aperter li URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Lector auto de autocollantes animat e emojis",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Nom del spatio",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Li spatio es public",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Partiprender li localisation",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Aperter in cartes",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Mmissar pussante Enter",
+  "scanQrCode": "Scannar li QR code",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR Code",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Partiprender li QR Code",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Un de vor clientes ha deconnexet",
+  "removeFromBundle": "Remover de ti fascicul",
+  "unverified": "Ne verificat",
+  "repeatPassword": "Repetir li contrasigne",
+  "addAccount": "Adjunter un conto",
+  "editBundlesForAccount": "Redacter fascicules por ti conto",
+  "addToBundle": "Adjunter al fascicul",
+  "bundleName": "Nom del fascicul",
+  "link": "Ligament",
+  "sender": "Expeditor",
+  "openGallery": "Aperter li galerie",
+  "messageInfo": "Informationes del missage",
+  "time": "Témpore",
+  "removeFromSpace": "Remover de ti spatio",
+  "commandHint_discardsession": "Abandonar li session",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Iniciar un babilie privat\nUsar li option --no-encryption por desactivar li encryption",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Vacuar li cache",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Crear un vacui babilie de trupp\nUsar li option --no-encryption por desactivar li encryption",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Marcar quam leterit",
+  "reportUser": "Raportar li usator",
+  "reactedWith": "{sender} respondet con {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Esque vu es cert que vu vole desfixar ti eveniment permanentmen?",
+  "pinMessage": "Fixar al chambre",
+  "emojis": "Emojis",
+  "unsupportedAndroidVersionLong": "Ti caracteristica besona un nov version de Android. Ples controlar li actualisatos.",
+  "unsupportedAndroidVersion": "Version de Android ne suportat",
+  "youRejectedTheInvitation": "Vu refusat li invitation",
+  "youJoinedTheChat": "Vu adheret al babilie",
+  "youBannedUser": "Vu bannit {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Vu esset invitat per {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Vu invitat {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Vu expulsat {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Vu desbannit {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Vu acceptat li invitation",
+  "youHaveWithdrawnTheInvitationFor": "Vu ha tirat li invitation por {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Vu expulsat e bannit {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Stocar in Apple KeyChain",
+  "storeInAndroidKeystore": "Stocar in Android KeyStore",
+  "storeSecurlyOnThisDevice": "Stocar securmen in ti aparatu",
+  "users": "Usatores",
+  "countFiles": "{count} files",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Restaurar ex un file de copia de securitá",
+  "dehydrate": "Exportar li session e raser li aparatu",
+  "dehydrateWarning": "Ti action ne posse esset anullat. Assecurar que vu stoca vor file de copia de securitá in securitá.",
+  "user": "Usator",
+  "userNotFound": "Usator ne trovat",
+  "custom": "Personalisa",
+  "confirmMatrixId": "Ples confirmar vor Matrix ID por deleter li conto.",
+  "supposedMxid": "Deberet esser {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Marcar quam trupp",
+  "commandHint_markasdm": "Marcar li Matrix ID donat quam un babilie privat",
+  "whyIsThisMessageEncrypted": "Pro quo ti missage ne es legibil?",
+  "noKeyForThisMessage": "To posse ocurrer si li missage esset missat ante que vu connexet a vor conto in ti aparatu.\n\nAnc es possibil que li expeditor ha blocat vor aparatu o alquó ne reussit con li connexione de rete.\n\nEsque vu posse leter li missage in un alteri session? Si si, vu posse transferrer li claves de it! Ear a Parametres > Aparatus e assecurar que vor aparatus es reciprocmen verificat.",
+  "newSpace": "Nov spatio",
+  "doNotShowAgain": "Ne monstrar ancor",
+  "googlyEyesContent": "{senderName} missat oculos a vu",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Mmissar oculos",
+  "commandHint_cuddle": "Mmissar un caresse",
+  "commandHint_hug": "Mmissar un embraciament",
+  "cuddleContent": "{senderName} caressat vos",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} embraciat vos",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Babilie vacui (esset {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Spatios va permisser vos de consolidar vor babilies e crear comunitás privat o public.",
+  "encryptThisChat": "Encryptar ti babilie",
+  "disableEncryptionWarning": "Por rasons de securitá, vu ne posse desactivar li encryption in un babilie u it esset activat anc-ante.",
+  "sorryThatsNotPossible": "Pardon... to ne es possibil",
+  "report": "Raportar",
+  "fileIsTooBigForServer": "Ne posse mmissar! Li servitor suporta solmen files til {max}.",
+  "noOtherDevicesFound": "Null alteri aparatus trovat",
+  "jumpToLastReadMessage": "Saltar al ultim missage leterit",
+  "readUpToHere": "Leterit til ci",
+  "jump": "Saltar",
+  "openLinkInBrowser": "Aperter li ligament in li navigator",
+  "fileHasBeenSavedAt": "Li file ha esset salvat in {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 Ho no. Alquó ne reussit. Vu posse raportar li error al developpatores.",
+  "noBackupWarning": "Aviso! Fenes li copia de securitá del babilie, vu ne va posser acceder a vor missages encryptat. Il es fortmen recomandat activar it ante deconnexer.",
+  "reopenChat": "Re-aperter li babilie",
+  "importEmojis": "Importar pachet de emoticos",
+  "notAnImage": "Ne es un imajine.",
+  "importNow": "Importar nu",
+  "importFromZipFile": "Importar ex file .zip",
+  "replace": "Substituer",
+  "exportEmotePack": "Exportar li pachet de emoticos quam .zip",
+  "sendTypingNotifications": "Mmissar notificationes de scrition",
+  "createGroup": "Crear trupp",
+  "shareInviteLink": "Partiprender li ligament d'invitation",
+  "tryAgain": "Provar de nov",
+  "chatPermissions": "Permissiones del babilie",
+  "chatDescription": "Description del babilie",
+  "chatDescriptionHasBeenChanged": "Li description del babilie ha esset changeat",
+  "noChatDescriptionYet": "Null description de babilie anc.",
+  "invalidServerName": "Nom de servitor invalid",
+  "redactMessageDescription": "Li missage va esset deletet por omni participantes in ti conversation. To ne posse esset anullat.",
+  "optionalRedactReason": "(Optional) Rason por deleter ti missage...",
+  "setChatDescription": "Definir li description del babilie",
+  "setColorTheme": "Definir li tema de color:",
+  "invite": "Invitar",
+  "addMembers": "Adjunter membres",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Invitar per ligament",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Ti liste es visibil solmen por administratores.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Contactos in ti babilie",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Ti trupp ne ha un ligament d'invitation",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Stil de missages:",
+  "redactedBy": "Deletet per {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "Deletet per {username} por rason: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Invitation al babilie de trupp",
+  "emoteKeyboardNoRecents": "Li emoticos recentmen usat va aparar ci...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Entrata invalid!",
+  "wrongPinEntered": "PIN intrats incorrect! Ples re-provar pos {seconds} secundes...",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} ha frapat por entrar in li chambre",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Ples intrar un numeró plu grand quam 0",
+  "banUserDescription": "Li usator va esset bannit del babilie e ne va posser re-entrar til que li ban es levat.",
+  "removeDevicesDescription": "Vu va deconnexer ti aparatu e it ne va plu posse reciver missages.",
+  "unbanUserDescription": "Li usator va posser re-adherer al babilie si il provara.",
+  "pushNotificationsNotAvailable": "Notificationes push ne es disponibil",
+  "makeAdminDescription": "Un vice que vu deina ti usator administrator, vu ne va posse revocar it facilemen pic ili va haver li mem permissiones quam vu.",
+  "archiveRoomDescription": "Li babilie va esser movet al archiv. Alteri usatores va posser vider que vu lassat li babilie.",
+  "learnMore": "Aprender plu",
+  "roomUpgradeDescription": "Li chambre va esset re-creat con un nov version. Omni participantes va reciver un notification por cambiar.",
+  "kickUserDescription": "Li usator va esser expulsat ex li babilie ma ne bannit. In babilies public, il posse re-adherer quandicunc.",
+  "blockListDescription": "Vu posse blocar usatores incomod. Vu ne va reciver missages o invitationes de ili.",
+  "createGroupAndInviteUsers": "Crear un trupp e invitar usatores",
+  "blockedUsers": "Usatores blocat",
+  "groupCanBeFoundViaSearch": "Li trupp posse esser trovat per sercha",
+  "noUsersFoundWithQuery": "Regretabilmen null usator trovat con \"{query}\". Ples verificar vor cerca.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Blocar",
+  "yourGlobalUserIdIs": "Vor global ID de usator es: ",
+  "commandHint_sendraw": "Mmissar json crud",
+  "wrongRecoveryKey": "Pardon... to ne sembla esset li clave de restauration correct.",
+  "blockUsername": "Ignorar nom de usator",
+  "groupName": "Nom del trupp",
+  "databaseMigrationTitle": "Basse de datas optimisat",
+  "searchChatsRooms": "Cercar #babilie, @usator...",
+  "databaseMigrationBody": "Ples atender un poc tempor.",
+  "thisDevice": "Ti aparatu:",
+  "publicSpaces": "Spatios public",
+  "passwordIsWrong": "Li contrasigne intrats es incorrect",
+  "pleaseEnterYourCurrentPassword": "Ples intrar vor actual contrasigne",
+  "nothingFound": "Null reussita...",
+  "newPassword": "Nov contrasigne",
+  "passwordsDoNotMatch": "Li contrasignes ne concorda",
+  "select": "Selecter",
+  "pleaseChooseAStrongPassword": "Ples selecter un fort contrasigne",
+  "addChatOrSubSpace": "Adjunter babilie o sub-spatio",
+  "leaveEmptyToClearStatus": "Lassar vacui por anullar vor statu.",
+  "joinSpace": "Adherer al spatio",
+  "searchForUsers": "Cercar @usator...",
+  "initAppError": "Un error ocurret durante l'initialisation del aplication",
+  "sessionLostBody": "Vor session ha esset perdit. Ples raportar it a {url}. Error: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "L'aplication essaya nu de restaurar vor session. Ples raportar it a {url}. Error: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Alteri participantes va posser vider quand vu scri un nov missage.",
+  "formattedMessagesDescription": "Monstrar contenet con formato rich quam text in grass per Markdown.",
+  "verifyOtherUserDescription": "Verificante li alteri usator vu posse esser cert con qui vu comunica. 💪",
+  "verifyOtherDeviceDescription": "Quando vu verifica un alteri aparatu, li aparatus posse intercambiar claves por meliorar la securitá. 💪",
+  "canceledKeyVerification": "{sender} anullat li verification de clave",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Mmissar confirmas de lection",
+  "formattedMessages": "Missages formatat",
+  "verifyOtherDevice": "🔐 Verificar un alteri aparatu",
+  "verifyOtherUser": "🔐 Verificar un alteri usator",
+  "sendReadReceiptsDescription": "Alteri participantes va posser vider si vu ha leterit li missages.",
+  "acceptedKeyVerification": "{sender} acceptat li verification de clave",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} es pret por li verification de clave",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} completat li verification de clave",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} demandat un verification de clave",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} initiat li verification de clave",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Missages arrivante",
+  "stickers": "Autocollantes",
+  "discover": "Descovrir",
+  "commandHint_ignore": "Ignorar li matrix ID donat",
+  "commandHint_unignore": "Des-ignorar li matrix ID donat",
+  "unreadChatsInApp": "{appname}: {unread} babilies ne leterit",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "Definir un codice por autenticar vor intro in NYX",
+  "globalChatId": "ID de babilie global",
+  "accessAndVisibility": "Acces e visibilitá",
+  "accessAndVisibilityDescription": "Qui posse adherer e qualmen descovrir ti babilie.",
+  "customEmojisAndStickers": "Emoticos e autocollantes personalisat",
+  "hideRedactedMessages": "Celar missages deletet",
+  "passwordRecoverySettings": "Parametres de restauration de contrasigne",
+  "knock": "Frapar",
+  "noOneCanJoin": "Nulqui posse adherer",
+  "knocking": "Frapante",
+  "chatCanBeDiscoveredViaSearchOnServer": "Li babilie posse esser trovat per sercha in {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Actualmen {count} usatores es blocat.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Si un persona deletet un missage, it ne va plu esser visibil in li babilie.",
+  "hideInvalidOrUnknownMessageFormats": "Celar format de missages invalid o inconosset",
+  "customEmojisAndStickersBody": "Adjunter o partiprender emoticos que posse esset usat in omni babilie.",
+  "usersMustKnock": "Usatores deve frapar por entrar",
+  "noDatabaseEncryption": "Encryption de basse de datas ne es suportat in ti platforma",
+  "publicChatAddresses": "Adresses del babilie public",
+  "createNewAddress": "Crear nov adresse",
+  "searchMore": "Cercar plu...",
+  "gallery": "Galerie",
+  "files": "Files",
+  "searchIn": "Cercar in \"{chat}\"...",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Glissar de dextri a levul por responder",
+  "noMoreChatsFound": "Null plu babilies trovat...",
+  "space": "Spatio",
+  "goToSpace": "Eár al spatio: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Marcar quam ne leterit",
+  "unread": "Ne leterit",
+  "userLevel": "{level} - Usator",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Moderator",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Administrator",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Invitar alteri usatores a ti babilie",
+  "changeTheChatPermissions": "Changear permissiones del babilie",
+  "changeTheVisibilityOfChatHistory": "Changear la visibilitá del historie",
+  "changeTheCanonicalRoomAlias": "Changear l'alias public principal",
+  "sendRoomNotifications": "Mmissar notificationes a omni personas in li chambre",
+  "changeTheDescriptionOfTheGroup": "Changear li description del trupp",
+  "changeGeneralChatSettings": "Changear li parametres general del babilie",
+  "chatPermissionsDescription": "Definir quin nivel de permission es nescessari por cert actiones.",
+  "changelog": "Jurnal de modificationes",
+  "updateInstalled": "🎉 Actualisation {version} installat!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Mmissada anullat",
+  "noChatsFoundHere": "Null babilies trovat ci. Usar li buton infra ⤵️ por comensar un nov babilie",
+  "loginWithMatrixId": "Connexer con Matrix-ID",
+  "doesNotSeemToBeAValidHomeserver": "Ne sembla esser un servitor compatible. URL incorrect?",
+  "calculatingFileSize": "Calculante li grandor del file...",
+  "oneOfYourDevicesIsNotVerified": "Un de vor aparatus ne es verificat",
+  "noticeChatBackupDeviceVerification": "Nota: quando vu necte omni aparatus a la copia de securitá, ili va esser verificat automaticmen.",
+  "continueText": "Continuar",
+  "blur": "Obsfustication:",
+  "opacity": "Opacitá:",
+  "setWallpaper": "Definir li tapete",
+  "manageAccount": "Gerer li conto",
+  "aboutHomeserver": "Pri {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Version",
+  "noContactInformationProvided": "Li servitor ha providet null information de contact",
+  "contactServerAdmin": "Contactar li administrator del servitor",
+  "name": "Nom",
+  "surname": "Surnom",
+  "personalIntro": "Introduction personal",
+  "nameDescription": "Intrar vor nom e vor avatar.",
+  "aboutYourselfDescription": "Un text introductiv pri vos self.",
+  "email": "Email",
+  "emailForLogin": "Usat por connexer a vor conto de NYX.",
+  "changeEmail": "Modificar l'email",
+  "changeEmailDescription": "Vu posse modificar vor email de restauration por posser restaurar vor contrasigne.",
+  "bindNewEmail": "Ligar nov email",
+  "newEmailSameAsOld": "Li nov email ne posse esser identic al actual",
+  "bindEmail": "Ligar email",
+  "bindEmailDescription": "Vu posse ligar un email por restaurar vor contrasigne.",
+  "enterEmail": "Intrar email",
+  "enterValidEmail": "Ples intrar un email valid",
+  "getVerificationCode": "Obtener li codice de verification",
+  "verificationCode": "Codice de verification",
+  "enterVerificationCode": "Intrar li codice de verification",
+  "enterCodeSentTo": "Ples intrar li codice appena missat a {email}.",
+  "createPassword": "Crear contrasigne",
+  "createPasswordDescription": "Ples definir un contrasigne de connexione por li securitá.",
+  "enterPassword": "Intrar contrasigne",
+  "enterPasswordAgain": "Intrar contrasigne de nov",
+  "bind": "Ligar",
+  "walletAddress": "Adresse de borsa",
+  "walletForLogin": "Usat por connexer al conto de NYX.",
+  "ethereumMainnetAddress": "Adresse de rete principal Ethereum",
+  "none": "Null",
+  "username": "Nom de usator",
+  "usernameDescription": "Vu posse definir un nom de usator in NYX por esser trovat facilemen.",
+  "usernameRuleHint": "Vu posse usar a-z, 0-9 e caractere subliat. Longor minimal 5 caracteres.",
+  "chatViaLink": "Vu posse babilhar con ti ligament:",
+  "contactServerSecurity": "Contactar la securitá del servitor",
+  "supportPage": "Pagina de suporta",
+  "serverInformation": "Information del servitor:",
+  "website": "Situ web",
+  "italicText": "Text italic",
+  "strikeThrough": "Raiat",
+  "pleaseFillOut": "Ples completar",
+  "addLink": "Adjunter ligament",
+  "boldText": "Text in grass",
+  "invalidUrl": "URL invalid",
+  "unableToJoinChat": "Impossibil adherer al babilie.",
+  "sendImages": "Mmissar {count} imajines",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Compressar",
+  "previous": "Precedent",
+  "otherPartyNotLoggedIn": "Li alteri partisano ne es connexet nu!",
+  "appWantsToUseForLoginDescription": "Vu permissa a ti aplication partiprender informas pri vos.",
+  "open": "Aperter",
+  "appWantsToUseForLogin": "Connexer usante li servitor '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Atendente li servitor...",
+  "synchronizingPleaseWaitCounter": " Sincronisante... ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Nov demanda de babilie",
+  "generalNotificationSettings": "Parametres general de notificationes",
+  "userSpecificNotificationSettings": "Parametres de notificationes del usator",
+  "notificationRuleMaster": "Assurdar omni notificationes",
+  "notificationRuleSuppressNotices": "Celar missages automatic",
+  "notificationRuleInviteForMe": "Invitationes por me",
+  "notificationRuleInviteForMeDescription": "Avertir quando on es invitat a un babilie.",
+  "notificationRuleMemberEvent": "Evenimentes de membre",
+  "notificationRuleMemberEventDescription": "Celar notificationes de evenimentes de statu de membre.",
+  "notificationRuleIsUserMention": "Mention de usator",
+  "notificationRuleIsUserMentionDescription": "Notificar quando li nom de usator es mentionat.",
+  "notificationRuleContainsDisplayName": "Contiene nom monstrat",
+  "notificationRuleIsRoomMention": "Mention de chambre",
+  "notificationRuleRoomnotifDescription": "Avertir quando li missage contiene « @room ».",
+  "notificationRuleTombstone": "Pied-de-tómba",
+  "notificationRuleRoomServerAcl": "ACL del servitor de chambre",
+  "notificationRuleSuppressEdits": "Celar modificationes",
+  "notificationRuleCall": "Apell",
+  "notificationRuleRoomOneToOne": "Chambre un-a-un",
+  "notificationRuleRoomOneToOneDescription": "Notificar por missages in chambres un-a-un.",
+  "notificationRuleEncrypted": "Encryptat",
+  "notificationRuleEncryptedDescription": "Notificar por missages in chambres encryptat.",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Notificar por evenimentes del widget Jitsi.",
+  "notificationRuleServerAcl": "Celar evenimentes ACL de servitor",
+  "notificationRuleServerAclDescription": "Celar notificationes por evenimentes ACL de servitor.",
+  "deletePushRuleCanNotBeUndone": "Deleter ti parametre de notification ne posse esser anullat.",
+  "more": "Plu",
+  "notificationRuleReactionDescription": "Celar notificationes de reactiones.",
+  "notificationRuleMessageDescription": "Notificar por missages ordinari.",
+  "notificationRuleContainsUserName": "Contiene nom de usator",
+  "otherNotificationSettings": "Alteri parametres de notificationes",
+  "notificationRuleContainsUserNameDescription": "Notificar quando li missage contiene li nom de usator.",
+  "notificationRuleIsRoomMentionDescription": "Notificar quando la chambre es mentionat.",
+  "contentNotificationSettings": "Parametres de notificationes de contenete",
+  "notificationRuleMasterDescription": "Substituer omni regulas e desactivar omni notificationes.",
+  "notificationRuleSuppressNoticesDescription": "Celar notificationes de clientes automatic (bots).",
+  "roomNotificationSettings": "Parametres de notificationes de chambre",
+  "notificationRuleRoomServerAclDescription": "Celar notificationes de ACL de servitor.",
+  "notificationRuleContainsDisplayNameDescription": "Notificar quando li missage contiene li nom monstrat del usator.",
+  "notificationRuleRoomnotif": "Notification de chambre",
+  "notificationRuleTombstoneDescription": "Avertir pri missages de dissolution de chambre.",
+  "notificationRuleReaction": "Reaction",
+  "notificationRuleSuppressEditsDescription": "Celar notificationes de modificationes de missages.",
+  "notificationRuleCallDescription": "Avertir pri missages de apell.",
+  "notificationRuleEncryptedRoomOneToOne": "Chambre encryptat un-a-un",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Avertir pri missages in chambres encryptat un-a-un.",
+  "notificationRuleMessage": "Missage",
+  "unknownPushRule": "Regula push inconosset '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Aparatus reciproco-verificat",
+  "shareKeysWithDescription": "Selecter queles aparatus deba esset fidet por leter vor missages encryptat.",
+  "shareKeysWith": "Partiprender claves con...",
+  "allDevices": "Omni aparatus",
+  "crossVerifiedDevicesIfEnabled": "Aparatus reciproco-verificat (si activat)",
+  "verifiedDevicesOnly": "Solmen aparatus verificat",
+  "optionalMessage": "(Optional) missage...",
+  "takeAPhoto": "Facter un foto",
+  "recordAVideo": "Inregistrar un video",
+  "notSupportedOnThisDevice": "Ne suportat in ti aparatu",
+  "enterNewChat": "Intrar in li nov babilie",
+  "commandHint_roomupgrade": "Modernisar ti chambre al version donat",
+  "approve": "Approbar",
+  "youHaveKnocked": "Vu ha frapat por entrar",
+  "pleaseWaitUntilInvited": "Ples atender til que alqui de ti chambre invita vos.",
+  "countInvited": "{count} invitat",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Liste de verification",
+  "sentVoiceMessage": "🎙️ {duration} - Missage de voce de {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Deconnexer li aparatu actual",
+  "commandHint_logoutall": "Deconnexer omni aparatus activ",
+  "displayNavigationRail": "Monstrar li barre de navigation sur li aparatu mobil",
+  "customReaction": "Reaction personalisat",
+  "moreEvents": "Plu evenimentes",
+  "declineInvitation": "Refusar li invitation",
+  "noMessagesYet": "Null missages anc",
+  "longPressToRecordVoiceMessage": "Pressar continuat por inregistrar un missage de voce.",
+  "pause": "Pausar",
+  "resume": "Reprender",
+  "removeFromSpaceDescription": "Remover li babilie ex li spatio, ma mantener it in li liste de babilies.",
+  "countChats": "{chats} babilies",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Membre de spatio in {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Membres de spatio in {spaces} posse frapar",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Scrutin",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Iniciar li scrutin",
+  "endPoll": "Finar li scrutin",
+  "editPoll": "Redacter li scrutin",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Deleter li scrutin",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Resultates visibil",
+  "hiddenPoll": "Scrutin celat",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Question del scrutin",
+  "answerOption": "Option de responce",
+  "addAnswerOption": "Adjunter option",
+  "allowMultipleAnswers": "Permisser responsas multiplic",
+  "pollHasBeenEnded": "Li scrutin ha finat",
+  "startedAPoll": "{senderName} initiat un scrutin",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{1 votation} other{{count} votationes}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Li resultates va esser monstrat quando li scrutin ha finat",
+  "active": "Activ",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Finat",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Fil de discussion",
+  "replyInThread": "Responder in li fil de discussion",
+  "countReplies": "{count, plural, =1{1 responce} other{{count} responsas}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Retornar al babilie principal",
+  "saveChanges": "Garantiar li modificationes",
+  "createSticker": "Crear un autocollant o emotico",
+  "useAsSticker": "Usar quam autocollant",
+  "useAsEmoji": "Usar quam emotico",
+  "stickerPackNameAlreadyExists": "Li nom del pachet de autocollantes ya existe",
+  "newStickerPack": "Nov pachet de autocollantes",
+  "stickerPackName": "Nom del pachet",
+  "attribution": "Attribution",
+  "skipChatBackup": "Omisser la copia de securitá",
+  "skipChatBackupWarning": "Esque vu es cert? Sen la copia de securitá vu va poder perder li acces a vor missages quando vu cambia vor aparatu.",
+  "changedTheChatDescription": "{username} changeat li description del babilie",
+  "changedTheChatName": "{username} changeat li nom del babilie",
+  "noMoreResultsFound": "Null plu resultates trovat",
+  "chatSearchedUntil": "Cercat in li historie til {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "URL base de federation",
+  "clientWellKnownInformation": "Informationes Client-Well-Known:",
+  "baseUrl": "URL base",
+  "identityServer": "Servitor d'identitá:",
+  "versionWithNumber": "Version: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Jurnales",
+  "advancedConfigs": "Configurationes avansat",
+  "advancedConfigurations": "Configurationes avansat",
+  "signIn": "Connexer",
+  "createNewAccount": "Crear un nov conto",
+  "signUpGreeting": "NYX es descentralisat! Selecter li servitor u vu vole crear vor conto!",
+  "signInGreeting": "Anc ha un conto Matrix? Benvenit retro! Selecter vor servitor por connexer.",
+  "theProcessWasCanceled": "Li proces esset anullat.",
+  "join": "Adherer",
+  "searchOrEnterHomeserverAddress": "Cercar o intrar li adresse del servitor doman",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Definir li nivel de autoritá",
+  "makeModerator": "Moderator",
+  "makeAdmin": "Administrator",
+  "removeModeratorRights": "Remover li jures de moderator",
+  "removeAdminRights": "Remover li jures de administrator",
+  "powerLevel": "Nivel de autoritá",
+  "setPowerLevelDescription": "Li nivel de autoritá define quo li membres posse far in ti chambre (de 0 a 100).",
+  "owner": "Possessor",
+  "mute": "Assurdar",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Crear nov babilie",
+  "reset": "Re-constituar",
+  "supportFluffyChat": "Suportar NYX",
+  "support": "Suporta",
+  "setLowPriority": "Definir quam bass prioritá",
+  "unsetLowPriority": "Anullar li bass prioritá",
+  "playSoundOnNotification": "Lector de son de notification",
+  "addTag": "Adjunter etiqueta",
+  "removeTag": "Remover etiqueta",
+  "tagName": "Nom del etiqueta",
+  "createNewTag": "Crear nov etiqueta",
+  "discardEdits": "Vu ha modificationes ne salvat. Abandonar li redactiones?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Celar chambres in li spatios",
+  "possibleByYou": "Ti version existe con vor suporta. NYX resta líber, de fonte apert e duchtat per la comunitá.",
+  "showThumbnailsInTimeline": "Monstrar miniaturats de imajines e videos",
+  "appSubtitle": "Comunicational secur in [matrix]",
+  "appDescription": "Un aplication de comunication descentralisat e encryptat per li rete [matrix].",
+  "interactiveVerification": "Verification interactiv",
+  "interactiveVerificationDescription": "Vu posse verificar vor aparatus simultanmen con vor contactos per comparar emojis o numerós.",
+  "countUnverifiedDevices": "Li babilie ha {count} aparatus ne verificat.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Missage encryptat",
+  "unencryptedMessage": "Missage ne encryptat",
+  "publicKey": "Clave public: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Clave d'identitá del aparatu",
+  "showMore": "Monstrar plu",
+  "showLess": "Monstrar minus",
+  "restoreBootstrapEmptyDevicesDescription": "Ples intrar li frase de passa o li clave de restauration por verificar ti aparatu e acceder al copia de securitá.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Ples selecter un alteri aparatu por verificar ti session:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Re-constituar li conto",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Restaurar l'identitá criptografic",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Re-constituar l'identitá criptografic",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Configurar l'identitá criptografic",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Atendente li claves... ples mantener un alteri aparatu activ.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Null clave transmitet. Ples re-provar.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Desclavar",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Aperter li file",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Re-constituar vor conto va far vos perder li acces a omni ancian missages! Ples far to solmen si vu ne ha un alteri aparatu e ha perdit li clave de restauration.",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "Por ne perder vor missages, ples selecter un fort frase de passa por proteger vor identitá e la copia de securitá.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Nov frase de passa",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Repetir li frase de passa",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Li frases de passa concorda",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Alminus 12 caracteres.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Contiene majuscul e minuscul.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Contiene caracteres special.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Contiene un numeró.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Ples scri vor clave de restauration por poder restaurar vor missages encryptat.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Garantiar quam file",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Vu es pret por comensar!",
+  "noUserKeyFound": "Null clave de usator trovat",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Aparatu ne signat",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Aparatu signat",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Null clave curve25519 trovat",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Missage ne descriptibil",
+  "knownSince": "Conosset desde: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Vor missages es encryptat de fin a fin, solmen ti usator posse leter it:",
+  "messageCanOnlyBeReadByUsers": "Vor missages es encryptat de fin a fin, solmen ti usatores posse leter it:",
+  "today": "Hodie",
+  "sending": "Mmissante",
+  "generatingThumbnail": "Generante li miniaturat",
+  "encrypting": "Encryptante",
+  "uploading": "Cargante",
+  "edited": "(redacterit)",
+  "couldNotBeSent": "Ne posset esser missat",
+  "yesterday": "Heri",
+  "resetRecoveryKey": "Re-constituar li clave de restauration",
+  "pleaseEnter6Digits": "Ples intrar 6 ciffras por activar li clavura.",
+  "disableAppLock": "Desactivar la clavura del aplication",
+  "disableAppLockAreYouSure": "Esque vu es cert que vu vole desactivar li clavura?",
+  "enableBiometrics": "Activar l'autentication biometric",
+  "disableBiometrics": "Desactivar l'autentication biometric",
+  "biometricsDescription": "Desclavar l'aplication usante vor visage o li empremte digital.",
+  "useAppLock": "Usar la clavura del aplication",
+  "unlockWithBiometrics": "Desclavar per biometrie",
+  "resetPin": "Re-constituar li PIN",
+  "forwardCountMessages": "Rediriguer {count, plural, =1{1 missage} other{{count} missages}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Redacter l'imajine",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Rotar a levul",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Rotar a dextri",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Reflecter",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Garantiar",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Dessenar",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Desfar",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Vacuar",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Raser",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Tondar",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Cargante li missages...",
+  "buildDoesNotSupportFirebase": "Ti version ne suporta Firebase Cloud Messaging.",
+  "unableToRegisterDeviceForFirebase": "Impossibil inregistrar li aparatu por Firebase.",
+  "unifiedPushDistributors": "Distributores UnifiedPush:",
+  "doubleTapToReact": "Duppli-clicar por responder con reaction",
+  "doubleTapToReactDescription": "Duppli-clicar sur li missage por dar un reaction in loc de selecter li text",
+  "doubleTapReaction": "Reaction de duppli-clic",
+  "sendingFilesDoNotExit": "Mmissante {count} files... ples ne exear!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Compressante li video...",
+  "shareCrashReports": "Partiprender li raportes de panna",
+  "shareCrashReportsDescription": "Partiprender automaticmen li raportes de panna con li developpatores?",
+  "videoCallsBetaWarning": "Li apells de video es un caracteristica beta.",
+  "callNotAllowed": "Solmen administratores posse iniciar un apell in ti chambre.",
+  "countActiveCallMembers": "{count} membres in li apell activ",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Intrar in li apell",
+  "noDevicesFound": "Null aparatus trovat",
+  "incomingCall": "Apell arrivante",
+  "waitingForParticipant": "Atendente li participante...",
+  "decline": "Refusar",
+  "videoCall": "Apell de video",
+  "voiceCall": "Apell de voce",
+  "previewImage": "[Imajine]",
+  "previewVideo": "[Video]",
+  "previewVoice": "[Voce]",
+  "previewAudio": "[Audio]",
+  "previewFile": "[File]",
+  "previewLocation": "[Localisation]",
+  "previewSticker": "[Emotico]",
+  "previewVoiceCall": "[Apell de voce]",
+  "previewVideoCall": "[Apell de video]",
+  "missedCall": "Apell ne leterit",
+  "callBack": "Re-apellar",
+  "hangUp": "Finissar l'apell",
+  "startCall": "Iniciar li apell",
+  "selectCamera": "Selecter li cámera",
+  "selectMicrophone": "Selecter li microfon",
+  "selectSpeaker": "Selecter li altparlator",
+  "toggleMicrophone": "Bascular li microfon",
+  "toggleCamera": "Bascular li cámera",
+  "startScreensharing": "Comensar li partiprendida de ecran",
+  "stopScreensharing": "Cessar li partiprendida de ecran",
+  "raiseHand": "Levar la manu",
+  "stopRaiseHand": "Bassar la manu",
+  "preferSpeaker": "Preferer altparlator",
+  "unexpectedErrorOccurded": "Un error inexpectat ocurret: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Contos e parametres",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Apell arrivante de {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Li servitor respondet con un error: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Un nov actualisation {version} es disponibil",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Deschargiar",
+  "sharedLocation": "Localisation partprendet",
+  "contacts": "Contactos",
+  "groupChats": "Babilies de trupp",
+  "publicGroups": "Trupps public",
+  "createGroupChat": "Crear babilie de trupp",
+  "inviteFriends": "Invitar amicos",
+  "emptyChatsTitle": "Null babilies",
+  "emptyChatsDesc": "Clicar sur + in li angul superior dextri por comensar",
+  "emptyUsersTitle": "Vu ne ha anc babilies privat",
+  "emptyUsersDesc": "Vu posse anullar li filtre por vider alteri conversationes",
+  "emptyUnreadTitle": "Null missages ne leterit",
+  "emptyUnreadDesc": "Vu posse adijunter babilies al superiores in parametres",
+  "emptyGroupChatsTitle": "Vu ne es un membre de ulique trupp",
+  "emptyGroupChatsDesc": "Anullar li filtre por vider alteri conversationes",
+  "emptyPinnedTitle": "Null babilies fixat",
+  "emptyPinnedDesc": "Fixar li babilies in li parametres",
+  "startChat": "Iniciar un babilie",
+  "newGroupChat": "Nov babilie de trupp",
+  "invitedYouToJoinGroup": "{username} invitat vos a un trupp",
+  "joinGroupBannerTitle": "Adherer a un trupp e mantener li contact",
+  "joinGroupBannerDesc": "Li trupps es organisat per temas. Omni trupps u vu es visibil va aparar ci.",
+  "certifiedGroups": "{count} trupps certificat",
+  "membersCount": "{count} membres",
+  "recentlyOnline": "En linea recentmen",
+  "lastSeenLongAgo": "Videt ante mult témpore",
+  "appearance": "Aspecte",
+  "language": "Lingue",
+  "selectLanguage": "Selecter li lingue",
+  "privacyAndSecurity": "Privatitá e securitá",
+  "qrScanRecognizing": "Reconoscente...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Témpore de reconossentie expirat",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "Null QR Code trovat",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "Li contenete del QR code es vacui",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Reconossentie falit",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "QR code invalid",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "To es li QR code de vor propri conto",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Refusar l'invitation al trupp",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Esque vu es cert que vu vole refusar l'invitation a {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Cámera",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Fotos e videos",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "File",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "En linea",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Hors linea",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Missage deletet",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Vu deletet un missage",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} deletet un missage",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "File salvat",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Salvat in li galerie",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Ne posset aperter li file",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "File inconosset",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Apell de video ne leterit",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Apell anullat",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} personas in l'apell",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Adherer",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Atendente alteri personas...",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Solmen li administrator del chambre posse iniciar apells",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Remover li babilie de ti liste (it va re-aparar pos un nov missage).",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Dissolver li trupp; omni membres va esset removet.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Traducter",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Traductente...",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Traduction falit, ples re-provar",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Apell in curso",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Monstrar durante un apell de voce o video",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Clicar por retornar al apell",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Li alteri partisano anullat li apell",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Apell de video anullat",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Li alteri partisano anullat li apell de video",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Retro",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Apellante...",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Nectente...",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Apell finat",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Apell falit",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Altparlator",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Auscultator",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Inverter",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Video",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Microfon desactivat",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Finar",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Yo",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Apell mmissat",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds}s",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes}m",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours}h {minutes}m",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Changear mi rol",
+  "permissions": "Permissiones",
+  "changeMyRoleConfirmMessage": "Vu des-escalada vor nivell. Ti action ne posse esser anullat.",
+  "demoteToAdmin": "Reducter a administrator",
+  "demoteToModerator": "Reducter a moderator",
+  "demoteToMember": "Reducter a membre",
+  "addAdmin": "Adjunter administrator",
+  "addModerator": "Adjunter moderator",
+  "groupAdmins": "Administratores del trupp",
+  "groupModerators": "Moderatores del trupp",
+  "addAdminHelp": "Vu posse adjunter administratores por auxiliar vos.",
+  "addModeratorHelp": "Vu posse adjunter moderatores por auxiliar vos.",
+  "noCandidatesToAdd": "Null candidatos por adjunter",
+  "setAsAdminSuccess": "Definit quam administrator",
+  "setAsModeratorSuccess": "Definit quam moderator",
+  "searchMembers": "Cercar membres",
+  "noResults": "Null reussitas",
+  "noResultsDescription": "Null reussita trovat, ples cercar de nov.",
+  "removeAdminConfirm": "Esque vu es cert que vu vole remover li jures de administrator de ti usator?",
+  "removeModeratorConfirm": "Esque vu es cert que vu vole remover li jures de moderator de ti usator?",
+  "removeAdminSuccess": "Jures de administrator removet",
+  "removeModeratorSuccess": "Jures de moderator removet",
+  "manageMembers": "Gerer li membres",
+  "inviteMembers": "Invitar membres",
+  "removeMembers": "Remover membres",
+  "banMembers": "Bannir membres",
+  "editCommunity": "Redacter li comunitá",
+  "changeCommunityName": "Changear nom del comunitá",
+  "changeCommunityAvatar": "Changear avatar del comunitá",
+  "changeCommunityDescription": "Changear description del comunitá",
+  "messagesAndContent": "Missages e contenete",
+  "removeMessages": "Remover missages",
+  "adminsOnly": "Solmen administratores",
+  "adminsAndModerators": "Administratores e moderatores",
+  "resetPermissions": "Re-constituar permissiones",
+  "resetPermissionsConfirmMessage": "Esque vu es cert que vu vole re-constituar omni permissiones?",
+  "changeSettings": "Changear parametres",
+  "permissionChangedFromTo": "{sender} changeat {permission} de {from} a {to}",
+  "changedUserRoleTo": "{username} definit {target} quam {role}",
+  "viewInChat": "Vider in li babilie",
+  "playbackSpeed": "Vitesse de lectura",
+  "normalSpeed": "Normal",
+  "qrScanHint": "Placer li QR code in li cadre por scannar",
+  "torch": "Lanterna",
+  "remarkVisibleOnlyToYou": "Ti nota es visibil solmen por vos self",
+  "pollVotes": "{count} votationes",
+  "totalPollVotes": "Total: {count} votationes",
+  "scanQrMobileOnly": "Scannar QR code es suportat solmen in mobil",
+  "publicGroupTech": "Tecnologie e developpement",
+  "publicGroupMarketing": "Marketing e reclame",
+  "publicGroupWeb3": "Web3 e activos virtual",
+  "publicGroupCrossBorder": "Servicies transfrontalier",
+  "publicGroupFreelance": "Comercie de libri professiones",
+  "blockUsers": "Blocar usatores",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Activat",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Codice de ecran",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Contrasigne de connexione",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Clave de restauration",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Permisser stocage de claves",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Stocar vor identitá criptografic in li servitor securmen por posser leter vor historie in nov aparatus.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Configurar restauration",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Usar la clave de restauration por recoverar vor conto si vu perde omni aparatus",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Definir clave de restauration",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Stocar vor identitá criptografic in li servitor.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Generar clave de restauration",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Clicar por copiar li clave de restauration",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Garantiar la clave de restauration",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Garantiar ti clave in un loc secur, p.ex. un gestor de contrasignes.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Garantiar la clave de restauration",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Clave de restauration copiat",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Clave de restauration salvat",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "Generante li clave de restauration...",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Partiprender li statu en linea",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Si desactivat, vu ne va poser mmissar o reciver confirmas de lection o notificationes de scrition",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Optimisar por li cargament",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Moderation de contenete e securitá",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Celar avatar in demandes d'invitation",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Monstrar medias in li cronologie",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Celar semper",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "In chambres privat",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Monstrar semper",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Omnicunc",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Solmen mentiones",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Babilie de trupp",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Babilie privat",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Notificar me in babilies de trupp",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Notificar me in babilies privat",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Omni missages",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Solmen mentiones e motes-claves",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "Li servitor ne suporta ti option in trupps encryptat",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Parametres independent per babilie",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Activar to va substituer vor parametres omissat.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Notificar me in ti babilie",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Solmen mentiones e motes-claves",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Vor servitor doman ne suporta ti option in chambres encryptat.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Permisser parametres personalisat",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Notificar me in ti aparatu",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Mentiones",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Notificar me quando mentionat in trupps",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Plu parametres",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Ancian contrasigne",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Clavura con codice",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Activar la clavura de ecran",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Ples intrar un codice de clavura",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Ples intrar novmen li codice",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Ples intrar li ancian codice",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Ancian codice incorrect",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Modificar li codice de clavura",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Nota: Si vu oblida li codice, vu va dever re-installar l'aplication.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Li codices ne concorda",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Clavura de ecran activat",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Clavura de ecran desactivat",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Ti aparatu",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Deconnexer omni alteri sessiones de aparatu",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Deconnexer de omni aparatus forsan de ti ci.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Sessiones activ",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Deleter li aparatu",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Esque vu es cert pri li aparatu {name}?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "ID de aparatu",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Connexet",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "Adresse IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Cliente",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "ID de cliente",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Nom",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Remover aparatu",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "ante {time}",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "minutes",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "hores",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "dies",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Benvenit in vor {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "Benvenit a {appName}, li rapid e simplic aplication de messagerie.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Crear conto",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Actualisation prest",
+  "updateReadyMessage": "Nos have optimisate alcun functiones. Reinitia li application pro applicar li actualisation.",
+  "restartNow": "Reinitia nun",
+  "noPublicGroupsYet": "Nequam grupo certificat ancor"
+}

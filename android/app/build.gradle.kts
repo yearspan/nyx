@@ -1,0 +1,98 @@
+import java.util.Properties
+import java.io.FileInputStream
+
+plugins {
+    id("com.android.application")
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id("dev.flutter.flutter-gradle-plugin")
+}
+
+if (file("google-services.json").exists()) {
+    apply(plugin = "com.google.gms.google-services")
+}
+
+dependencies {
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4") // For flutter_local_notifications // Workaround for: https://github.com/MaikuB/flutter_local_notifications/issues/2286
+    implementation("androidx.core:core-ktx:1.17.0") // For Android Auto
+}
+
+
+// Workaround for https://pub.dev/packages/unifiedpush#the-build-fails-because-of-duplicate-classes
+configurations.all {
+    // Use the latest version published: https://central.sonatype.com/artifact/com.google.crypto.tink/tink-android
+    val tink = "com.google.crypto.tink:tink-android:1.23.0"
+    // You can also use the library declaration catalog
+    // val tink = libs.google.tink
+    resolutionStrategy {
+        force(tink)
+        dependencySubstitution {
+            substitute(module("com.google.crypto.tink:tink")).using(module(tink))
+        }
+    }
+}
+
+
+android {
+    namespace = "im.nyx.app"
+    // Workaround for https://github.com/juliansteenbakker/flutter_secure_storage/issues/1224
+    compileSdk = 37 //flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+        isCoreLibraryDesugaringEnabled = true
+    }
+
+    // Release signing credentials are read from android/key.properties, which is
+    // gitignored and must NEVER be committed. No secrets are hardcoded here.
+    signingConfigs {
+        create("release")
+    }
+
+    val keystoreProperties = Properties()
+    val keystorePropertiesFile = rootProject.file("key.properties")
+    if (keystorePropertiesFile.exists()) {
+        keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+        signingConfigs.getByName("release").apply {
+            keyAlias = keystoreProperties["keyAlias"] as String
+            keyPassword = keystoreProperties["keyPassword"] as String
+            storeFile = keystoreProperties["storeFile"]?.let { file(it) }
+            storePassword = keystoreProperties["storePassword"] as String
+        }
+    }
+
+    defaultConfig {
+        applicationId = "im.nyx.app"
+        minSdk = flutter.minSdkVersion
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+        ndk { // Workaround for https://github.com/flutter/flutter/issues/162153#issuecomment-2612443642
+            abiFilters += listOf("armeabi-v7a", "arm64-v8a", "x86_64", "x86")
+        }
+    }
+
+    buildTypes {
+        release {
+            // Use the release keystore only when key.properties is present (local/CI).
+            // Contributors without it still get a buildable release (debug-signed).
+            signingConfig = signingConfigs.getByName("release").takeIf { it.storeFile != null }
+                ?: signingConfigs.getByName("debug")
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
+        }
+    }
+}
+
+kotlin {
+    compilerOptions {
+        jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_11
+    }
+}
+
+
+flutter {
+    source = "../.."
+}

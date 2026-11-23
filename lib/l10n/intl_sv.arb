@@ -1,0 +1,4092 @@
+{
+  "@@locale": "sv",
+  "@@last_modified": "2026-11-03 15:00:00.000000",
+  "about": "Om",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Acceptera",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} accepterade inbjudan",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Konto",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} aktiverade totalsträckskryptering",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Lägg till e-post",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Administratör",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Alias",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Alla",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} besvarade samtalet",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Vem som helst kan gå med",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Applås",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Arkiv",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Får gäster gå med?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Är du säker?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Är du säker på att du vill logga ut?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Ange din säkerhetslösenfras eller återställningsnyckel för att signera.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Vill du acceptera verifieringsbegäran från {username}?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Inloggningstyper som stöds av hemservern:\n{serverVersions}\nMen denna app stöder endast:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Bannlys från chatt",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Bannlys medlem",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Bannlyst",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} bannlyste {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Blockera enhet",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Blockerad",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Avbryt",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Ändra enhetsnamn",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} ändrade chattens avatar",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} ändrade chattbehörigheter",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} ändrade visningsnamn till: '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} ändrade regler för gäståtkomst",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} ändrade regler för gäståtkomst till: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} ändrade historikens synlighet",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} ändrade historikens synlighet till: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} ändrade medlemskapsregler",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} ändrade medlemskapsregler till: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} ändrade sin avatar",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} ändrade rummets alias",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} ändrade inbjudningslänken",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Ändra lösenord",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Ändra hemserver",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Ändra tema",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Ändra gruppens namn",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Ändra din avatar",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "Krypteringen har skadats",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Chatt",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Chattsäkerhetskopia",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Chattdetaljer",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Chattar",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Välj ett starkt lösenord",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Rensa arkiv",
+  "close": "Stäng",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Bannlys angiven användare från detta rum",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Skicka HTML-formaterad text",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Bjud in angiven användare till detta rum",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Gå med i angivet rum",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Ta bort angiven användare från detta rum",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Lämna detta rum",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Presentera dig själv",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Ställ in din avatar för detta rum (via mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Ställ in ditt smeknamn för detta rum",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Ställ in behörighetsnivå för angiven användare (standard: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Skicka oformaterad text",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Skicka svar som en reaktion",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Skicka text",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Häv bannlysning för angiven användare i detta rum",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Ogiltigt kommando",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} är inte ett kommando.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Jämför emojierna",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Jämför följande nummer",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Konfigurera chatt",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "Kontakten har bjudits in till gruppen",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Innehållet har rapporterats till serveradministratören",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Kopierat till urklipp",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Kopiera",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Kopiera till urklipp",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Kunde inte dekryptera meddelande: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Meddelandet kunde inte dekrypteras för tillfället, försök igen senare",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} deltagare",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Skapa",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} skapade chatten",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "För närvarande aktiv",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "Mörkt",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Detta inaktiverar ditt användarkonto. Detta kan inte ångras! Är du säker?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Standardbehörighetsnivå för nya användare",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Ta bort",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Radera konto",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Ta bort meddelande",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Ta bort alla meddelanden",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Rensa chatthistorik",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Är du säker på att du vill ta bort alla meddelanden i denna chatt? Detta går inte att ångra.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Är du säker på att du vill rensa historiken för denna chatt? Detta går inte att ångra.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Aktivera automatisk radering",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Radera automatiskt nya meddelanden i denna chatt efter en viss tid",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 dag",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 vecka",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 månad",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Inaktivera",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Enheter",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Direktchattar",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Visningsnamn har ändrats",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Ladda ned fil",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Redigera",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Redigera blockerade servrar",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Redigera visningsnamn",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Redigera rummets alias",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Redigera rummets avatar",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Emojin finns redan!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Ogiltig emojikod!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Emojikod",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Tom chatt",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Aktivera emojipaket globalt",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Aktivera kryptering",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Du kommer inte att kunna inaktivera kryptering senare. Är du säker?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Krypterad",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Kryptering",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Kryptering är inte aktiverat",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} avslutade samtalet",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Ange en e-postadress",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Teckenstorlek",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Vidarebefordra",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "Vidarebefordrat",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Från anslutning",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Från inbjudan",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Grupp",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Gruppen är offentlig",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Grupper",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Grupp med {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Gäster är förbjudna",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Gäster kan gå med",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} återkallade inbjudan för {targetName}",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Hjälp",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Dölj okända händelser",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Ignorera",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Ignorerade användare",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Jag har klickat på länken",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Felaktig lösenfras eller återställningsnyckel",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Bjud in kontakt",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Bjud in kontakt till {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Inbjuden",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} bjöd in {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Endast inbjudna användare",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} bjuder in dig till NYX. \n1. Installera NYX: https://fluffychat.im \n2. Registrera dig eller logga in \n3. Öppna inbjudningslänken:\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "skriver...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} gick med i chatten",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Gå med i rum",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Ange rumsadress",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "t.ex. !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Ogiltig adress!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Rummet hittades inte!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Det gick inte att gå med i rummet",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Hittade ett matchande rum",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Fortsätt",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Ingen beskrivning ännu~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Ansök om att gå med",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Gå in i rummet",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Beskrivning",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} sparkade ut {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} sparkade ut och bannlyste {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Sparka ut från chatt",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Du har sparkats ut från denna gruppchatt",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Ta bort medlem",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Senast aktiv: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Lämna",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "lämnade chatten",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Ljust",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Ladda {count} deltagare till",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Laddar… Vänta vänligen.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Ladda mer…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Logga in",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Logga in på {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Logga ut",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Är du säker på att du vill logga ut från nuvarande NYX-konto?",
+  "mention": "Nämna",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Meddelanden",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Moderatör",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Tysta chatt",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Ny chatt",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 Nytt meddelande i NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Ny verifieringsbegäran!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Nästa",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Nej",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Ingen anslutning till servern",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Inga emojier hittades. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Du kan endast aktivera kryptering när rummet inte är offentligt tillgängligt.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Det verkar inte som att du har Firebase Cloud Messaging på din telefon. Om du vill ta emot aviseringar från NYX rekommenderas att installera ntfy. Med ntfy eller en annan UnifiedPush-leverantör kan du ta emot aviseringar på ett integritetssäkert sätt. Du kan ladda ned ntfy från PlayStore eller F-Droid.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Du har inte lagt till något sätt att återställa ditt lösenord än.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Ingen behörighet",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Inga rum hittades…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Aviseringar",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} personer skriver…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Säkerhetskopiering av nycklar online är aktiverat",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Hoppsan! Ett fel uppstod vid konfigureringen av push-aviseringar.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Hoppsan, något gick fel…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Öppna appen för att läsa meddelanden",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Öppna kamera",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "eller",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Deltagare",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Lösenfras eller återställningsnyckel",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Lösenord",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Glömt lösenord",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Lösenordet har ändrats",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Lösenordsåterställning",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Fäst",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Välj en PIN-kod",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Klicka på länken i e-postmeddelandet och fortsätt sedan.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Ange ditt lösenord",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Ange din PIN-kod",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Ange låskod",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Ange ditt användarnamn",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Följ instruktionerna på webbplatsen och klicka på Nästa.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Integritet",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Offentliga rum",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Anledning",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} raderade en händelse",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Radera meddelande",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Avvisa",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} avvisade inbjudan",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Ta bort",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Ta bort alla andra enheter",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Häv bannlysning i chatten",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Ta bort din avatar",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Ersätt rummet med en nyare version",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Svara",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Rapportera meddelande",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "Rummet har uppgraderats",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Rumsversion",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Spara fil",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Sök",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Säkerhet",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Skicka",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Skicka ett meddelande",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Skicka som text",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Skicka ljud",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Skicka fil",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Skicka bild",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Skicka meddelanden",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Skicka video",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} skickade en fil",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} skickade ett ljudmeddelande",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} skickade en bild",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} skickade ett klistermärke",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} skickade en video",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} skickade samtalsinformation",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Ställ in som huvudsakligt alias",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Ställ in status",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Inställningar",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Dela",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} delade plats",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Hoppa över",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Källkod",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} startade ett samtal",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Status",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Hur mår du idag?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Skicka in",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Synkroniserar… Vänta vänligen.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "System",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "De matchar inte",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "De matchar",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "För många förfrågningar. Försök igen senare!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Försök att skicka igen",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} hävde bannlysningen för {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Avblockera enhet",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Okänd enhet",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Okänd krypteringsalgoritm",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Okänd händelse '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Slå på ljud för chatt",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Ta bort fästning",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} och {count} andra skriver…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} och {username2} skriver…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} skriver…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} lämnade chatten",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} skickade en {type}-händelse",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Verifierad",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Verifiera användare",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Verifiera denna användare",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "För ökad säkerhet kan du verifiera denna användare genom att jämföra emojier på din enhet med användarens enhet. Gör detta öga mot öga eller via ett videosamtal.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Väntar på den andra användaren",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "När förfrågan har accepterats kan du fortsätta verifieringen",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Jämför emojier",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Jämför emojierna och se till att de visas i samma ordning",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Verifiera att emojierna nedan stämmer överens med den andra enheten",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Verifieringsbegäran",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "För ökad säkerhet vill en annan användare verifiera din identitet. Du kommer att få en uppsättning emojier att jämföra",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Verifiering lyckades",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Du kan nu lita på denna användares identitet för att starta samtals- eller meddelandeutbyte",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Verifieringen misslyckades",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "Begäran tidsbegränsades, avvisades eller så matchade inte symbolerna",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Klar",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Försök igen",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Vill du verifiera denna användare?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Detta är ditt första meddelande till användaren. För högre säkerhet kan du verifiera identiteten först eller skicka meddelandet direkt.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Verifiera nu",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Skicka direkt",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Meddelandeaviseringar",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Meddelandeavisering",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Lägg till bio",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Välj ny avatar",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Medlemmar",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Roller och behörigheter",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Personlig profil",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Ställ in anteckning",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Fästa meddelanden",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 fäst meddelande} other{{count} fästa meddelanden}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Inga fästa meddelanden",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Avtal",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Media och filer",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Omröstningar",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Lämna gemenskap",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Radera gruppchatt",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Media",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Ingen media ännu",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Inga filer ännu",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Laddar ned fil…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Lägg till i kontakter",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Lägg till kontakt",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Ta bort kontakt",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Bio",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Ingen bio ännu",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Blockera användare",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Avblockera användare",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Samtal",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Starta verifiering",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Du har verifierats framgångsrikt!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Verifiera andra konton",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Chatthistorikens synlighet",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Synlig för alla deltagare",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Synlig för alla",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Röstmeddelande",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Väntar på att den andra parten ska acceptera begäran…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Väntar på att den andra parten ska acceptera emojier…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Väntar på att den andra parten ska acceptera siffror…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Varning!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Vi har skickat ett e-postmeddelande till dig",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Vem som kan utföra vilka åtgärder",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Vem som får gå med i denna grupp",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Vad är anledningen till att du vill rapportera detta?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Med dessa adresser kan du återställa ditt lösenord.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Skriv ett meddelande…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Ja",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Du",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Du deltar inte längre i denna chatt",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Du har bannlysts från denna chatt",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Din offentliga nyckel",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Lägg till i utrymme",
+  "obtainingLocation": "Hämtar plats…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} är inte en Matrix-server, prova {server2}?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Platsbehörighet nekas. Bevilja behörigheten för att dela din plats.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Platstjänster är inaktiverade. Aktivera tjänsten för att dela din plats.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Fel vid hämtning av plats: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Skapa nytt utrymme",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Kunde inte öppna URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Spela upp animerade klistermärken och emojier automatiskt",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Namn på utrymme",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Utrymmet är offentligt",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Dela plats",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Öppna i Kartor",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Skicka med Enter",
+  "scanQrCode": "Skanna QR-kod",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR-kod",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Dela QR-kod",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "En av dina klienter har loggats ut",
+  "removeFromBundle": "Ta bort från detta paket",
+  "unverified": "Overifierad",
+  "repeatPassword": "Upprepa lösenord",
+  "addAccount": "Lägg till konto",
+  "editBundlesForAccount": "Redigera paket för detta konto",
+  "addToBundle": "Lägg till i paket",
+  "bundleName": "Paketnamn",
+  "link": "Länk",
+  "sender": "Avsändare",
+  "openGallery": "Öppna galleri",
+  "messageInfo": "Meddelandeinformation",
+  "time": "Tid",
+  "removeFromSpace": "Ta bort från detta utrymme",
+  "commandHint_discardsession": "Kassera session",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Skapa en direktchatt\nAnvänd alternativet --no-encryption för att inaktivera kryptering",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Rensa cacheminne",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Skapa en tom gruppchatt\nAnvänd alternativet --no-encryption för att inaktivera kryptering",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Markera som läst",
+  "reportUser": "Rapportera användare",
+  "reactedWith": "{sender} reagerade med {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Är du säker på att du permanent vill ta bort fästningen av denna händelse?",
+  "pinMessage": "Fäst i rummet",
+  "emojis": "Emojier",
+  "unsupportedAndroidVersionLong": "Denna funktion kräver en nyare version av Android. Kontrollera uppdateringar eller Lineage OS-stöd.",
+  "unsupportedAndroidVersion": "Android-version stöds inte",
+  "youRejectedTheInvitation": "Du avvisade inbjudan",
+  "youJoinedTheChat": "Du gick med i chatten",
+  "youBannedUser": "Du bannlyste {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Du blev inbjuden av {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Du bjöd in {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Du sparkade ut {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Du hävde bannlysningen för {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Du accepterade inbjudan",
+  "youHaveWithdrawnTheInvitationFor": "Du återkallade inbjudan för {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Du sparkade ut och bannlyste {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Spara i Apple Keychain",
+  "storeInAndroidKeystore": "Spara i Android KeyStore",
+  "storeSecurlyOnThisDevice": "Spara säkert på denna enhet",
+  "users": "Användare",
+  "countFiles": "{count} filer",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Återställ från säkerhetskopia",
+  "dehydrate": "Exportera session och rensa enhet",
+  "dehydrateWarning": "Denna åtgärd går inte att ångra. Se till att förvara din säkerhetskopia på ett säkert ställe.",
+  "user": "Användare",
+  "userNotFound": "Användaren hittades inte",
+  "custom": "Anpassad",
+  "confirmMatrixId": "Bekräfta ditt Matrix ID för att radera kontot.",
+  "supposedMxid": "Förväntas vara {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Markera som grupp",
+  "commandHint_markasdm": "Markera angivet Matrix ID som ett direktmeddelanderum",
+  "whyIsThisMessageEncrypted": "Varför är detta meddelande oläsbart?",
+  "noKeyForThisMessage": "Detta kan hända om meddelandet skickades innan du loggade in på denna enhet.\n\nDet är också möjligt att avsändaren har blockerat din enhet eller att det uppstod problem med nätverksanslutningen.\n\nKan du läsa meddelandet på en annan enhet? I så fall kan du överföra nycklarna därifrån! Gå till Inställningar > Enheter och se till att dina enheter är ömsesidigt verifierade. Nästa gång du öppnar rummet och båda enheterna är aktiva i förgrunden överförs nycklarna automatiskt.\n\nVill du undvika att förlora nycklar när du loggar ut eller byter enhet? Se till att ha chattkopiering aktiverat i inställningarna.",
+  "newSpace": "Nytt utrymme",
+  "doNotShowAgain": "Visa inte igen",
+  "googlyEyesContent": "{senderName} skickade e-mojien med rullande ögon",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Skicka e-mojin med rullande ögon",
+  "commandHint_cuddle": "Skicka en kram",
+  "commandHint_hug": "Skicka en omfamning",
+  "cuddleContent": "{senderName} kramade dig",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} omfamnade dig",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Tom chatt (var tidigare {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Utrymmen låter dig samla chattar och skapa privata eller offentliga gemenskaper.",
+  "encryptThisChat": "Kryptera denna chatt",
+  "disableEncryptionWarning": "Av säkerhetsskäl kan du inte inaktivera kryptering i en chatt där det tidigare har aktiverats.",
+  "sorryThatsNotPossible": "Tyvärr... det är inte möjligt",
+  "report": "Rapportera",
+  "fileIsTooBigForServer": "Kunde inte skickas! Servern stöder endast filer upp till {max}.",
+  "noOtherDevicesFound": "Inga andra enheter hittades",
+  "jumpToLastReadMessage": "Hoppa till senast lästa meddelande",
+  "readUpToHere": "Läst hit",
+  "jump": "Hoppa",
+  "openLinkInBrowser": "Öppna länk i webbläsare",
+  "fileHasBeenSavedAt": "Filen har sparats i {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 Åh nej. Något gick fel. Om du vill kan du rapportera detta fel till utvecklarna.",
+  "noBackupWarning": "Varning! Utan chattkopiering förlorar du åtkomst till dina krypterade meddelanden. Det rekommenderas starkt att aktivera chattkopiering innan du loggar ut.",
+  "reopenChat": "Öppna chatten igen",
+  "importEmojis": "Importera emojier",
+  "notAnImage": "Inte en bildfil.",
+  "importNow": "Importera nu",
+  "importFromZipFile": "Importera från .zip-fil",
+  "replace": "Ersätt",
+  "exportEmotePack": "Exportera emojipaket som .zip",
+  "sendTypingNotifications": "Skicka skrivindikatorer",
+  "createGroup": "Skapa gruppchatt",
+  "shareInviteLink": "Dela inbjudningslänk",
+  "tryAgain": "Försök igen",
+  "chatPermissions": "Chattbehörigheter",
+  "chatDescription": "Chattbeskrivning",
+  "chatDescriptionHasBeenChanged": "Chattbeskrivningen har ändrats",
+  "noChatDescriptionYet": "Ingen chattbeskrivning skapad ännu.",
+  "invalidServerName": "Ogiltigt servernamn",
+  "redactMessageDescription": "Meddelandet kommer att raderas för alla deltagare i denna konversation. Det går inte att ångra.",
+  "optionalRedactReason": "(Valfritt) Anledning till radering av meddelandet...",
+  "setChatDescription": "Ställ in chattbeskrivning",
+  "setColorTheme": "Välj färgtema:",
+  "invite": "Bjud in",
+  "addMembers": "Lägg till medlemmar",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Bjud in via länk",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Denna lista är endast synlig för gruppchattens administratörer.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Kontakter i denna chatt",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Gruppen har ingen inbjudningslänk ännu",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Meddelandestil:",
+  "redactedBy": "Raderades av {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "Raderades av {username}, anledning: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Gruppinbjudan",
+  "emoteKeyboardNoRecents": "Senast använda emojier visas här...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Ogiltig inmatning!",
+  "wrongPinEntered": "Felaktig PIN-kod angiven! Försök igen om {seconds} sekunder…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} har begärt en inbjudan till rummet",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Ange ett tal större än 0",
+  "banUserDescription": "Användaren kommer att bannlysas från chatten och kan inte gå med igen förrän bannlysningen hävs.",
+  "removeDevicesDescription": "Du kommer att loggas ut från denna enhet och kan inte ta emot fler meddelanden på den.",
+  "unbanUserDescription": "Användaren kan gå med i chatten igen om hen vill.",
+  "pushNotificationsNotAvailable": "Push-aviseringar är inte tillgängliga",
+  "makeAdminDescription": "När du väl har gjort denna användare till administratör kan du kanske inte ångra det eftersom hen får samma behörigheter som du.",
+  "archiveRoomDescription": "Chatten flyttas till arkivet. Andra användare kommer att se att du har lämnat chatten.",
+  "learnMore": "Läs mer",
+  "roomUpgradeDescription": "Det aktuella rummet skapas om med den nya rumsversionen. Alla deltagare meddelas att byta till det nya rummet. Mer information finns på https://spec.matrix.org/latest/rooms/",
+  "kickUserDescription": "Användaren sparkas ut från chatten men bannlyses inte. I offentliga chattar kan användaren gå med igen när som helst.",
+  "blockListDescription": "Du kan blockera användare som stör dig. Du kommer inte att få några meddelanden eller inbjudningar från blockerade användare.",
+  "createGroupAndInviteUsers": "Skapa grupp och bjud in användare",
+  "blockedUsers": "Blockerade användare",
+  "groupCanBeFoundViaSearch": "Gruppen kan hittas via sökning",
+  "noUsersFoundWithQuery": "Tyvärr hittades inga användare för \"{query}\". Kontrollera om du har stavat fel.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Blockera",
+  "yourGlobalUserIdIs": "Ditt globala användar-ID är: ",
+  "commandHint_sendraw": "Skicka rå JSON",
+  "wrongRecoveryKey": "Tyvärr… det där verkar inte vara rätt återställningsnyckel.",
+  "blockUsername": "Ignorera användarnamn",
+  "groupName": "Gruppnamn",
+  "databaseMigrationTitle": "Databasen har optimerats",
+  "searchChatsRooms": "Sök #chattar, @användare…",
+  "databaseMigrationBody": "Vänta vänligen. Det kan ta en liten stund.",
+  "thisDevice": "Denna enhet:",
+  "publicSpaces": "Offentliga utrymmen",
+  "passwordIsWrong": "Lösenordet du angav är felaktigt",
+  "pleaseEnterYourCurrentPassword": "Ange ditt nuvarande lösenord",
+  "nothingFound": "Inget hittades…",
+  "newPassword": "Nytt lösenord",
+  "passwordsDoNotMatch": "Lösenorden matchar inte",
+  "select": "Välj",
+  "pleaseChooseAStrongPassword": "Välj ett starkt lösenord",
+  "addChatOrSubSpace": "Lägg till chatt eller underutrymme",
+  "leaveEmptyToClearStatus": "Lämna tomt för att rensa din status.",
+  "joinSpace": "Gå med i utrymme",
+  "searchForUsers": "Sök @användare…",
+  "initAppError": "Ett fel uppstod när appen initierades",
+  "sessionLostBody": "Din session har förlorats. Rapportera detta fel till utvecklarna på {url}. Felmeddelande: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "Appen försöker nu återställa din session från säkerhetskopian. Rapportera detta fel till utvecklarna på {url}. Felmeddelande: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Andra deltagare i chatten kan se när du skriver ett nytt meddelande.",
+  "formattedMessagesDescription": "Visa formaterat textinnehåll med Markdown (t.ex. fetstil).",
+  "verifyOtherUserDescription": "Om du verifierar en annan användare vet du exakt vem du kommunicerar med. 💪\n\nNär du startar verifieringen visas ett fönster i appen hos både dig och den andra användaren. Därefter jämför ni en rad emojier eller siffror.\n\nBästa sättet är att göra det personligen eller via ett videosamtal. 👭",
+  "verifyOtherDeviceDescription": "När du verifierar en annan enhet kan enheterna utbyta nycklar för att öka den övergripande säkerheten. 💪 När du startar verifieringen visas ett fönster på båda enheterna. Jämför sedan emojierna eller siffrorna som visas på skärmarna. 🤳",
+  "canceledKeyVerification": "{sender} avbröt nyckelverifieringen",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Skicka läskvittenser",
+  "formattedMessages": "Formaterade meddelanden",
+  "verifyOtherDevice": "🔐 Verifiera annan enhet",
+  "verifyOtherUser": "🔐 Verifiera annan användare",
+  "sendReadReceiptsDescription": "Andra deltagare i chatten kan se om du har läst deras meddelanden.",
+  "acceptedKeyVerification": "{sender} accepterade nyckelverifieringen",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} är redo för nyckelverifiering",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} slutförde nyckelverifieringen",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} begärde nyckelverifiering",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} startade nyckelverifieringen",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Inkommande meddelanden",
+  "stickers": "Klistermärken",
+  "discover": "Upptäck",
+  "commandHint_ignore": "Ignorera angivet Matrix ID",
+  "commandHint_unignore": "Sluta ignorera angivet Matrix ID",
+  "unreadChatsInApp": "{appname}: {unread} olästa chattar",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "När en låskod har ställts in krävs autentisering för att öppna NYX",
+  "globalChatId": "Globalt chatt-ID",
+  "accessAndVisibility": "Åtkomst och synlighet",
+  "accessAndVisibilityDescription": "Vem som kan gå med i chatten och hur den kan hittas.",
+  "customEmojisAndStickers": "Anpassade emojier och klistermärken",
+  "hideRedactedMessages": "Dölj raderade meddelanden",
+  "passwordRecoverySettings": "Inställningar för lösenordsåterställning",
+  "knock": "Knacka",
+  "noOneCanJoin": "Ingen kan gå med",
+  "knocking": "Knackar",
+  "chatCanBeDiscoveredViaSearchOnServer": "Chatten kan hittas via sökning på {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Det finns för närvarande {count} blockerade användare.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Om någon raderar ett meddelande kommer det inte längre att synas i chatten.",
+  "hideInvalidOrUnknownMessageFormats": "Dölj ogiltiga eller okända meddelandeformat",
+  "customEmojisAndStickersBody": "Lägg till eller dela anpassade emojier och klistermärken som kan användas i alla chattar.",
+  "usersMustKnock": "Användare måste knacka för att gå med",
+  "noDatabaseEncryption": "Databaskryptering stöds inte på denna plattform",
+  "publicChatAddresses": "Offentliga chattadresser",
+  "createNewAddress": "Skapa ny adress",
+  "searchMore": "Sök mer…",
+  "gallery": "Galleri",
+  "files": "Filer",
+  "searchIn": "Sök i chatten \"{chat}\"…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Svep från höger till vänster för att svara",
+  "noMoreChatsFound": "Inga fler chattar hittades…",
+  "space": "Utrymme",
+  "goToSpace": "Gå till utrymme: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Markera som oläst",
+  "unread": "Oläst",
+  "userLevel": "{level} - Användare",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Moderatör",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Administratör",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Bjud in andra användare till denna chatt",
+  "changeTheChatPermissions": "Ändra chattbehörigheter",
+  "changeTheVisibilityOfChatHistory": "Ändra synlighet för chatthistorik",
+  "changeTheCanonicalRoomAlias": "Ändra huvudsaklig offentlig chattadress",
+  "sendRoomNotifications": "Skicka meddelanden som aviserar alla i rummet (@room)",
+  "changeTheDescriptionOfTheGroup": "Ändra chattbeskrivning",
+  "changeGeneralChatSettings": "Ändra allmänna chattinställningar",
+  "chatPermissionsDescription": "Definiera vilken behörighetsnivå som krävs för specifika åtgärder. Nivåerna 0, 50 och 100 representerar vanligtvis användare, moderatörer och administratörer, men du kan anpassa alla nivåer.",
+  "changelog": "Ändringslogg",
+  "updateInstalled": "🎉 Uppdateringen {version} har installerats!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Sändningen avbröts",
+  "noChatsFoundHere": "Inga chattar hittades här ännu. Använd knappen nedan ⤵️ för att starta en ny chatt",
+  "loginWithMatrixId": "Logga in med Matrix ID",
+  "doesNotSeemToBeAValidHomeserver": "Verkar inte vara en kompatibel hemserver. Är URL:en korrekt?",
+  "calculatingFileSize": "Beräknar filstorlek…",
+  "oneOfYourDevicesIsNotVerified": "En av dina enheter är inte verifierad",
+  "noticeChatBackupDeviceVerification": "Observera: När du ansluter alla dina enheter till chattsäkerhetskopian verifieras de automatiskt.",
+  "continueText": "Fortsätt",
+  "blur": "Oskärpa:",
+  "opacity": "Opacitet:",
+  "setWallpaper": "Välj bakgrundsbild",
+  "manageAccount": "Hantera konto",
+  "aboutHomeserver": "Om {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Version",
+  "noContactInformationProvided": "Servern tillhandahöll ingen giltig kontaktinformation",
+  "contactServerAdmin": "Kontakta serveradministratör",
+  "name": "Namn",
+  "surname": "Efternamn",
+  "personalIntro": "Personlig presentation",
+  "nameDescription": "Ange ditt namn och lägg gärna till en avatar.",
+  "aboutYourselfDescription": "Några ord om dig själv.",
+  "email": "E-post",
+  "emailForLogin": "Används för inloggning på NYX-kontot.",
+  "changeEmail": "Ändra e-post",
+  "changeEmailDescription": "Du kan ändra din återställnings-e-post för att återställa lösenordet och återfå åtkomst till kontot.",
+  "bindNewEmail": "Koppla ny e-post",
+  "newEmailSameAsOld": "Ny e-post kan inte vara densamma som den nuvarande",
+  "bindEmail": "Koppla e-post",
+  "bindEmailDescription": "Du kan koppla en e-post för att kunna återställa lösenordet och återfå åtkomst till ditt NYX-konto.",
+  "enterEmail": "Ange e-post",
+  "enterValidEmail": "Ange en giltig e-postadress",
+  "getVerificationCode": "Hämta verifieringskod",
+  "verificationCode": "Verifieringskod",
+  "enterVerificationCode": "Ange verifieringskod",
+  "enterCodeSentTo": "Ange koden som just skickades till {email}.",
+  "createPassword": "Skapa lösenord",
+  "createPasswordDescription": "Ställ in ett inloggningslösenord för kontosäkerhet.",
+  "enterPassword": "Ange lösenord",
+  "enterPasswordAgain": "Ange lösenordet igen",
+  "bind": "Koppla",
+  "walletAddress": "Plånboksadress",
+  "walletForLogin": "Används för inloggning på NYX-kontot.",
+  "ethereumMainnetAddress": "Ethereum Mainnet-adress",
+  "none": "Ingen",
+  "username": "Användarnamn",
+  "usernameDescription": "Du kan ställa in ett användarnamn på NYX. Därefter kan andra hitta och kontakta dig med det.",
+  "usernameRuleHint": "Du kan använda a-z, 0-9 och understreck. Minsta längd är 5 tecken.",
+  "chatViaLink": "Andra kan chatta med dig via denna länk:",
+  "contactServerSecurity": "Kontakta serverns säkerhetsteam",
+  "supportPage": "Supportsida",
+  "serverInformation": "Serverinformation:",
+  "website": "Webbplats",
+  "italicText": "Kursiv text",
+  "strikeThrough": "Genomstruken",
+  "pleaseFillOut": "Fyll i detta",
+  "addLink": "Lägg till länk",
+  "boldText": "Fetstil",
+  "invalidUrl": "Ogiltig URL",
+  "unableToJoinChat": "Kunde inte gå med i chatten. Samtalet kan ha avslutats av den andra parten.",
+  "sendImages": "Skicka {count} bilder",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Komprimera",
+  "previous": "Föregående",
+  "otherPartyNotLoggedIn": "Den andra parten är för närvarande inte inloggad och kan därför inte ta emot meddelanden!",
+  "appWantsToUseForLoginDescription": "Du tillåter härmed denna app och webbplats att dela information om dig.",
+  "open": "Öppna",
+  "appWantsToUseForLogin": "Logga in med servern '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Väntar på servern…",
+  "synchronizingPleaseWaitCounter": " Synkroniserar… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Ny chattförfrågan",
+  "generalNotificationSettings": "Allmänna meadellandeinställningar",
+  "userSpecificNotificationSettings": "Använd anpassade aviseringsinställningar",
+  "notificationRuleMaster": "Tysta alla aviseringar",
+  "notificationRuleSuppressNotices": "Dölj automatiska meddelanden",
+  "notificationRuleInviteForMe": "Inbjudningar till mig",
+  "notificationRuleInviteForMeDescription": "Avisera användaren när hen bjuds in till ett chattrum.",
+  "notificationRuleMemberEvent": "Medlemshändelser",
+  "notificationRuleMemberEventDescription": "Dölj aviseringar för medlemsändringar.",
+  "notificationRuleIsUserMention": "Användarnämnande",
+  "notificationRuleIsUserMentionDescription": "Avisera användaren direkt när användarnamnet nämns i ett meddelande.",
+  "notificationRuleContainsDisplayName": "Innehåller visningsnamn",
+  "notificationRuleIsRoomMention": "Rumsnämnande",
+  "notificationRuleRoomnotifDescription": "Avisera användaren när meddelandet innehåller ”@room”.",
+  "notificationRuleTombstone": "Rumsupphörande",
+  "notificationRuleRoomServerAcl": "Rummets server-ACL",
+  "notificationRuleSuppressEdits": "Dölj redigeringar",
+  "notificationRuleCall": "Samtal",
+  "notificationRuleRoomOneToOne": "En-till-en-chattrum",
+  "notificationRuleRoomOneToOneDescription": "Avisera om meddelanden i en-till-en-chattrum.",
+  "notificationRuleEncrypted": "Krypterat",
+  "notificationRuleEncryptedDescription": "Avisera om meddelanden i krypterade rum.",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Avisera användaren om händelser i Jitsi-widgeten.",
+  "notificationRuleServerAcl": "Dölj server-ACL-händelser",
+  "notificationRuleServerAclDescription": "Dölj aviseringar om händelser för server-ACL.",
+  "deletePushRuleCanNotBeUndone": "Borttagning av denna aviseringsinställning kan inte ångras.",
+  "more": "Mer",
+  "notificationRuleReactionDescription": "Dölj aviseringar för reaktioner.",
+  "notificationRuleMessageDescription": "Avisera användaren om vanliga meddelanden.",
+  "notificationRuleContainsUserName": "Innehåller användarnamn",
+  "otherNotificationSettings": "Andra aviseringsinställningar",
+  "notificationRuleContainsUserNameDescription": "Avisera användaren när meddelandet innehåller användarnamnet.",
+  "notificationRuleIsRoomMentionDescription": "Avisera användaren vid rumsnämnanden.",
+  "contentNotificationSettings": "Innehållsinställningar för aviseringar",
+  "notificationRuleMasterDescription": "Överstyr alla andra regler och inaktiverar alla aviseringar.",
+  "notificationRuleSuppressNoticesDescription": "Dölj aviseringar från automatiska klienter som bottar.",
+  "roomNotificationSettings": "Rumsinställningar för aviseringar",
+  "notificationRuleRoomServerAclDescription": "Dölj aviseringar för rummets server-åtkomstkontrollista (ACL).",
+  "notificationRuleContainsDisplayNameDescription": "Avisera användaren när meddelandet innehåller visningsnamnet.",
+  "notificationRuleRoomnotif": "Rumsavisering",
+  "notificationRuleTombstoneDescription": "Avisera användaren om meddelanden gällande rumstängning.",
+  "notificationRuleReaction": "Reaktion",
+  "notificationRuleSuppressEditsDescription": "Dölj aviseringar för meddelanderedigering.",
+  "notificationRuleCallDescription": "Avisera användaren om samtal.",
+  "notificationRuleEncryptedRoomOneToOne": "Krypterat en-till-en-rum",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Avisera om meddelanden i krypterade en-till-en-rum.",
+  "notificationRuleMessage": "Meddelande",
+  "unknownPushRule": "Okänd push-regel '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Korsverifierade enheter",
+  "shareKeysWithDescription": "Välj vilka enheter som ska ha förtroende att läsa dina meddelanden i krypterade chattar:",
+  "shareKeysWith": "Dela nycklar med…",
+  "allDevices": "Alla enheter",
+  "crossVerifiedDevicesIfEnabled": "Korsverifierade enheter (om aktiverat)",
+  "verifiedDevicesOnly": "Endast verifierade enheter",
+  "optionalMessage": "(Valfritt) Meddelande…",
+  "takeAPhoto": "Ta ett foto",
+  "recordAVideo": "Spela in en video",
+  "notSupportedOnThisDevice": "Stöds inte på denna enhet",
+  "enterNewChat": "Gå in i ny chatt",
+  "commandHint_roomupgrade": "Uppgradera detta rum till angiven rumsversion",
+  "approve": "Godkänn",
+  "youHaveKnocked": "Du har begärt att gå med",
+  "pleaseWaitUntilInvited": "Vänta tills någon i rummet bjuder in dig.",
+  "countInvited": "{count} inbjudna",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Checklista",
+  "sentVoiceMessage": "🎙️ {duration} - Röstmeddelande från {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Logga ut från nuvarande enhet",
+  "commandHint_logoutall": "Logga ut från alla aktiva enheter",
+  "displayNavigationRail": "Visa navigeringsfält på mobila enheter",
+  "customReaction": "Anpassad reaktion",
+  "moreEvents": "Fler händelser",
+  "declineInvitation": "Avvisa inbjudan",
+  "noMessagesYet": "Inga meddelanden ännu",
+  "longPressToRecordVoiceMessage": "Håll intryckt för att spela in ett röstmeddelande.",
+  "pause": "Pausa",
+  "resume": "Återuppta",
+  "removeFromSpaceDescription": "Detta tar bort chatten från utrymmet, men den ligger kvar i din chattlista.",
+  "countChats": "{chats} chattar",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Medlem i utrymmet {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Medlemmar i utrymmet {spaces} kan knacka",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Omröstning",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Starta omröstning",
+  "endPoll": "Avsluta omröstning",
+  "editPoll": "Redigera omröstning",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Radera omröstning",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Omröstningsresultat är synliga",
+  "hiddenPoll": "Dold omröstning",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Omröstningsfråga",
+  "answerOption": "Alternativ",
+  "addAnswerOption": "Lägg till alternativ",
+  "allowMultipleAnswers": "Tillåt flervalssvar",
+  "pollHasBeenEnded": "Omröstningen har avslutats",
+  "startedAPoll": "{senderName} startade en omröstning",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{1 röst} other{{count} röster}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Resultaten blir synliga när omröstningen har avslutats",
+  "active": "Pågående",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Avslutad",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Tråd",
+  "replyInThread": "Svara i tråd",
+  "countReplies": "{count, plural, =1{1 svar} other{{count} svar}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Tillbaka till huvudchatt",
+  "saveChanges": "Spara ändringar",
+  "createSticker": "Skapa klistermärke eller emoji",
+  "useAsSticker": "Använd som klistermärke",
+  "useAsEmoji": "Använd som emoji",
+  "stickerPackNameAlreadyExists": "Namnet på klistermärkespaketet finns redan",
+  "newStickerPack": "Nytt klistermärkespaket",
+  "stickerPackName": "Namn på klistermärkespaket",
+  "attribution": "Skapare",
+  "skipChatBackup": "Hoppa över chattkopiering",
+  "skipChatBackupWarning": "Är du säker? Utan chattkopiering kan du förlora åtkomsten till meddelanden om du byter enhet.",
+  "changedTheChatDescription": "{username} ändrade chattbeskrivningen",
+  "changedTheChatName": "{username} ändrade chattens namn",
+  "noMoreResultsFound": "Inga fler resultat hittades",
+  "chatSearchedUntil": "Chatthistorik sökdes fram till {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "Federationens bas-URL",
+  "clientWellKnownInformation": "Information för Client-Well-Known:",
+  "baseUrl": "Bas-URL",
+  "identityServer": "Identitetsserver:",
+  "versionWithNumber": "Version: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Loggar",
+  "advancedConfigs": "Avancerade konfigurationer",
+  "advancedConfigurations": "Avancerade konfigurationer",
+  "signIn": "Logga in",
+  "createNewAccount": "Skapa nytt konto",
+  "signUpGreeting": "NYX är decentraliserat! Välj den server där du vill skapa ditt konto!",
+  "signInGreeting": "Har du redan ett Matrix-konto? Välkommen tillbaka! Välj hemserver för att logga in.",
+  "theProcessWasCanceled": "Processen avbröts.",
+  "join": "Gå med",
+  "searchOrEnterHomeserverAddress": "Sök eller ange hemserveradress",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Ställ in behörighetsnivå",
+  "makeModerator": "Gör till moderatör",
+  "makeAdmin": "Gör till administratör",
+  "removeModeratorRights": "Ta bort moderatörsrättigheter",
+  "removeAdminRights": "Ta bort administratörsrättigheter",
+  "powerLevel": "Behörighetsnivå",
+  "setPowerLevelDescription": "Behörighetsnivån anger vad medlemmar får göra i detta chattrum (från 0 till 100).",
+  "owner": "Ägare",
+  "mute": "Tysta",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Skapa ny chatt",
+  "reset": "Återställ",
+  "supportFluffyChat": "Stöd NYX",
+  "support": "Support",
+  "setLowPriority": "Sätt låg prioritet",
+  "unsetLowPriority": "Ta bort låg prioritet",
+  "playSoundOnNotification": "Spela ljud vid avisering",
+  "addTag": "Lägg till tagg",
+  "removeTag": "Ta bort tagg",
+  "tagName": "Tagg-namn",
+  "createNewTag": "Skapa ny tagg",
+  "discardEdits": "Du har osparade ändringar. Vill du kasta ändringarna?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Dölj rum som ligger i utrymmen",
+  "possibleByYou": "Utan ditt stöd skulle denna version inte finnas. NYX förblir gratis, öppen källkod och helt gemenskapsdrivet.",
+  "showThumbnailsInTimeline": "Visa miniatyrbilder för bilder och videor i tidslinjen",
+  "appSubtitle": "Säker [matrix]-kommunikation",
+  "appDescription": "Ett enkelt sätt till krypterad kommunikation för alla via det decentraliserade [matrix]-nätverket.",
+  "interactiveVerification": "Interaktiv verifiering",
+  "interactiveVerificationDescription": "Om du är i närheten av kontakten eller kommunicerar via en säker kanal kan ni verifiera alla enheter samtidigt genom att jämföra siffror eller emojier.",
+  "countUnverifiedDevices": "Det finns {count} overifierade enheter i denna chatt.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Krypterat meddelande",
+  "unencryptedMessage": "Okrypterat meddelande",
+  "publicKey": "Offentlig nyckel: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Enhetens identitetsnyckel",
+  "showMore": "Visa mer",
+  "showLess": "Visa mindre",
+  "restoreBootstrapEmptyDevicesDescription": "Ange din lösenfras eller återställningsnyckel för att verifiera denna enhet och få åtkomst till din säkerhetskopia.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Välj en av dina andra enheter för att verifiera denna session:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Återställ konto",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Återställ kryptografisk identitet",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Återställ kryptografisk identitet",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Ställ in kryptografisk identitet",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Väntar på nycklar… Håll din andra enhet aktiv.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Inga nycklar överfördes. Försök igen.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Lås upp",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Öppna fil",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Återställning av kontot leder till permanent förlust av åtkomst till gamla meddelanden. Alla nuvarande enheter måste verifieras igen. Gör endast detta om du inte har någon annan enhet för att verifiera sessionen samt har förlorat din återställningsnyckel och lösenfras!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "NYX använder totalsträckskryptering. För att inte förlora meddelanden bör du välja en stark lösenfras för att skydda din identitet och din säkerhetskopia.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Ny lösenfras",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Upprepa lösenfras",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Lösenfraserna matchar",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Minst 12 tecken lång.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Innehåller både stora och små bokstäver.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Innehåller specialtecken.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Innehåller minst en siffra.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Skriv ned denna återställningsnyckel för att kunna återställa dina meddelanden och din identitet.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Spara som fil",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Du är redo att börja!",
+  "noUserKeyFound": "Ingen användarnyckel hittades",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Osignerad enhet",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Signerad enhet",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Ingen curve25519-nyckel hittades",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Meddelandet kan inte dekrypteras",
+  "knownSince": "Känd sedan: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Ditt meddelande är krypterat hela vägen och kan endast läsas av denna användare:",
+  "messageCanOnlyBeReadByUsers": "Ditt meddelande är krypterat hela vägen och kan endast läsas av dessa användare:",
+  "today": "Idag",
+  "sending": "Skickar",
+  "generatingThumbnail": "Genererar miniatyrbild",
+  "encrypting": "Krypterar",
+  "uploading": "Laddar upp",
+  "edited": "(redigerad)",
+  "couldNotBeSent": "Kunde inte skickas",
+  "yesterday": "Igår",
+  "resetRecoveryKey": "Återställ återställningsnyckel",
+  "pleaseEnter6Digits": "Ange 6 siffror för att aktivera applås.",
+  "disableAppLock": "Inaktivera låskod",
+  "disableAppLockAreYouSure": "Är du säker på att du vill inaktivera applås?",
+  "enableBiometrics": "Aktivera biometrisk autentisering",
+  "disableBiometrics": "Inaktivera biometrisk autentisering",
+  "biometricsDescription": "Med biometrisk autentisering kan du låsa upp appen med ansikte eller fingeravtryck. Tillgänglighet beror på din enhet.",
+  "useAppLock": "Använd applås",
+  "unlockWithBiometrics": "Lås upp med biometri",
+  "resetPin": "Återställ PIN-kod",
+  "forwardCountMessages": "Vidarebefordra {count, plural, =1{1 meddelande} other{{count} meddelanden}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Redigera bild",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Roptera vänster",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Roptera höger",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Spegelvänd",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Spara",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Rita",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Ångra",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Rensa",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Suddgummi",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Beskär",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Laddar meddelanden…",
+  "buildDoesNotSupportFirebase": "Denna version saknar stöd för Firebase Cloud Messaging.",
+  "unableToRegisterDeviceForFirebase": "Det gick inte att registrera enheten för Firebase Cloud Messaging.",
+  "unifiedPushDistributors": "UnifiedPush-distributörer:",
+  "doubleTapToReact": "Dubbeltryck för att reagera",
+  "doubleTapToReactDescription": "Dubbeltryck på ett meddelande för att reagera istället för att markera text",
+  "doubleTapReaction": "Dubbeltrycksreaktion",
+  "sendingFilesDoNotExit": "Skickar {count} filer… Avsluta inte appen!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Komprimerar video…",
+  "shareCrashReports": "Dela kraschrapporter",
+  "shareCrashReportsDescription": "Dela kraschrapporter automatiskt med utvecklarna?",
+  "videoCallsBetaWarning": "Videosamtal är en betafunktion. Det kan uppstå fel eller oväntade beteenden. Vi tar gärna emot din feedback.",
+  "callNotAllowed": "Endast administratörer eller ägaren kan starta samtal i detta rum. Be dem starta först.",
+  "countActiveCallMembers": "{count} aktiva samtalsdeltagare",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Gå in i samtal",
+  "noDevicesFound": "Inga enheter hittades",
+  "incomingCall": "Inkommande samtal",
+  "waitingForParticipant": "Väntar på deltagare…",
+  "decline": "Avböj",
+  "videoCall": "Videosamtal",
+  "voiceCall": "Röstsamtal",
+  "previewImage": "[Bild]",
+  "previewVideo": "[Video]",
+  "previewVoice": "[Röstmeddelande]",
+  "previewAudio": "[Ljud]",
+  "previewFile": "[Fil]",
+  "previewLocation": "[Plats]",
+  "previewSticker": "[Klistermärke]",
+  "previewVoiceCall": "[Röstsamtal]",
+  "previewVideoCall": "[Videosamtal]",
+  "missedCall": "Missat samtal",
+  "callBack": "Ring tillbaka",
+  "hangUp": "Lägg på",
+  "startCall": "Starta samtal",
+  "selectCamera": "Välj kamera",
+  "selectMicrophone": "Välj mikrofon",
+  "selectSpeaker": "Välj högtalare",
+  "toggleMicrophone": "Växla mikrofon",
+  "toggleCamera": "Växla kamera",
+  "startScreensharing": "Starta skärmdelning",
+  "stopScreensharing": "Stoppa skärmdelning",
+  "raiseHand": "Räck upp handen",
+  "stopRaiseHand": "Ta ned handen",
+  "preferSpeaker": "Föredra högtalare",
+  "unexpectedErrorOccurded": "Ett oväntat fel uppstod: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Konton och inställningar",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Inkommande samtal från {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Servern svarade med ett fel: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Uppdatering för version {version} finns tillgänglig",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Ladda ned",
+  "sharedLocation": "Delad plats",
+  "contacts": "Kontakter",
+  "groupChats": "Gruppchattar",
+  "publicGroups": "Offentliga grupper",
+  "createGroupChat": "Skapa gruppchatt",
+  "inviteFriends": "Bjud in vänner",
+  "emptyChatsTitle": "Inga chattar ännu",
+  "emptyChatsDesc": "Klicka på + i övre högra hörnet för att starta en ny konversation",
+  "emptyUsersTitle": "Du har inga direktmeddelanden för närvarande",
+  "emptyUsersDesc": "Du kan ta bort filtret för att se andra konversationer",
+  "emptyUnreadTitle": "Inga olästa meddelanden",
+  "emptyUnreadDesc": "Du kan fästa en chatt i dess inställningar",
+  "emptyGroupChatsTitle": "Du har inte gått med i några gruppchattar ännu",
+  "emptyGroupChatsDesc": "Du kan ta bort filtret för att se andra konversationer",
+  "emptyPinnedTitle": "Du har inga fästa chattar",
+  "emptyPinnedDesc": "Du kan fästa en chatt i dess inställningar",
+  "startChat": "Starta chatt",
+  "newGroupChat": "Ny gruppchatt",
+  "invitedYouToJoinGroup": "{username} bjöd in dig till gruppchatten",
+  "joinGroupBannerTitle": "Gå med i gruppchatten och håll kontakten",
+  "joinGroupBannerDesc": "Gruppchattar sorterar medlemmar efter ämne. Alla grupper du gått med i visas här.",
+  "certifiedGroups": "{count} certifierade grupper",
+  "membersCount": "{count} medlemmar",
+  "recentlyOnline": "Nyligen online",
+  "lastSeenLongAgo": "Länge sedan online",
+  "appearance": "Utseende",
+  "language": "Språk",
+  "selectLanguage": "Välj språk",
+  "privacyAndSecurity": "Integritet och säkerhet",
+  "qrScanRecognizing": "Identifierar...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Tidsgräns för identifiering nådd, försök igen",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "Ingen QR-kod hittades",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "QR-kodens innehåll är tomt",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Identifieringen misslyckades",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "Ogiltig QR-kod",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Detta är din egen kontokod",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Avvisa gruppinbjudan",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Är du säker på att du vill avvisa inbjudan till gruppen {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Kamera",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Foton och videor",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Fil",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Online",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Offline",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Meddelandet har raderats",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Du raderade ett meddelande",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} raderade ett meddelande",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Filen har sparats",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Sparad i galleriet",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Det gick inte att öppna filen",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Okänd fil",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Missat videosamtal",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Samtalet avbröts",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} personer i samtalet",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Gå med",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Väntar på att andra ska ansluta…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Endast rumsadministratörer kan starta samtal i detta rum",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Detta tar bort chatten från listan utan att du lämnar den. Den visas automatiskt igen när ett nytt meddelande tas emot.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "När gruppchatten raderas tas alla medlemmar bort och åtgärden kan inte ångras.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Översätt",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Översätter…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Översättningen misslyckades, försök igen senare",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Pågående samtal",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Visas under ett pågående röst- eller videosamtal",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Klicka för att återgå till samtalet",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Den andra parten avbröt samtalet",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Videosamtalet avbröts",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Den andra parten avbröt videosamtalet",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Tillbaka",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Ringer…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Ansluter…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Samtalet avslutades",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Samtalet misslyckades",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Högtalare",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Hörsnäcka",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Vänd kamera",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Video",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Mikrofonen är avstängd",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Avsluta",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Jag",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Utgående",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds}s",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes}m",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours}h {minutes}m",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Ändra min roll",
+  "permissions": "Behörigheter",
+  "changeMyRoleConfirmMessage": "Du sänker dina behörigheter och denna ändring kan inte ångras. Om du är den sista behöriga användaren i gruppen kan du inte återfå dina rättigheter.",
+  "demoteToAdmin": "Sänk till administratör",
+  "demoteToModerator": "Sänk till moderatör",
+  "demoteToMember": "Sänk till medlem",
+  "addAdmin": "Lägg till administratör",
+  "addModerator": "Lägg till moderatör",
+  "groupAdmins": "Gruppadministratörer",
+  "groupModerators": "Gruppmoderatörer",
+  "addAdminHelp": "Du kan lägga till administratörer för att hjälpa dig hantera gemenskapen.",
+  "addModeratorHelp": "Du kan lägga till moderatörer för att hjälpa dig hantera gemenskapen.",
+  "noCandidatesToAdd": "Inga medlemmar tillgängliga att lägga till",
+  "setAsAdminSuccess": "Inställd som administratör",
+  "setAsModeratorSuccess": "Inställd som moderatör",
+  "searchMembers": "Sök medlemmar",
+  "noResults": "Inga resultat",
+  "noResultsDescription": "Inga relevanta resultat hittades, sök igen.",
+  "removeAdminConfirm": "Är du säker på att du vill ta bort administratörsrättigheterna för denna användare?",
+  "removeModeratorConfirm": "Är du säker på att du vill ta bort moderatörsrättigheterna för denna användare?",
+  "removeAdminSuccess": "Administratörsrättigheter har tagits bort",
+  "removeModeratorSuccess": "Moderatörsrättigheter har tagits bort",
+  "manageMembers": "Hantera medlemmar",
+  "inviteMembers": "Bjud in medlemmar",
+  "removeMembers": "Ta bort medlemmar",
+  "banMembers": "Bannlys medlemmar",
+  "editCommunity": "Redigera gemenskap",
+  "changeCommunityName": "Ändra gemenskapens namn",
+  "changeCommunityAvatar": "Ändra gemenskapens avatar",
+  "changeCommunityDescription": "Ändra gemenskapens beskrivning",
+  "messagesAndContent": "Meddelanden och innehåll",
+  "removeMessages": "Ta bort meddelanden",
+  "adminsOnly": "Endast administratörer",
+  "adminsAndModerators": "Administratörer och moderatörer",
+  "resetPermissions": "Återställ behörigheter",
+  "resetPermissionsConfirmMessage": "Är du säker på att du vill återställa alla behörigheter till standardinställningarna?",
+  "changeSettings": "Ändra inställningar",
+  "permissionChangedFromTo": "{sender} ändrade {permission} från {from} till {to}",
+  "changedUserRoleTo": "{username} ändrade rollen för {target} till {role}",
+  "viewInChat": "Visa i chatt",
+  "playbackSpeed": "Uppspelningshastighet",
+  "normalSpeed": "Normal",
+  "qrScanHint": "Placera QR-koden i ramen för att skanna",
+  "torch": "Ficklampa",
+  "remarkVisibleOnlyToYou": "Anteckningen är endast synlig för dig",
+  "pollVotes": "{count} röster",
+  "totalPollVotes": "Totalt {count} röster",
+  "scanQrMobileOnly": "QR-skanning stöds endast på mobila enheter",
+  "publicGroupTech": "Teknik och utvecklingstjänster",
+  "publicGroupMarketing": "Marknadsföring och reklam",
+  "publicGroupWeb3": "Web3 och virtuella tillgångar",
+  "publicGroupCrossBorder": "Gränsöverskridande tjänster och tillgångar",
+  "publicGroupFreelance": "Frilans och övrigt",
+  "blockUsers": "Blockera användare",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Aktiverat",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Skärmlåskod",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Inloggningslösenord",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Återställningsnyckel",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Tillåt nyckellagring",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Spara din kryptografiska identitet och dina meddelandenycklar säkert på servern så att du kan komma åt din chatthistorik från nya enheter.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Ställ in återställning",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Använd återställningsnyckeln för att återställa din kryptografiska identitet och historik om du förlorar dina enheter",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Ställ in återställningsnyckel",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Spara din kryptografiska identitet och dina meddelandenycklar säkert på servern så att du kan läsa din chatthistorik på alla nya enheter.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Generera återställningsnyckel",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Klicka för att kopiera återställningsnyckeln",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Spara återställningsnyckel",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Spara denna återställningsnyckel på ett säkert ställe, t.ex. i en lösenordshanterare eller ett kassaskåp.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Spara återställningsnyckel",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Återställningsnyckeln har kopierats",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Återställningsnyckeln har sparats",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "Genererar återställningsnyckel…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Dela onlinestatus",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Vid inaktivering kan du inte skicka eller ta emot läskvittenser eller skrivindikatorer",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Optimerad för uppladdning",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Innehållsmoderering och säkerhet",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Dölj avatar i rumsinbjudningsförfrågningar",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Visa media i tidslinjen",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Dölj alltid",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "I privata rum",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Visa alltid",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Alla",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Endast nämnanden",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Gruppchatt",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Privatchatt",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Avisera mig i gruppchattar",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Avisera mig i privatchattar",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Alla meddelanden",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Endast nämnanden och nyckelord",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "Servern stöder inte detta alternativ i krypterade grupper, så i vissa grupper kan aviseringar utebli",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Oberoende inställningar för varje chatt",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Aktivering av detta alternativ överstyr dina standardinställningar.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Avisera mig i denna chatt",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Endast nämnanden och nyckelord",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Din hemserver stöder inte detta alternativ i krypterade rum, så aviseringar kan utebli i vissa rum.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Tillåt anpassade inställningar",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Avisera mig på denna enhet",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Nämnanden",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Avisera mig när jag nämns i grupp",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Fler inställningar",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Gammalt lösenord",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Låskod",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Aktivera skärmlås",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Ange en skärmlåskod",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Ange den nya skärmlåskoden igen",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Ange den gamla låskoden",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Det gamla lösenordet är felaktigt, försök igen",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Ändra låskod",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Observera: Om du glömmer låskoden måste du installera om appen.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Lösenkoder matchar inte",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Skärmlåskod aktiverad",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Skärmlåskod inaktiverad",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Denna enhet",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Logga ut från alla andra enheters sessioner",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Logga ut från alla enheter förutom denna.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Aktiva sessioner",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Ta bort enhet",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Är du säker på att du vill ta bort enheten {name}?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "Enhets-ID",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Inloggad",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "IP-adress",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Klient",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "Klient-ID",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Namn",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Ta bort enhet",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "för {time} sedan",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "minuter",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "timmar",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "dagar",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Välkommen till {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "Välkommen att använda {appName}, en snabb och minimalistisk meddelandeapp.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Skapa konto",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Uppdatering klar",
+  "updateReadyMessage": "Vi har optimerat vissa funktioner. Starta om appen för att tillämpa uppdateringen.",
+  "restartNow": "Starta om nu",
+  "noPublicGroupsYet": "Inga certifierade grupper ännu"
+}

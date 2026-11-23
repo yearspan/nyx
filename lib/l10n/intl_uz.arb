@@ -1,0 +1,4076 @@
+{
+  "@@locale": "uz",
+  "@@last_modified": "2026-11-03 16:11:00.000000",
+  "about": "Haqida",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Qabul qilish",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} taklifni qabul qildi",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Hisob",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} oxirigacha shifrlashni faollashtirdi",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Elektron pochtani qo'shish",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Admin",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Taxallus",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Barchasi",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} qo'ng'iroqqa javob berdi",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Hamma qo'shilishi mumkin",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Ilova qulfi",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Arxiv",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Mehmonlarga qo'shilishga ruxsat berilganmi?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Ishonchingiz komilmi?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Haqiqatan ham chiqmoqchimisiz?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Imzo qo'yish uchun xavfsizlik maxfiy so'zingiz yoki tiklash kalitingizni kiriting.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "{username} dan kelgan tasdiqlash so'rovini qabul qilmoqchimisiz?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Uy serveri qo'llab-quvvatlaydigan kirish turlari:\\n{serverVersions}\\nLekin bu ilova faqat quyidagilarni qo'llab-quvvatlaydi:\\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Chatdan chetlashtirish",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "A'zoni chetlashtirish",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Chetlashtirilgan",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} {targetName} ni chetlashtirdi",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Qurilmani bloklash",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Bloklangan",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Bekor qilish",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Qurilma nomini o'zgartirish",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} chat avatarini o'zgartirdi",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} chat ruxsatlarini o'zgartirdi",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} ko'rsatiladigan nomni '{displayname}' ga o'zgartirdi",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} mehmon kirish qoidalarini o'zgartirdi",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} mehmon kirish qoidalarini quyidagiga o'zgartirdi: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} tarix ko'rinishini o'zgartirdi",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} tarix ko'rinishini quyidagiga o'zgartirdi: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} qo'shilish qoidalarini o'zgartirdi",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} qo'shilish qoidalarini quyidagiga o'zgartirdi: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} profil avatarini o'zgartirdi",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} xona taxalluslarini o'zgartirdi",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} xona taklif havolasini o'zgartirdi",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Parolni o'zgartirish",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Uy serverini o'zgartirish",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Mavzuni o'zgartirish",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Guruh nomini o'zgartirish",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Avataringizni o'zgartiring",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "Shifrlash buzilgan",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Chat",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Chat zaxira nusxasi",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Chat tafsilotlari",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Chatlar",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Kuchli parol tanlang",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Arxivni tozalash",
+  "close": "Yopish",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Ushbu xonadan ko'rsatilgan foydalanuvchini chetlashtirish",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "HTML formatidagi matnni yuborish",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Ko'rsatilgan foydalanuvchini ushbu xonaga taklif qilish",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Ko'rsatilgan xonaga qo'shilish",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Ushbu xonadan ko'rsatilgan foydalanuvchini chiqarib yuborish",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Ushbu xonadan chiqish",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "O'zingiz haqingizda ma'lumot yuborish",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Ushbu xona uchun avataringizni o'rnatish (mxc-uri orqali)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Ushbu xona uchun taxallusingizni o'rnatish",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Ko'rsatilgan foydalanuvchining huquq darajasini o'rnatish (standart: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Oddiy matnni yuborish",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Reaksiya yuborish",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Matn yuborish",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Ushbu xonada ko'rsatilgan foydalanuvchining chetlashtirilishini bekor qilish",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Noto'g'ri buyruq",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} amal qiladigan buyruq emas.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Iltimos, emojilarni taqqoslang",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Iltimos, quyidagi raqamlarni taqqoslang",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Chatni sozlash",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "Aloqa guruha taklif qilindi",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Tarkib server administratoriga shikoyat qilindi",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Vaqtinchalik xotiraga nusxalandi",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Nusxalash",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Vaqtinchalik xotiraga nusxalash",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Xabarni shifrdan chiqarib bo'lmadi: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Xabarni shifrdan chiqarish muvaffaqiyatsiz tugadi, keyinroq qayta urinib ko'ring",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} nafar ishtirokchi",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Yaratish",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} chat yaratdi",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Hozir faol",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "To'q",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Bu hisobingizni o'chirib qo'yadi. Buni ortga qaytarib bo'lmaydi! Ishonchingiz komilmi?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Yangi foydalanuvchilar uchun standart ruxsat darajasi",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "O'chirish",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Hisobni o'chirish",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Xabarni o'chirish",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Barcha xabarlarni o'chirish",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Chat tarixini tozalash",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Ushbu chatdagi barcha xabarlarni o'chirib tashlamoqchimisiz? Buni ortga qaytarib bo'lmaydi.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Ushbu chat tarixini tozalmoqchimisiz? Buni ortga qaytarib bo'lmaydi.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Avtomatik o'chirishni yoqish",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Muayyan vaqtdan keyin ushbu chatdagi yangi xabarlarni avtomatik ravishda o'chirish",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 kun",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 hafta",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 oy",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "O'chirish",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Qurilmalar",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Shaxsiy chatlar",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Ko'rsatiladigan nom o'zgartirildi",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Faylni yuklab olish",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Tahrirlash",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Bloklangan serverlarni tahrirlash",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Ko'rsatiladigan nomni tahrirlash",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Xona taxalluslarini tahrirlash",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Xona avatarini tahrirlash",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Bunday emotsiya allaqachon mavjud!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Noto'g'ri emotsiya qisqa kodi!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Emotsiya qisqa kodi",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Bo'sh chat",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Emotsiyalar to'plamini global tarzda yoqish",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Shifrlashni yoqish",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Shifrlashni keyinchalik o'chirib qo'yib bo'lmaydi. Ishonchingiz komilmi?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Shifrlangan",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Shifrlash",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Shifrlash yoqilmagan",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} qo'ng'iroqni tugatdi",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Elektron pochta manzilini kiriting",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Shrift o'lchami",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "O'tkazish",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "O'tkazildi",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Qo'shilgan paytdan boshlab",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Taklifnomadan boshlab",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Guruh",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Guruh ochiq",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Guruhlar",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "{displayname} bilan guruh",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Mehmonlar taqiqlangan",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Mehmonlar qo'shilishi mumkin",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} {targetName} uchun taklifnomani qaytarib oldi",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Yordam",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Noma'lum hodisalarni yashirish",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "E'tiborsiz qoldirish",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "E'tiborsiz qoldirilgan foydalanuvchilar",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Men havolani bosdim",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Noto'g'ri maxfiy so'z yoki tiklash kaliti",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Aloqani taklif qilish",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Aloqani {groupName} ga taklif qilish",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Taklif qilingan",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} {targetName} ni taklif qildi",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Faqat taklif qilingan foydalanuvchilar",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} sizni NYX'ga taklif qilmoqda.\\n1. NYX'ni o'rnating: https://fluffychat.im\\n2. Ro'yxatdan o'ting yoki kiring\\n3. Taklif havolasini ochish uchun bosing:\\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "yozmoqda...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} chatga qo'shildi",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Xonaga qo'shilish",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Xona manzilini kiriting",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "Masalan: !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Noto'g'ri manzil!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Xona topilmadi!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Xonaga qo'shilish muvaffaqiyatsiz tugadi",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Xona topildi",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Davom etish",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Hozircha tavsif yo'q ~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Qo'shilish uchun ariza topshirish",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Xonaga kirish",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Tavsif",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} {targetName} ni chiqarib yubordi",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} {targetName} ni chiqarib yubordi va chetlashtirdi",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Chatdan chiqarib yuborish",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Siz ushbu guruh chatidan chiqarib yuborildingiz",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "A'zoni olib tashlash",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Oxirgi faollik: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Chiqish",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "Chatdan chiqdi",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Yorug'",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Yana {count} ta ishtirokchini yuklash",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Yuklanmoqda… Iltimos, kuting.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Ko'proq yuklash…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Kirish",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "{homeserver} ga kirish",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Chiqish",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Haqiqatan ham joriy NYX hisobingizdan chiqmoqchimisiz?",
+  "mention": "Eslatib o'tish",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Xabarlar",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Moderator",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Chatni ovozsiz qilish",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Yangi chat",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 NYX'da yangi xabar",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Yangi tasdiqlash so'rovi!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Keyingi",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Yo'q",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Server bilan aloqa yo'q",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Emotsiyalar topilmadi. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Faqat xona ochiq bo'lmagandagina shifrlashni yoqishingiz mumkin.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Telefoningizda Google Play xizmatlari yo'qga o'xshaydi. NYX bildirishnomalarini olish uchun ntfy o'rnatish tavsiya etiladi.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Parolni tiklash uchun hali hech qanday usul qo'shmagansiz.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Ruxsat yo'q",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Xonalar topilmadi…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Bildirishnomalar",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} kishi yozmoqda…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Onlayn kalit zaxira nusxasi yoqilgan",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Voy! Push-bildirishnomalarni sozlashda xatolik yuz berdi.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Voy, nimadir xato ketdi…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Xabarlarni o'qish uchun ilovani oching",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Kamerani ochish",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "yoki",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Ishtirokchi",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Maxfiy so'z yoki tiklash kaliti",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Parol",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Parolni unutdingizmi",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Parol o'zgartirildi",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Parolni tiklash",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Qadash",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Iltimos, kodli parol tanlang",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Iltimos, elektron pochtadagi havolani bosing va keyin davom eting.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Iltimos, parolingizni kiriting",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Iltimos, PIN-rangingizni kiriting",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Iltimos, qulf kodini kiriting",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Iltimos, foydalanuvchi nomingizni kiriting",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Iltimos, veb-saytdagi ko'rsatmalarga amal qiling va keyin 'Keyingi'ni bosing.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Maxfiylik",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Ochiq xonalar",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Sabab",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} hodisani o'chirib tashladi",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Xabarni o'chirish",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Rad etish",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} taklifnomani rad etdi",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Olib tashlash",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Barcha boshqa qurilmalarni olib tashlash",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Chatdan chetlatishni bekor qilish",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Avataringizni olib tashlang",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Xonani yangi versiya bilan almashtirish",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Javob berish",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Xabar haqida shikoyat qilish",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "Xona yangilandi",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Xona versiyasi",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Faylni saqlash",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Qidirish",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Xavfsizlik",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Yuborish",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Xabar yuborish",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Matn sifatida yuborish",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Audio yuborish",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Fayl yuborish",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Rasm yuborish",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Xabarlarni yuborish",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Video yuborish",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} fayl yubordi",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} ovozli xabar yubordi",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} rasm yubordi",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} stiker yubordi",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} video yubordi",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} qo'ng'iroq ma'lumotlarini yubordi",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Asosiy taxallus sifatida o'rnatish",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Holatni o'rnatish",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Sozlamalar",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Ulashish",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} joylashuvni ulashdi",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "O'tkazib yuborish",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Manba kodi",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} qo'ng'iroq boshladi",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Holat",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Bugun qanday kayfiyatingiz?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Yuborish",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Sinxronizatsiya qilinmoqda… Iltimos, kuting.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Tizim mavzusi",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Ular mos kelmayapti",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Ular mos kelmoqda",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Juda ko'p so'rovlar yuborildi. Iltimos, keyinroq qayta urinib ko'ring!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Qayta yuborishga urinib ko'ring",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} {targetName} ning chetlashtirilishini bekor qildi",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Qurilmani blokdan chiqarish",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Noma'lum qurilma",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Noma'lum shifrlash algoritmi",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Noma'lum hodisa '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Chatni ovozli qilish",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Olib tashlash",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} va yana {count} kishi yozmoqda…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} va {username2} yozmoqda…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} yozmoqda…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} chatni tark etdi",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} {type} hodisasini yubordi",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Tasdiqlangan",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Foydalanuvchini tasdiqlash",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Ushbu foydalanuvchini tasdiqlash",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Xavfsizlikni ta'minlash uchun qurilmangizdagi emojilarni boshqa qurilmadagilar bilan taqqoslash orqali ushbu foydalanuvchini tasdiqlang. Buni shaxsan uchrashib yoki video qo'ng'iroq orqali bajaring.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Boshqa foydalanuvchi kutilmoqda",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "So'rov tasdiqlangandan so'ng, tasdiqlash davom etadi",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Emojilarni taqqoslash",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Emojilarni taqqoslang va ular bir xil tartibda ekanligiga ishonch hosil qiling",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Iltimos, quyidagi emojilar boshqa qurilmadagilar bilan mos kelishini tekshiring",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Tasdiqlash so'rovi",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Qo'shimcha xavfsizlik uchun boshqa foydalanuvchi shaxsingizni tasdiqlamoqchi. Taqqoslash uchun sizga ba'zi emojilar ko'rsatiladi",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Tasdiqlash muvaffaqiyatli o'tdi",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Endi xabarlar yuborish yoki qo'ng'iroq qilish uchun ushbu foydalanuvchining shaxsiga ishonishingiz mumkin",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Tasdiqlash muvaffaqiyatsiz tugadi",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "So'rov muddati tugagan, rad etilgan yoki belgilar mos kelmagan",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Bajarildi",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Qayta urinish",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Ushbu foydalanuvchini tasdiqlamoqchimisiz?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Bu ushbu foydalanuvchiga yuborgan birinchi xabaringiz. Xavfsizlikni ta'minlash uchun avval ularni tasdiqlang yoki to'g'ridan-to'g'ri xabar yuboring.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Hozir tasdiqlash",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "To'g'ridan-to'g'ri yuborish",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Xabar bildirishnomalari",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Xabar haqida xabar berish",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Tarjimai hol qo'shish",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Yangi avatarni o'rnatish",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "A'zolar",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Rollar va ruxsatlar",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Shaxsiy profil",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Izoh o'rnatish",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Qadalgan xabarlar",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "Qadalgan xabarlar: {count}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Qadalgan xabarlar yo'q",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Kelishuv",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Media va fayllar",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "So'rovnomalar",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Jamoani tark etish",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Guruh chatini o'chirish",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Media",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Media fayllar yo'q",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Fayllar yo'q",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Fayl yuklab olinmoqda…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Kontaktlarga qo'shish",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Kontakt qo'shish",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Kontaktni o'chirish",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Tarjimai hol",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Tarjimai hol bo'sh",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Foydalanuvchini bloklash",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Foydalanuvchini blokdan chiqarish",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Qo'ng'iroq",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Tasdiqlashni boshlash",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Muvaffaqiyatli tasdiqlandi!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Boshqa hisoblarni tasdiqlash",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Chat tarixi ko'rinishi",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Barcha ishtirokchilar uchun ko'rinadigan",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Hamma uchun ko'rinadigan",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Ovozli xabar",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Hamkor so'rovni qabul qilishi kutilmoqda…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Hamkor emojilarni qabul qilishi kutilmoqda…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Hamkor raqamlarni qabul qilishi kutilmoqda…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Ogohlantirish!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Sizga elektron pochta yubordik",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Kim qaysi amalni bajarishi mumkin",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Kimga bu guruhga qo'shilishga ruxsat berilgan",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Nima uchun bu haqda shikoyat qilmoqchisiz?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Parolingizni ushbu manzillar yordamida tiklashingiz mumkin.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Xabar yozing…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Ha",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Siz",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Siz endi bu chatda qatnashmayapsiz",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Siz bu chatdan chetlashtirildingiz",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Ommaviy kalitingiz",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Makonga qo'shish",
+  "obtainingLocation": "Joylashuv olinmoqda…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} Matrix serveri emas, {server2} ni sinab ko'rasizmi?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Joylashuv ruxsati rad etildi. Iltimos, joylashuvni ulashish uchun ruxsat bering.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Joylashuv xizmatlari o'chirilgan. Iltimos, ularni yoqing.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Joylashuvni olishda xatolik: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Yangi makon yaratish",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "URI ochib bo'lmadi: {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Animatsiyali stiker va emojilarni avtomatik ijro etish",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Makon nomi",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Makonni ommaviy qilish",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Joylashuvni ulashish",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Xaritalarda ochish",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Enter tugmasi orqali xabar yuborish",
+  "scanQrCode": "QR-kodni skanerlash",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR-kod",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "QR-kodni ulashish",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Mijozlaringizdan biri tizimdan chiqdi",
+  "removeFromBundle": "Ushbu to'plamdan olib tashlash",
+  "unverified": "Tasdiqlanmagan",
+  "repeatPassword": "Parolni takrorlang",
+  "addAccount": "Hisob qo'shish",
+  "editBundlesForAccount": "Ushbu hisob uchun to'plamlarni tahrirlash",
+  "addToBundle": "To'plamga qo'shish",
+  "bundleName": "To'plam nomi",
+  "link": "Havola",
+  "sender": "Yuboruvchi",
+  "openGallery": "Galereyani ochish",
+  "messageInfo": "Xabar ma'lumotlari",
+  "time": "Vaqt",
+  "removeFromSpace": "Ushbu makondan olib tashlash",
+  "commandHint_discardsession": "Sessiyani rad etish",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Shaxsiy chatni boshlash",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Keshni tozalash",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Bo'sh guruh chatini boshlash",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "O'qilgan deb belgilash",
+  "reportUser": "Foydalanuvchi haqida shikoyat qilish",
+  "reactedWith": "{sender} {reaction} bilan munosabat bildirdi",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Haqiqatan ham bu hodisani qadashdan olib tashlamoqchimisiz?",
+  "pinMessage": "Xonaga qadash",
+  "emojis": "Emojilar",
+  "unsupportedAndroidVersionLong": "Bu funksiya Android'ning yangiroq versiyasini talab qiladi.",
+  "unsupportedAndroidVersion": "Qo'llab-quvvatlanmaydigan Android versiyasi",
+  "youRejectedTheInvitation": "Siz taklifnomani rad etdingiz",
+  "youJoinedTheChat": "Siz chatga qo'shildingiz",
+  "youBannedUser": "Siz {user} ni chetlashtirdingiz",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Sizga {user} dan taklifnoma keldi",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Siz {user} ni taklif qildingiz",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Siz {user} ni chiqarib yubordingiz",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Siz {user} ning chetlashtirilishini bekor qildingiz",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Siz taklifnomani qabul qildingiz",
+  "youHaveWithdrawnTheInvitationFor": "Siz {user} uchun taklifnomani qaytarib oldingiz",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Siz {user} ni chiqarib yubordingiz va chetlashtirdingiz",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Apple Keychain'da saqlash",
+  "storeInAndroidKeystore": "Android Keystore'da saqlash",
+  "storeSecurlyOnThisDevice": "Bu qurilmada xavfsiz saqlash",
+  "users": "Foydalanuvchilar",
+  "countFiles": "{count} ta fayl",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Zaxira nusxadan tiklash",
+  "dehydrate": "Sessiyani eksport qilish va qurilmadan olib tashlash",
+  "dehydrateWarning": "Bu amalni ortga qaytarib bo'lmaydi. Xavfsizlik faylini xavfsiz joyda saqlang.",
+  "user": "Foydalanuvchi",
+  "userNotFound": "Foydalanuvchi topilmadi",
+  "custom": "Maxsus",
+  "confirmMatrixId": "Hisobni o'chirish uchun Matrix ID'ingizni tasdiqlang.",
+  "supposedMxid": "Bu {mxid} bo'lishi kerak",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Guruh deb belgilash",
+  "commandHint_markasdm": "Ushbu Matrix ID'ni to'g'ridan-to'g'ri xabar xonasiga aylantirish",
+  "whyIsThisMessageEncrypted": "Nega bu xabarni o'qib bo'lmaydi?",
+  "noKeyForThisMessage": "Ushbu xabar qurilmangizdan tizimga kirishdan oldin yuborilgan bo'lishi mumkin.",
+  "newSpace": "Yangi makon",
+  "doNotShowAgain": "Boshqa ko'rsatmaslik",
+  "googlyEyesContent": "{senderName} harakatlanuvchi ko'zlar emojisini yubordi",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Harakatlanuvchi ko'zlar emojisini yuborish",
+  "commandHint_cuddle": "Quchoqlash yuborish",
+  "commandHint_hug": "Mahkam quchoqlash yuborish",
+  "cuddleContent": "{senderName} sizni quchoqladi",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} sizni quchoqladi",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Bo'sh chat (ilgari {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Makonlar chatlarni birlashtirish va jamoalarni boshqarishga yordam beradi.",
+  "encryptthisChat": "Ushbu chatni shifrlash",
+  "disableEncryptionWarning": "Xavfsizlik nuqtai nazaridan shifrlashni o'chirib qo'yib bo'lmaydi.",
+  "sorryThatsNotPossible": "Kechirasiz... bu mumkin emas",
+  "report": "Shikoyat qilish",
+  "fileIsTooBigForServer": "Yuborib bo'lmadi! Server faqat {max} o'lchamdagi fayllarga ruxsat beradi.",
+  "noOtherDevicesFound": "Boshqa qurilmalar topilmadi",
+  "jumpToLastReadMessage": "Oxirgi o'qilgan xabarga o'tish",
+  "readUpToHere": "Shu yerigacha o'qildi",
+  "jump": "O'tish",
+  "openLinkInBrowser": "Havolani brauzerda ochish",
+  "fileHasBeenSavedAt": "Fayl {path} da saqlandi",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "Nimadir xato ketdi. Hisobotni dasturchilarga yuborishingiz mumkin.",
+  "noBackupWarning": "Ogohlantirish! Chat zaxira nusxasiz xabarlar kirishini yo'qotishingiz mumkin.",
+  "reopenChat": "Chatni qayta ochish",
+  "importEmojis": "Emojilarni import qilish",
+  "notAnImage": "Bu rasm fayli emas.",
+  "importNow": "Hozir import qilish",
+  "importFromZipFile": "ZIP fayldan import qilish",
+  "replace": "Almashtirish",
+  "exportEmotePack": "Emotsiyalar to'plamini eksport qilish",
+  "sendTypingNotifications": "Terish bildirishnomalarini yuborish",
+  "createGroup": "Guruh chatini yaratish",
+  "shareInviteLink": "Taklif havolasini ulashish",
+  "tryAgain": "Qayta urinib ko'ring",
+  "chatPermissions": "Chat ruxsatlari",
+  "chatDescription": "Chat tavsifi",
+  "chatDescriptionHasBeenChanged": "Chat tavsifi o'zgartirildi",
+  "noChatDescriptionYet": "Hozircha chat tavsifi yo'q.",
+  "invalidServerName": "Noto'g'ri server nomi",
+  "redactMessageDescription": "Ushbu xabar ushbu chatdagi hamma uchun o'chiriladi.",
+  "optionalRedactReason": "(Ixtiyoriy) O'chirish sababi...",
+  "setChatDescription": "Chat tavsifini tasdiqlash",
+  "setColorTheme": "Rang mavzusini tanlang:",
+  "invite": "Taklif qilish",
+  "addMembers": "A'zolarni qo'shish",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Havola orqali taklif qilish",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Bu ro'yxat faqat adminlarga ko'rinadi.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Ushbu chatdagi kontaktlar",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Bu guruh uchun taklif havolasi yo'q",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Xabarlar uslubi:",
+  "redactedBy": "{username} tomonidan o'chirildi",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "{username} tomonidan o'chirildi, sabab: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Guruh chatiga taklifnoma",
+  "emoteKeyboardNoRecents": "Oxirgi ishlatilgan emojilar shu yerda ko'rinadi...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Noto'g'ri kiritish!",
+  "wrongPinEntered": "Noto'g'ri PIN kiritildi! {seconds} soniyadan keyin urinib ko'ring…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} xonaga qo'shilishni so'ramoqda",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Iltimos, 0 dan katta raqam kiriting",
+  "banUserDescription": "Foydalanuvchi bu chatdan chetlashtiriladi.",
+  "removeDevicesDescription": "Siz bu qurilmadan chiqib ketasiz.",
+  "unbanUserDescription": "Foydalanuvchining chetlatilishi bekor qilinadi.",
+  "pushNotificationsNotAvailable": "Push-bildirishnomalar mavjud emas",
+  "makeAdminDescription": "Bu foydalanuvchiga siz bilan bir xil admin huquqlari beriladi.",
+  "archiveRoomDescription": "Chat arxivga ko'chiriladi.",
+  "learnMore": "Batafsil ma'lumot",
+  "roomUpgradeDescription": "Xona yangi versiyaga yangilanadi.",
+  "kickUserDescription": "Foydalanuvchi chatdan chiqarib yuboriladi, lekin chetlashtirilmaydi.",
+  "blockListDescription": "Foydalanuvchilarni bloklashingiz mumkin.",
+  "createGroupAndInviteUsers": "Guruh yaratib, foydalanuvchilarni taklif qilish",
+  "blockedUsers": "Bloklangan foydalanuvchilar",
+  "groupCanBeFoundViaSearch": "Guruhni qidirish orqali topish mumkin",
+  "noUsersFoundWithQuery": "\"{query}\" bo'yicha hech qanday foydalanuvchi topilmadi.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Bloklash",
+  "yourGlobalUserIdIs": "Global foydalanuvchi ID'ingiz: ",
+  "commandHint_sendraw": "Xom JSON yuborish",
+  "wrongRecoveryKey": "Noto'g'ri tiklash kaliti.",
+  "blockUsername": "Foydalanuvchi nomini e'tiborsiz qoldirish",
+  "groupName": "Guruh nomi",
+  "databaseMigrationTitle": "Ma'lumotlar bazasi optimallashtirildi",
+  "searchChatsRooms": "#chatlar, @foydalanuvchilarni qidirish…",
+  "databaseMigrationBody": "Iltimos, ozgina kuting.",
+  "thisDevice": "Bu qurilma:",
+  "publicSpaces": "Ochiq makonlar",
+  "passwordIsWrong": "Parol noto'g'ri",
+  "pleaseEnterYourCurrentPassword": "Joriy parolingizni kiriting",
+  "nothingFound": "Hech narsa topilmadi…",
+  "newPassword": "Yangi parol",
+  "passwordsDoNotMatch": "Parollar mos kelmayapti",
+  "select": "Tanlash",
+  "addChatOrSubSpace": "Chat yoki kichik makon qo'shish",
+  "leaveEmptyToClearStatus": "Holatni tozalash uchun bo'sh qoldiring.",
+  "joinSpace": "Makonga qo'shilish",
+  "searchForUsers": "@foydalanuvchilarni qidirish…",
+  "initAppError": "Ilovani ishga tushirishda xatolik",
+  "sessionLostBody": "Sessiyangiz yo'qoldi. Xatolikni xabar qiling: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      },
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "Sessiyani zaxira nusxadan tiklashga urinilmoqda.",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      },
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Siz yozayotganingizda boshqalarga ko'rsatadi.",
+  "formattedMessagesDescription": "Matnni Markdown formatida ko'rsatadi.",
+  "verifyOtherUserDescription": "Boshqa shaxsning haqiqiyligini tasdiqlash uchun emojilarni taqqoslashingiz mumkin.",
+  "verifyOtherDeviceDescription": "Boshqa qurilmani tasdiqlang va xavfsiz kalitlarni ulashing.",
+  "canceledKeyVerification": "{sender} kalit tasdiqlashni bekor qildi",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "O'qilganlik kvitansiyalarini yuborish",
+  "formattedMessages": "Formatlangan xabarlar",
+  "verifyOtherDevice": "🔐 Boshqa qurilmani tasdiqlash",
+  "verifyOtherUser": "🔐 Boshqa foydalanuvchini tasdiqlash",
+  "sendReadReceiptsDescription": "Xabarni ko'rganingizni boshqalar bilib oladi.",
+  "acceptedKeyVerification": "{sender} kalit tasdiqlashni qabul qildi",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} kalit tasdiqlashga tayyor",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} kalit tasdiqlashni yakunladi",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} kalit tasdiqlashni so'radi",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} kalit tasdiqlashni boshladi",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Keluvchi xabarlar",
+  "stickers": "Stikerlar",
+  "discover": "Kashf qilish",
+  "commandHint_ignore": "Ko'rsatilgan Matrix ID'ni e'tiborsiz qoldirish",
+  "commandHint_unignore": "E'tiborsiz qoldirishni bekor qilish",
+  "unreadChatsInApp": "{appname}: {unread} ta o'qilmagan chat",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "Ilovaga kirish uchun kodli parol talab qilinadi.",
+  "globalChatId": "Global chat ID",
+  "accessAndVisibility": "Kirish va ko'rinish",
+  "accessAndVisibilityDescription": "Chatga kim qo'shilishi mumkinligini aniqlang.",
+  "customEmojisAndStickers": "Maxsus emojilar va stikerlar",
+  "hideRedactedMessages": "O'chirilgan xabarlarni yashirish",
+  "passwordRecoverySettings": "Parolni tiklash sozlamalari",
+  "knock": "Taqillatish (Knock)",
+  "noOneCanJoin": "Hech kim qo'shila olmaydi",
+  "knocking": "Taqillatishmoqda",
+  "chatCanBeDiscoveredViaSearchOnServer": "{server} da chatni qidirish mumkin",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Hozirda {count} ta foydalanuvchi bloklangan.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "O'chirilgan xabarlar endi ko'rinmaydi.",
+  "hideInvalidOrUnknownMessageFormats": "Noma'lum yoki noto'g'ri xabar formatlarini yashirish",
+  "customEmojisAndStickersBody": "O'zingiz yoqtirgan emojilarni ulashing.",
+  "usersMustKnock": "Qo'shilishdan oldin foydalanuvchilar taqillatishi kerak",
+  "noDatabaseEncryption": "Ma'lumotlar bazasini shifrlash qo'llab-quvvatlanmaydi",
+  "publicChatAddresses": "Ochiq chat manzillari",
+  "createNewAddress": "Yangi manzil yaratish",
+  "searchMore": "Ko'proq qidirish…",
+  "gallery": "Galereya",
+  "files": "Fayllar",
+  "searchIn": "\"{chat}\" ichidan qidirish…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Javob berish uchun o'ngdan chapga suring",
+  "noMoreChatsFound": "Boshqa chatlar topilmadi…",
+  "space": "Makon",
+  "goToSpace": "Makonga o'tish: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "O'qilmagan deb belgilash",
+  "unread": "O'qilmagan",
+  "userLevel": "{level} - Foydalanuvchi",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Moderator",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Admin",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Boshqa foydalanuvchilarni bu chatga taklif qilish",
+  "changeTheCanonicalRoomAlias": "Asosiy ochiq manzilni o'zgartirish",
+  "sendRoomNotifications": "Xonadagi hamma uchun bildirishnomalar yuborish (@room)",
+  "changeTheDescriptionOfTheGroup": "Guruh tavsifini o'zgartirish",
+  "changeGeneralChatSettings": "Umumiy chat sozlamalarini o'zgartirish",
+  "chatPermissionsDescription": "Ruxsat darajalarini belgilang.",
+  "changelog": "O'zgarishlar tarixi",
+  "updateInstalled": "🎉 Yangilanish {version} o'rnatildi!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Yuborish bekor qilindi",
+  "noChatsFoundHere": "Bu yerda chatlar yo'q. Quyidagi tugma orqali boshlang ⤵️",
+  "loginWithMatrixId": "Matrix ID bilan kirish",
+  "doesNotSeemToBeAValidHomeserver": "Bu to'g'ri uy serveriga o'xshamaydi.",
+  "calculatingFileSize": "Fayl hajmi hisoblanmoqda…",
+  "oneOfYourDevicesIsNotVerified": "Qurilmalaringizdan biri tasdiqlanmagan",
+  "noticeChatBackupDeviceVerification": "Eslatma: qurilmalaringiz chat zaxira nusxasiga ulanganda avtomatik tasdiqlanadi.",
+  "continueText": "Davom etish",
+  "blur": "Xiralashtirish darajasi:",
+  "opacity": "Shaffoflik:",
+  "setWallpaper": "Fon rasmini o'rnatish",
+  "manageAccount": "Hisobni boshqarish",
+  "aboutHomeserver": "{homeserver} haqida",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Versiya",
+  "noContactInformationProvided": "Ma'lumot mavjud emas",
+  "contactServerAdmin": "Server adminiga murojaat qiling",
+  "name": "Ism",
+  "surname": "Familiya",
+  "personalIntro": "Shaxsiy tanishtiruv",
+  "nameDescription": "Ismingizni kiriting.",
+  "aboutYourselfDescription": "O'zingiz haqingizda bir necha so'z.",
+  "email": "Elektron pochta",
+  "emailForLogin": "Kirish uchun ishlatiladi.",
+  "changeEmail": "Elektron pochtani o'zgartirish",
+  "changeEmailDescription": "Tiklash elektron pochtasini o'zgartirishingiz mumkin.",
+  "bindNewEmail": "Yangi elektron pochta qo'shish",
+  "newEmailSameAsOld": "Yangi elektron pochta avvalgisidan farq qilishi kerak",
+  "bindEmail": "Elektron pochtani ulash",
+  "bindEmailDescription": "Parolni o'zgartirish uchun elektron pochtani ulashingiz mumkin.",
+  "enterEmail": "Elektron pochtani kiriting",
+  "enterValidEmail": "To'g'ri elektron pochta kiriting",
+  "getVerificationCode": "Tasdiqlash kodini olish",
+  "verificationCode": "Tasdiqlash kodi",
+  "enterVerificationCode": "Tasdiqlash kodini kiriting",
+  "enterCodeSentTo": "{email} ga yuborilgan kodni kiriting.",
+  "createPassword": "Parol yaratish",
+  "createPasswordDescription": "Hisob xavfsizligi uchun parol o'rnating.",
+  "enterPassword": "Parolni kiriting",
+  "enterPasswordAgain": "Parolni qayta kiriting",
+  "bind": "Ulash",
+  "walletAddress": "Hamyon manzili",
+  "walletForLogin": "Kirish uchun ishlatiladi.",
+  "ethereumMainnetAddress": "Ethereum Mainnet manzili",
+  "none": "Yo'q",
+  "username": "Foydalanuvchi nomi",
+  "usernameDescription": "Maxsus foydalanuvchi nomi o'rnatishingiz mumkin.",
+  "usernameRuleHint": "a-z, 0-9 va pastki chiziqcha ruxsat etiladi.",
+  "chatViaLink": "Ushbu havola orqali chat qilishingiz mumkin:",
+  "contactServerSecurity": "Xavfsizlik guruhiga murojaat qiling",
+  "supportPage": "Qo'llab-quvvatlash sahifasi",
+  "serverInformation": "Server ma'lumotlari:",
+  "website": "Veb-sayt",
+  "italicText": "Kursiv matn",
+  "strikeThrough": "Ustidan chizilgan matn",
+  "pleaseFillOut": "Iltimos, to'ldiring",
+  "addLink": "Havola qo'shish",
+  "boldText": "Qalin matn",
+  "invalidUrl": "Noto'g'ri URL",
+  "unableToJoinChat": "Chatga qo'shilib bo'lmadi.",
+  "sendImages": "{count} ta rasmni yuborish",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Siqish (Compress)",
+  "previous": "Oldingi",
+  "otherPartyNotLoggedIn": "Boshqa tomon tizimga kirmaganligi sababli xabarlar bormaydi!",
+  "appWantsToUseForLoginDescription": "Ma'lumotlarni ulashishga ruxsat bermoqdasiz.",
+  "open": "Ochish",
+  "appWantsToUseForLogin": "'{server}' serveri yordamida kirish",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Server kutilmoqda…",
+  "synchronizingPleaseWaitCounter": "Sinxronizatsiya qilinmoqda… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Yangi chat so'rovi",
+  "generalNotificationSettings": "Umumiy bildirishnoma sozlamalari",
+  "userSpecificNotificationSettings": "Maxsus bildirishnoma qoidalari",
+  "notificationRuleMaster": "Barcha bildirishnomalarni o'chirish",
+  "notificationRuleSuppressNotices": "Avtomatik xabarlarni bloklash",
+  "notificationRuleInviteForMe": "Menga kelgan taklifnomalar",
+  "notificationRuleInviteForMeDescription": "Taklifnoma kelganda xabar berish.",
+  "notificationRuleMemberEvent": "A'zolik hodisalari",
+  "notificationRuleMemberEventDescription": "A'zolik hodisalari bildirishnomalarini yashirish.",
+  "notificationRuleIsUserMention": "Foydalanuvchini eslatish",
+  "notificationRuleIsUserMentionDescription": "Sizni belgilashganda xabar berish.",
+  "notificationRuleContainsDisplayName": "Ism kiritilgan xabarlar",
+  "notificationRuleIsRoomMention": "Xonani eslatish",
+  "notificationRuleRoomnotifDescription": "@room ishlatilganda xabar berish.",
+  "notificationRuleTombstone": "Xonani bekor qilish hodisalari",
+  "notificationRuleRoomServerAcl": "Server ACL qoidalari",
+  "notificationRuleSuppressEdits": "Tahrirlash bildirishnomasini yashirish",
+  "notificationRuleCall": "Qo'ng'iroqlar",
+  "notificationRuleRoomOneToOne": "Shaxsiy chatlar",
+  "notificationRuleRoomOneToOneDescription": "Shaxsiy chatlarda bildirishnomalarni ko'rsatish.",
+  "notificationRuleEncrypted": "Shifrlangan chatlar",
+  "notificationRuleEncryptedDescription": "Shifrlangan chatlar bildirishnomalari.",
+  "notificationRuleJitsi": "Jitsi qo'ng'iroqlari",
+  "notificationRuleJitsiDescription": "Jitsi hodisalariga asoslangan bildirishnomalar.",
+  "notificationRuleServerAcl": "ACL hodisalarini yashirish",
+  "notificationRuleServerAclDescription": "Server ACL bildirishnomalarini yashirish.",
+  "deletePushRuleCanNotBeUndone": "Bu bildirishnoma qoidasini tiklab bo'lmaydi.",
+  "more": "Boshqalar",
+  "notificationRuleReactionDescription": "Reaksiya bildirishnomalarini yashirish.",
+  "notificationRuleMessageDescription": "Oddiy xabar bildirishnomalari.",
+  "notificationRuleContainsUserName": "Foydalanuvchi nomi kiritilgan xabarlar",
+  "otherNotificationSettings": "Boshqa bildirishnoma sozlamalari",
+  "notificationRuleContainsUserNameDescription": "Foydalanuvchi nomingizni o'z ichiga olgan xabarlar haqida xabar berish.",
+  "notificationRuleIsRoomMentionDescription": "Xona eslatmalarida ogohlantirish.",
+  "contentNotificationSettings": "Tarkib bildirishnomasi sozlamalari",
+  "notificationRuleMasterDescription": "Barcha bildirishnomalarni o'chirib qo'yadi.",
+  "notificationRuleSuppressNoticesDescription": "Botlar xabarlarini yashirish.",
+  "roomNotificationSettings": "Xona bildirishnoma sozlamalari",
+  "notificationRuleRoomServerAclDescription": "Server cheklov qoidalarini yashirish.",
+  "notificationRuleContainsDisplayNameDescription": "Ko'rsatiladigan nom mavjud bo'lganda ogohlantirish.",
+  "notificationRuleRoomnotif": "Xona bildirishnomasi",
+  "notificationRuleTombstoneDescription": "Xonani yopish xabarlari.",
+  "notificationRuleReaction": "Reaksiya",
+  "notificationRuleSuppressEditsDescription": "Tahrirlangan xabarlar bildirishnomasini bloklash.",
+  "notificationRuleCallDescription": "Qo'ng'iroqlar bildirishnomasi.",
+  "notificationRuleEncryptedRoomOneToOne": "Shifrlangan shaxsiy xona",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Shifrlangan chatlar uchun ogohlantirishlar.",
+  "notificationRuleMessage": "Xabar",
+  "unknownPushRule": "Noma'lum push qoida '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Kross-tasdiqlangan qurilmalar",
+  "shareKeysWithDescription": "Shifrlangan xabarlarni o'qish uchun ishonchli qurilmalarni tanlang:",
+  "shareKeysWith": "Kalitlarni ulashish uchun qurilmalar…",
+  "allDevices": "Barcha qurilmalar",
+  "crossVerifiedDevicesIfEnabled": "Kross-tasdiqlangan qurilmalar",
+  "verifiedDevicesOnly": "Faqat tasdiqlangan qurilmalar",
+  "optionalMessage": "(Ixtiyoriy) Xabar…",
+  "takeAPhoto": "Rasmga olish",
+  "recordAVideo": "Video yozib olish",
+  "notSupportedOnThisDevice": "Bu qurilmada qo'llab-quvvatlanmaydi",
+  "enterNewChat": "Yangi chatga kirish",
+  "commandHint_roomupgrade": "Xonani ma'lum bir versiyaga yangilash",
+  "approve": "Tasdiqlash",
+  "youHaveKnocked": "Siz qo'shilishni so'radingiz",
+  "pleaseWaitUntilInvited": "Iltimos, sizni taklif qilishlarini kuting.",
+  "countInvited": "{count} ta kishi taklif qilindi",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Tekshiruv ro'yxati",
+  "sentVoiceMessage": "🎙️ {duration} - Ovozli xabar: {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Joriy qurilmadan chiqish",
+  "commandHint_logoutall": "Barcha qurilmalardan chiqish",
+  "displayNavigationRail": "Mobilda navigatsiya panelini ko'rsatish",
+  "customReaction": "Maxsus reaksiya",
+  "moreEvents": "Ko'proq hodisalar",
+  "declineInvitation": "Taklifnomani rad etish",
+  "noMessagesYet": "Hozircha xabarlar yo'q",
+  "longPressToRecordVoiceMessage": "Ovozli xabar yozish uchun bosib turing.",
+  "pause": "Pauza",
+  "resume": "Davom ettirish",
+  "removeFromSpaceDescription": "Bu chatni faqat makondan olib tashlaydi.",
+  "countChats": "{chats} ta chat",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "{spaces} makonida a'zo",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "{spaces} makoni a'zolari qo'shilish uchun taqillatishi mumkin",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "So'rovnoma",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "So'rovnoma boshlash",
+  "endPoll": "So'rovnomani tugatish",
+  "editPoll": "So'rovnomani tahrirlash",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "So'rovnomani o'chirish",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "So'rovnoma natijalari ko'rinadi",
+  "hiddenPoll": "Yashirin so'rovnoma",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "So'rovnoma savoli",
+  "answerOption": "Variant",
+  "addAnswerOption": "Variant qo'shish",
+  "allowMultipleAnswers": "Bir nechta javobga ruxsat berish",
+  "pollHasBeenEnded": "So'rovnoma tugadi",
+  "startedAPoll": "{senderName} so'rovnoma boshladi",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count} ta ovoz",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Natijalar so'rovnoma tugagandan so'ng ko'rinadi",
+  "active": "Faol",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Tugagan",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Mavzu",
+  "replyInThread": "Mavzuda javob berish",
+  "countReplies": "{count} ta javob",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Asosiy chatga qaytish",
+  "saveChanges": "O'zgarishlarni saqlash",
+  "createSticker": "Stiker yoki emotsiya yaratish",
+  "useAsSticker": "Stiker sifatida ishlatish",
+  "useAsEmoji": "Emotsiya sifatida ishlatish",
+  "stickerPackNameAlreadyExists": "Bu stiker to'plami nomi allaqachon mavjud",
+  "newStickerPack": "Yangi stiker to'plami",
+  "stickerPackName": "Stiker to'plami nomi",
+  "attribution": "Mualliflik",
+  "skipChatBackup": "Chat zaxira nusxasini o'tkazib yuborish",
+  "skipChatBackupWarning": "Haqiqatan ham o'tkazib yubormoqchimisiz?",
+  "changedTheChatDescription": "{username} chat tavsifini o'zgartirdi",
+  "changedTheChatName": "{username} chat nomini o'zgartirdi",
+  "noMoreResultsFound": "Boshqa natijalar topilmadi",
+  "chatSearchedUntil": "{time} gacha chat qidiruvi yakunlandi",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "Federatsiya bazaviy URL manzili",
+  "clientWellKnownInformation": "Mijozning ma'lum ma'lumotlari:",
+  "baseUrl": "Bazaviy URL manzil",
+  "identityServer": "Identifikatsiya serveri:",
+  "versionWithNumber": "Versiya: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Jurnallar",
+  "advancedConfigs": "Kengaytirilgan sozlamalar",
+  "advancedConfigurations": "Kengaytirilgan sozlamalar",
+  "signIn": "Kirish",
+  "createNewAccount": "Yangi hisob yaratish",
+  "signUpGreeting": "NYX markazlashtirilmagan! Serverni tanlang.",
+  "signInGreeting": "Matrix hisobingiz bormi? Xush kelibsiz!",
+  "theProcessWasCanceled": "Jarayon bekor qilindi.",
+  "join": "Qo'shilish",
+  "searchOrEnterHomeserverAddress": "Uy serveri manzilini qidiring yoki kiriting",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Quvvat darajasini o'rnatish",
+  "makeModerator": "Moderator qilish",
+  "makeAdmin": "Admin qilish",
+  "removeModeratorRights": "Moderator huquqlarini olib tashlash",
+  "removeAdminRights": "Admin huquqlarini olib tashlash",
+  "powerLevel": "Quvvat darajasi",
+  "setPowerLevelDescription": "Foydalanuvchilar xonada nima qila olishini belgilaydi.",
+  "owner": "Egasi",
+  "mute": "Ovozni o'chirish",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Yangi chatni boshlash",
+  "reset": "Qayta o'rnatish",
+  "supportFluffyChat": "NYX'ni qo'llab-quvvatlash",
+  "support": "Qo'llab-quvvatlash",
+  "setLowPriority": "Past ustuvorlik qilib o'rnatish",
+  "unsetLowPriority": "Past ustuvorlikni olib tashlash",
+  "playSoundOnNotification": "Bildirishnoma kelganda ovoz chiqarish",
+  "addTag": "Teg qo'shish",
+  "removeTag": "Tegni olib tashlash",
+  "tagName": "Teg nomi",
+  "createNewTag": "Yangi teg yaratish",
+  "discardEdits": "O'zgarishlarni bekor qilmoqchimisiz?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Makonlardagi xonalarni yashirish",
+  "possibleByYou": "Bu qo'llab-quvvatlovingiz tufayli amalga oshdi.",
+  "showThumbnailsInTimeline": "Eskizlarni ko'rsatish",
+  "appSubtitle": "Xavfsiz Matrix aloqasi",
+  "appDescription": "Markazlashtirilmagan tarmoq orqali xavfsiz suhbatlar.",
+  "interactiveVerification": "Interaktiv tasdiqlash",
+  "interactiveVerificationDescription": "Emojilar yoki raqamlarni solishtirish orqali qurilmalarni tasdiqlang.",
+  "countUnverifiedDevices": "Ushbu chatda {count} ta tasdiqlanmagan qurilma mavjud.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Shifrlangan xabar",
+  "unencryptedMessage": "Shifrlanmagan xabar",
+  "publicKey": "Ommaviy kalit: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Qurilma shaxsini tasdiqlash kaliti",
+  "showMore": "Ko'proq ko'rsatish",
+  "showLess": "Kamroq ko'rsatish",
+  "restoreBootstrapEmptyDevicesDescription": "Qurilmani tasdiqlash uchun tiklash kalitini kiriting.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Ushbu sessiyani tasdiqlash uchun boshqa qurilmani tanlang:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Hisobni qayta o'rnatish",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Kripto shaxsni tiklash",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Kripto shaxsni qayta o'rnatish",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Kripto shaxsni sozlash",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Kalitlar kutilmoqda…",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Hech qanday kalit uzatilmadi.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Qulfdan chiqarish",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Faylni ochish",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Hisobni qayta o'rnatish eski xabarlarga kirish imkoniyatini yo'qotadi.",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "Ma'lumotlaringizni himoya qilish uchun kuchli maxfiy so'z tanlang.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Yangi maxfiy so'z",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Maxfiy so'zni qayta kiriting",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Maxfiy so'zlar mos keldi",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Kamida 12 ta belgi bo'lishi kerak.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Katta va kichik harflar bo'lishi kerak.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Maxsus belgilar bo'lishi kerak.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Kamida bitta raqam bo'lishi kerak.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Tiklash kalitini xavfsiz saqlang.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Fayl sifatida saqlash",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Boshlashga tayyorsiz!",
+  "noUserKeyFound": "Foydalanuvchi kaliti topilmadi",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Imzolanmagan qurilma",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Imzolangan qurilma",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Curve25519 kaliti topilmadi",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Xabarni shifrdan chiqarib bo'lmaydi",
+  "knownSince": "Ma'lum bo'lgan sana: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Bu xabar oxirigacha shifrlangan.",
+  "messageCanOnlyBeReadByUsers": "Bu xabar faqat ushbu foydalanuvchilarga taqdim etiladi.",
+  "today": "Bugun",
+  "sending": "Yuborilmoqda",
+  "generatingThumbnail": "Eskiz yaratilmoqda",
+  "encrypting": "Shifrlanmoqda",
+  "uploading": "Yuklanmoqda",
+  "edited": "(tahrirlangan)",
+  "couldNotBeSent": "Yuborib bo'lmadi",
+  "yesterday": "Kecha",
+  "resetRecoveryKey": "Tiklash kalitini qayta o'rnatish",
+  "pleaseEnter6Digits": "Ilova qulfi uchun 6 ta raqam kiriting.",
+  "disableAppLock": "Kodli parolni o'chirish",
+  "disableAppLockAreYouSure": "Ilova qulfini o'chirmoqchimisiz?",
+  "enableBiometrics": "Biometriyani yoqish",
+  "disableBiometrics": "Biometriyani o'chirish",
+  "biometricsDescription": "Barmoq izi yoki yuzni aniqlashdan foydalaning.",
+  "useAppLock": "Ilova qulfidan foydalanish",
+  "unlockWithBiometrics": "Biometriya yordamida qulfdan chiqarish",
+  "resetPin": "PIN-kodni qayta o'rnatish",
+  "forwardCountMessages": "{count} ta xabarni o'tkazmoqchimisiz?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Rasmni tahrirlash",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Chapga burish",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "O'ngga burish",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Ko'zgusimon aylantirish",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Saqlash",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Chizish",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Bekor qilish (Undo)",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Tozalash",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "O'chirg'ich (Eraser)",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Qirqish",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Xabarlar yuklanmoqda…",
+  "buildDoesNotSupportFirebase": "Bu qurilish Firebase'ni qo'llab-quvvatlamaydi.",
+  "unableToRegisterDeviceForFirebase": "Qurilmani Firebase uchun ro'yxatdan o'tkazib bo'lmadi.",
+  "unifiedPushDistributors": "UnifiedPush tarqatuvchilari:",
+  "doubleTapToReact": "Munosabat bildirish uchun ikki marta bosing",
+  "doubleTapToReactDescription": "Tezda reaksiya bildirish uchun ikki marta bosing.",
+  "doubleTapReaction": "Ikki marta bosish reaksiyasi",
+  "sendingFilesDoNotExit": "{count} ta fayl yuborilmoqda... Chiqmang!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Video siqilmoqda…",
+  "shareCrashReports": "Ilova xatolari hisobotlarini ulashish",
+  "shareCrashReportsDescription": "Xato hisobotlarini yubormoqchimisiz?",
+  "videoCallsBetaWarning": "Video qo'ng'iroqlar sinov rejimida.",
+  "callNotAllowed": "Faqat adminlar qo'ng'iroq boshlashi mumkin.",
+  "countActiveCallMembers": "Qo'ng'iroqda {count} kishi faol",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Qo'ng'iroqqa qo'shilish",
+  "noDevicesFound": "Qurilmalar topilmadi",
+  "incomingCall": "Keluvchi qo'ng'iroq",
+  "waitingForParticipant": "Ishtirokchilar kutilmoqda…",
+  "decline": "Rad etish",
+  "videoCall": "Video qo'ng'iroq",
+  "voiceCall": "Ovozli qo'ng'iroq",
+  "previewImage": "[Rasm]",
+  "previewVideo": "[Video]",
+  "previewVoice": "Ovozli xabar]",
+  "previewAudio": "[Audio]",
+  "previewFile": "[Fayl]",
+  "previewLocation": "[Joylashuv]",
+  "previewSticker": "[Stiker]",
+  "previewVoiceCall": "[vozli qo'ng'iroq]",
+  "previewVideoCall": "[Video qo'ng'iroq]",
+  "missedCall": "O'tkazib yuborilgan qo'ng'iroq",
+  "callBack": "Qayta qo'ng'iroq qilish",
+  "hangUp": "Go'shakni qo'yish",
+  "startCall": "Qo'ng'iroqni boshlash",
+  "selectCamera": "Kamerani tanlash",
+  "selectMicrophone": "Mikrofonni tanlash",
+  "selectSpeaker": "Karnayni tanlash",
+  "toggleMicrophone": "Mikrofonni yoqish/o'chirish",
+  "toggleCamera": "Kamerani yoqish/o'chirish",
+  "startScreensharing": "Ekran ulashishni boshlash",
+  "stopScreensharing": "Ekran ulashishni to'xtatish",
+  "raiseHand": "Qo'l ko'tarish",
+  "stopRaiseHand": "Qo'lni tushirish",
+  "preferSpeaker": "Karnayga ustunlik berish",
+  "unexpectedErrorOccurded": "Kutilmagan xatolik yuz berdi: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Hisoblar va sozlamalar",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "{user} dan qo'ng'iroq kelmoqda",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Server xatolik qaytardi: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "{version} versiyasi yangilanishi mavjud",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Yuklab olish",
+  "sharedLocation": "Ulashilgan joylashuv",
+  "contacts": "Kontaktlar",
+  "groupChats": "Guruh chatlari",
+  "publicGroups": "Ochiq guruhlar",
+  "createGroupChat": "Guruh chatini yaratish",
+  "inviteFriends": "Do'stlaringizni taklif qiling",
+  "emptyChatsTitle": "Hozircha chatlar yo'q",
+  "emptyChatsDesc": "Yangi chat uchun + tugmasini bosing",
+  "emptyUsersTitle": "Shaxsiy xabarlar yo'q",
+  "emptyUsersDesc": "Filtrlarni olib tashlashingiz mumkin",
+  "emptyUnreadTitle": "O'qilmagan xabarlar yo'q",
+  "emptyUnreadDesc": "Chatni qadab qo'yishingiz mumkin",
+  "emptyGroupChatsTitle": "Guruhlarga qo'shilmagansiz",
+  "emptyGroupChatsDesc": "Boshqa guruhlarni ko'rishingiz mumkin",
+  "emptyPinnedTitle": "Qadalgan chatlar yo'q",
+  "emptyPinnedDesc": "Muhimlarini qadab qo'yishingiz mumkin",
+  "startChat": "Chatni boshlash",
+  "newGroupChat": "Yangi guruh chat",
+  "invitedYouToJoinGroup": "{username} sizni guruhga taklif qildi",
+  "joinGroupBannerTitle": "Guruhga qo'shiling",
+  "joinGroupBannerDesc": "Barcha guruhlar shu yerda ko'rsatiladi.",
+  "certifiedGroups": "{count} ta tasdiqlangan guruh",
+  "membersCount": "{count} ta a'zo",
+  "recentlyOnline": "Yaqinda onlayn bo'lgan",
+  "lastSeenLongAgo": "Juda uzoq vaqt oldin ko'ringan",
+  "appearance": "Tashqi ko'rinish",
+  "language": "Til",
+  "selectLanguage": "Tilni tanlang",
+  "privacyAndSecurity": "Maxfiylik va xavfsizlik",
+  "qrScanRecognizing": "Aniqlanmoqda...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Vaqt tugadi",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "QR-kod topilmadi",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "QR-kod bo'sh",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Aniqlash muvaffaqiyatsiz tugadi",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "Noto'g'ri QR-kod",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Bu sizning shaxsiy QR-codingiz",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Taklifnomani rad etish",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "{groupName} taklifnomasini rad etasizmi?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Kamera",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Rasmlar va videolar",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Fayl",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Onlayn",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Offlayn",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Xabar o'chirildi",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Siz xabarni o'chirdingiz",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} xabarni o'chirdi",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Fayl saqlandi",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Galereyaga saqlandi",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Faylni ochib bo'lmadi",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Noma'lum fayl",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "O'tkazib yuborilgan video qo'ng'iroq",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Qo'ng'iroq bekor qilindi",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "Qo'ng'iroqda {count} kishi bor",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Qo'ng'iroqqa qo'shilish",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Ishtirokchilar kutilmoqda…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Bu xonada qo'ng'iroq qilish taqiqlangan",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Bu faqat ro'yxatdan olib tashlaydi.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Guruh chati butunlay o'chiriladi.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Tarjima qilish",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Tarjima qilinmoqda…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Tarjima muvaffaqiyatsiz tugadi",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Davom etayotgan qo'ng'iroq",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Qo'ng'iroq paytida ko'rsatiladi",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Qo'ng'iroqqa qaytish uchun bosing",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Boshqa tomon qo'ng'iroqni bekor qildi",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Video qo'ng'iroq bekor qilindi",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Boshqa tomon video qo'ng'iroqni bekor qildi",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Orqaga",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Jiringlamoqda…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Ulanmoqda…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Qo'ng'iroq tugadi",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Qo'ng'iroq amalga oshmadi",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Karnay",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Quloqchin",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Kamerani burish",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Video",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Mikrofon o'chirilgan",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Tugatish",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Men",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Chiquvchi qo'ng'iroq",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds}s",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes}m",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours}s {minutes}m",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Rolimni o'zgartirish",
+  "permissions": "Ruxsatlar",
+  "changeMyRoleConfirmMessage": "Ruxsat darajangizni pasaytirayapsiz.",
+  "demoteToAdmin": "Adminlikdan pasaytirish",
+  "demoteToModerator": "Moderatorlikdan pasaytirish",
+  "demoteToMember": "A'zolikka pasaytirish",
+  "addAdmin": "Admin qo'shish",
+  "addModerator": "Moderator qo'shish",
+  "groupAdmins": "Guruh adminlari",
+  "groupModerators": "Guruh moderatorlari",
+  "addAdminHelp": "Jamoani boshqarish uchun adminlarni tayinlang.",
+  "addModeratorHelp": "Jamoani moderatsiya qilish uchun moderatorlarni tayinlang.",
+  "noCandidatesToAdd": "Qo'shish uchun nomzodlar yo'q",
+  "setAsAdminSuccess": "Admin etib tayinlandi",
+  "setAsModeratorSuccess": "Moderator etib tayinlandi",
+  "searchMembers": "A'zolarni qidirish",
+  "noResults": "Hech narsa topilmadi",
+  "noResultsDescription": "Mos natijalar topilmadi.",
+  "removeAdminConfirm": "Admin huquqlarini olib tashlaysizmi?",
+  "removeModeratorConfirm": "Moderator huquqlarini olib tashlaysizmi?",
+  "removeAdminSuccess": "Admin huquqlari olib tashlandi",
+  "removeModeratorSuccess": "Moderator huquqlari olib tashlandi",
+  "manageMembers": "A'zolarni boshqarish",
+  "inviteMembers": "A'zolarni taklif qilish",
+  "removeMembers": "A'zolarni olib tashlash",
+  "banMembers": "A'zolarni chetlashtirish",
+  "editCommunity": "Jamoani tahrirlash",
+  "changeCommunityName": "Jamoa nomini o'zgartirish",
+  "changeCommunityAvatar": "Jamoa avatarini o'zgartirish",
+  "changeCommunityDescription": "Jamoa tavsifini o'zgartirish",
+  "messagesAndContent": "Xabarlar va tarkib",
+  "removeMessages": "Xabarlarni o'chirish",
+  "adminsOnly": "Faqat adminlar",
+  "adminsAndModerators": "Adminlar va moderatorlar",
+  "resetPermissions": "Ruxsatlarni qayta o'rnatish",
+  "resetPermissionsConfirmMessage": "Ruxsatlarni standart holatga keltirasizmi?",
+  "changeSettings": "Sozlamalarni o'zgartirish",
+  "permissionChangedFromTo": "{sender} {permission} ruxsatini o'zgartirdi",
+  "changedUserRoleTo": "{username} {target} rolini {role} ga o'zgartirdi",
+  "viewInChat": "Chatda ko'rish",
+  "playbackSpeed": "Ijro etish tezligi",
+  "normalSpeed": "Normal",
+  "qrScanHint": "Skanerlash uchun QR-kodni ramkaga joylashtiring",
+  "torch": "Chiroq (Torch)",
+  "remarkVisibleOnlyToYou": "Bu izoh faqat sizga ko'rinadi",
+  "pollVotes": "{count} ta ovoz",
+  "totalPollVotes": "Jami {count} ta ovoz",
+  "scanQrMobileOnly": "QR-kodni faqat mobil qurilmalarda skanerlash mumkin",
+  "publicGroupTech": "Texnologiya va dasturlash",
+  "publicGroupMarketing": "Marketing va reklama",
+  "publicGroupWeb3": "Web3 va raqamli aktivlar",
+  "publicGroupCrossBorder": "Xalqaro xizmatlar",
+  "publicGroupFreelance": "Frilans xizmatlar",
+  "blockUsers": "Foydalanuvchilarni bloklash",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Ekran qulfi kodi",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Kirish paroli",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Tiklash kaliti",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Kalitlar saqlanishiga ruxsat berish",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Shifrlash kalitlaringizni serverda saqlang.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Tiklashni sozlash",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Chat zaxira nusxasini tiklash uchun tiklash kalitini o'rnating.",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Tiklash kalitini o'rnatish",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Yangi qurilmalarda xabarlarni olish uchun kalitni saqlang.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Tiklash kalitini yaratish",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Tiklash kalitini nusxalash uchun bosing",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Tiklash kalitini saqlash",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Tiklash kalitini xavfsiz joyda saqlang.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Tiklash kalitini saqlash",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Tiklash kaliti nusxalandi",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Tiklash kaliti saqlandi",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "Tiklash kaliti yaratilmoqda…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Onlayn holatni ulashish",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Bildirishnomalar va o'qilganlik kvitansiyalarini boshqaring.",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Yuklash uchun optimallashtirilgan",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Tarkibni moderatsiya qilish va xavfsizlik",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Avatarni yashirish",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Media fayllarni vaqt jadvalida ko'rsatish",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Doim yashirish",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "Shaxsiy chatlarda",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Doim ko'rsatish",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Barchasi haqida ogohlantirish",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Faqat eslatmalar",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Guruh chati",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Shaxsiy chat",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Guruh chatlarida xabar berish",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Shaxsiy chatlarda xabar berish",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Barcha xabarlar",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Faqat eslatmalar va kalit so'zlar",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "Shifrlangan guruhlarda qo'llab-quvvatlanmasligi mumkin.",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Har bir chat uchun alohida sozlamalar",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Bu standart sozlamalarni bekor qiladi.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Ushbu chatda xabar berish",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Faqat eslatmalar va kalit so'zlar",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Shifrlangan chatlar uchun cheklovlar mavjud.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Maxsus sozlamalarga ruxsat berish",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Bu qurilmada xabar berish",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Eslatmalar (Mentions)",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Guruhda eslatib o'tilganda xabar berish",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Boshqa sozlamalar",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Eski parol",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Kodli parol qulfi",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Ekran qulfini yoqish",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Qulf kodini kiriting",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Yangi qulf kodini qayta kiriting",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Eski qulf kodini kiriting",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Eski qulf kodi noto'g'ri, qayta urinib ko'ring",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Kodli parolni o'zgartirish",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Eslatma: kodli parolni unutib qo'ysangiz, ilovani qayta o'rnatishingiz kerak bo'ladi.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Qulf kodlari mos kelmayapti",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Ekran qulfi yoqildi",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Ekran qulfi o'chirildi",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Bu qurilma",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Boshqa barcha sessiyalardan chiqish",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Ushbu qurilmadan tashqari barcha qurilmalardan chiqadi.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Faol sessiyalar",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Qurilmani o'chirish",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "{name} qurilmasini o'chirasizmi?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "Qurilma ID",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Oxirgi kirish",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "IP-manzil",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Mijoz ma'lumotlari",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "Mijoz ID",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Nomi",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Qurilmani olib tashlash",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} oldin",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "daqiqa",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "soat",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "kun",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "{appName} ga xush kelibsiz",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "{appName} dan foydalanganingiz uchun rahmat.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Hisob yaratish",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Yangilanish tayyor",
+  "updateReadyMessage": "Biz ba'zi funksiyalarni optimallashtirdik. Yangilanishni qo'llash uchun ilovani qayta ishga tushiring.",
+  "restartNow": "Hozir qayta ishga tushirish",
+  "noPublicGroupsYet": "Hali sertifikatlangan guruhlar yo'q"
+}

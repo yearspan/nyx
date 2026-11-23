@@ -1,0 +1,2219 @@
+{
+  "@@locale": "bo",
+  "@@last_modified": "2021-08-14 12:41:10.145728",
+  "about": "སྐོར།",
+  "accept": "དང་ལེན།",
+  "acceptedTheInvitation": "👍 {username} ཡིས་མགྲོན་བརྡ་དང་ལེན་བྱས།",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "ཞང་ཧོ།",
+  "activatedEndToEndEncryption": "🔐 {username} ཡིས་མཐའ་མཇུག་གསང་སྡོམ་སྤར་བ།",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "གློག་རྡུལ་ཡིག་བསྐུར་སྣོན་པ།",
+  "admin": "དོ་དམ་པ།",
+  "alias": "མིང་གཞན།",
+  "all": "ཚང་མ།",
+  "answeredTheCall": "{senderName} ཡིས་ཁ་པར་བླངས་བྱུང་།",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "མི་སུ་ཡིན་ཡང་ཞུགས་ཆོག",
+  "appLock": "ཉེར་སྤྱོད་ལྡེ་མིག",
+  "archive": "ཉར་གསོག",
+  "areGuestsAllowedToJoin": "མགྲོན་པོ་ཞུགས་སུ་འཇུག་གམ།",
+  "areYouSure": "ཁྱེད་གཏན་ཁེལ་ཡིན་ནམ།",
+  "areYouSureYouWantToLogout": "ཕྱིར་འཐེན་བྱེད་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "askSSSSSign": "གཞན་ལ་མཚན་རྟགས་འགོད་ཕྱིར་བདེ་འཇགས་ཉར་ཚགས་གསང་ཨང་འཇུག་ོས།",
+  "askVerificationRequest": "{username} ཡི་བཤེར་འབེབས་ཞུ་བ་ལེན་ནམ།",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "མཛོད་ཕུགས་ཞབས་ཞུ་ཆས་ཀྱི་འཛུལ་ཞུའི་རྣམ་པ།:\n{serverVersions}\nའོན་ཀྱང་ཉེར་སྤྱོད་འདིས་འདི་ཙམ་ལས་མི་རྒྱབ་སྐྱོར་བྱེད།:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "འཆར་མོལ་ནས་བཀག་སྡོམ།",
+  "banMember": "ཚོགས་མི་བཀག་སྡོམ།",
+  "banned": "བཀག་སྡོམ་བྱས་ཟིན།",
+  "bannedUser": "{username} ཡིས་ {targetName} བཀག་སྡོམ་བྱས།",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "སྒྲིག་ཆས་བཀག་སྡོམ།",
+  "blocked": "བཀག་ཟིན།",
+  "cancel": "ཕྱིར་འཐེན།",
+  "changeDeviceName": "སྒྲིག་ཆས་མིང་བརྗེ་བ།",
+  "changedTheChatAvatar": "{username} ཡིས་འཆར་མོལ་མགོ་པར་བརྗེས་པ།",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} ཡིས་འཆར་མོལ་ཐོབ་ཐང་བརྗེས་པ།",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} ཡིས་མིང་ '{displayname}' ལ་བརྗེས་པ།",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} ཡིས་མགྲོན་པོའི་འཛུལ་ཞུའི་རྩ་དོན་བརྗེས་པ།",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} ཡིས་མགྲོན་པོའི་འཛུལ་ཞུའི་རྩ་དོན་ {rules} ལ་བརྗེས་པ།",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} ཡིས་ལོ་རྒྱུས་མཐོང་རྒྱའི་ཁྱབ་ཁོངས་བརྗེས་པ།",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} ཡིས་ལོ་རྒྱུས་མཐོང་རྒྱའི་ཁྱབ་ཁོངས་ {rules} ལ་བརྗེས་པ།",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} ཡིས་ཞུགས་རྒྱུའི་རྩ་དོན་བརྗེས་པ།",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} ཡིས་ཞུགས་རྒྱུའི་རྩ་དོན་ {joinRules} ལ་བརྗེས་པ།",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} ཡིས་མགོ་པར་བརྗེས་པ།",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} ཡིས་འཆར་མོལ་ཁང་མིང་གཞན་བརྗེས་པ།",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} ཡིས་མགྲོན་བརྡའི་སྦྲེལ་མཐུད་བརྗེས་པ།",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "གསང་ཨང་བརྗེ་བ།",
+  "changeTheHomeserver": "གཙོ་ཞབས་ཞུ་ཆས་བརྗེ་བ།",
+  "changeTheme": "བཟོ་ལྟ་བརྗེ་བ།",
+  "changeTheNameOfTheGroup": "ཚོགས་པའི་མིང་བརྗེ་བ།",
+  "changeYourAvatar": "རང་གི་མགོ་པར་བརྗེ་བ།",
+  "channelCorruptedDecryptError": "གསང་སྡོམ་གཏོར་ཟིན།",
+  "chat": "འཆར་མོལ།",
+  "chatBackup": "འཆར་མོལ་ལོ་རྒྱུས་རྒྱབ་ཉར།",
+  "chatDetails": "འཆར་མོལ་ཞིབ་ཕྲ།",
+  "chats": "འཆར་མོལ།",
+  "chooseAStrongPassword": "གསང་ཨང་མཁྲེགས་པོ་ཞིག་འཇུག་ོས།",
+  "clearArchive": "ཉར་གསོག་གཙང་སེལ།",
+  "close": "ཁ་རྒྱབ།",
+  "commandHint_ban": "འཆར་མོལ་ཁང་འདི་ནས་བཀག་སྡོམ་བྱེད་པ།",
+  "commandHint_html": "HTML རྣམ་པའི་ཡིག་རིས་སྐྱེལ་བ།",
+  "commandHint_invite": "འཆར་མོལ་ཁང་འདིར་མགྲོན་བརྡ་གཏོང་བ།",
+  "commandHint_join": "འཆར་མོལ་ཁང་དུ་ཞུགས་པ།",
+  "commandHint_kick": "འཆར་མོལ་ཁང་འདི་ནས་ཕྱིར་འབུད་པ།",
+  "commandHint_leave": "འཆར་མོལ་ཁང་ནས་ཕྱིར་ཐོན་པ།",
+  "commandHint_me": "རང་ཉིད་ངོ་སྤྲོད་བྱེད་པ།",
+  "commandHint_myroomavatar": "འཆར་མོལ་ཁང་འདིའི་མགོ་པར་སྒྲིག་བཀོད།",
+  "commandHint_myroomnick": "འཆར་མོལ་ཁང་འདིའི་མིང་གནང་བ།",
+  "commandHint_op": "ཐོབ་ཐང་རིམ་པ་སྒྲིག་བཀོད།",
+  "commandHint_plain": "ཡིག་རིས་རྐྱང་པ་སྐྱེལ་བ།",
+  "commandHint_react": "ལན་འདེབས་སྐྱེལ་བ།",
+  "commandHint_send": "ཡིག་རིས་སྐྱེལ་བ།",
+  "commandHint_unban": "བཀག་སྡོམ་གཅོད་པ།",
+  "commandInvalid": "བཀའ་རྒྱ་ནུས་མེད།",
+  "commandMissing": "{command} འདི་བཀའ་རྒྱ་མིན།",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    }
+  },
+  "compareEmojiMatch": "རྣམ་འགྱུར་བསྡུར་བ།",
+  "compareNumbersMatch": "ཨང་ཀི་བསྡུར་བ།",
+  "configureChat": "འཆར་མོལ་སྒྲིག་བཀོད།",
+  "contactHasBeenInvitedToTheGroup": "འབྲེལ་གཏུག་པ་ཚོགས་པར་མགྲོན་བརྡ་བཏང་ཟིན།",
+  "contentHasBeenReported": "ནང་དོན་འདི་དོ་དམ་པར་ཞུ་གཏུག་བྱས་ཟིན།",
+  "copiedToClipboard": "དྲས་སྦྱར་པང་དུ་བཤུས་ཟིན།",
+  "copy": "བཤུས་པ།",
+  "copyToClipboard": "དྲས་སྦྱར་པང་དུ་བཤུ་བ།",
+  "couldNotDecryptMessage": "འཕྲིན་ཐུང་གསང་འགྲེལ་མ་ཐུབ: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "འཕྲིན་ཐུང་གསང་འགྲེལ་མ་ཐུབ། རྗེས་སུ་ཡང་བསྐྱར་མཚམས་སྦྱོར་བྱོས།",
+  "countParticipants": "ཞུགས་མི་ {count} ཡོད།",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "གསར་བཟོ།",
+  "createdTheChat": "💬 {username} ཡིས་འཆར་མོལ་གསར་བཟོ་བྱས།",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "ད་ལྟ་ཁོམ་ཡོད།",
+  "darkTheme": "མཚན་མོའི་རྣམ་པ།",
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "འདིས་ཁྱེད་ཀྱི་ཞང་ཧོ་མེད་པར་བཟོ་ངེས། འདི་ཕྱིར་འཐེན་མི་ཐུབ། གཏན་ཁེལ་ཡིན་ནམ།",
+  "defaultPermissionLevel": "གསར་ཞུགས་པའི་ཐོབ་ཐང་།",
+  "delete": "སུབ་པ།",
+  "deleteAccount": "ཞང་ཧོ་སུབ་པ།",
+  "deleteMessage": "འཕྲིན་ཐུང་སུབ་པ།",
+  "deleteAllMessages": "འཕྲིན་ཐུང་ཚང་མ་སུབ་པ།",
+  "clearChatHistory": "འཆར་མོལ་ལོ་རྒྱུས་གཙང་སེལ།",
+  "deleteAllMessagesConfirmation": "འཆར་མོལ་འདིའི་འཕྲིན་ཐུང་ཚང་མ་སུབ་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "clearChatHistoryConfirmation": "འཆར་མོལ་ལོ་རྒྱུས་གཙང་སེལ་བྱེད་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "enableAutoDelete": "རང་ངོས་ནས་སུབ་པ་སྤར་བ།",
+  "autoDeleteDescription": "དུས་ཚོད་ངེས་ཅན་རྗེས་འཕྲིན་ཐུང་གསར་པ་རང་ངོས་ནས་སུབ་པ།",
+  "oneDay": "ཉིན་ ༡",
+  "oneWeek": "གཟའ་འཁོར་ ༡",
+  "oneMonth": "ཟླ་བ་ ༡",
+  "disable": "བཀག་འགོག",
+  "devices": "སྒྲིག་ཆས།",
+  "directChats": "སྒེར་མོལ།",
+  "displaynameHasBeenChanged": "མིང་བརྗེས་ཟིན།",
+  "downloadFile": "ཡིག་ཆ་ཕབ་ལེན།",
+  "edit": "རྩོམ་སྒྲིག",
+  "editBlockedServers": "བཀག་སྡོམ་བྱས་པའི་ཞབས་ཞུ་ཆས་རྩོམ་སྒྲིག",
+  "editDisplayname": "མིང་རྩོམ་སྒྲིག",
+  "editRoomAliases": "འཆར་མོལ་ཁང་གི་མིང་གཞན་རྩོམ་སྒྲིག",
+  "editRoomAvatar": "འཆར་མོལ་ཁང་གི་མགོ་པར་རྩོམ་སྒྲིག",
+  "emoteExists": "རྣམ་འགྱུར་འདི་ཡོད།",
+  "emoteInvalid": "ནུས་མེད་རྣམ་འགྱུར།",
+  "emoteShortcode": "རྣམ་འགྱུར་མགྱོགས་ཨང་།",
+  "emptyChat": "འཆར་མོལ་སྟོང་པ།",
+  "enableEmotesGlobally": "ཡོངས་ཁྱབ་རྣམ་འགྱུར་སྤར་བ།",
+  "enableEncryption": "གསང་སྡོམ་སྤར་བ།",
+  "enableEncryptionWarning": "རྗེས་སུ་གསང་སྡོམ་མཚམས་འཇོག་མི་ཐུབ། གཏན་ཁེལ་ཡིན་ནམ།",
+  "encrypted": "གསང་སྡོམ་བྱས་ཟིན།",
+  "encryption": "གསང་སྡོམ།",
+  "encryptionNotEnabled": "གསང་སྡོམ་མ་སྤར་བ།",
+  "endedTheCall": "{senderName} ཡིས་ཁ་པར་བཅད་བྱུང་།",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "གློག་རྡུལ་ཡིག་བསྐུར་ཁ་བྱང་འཇུག་ོས།",
+  "fontSize": "ཡིག་གཟུགས་ཆེ་ཆུང་།",
+  "forward": "བརྒྱུད་བསྐུར།",
+  "forwarded": "བརྒྱུད་བསྐུར་གྲུབ་ཟིན།",
+  "fromJoining": "ཞུགས་པ་ནས་བཟུང་།",
+  "fromTheInvitation": "མགྲོན་བརྡ་བཏང་བ་ནས་བཟུང་།",
+  "group": "ཚོགས་པ།",
+  "groupIsPublic": "ཚོགས་པ་འདི་ཡོངས་ཁྱབ་ཡིན།",
+  "groups": "ཚོགས་པ།",
+  "groupWith": "མིང་ {displayname} ཡིན་པའི་ཚོགས་པ།",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "མགྲོན་པོ་ཞུགས་མི་ཆོག",
+  "guestsCanJoin": "མགྲོན་པོ་ཞུགས་ཆོག",
+  "hasWithdrawnTheInvitationFor": "{username} ཡིས་ {targetName} ཡི་མགྲོན་བརྡ་ཕྱིར་འཐེན་བྱས།",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "རོགས་རམ།",
+  "hideUnknownEvents": "མི་ཤེས་པའི་བྱུང་རིམ་སྦས་བསྐུལ།",
+  "ignore": "སྣང་མེད།",
+  "ignoredUsers": "སྣང་མེད་བྱས་པའི་སྤྱོད་པོ།",
+  "iHaveClickedOnLink": "ང་ཡིས་སྦྲེལ་མཐུད་ལ་ནོན་ཟིན།",
+  "incorrectPassphraseOrKey": "གསང་ཨང་འདྲི་ཚིག་གམ་སླར་གསོའི་ལྡེ་མིག་ནོར་བ།",
+  "inviteContact": "འབྲེལ་གཏུག་པ་མགྲོན་བརྡ་གཏོང་བ།",
+  "inviteContactToGroup": "འབྲེལ་གཏུག་པ་ {groupName} ལ་མགྲོན་བརྡ་གཏོང་བ།",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "མགྲོན་བརྡ་བཏང་ཟིན།",
+  "invitedUser": "📩 {username} ཡིས་ {targetName} ལ་མགྲོན་བརྡ་བཏང་བྱུང་།",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "མགྲོན་བརྡ་བཏང་བའི་སྤྱོད་པོ་ཁོ་ན།",
+  "inviteText": "{username} ཡིས་ཁྱེད་ NYX སྤྱོད་པར་མགྲོན་བརྡ་གཏོང་།",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "ཡི་གེ་འབྲི་བཞིན་པ།…",
+  "joinedTheChat": "👋 {username} འཆར་མོལ་དུ་ཞུགས་བྱུང་།",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "འཆར་མོལ་ཁང་དུ་ཞུགས་པ།",
+  "joinRoomHint": "ཁང་པའི་ཁ་བྱང་འཇུག་ོས།",
+  "joinRoomExample": "དཔེར་ན། !room-name:nstalk.space",
+  "joinRoomInvalid": "ཁ་བྱང་ནུས་མེད།",
+  "joinRoomNotFound": "ཁང་པ་མ་རྙེད།",
+  "joinRoomFailed": "ཞུགས་མ་ཐུབ།",
+  "joinRoomFound": "མཐུན་པའི་ཁང་པ་རྙེད་ཟིན།",
+  "joinRoomContinue": "མངོན་འགྱུར།",
+  "joinRoomNoTopic": "མཚམས་སྦྱོར་མེད།",
+  "joinRoomApply": "ཞུགས་པའི་ཞུ་བ།",
+  "joinRoomEnter": "ཁང་པར་འཛུལ་བ།",
+  "joinRoomIntro": "མཚམས་སྦྱོར།",
+  "kicked": "👞 {username} ཡིས་ {targetName} ཕྱིར་ཕུད་བྱས།",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} ཡིས་ {targetName} ཕྱིར་ཕུད་དང་བཀག་སྡོམ་བྱས།",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "འཆར་མོལ་ཁང་ནས་ཕྱིར་ཕུད།",
+  "kickedFromGroup": "ཁྱེད་ཚོགས་པ་འདི་ནས་ཕྱིར་ཕུད་ཟིན།",
+  "removeMember": "ཚོགས་མི་སུབ་པ།",
+  "lastActiveAgo": "མཐའ་མའི་ཁོམ་དུས: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "ཕྱིར་ཐོན།",
+  "leftTheChat": "འཆར་མོལ་ནས་ཕྱིར་ཐོན་ཟིན།",
+  "lightTheme": "ཉིན་མོའི་རྣམ་པ།",
+  "loadCountMoreParticipants": "ཞུགས་མི་ {count} ལྷག་མ་སྣོན་པ།",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "སྣོན་བཞིན་པ… སྒྲུགས་ོས།",
+  "loadMore": "འཚོལ་བསྡུ་སྣོན་པ…",
+  "login": "འཛུལ་ཞུ།",
+  "logInTo": "{homeserver} ལ་འཛུལ་ཞུ།",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "ཕྱིར་འཐེན།",
+  "logoutDescription": "NYX ཞང་ཧོ་ནས་ཕྱིར་འཐེན་བྱེད་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "mention": "གླེང་བ།",
+  "messages": "འཕྲིན་ཐུང་།",
+  "moderator": "གྲོགས་སྣེ་ལེན་པ།",
+  "muteChat": "སྐད་མེད།",
+  "newChat": "འཆར་མོལ་གསར་པ།",
+  "newMessageInFluffyChat": "💬 NYX འཕྲིན་ཐུང་གསར་པ།",
+  "newVerificationRequest": "བཤེར་འབེབས་ཞུ་བ་གསར་པ།",
+  "next": "རྗེས་མ།",
+  "no": "མིན།",
+  "noConnectionToTheServer": "ཞབས་ཞུ་ཆས་ལ་མཐུད་མི་ཐུབ།",
+  "noEmotesFound": "རྣམ་འགྱུར་མ་རྙེད། 😕",
+  "noEncryptionForPublicRooms": "ཡོངས་ཁྱབ་འཆར་མོལ་ཁང་ལ་གསང་སྡོམ་སྤར་མི་ཐུབ།",
+  "noGoogleServicesWarning": "ཁྱེད་ཀྱི་ཁ་པར་དུ་ Google Services མི་འདུག",
+  "noPasswordRecoveryDescription": "གསང་ཨང་སླར་གསོའི་ཐབས་ལམ་བསྒྲིགས་མེད།",
+  "noPermission": "ཐོབ་ཐང་མེད།",
+  "noRoomsFound": "འཆར་མོལ་ཁང་མ་རྙེད…",
+  "notifications": "བརྡ་ཐོ།",
+  "numUsersTyping": "མི་ {count} ཡིས་ཡི་གེ་འབྲི་བཞིན་པ…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "གཏན་ཁེལ།",
+  "onlineKeyBackupEnabled": "དྲ་ཐོག་ལྡེ་མིག་རྒྱབ་ཉར་སྤར་ཟིན།",
+  "oopsPushError": "བརྡ་ཐོ་སྐྱེལ་བར་ནོར་འཁྲུལ་བྱུང་།",
+  "oopsSomethingWentWrong": "ནོར་འཁྲུལ་བྱུང་།…",
+  "openAppToReadMessages": "ཉེར་སྤྱོད་ཁ་ཕྱེ་ནས་འཕྲིན་ཐུང་ལྟོས།",
+  "openCamera": "པར་ཆས་ཁ་ཕྱེ།",
+  "or": "ཡང་ན།",
+  "participant": "ཞུགས་མི།",
+  "passphraseOrKey": "གསང་ཨང་འདྲི་ཚིག་གམ་སླར་གསོའི་ལྡེ་མིག",
+  "password": "གསང་ཨང་།",
+  "passwordForgotten": "གསང་ཨང་རྗེད་པ།",
+  "passwordHasBeenChanged": "གསང་ཨང་བརྗེས་ཟིན།",
+  "passwordRecovery": "གསང་ཨང་སླར་གསོ།",
+  "pin": "སྟེང་དུ་འགོད་པ།",
+  "pleaseChooseAPasscode": "གསང་ཨང་འདེམས་ོས།",
+  "pleaseClickOnLink": "གློག་ཡིག་ནང་གི་སྦྲེལ་མཐུད་ལ་ནོན་ོས།",
+  "pleaseEnterYourPassword": "གསང་ཨང་འཇུག་ོས།",
+  "pleaseEnterYourPin": "PIN ཨང་ཀི་འཇུག་ོས།",
+  "enterLockPasscode": "ལྡེ་མིག་གསང་ཨང་འཇུག་ོས།",
+  "pleaseEnterYourUsername": "སྤྱོད་མིང་འཇུག་ོས།",
+  "pleaseFollowInstructionsOnWeb": "དྲ་བའི་སྟེང་གི་ལམ་སྟོན་ལྟར་གནང་ོས།",
+  "privacy": "གསང་དོན།",
+  "publicRooms": "ཡོངས་ཁྱབ་འཆར་མོལ་ཁང་།",
+  "reason": "རྒྱུ་མཚན།",
+  "redactedAnEvent": "{username} ཡིས་བྱུང་རིམ་ཞིག་སུབ་ཟིན།",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "འཕྲིན་ཐུང་སུབ་པ།",
+  "reject": "ปฏิเสธ / མི་ལེན།",
+  "rejectedTheInvitation": "{username} ཡིས་མགྲོན་བརྡ་མ་བླངས།",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "སུབ་པ།",
+  "removeAllOtherDevices": "སྒྲིག་ཆས་གཞན་ཚང་མ་སུབ་པ།",
+  "unbanFromChat": "བཀག་སྡོམ་གཅོད་པ།",
+  "removeYourAvatar": "མགོ་པར་སུབ་པ།",
+  "replaceRoomWithNewerVersion": "འཆར་མོལ་ཁང་ཐོན་རིམ་གསར་པར་བསྐྱར་བཟོ།",
+  "reply": "ལན་འདེབས།",
+  "reportMessage": "འཕྲིན་ཐུང་ཞུ་གཏུག",
+  "roomHasBeenUpgraded": "འཆར་མོལ་ཁང་ཐོན་རིམ་མཐོར་འདེགས་བྱས་ཟིན།",
+  "roomVersion": "འཆར་མོལ་ཁང་གི་ཐོན་རིམ།",
+  "saveFile": "ཡིག་ཆ་ཉར་ཚགས།",
+  "search": "འཚོལ་བསྡུ།",
+  "security": "བདེ་འཇགས།",
+  "send": "སྐྱེལ་བ།",
+  "sendAMessage": "འཕྲིན་ཐུང་སྐྱེལ་བ།",
+  "sendAsText": "ཡིག་རིས་ལྟར་སྐྱེལ་བ།",
+  "sendAudio": "སྐད་སྒྲ་སྐྱེལ་བ།",
+  "sendFile": "ཡིག་ཆ་སྐྱེལ་བ།",
+  "sendImage": "པར་རིས་སྐྱེལ་བ།",
+  "sendMessages": "འཕྲིན་ཐུང་སྐྱེལ་བ།",
+  "sendVideo": "བརྙན་ལམ་སྐྱེལ་བ།",
+  "sentAFile": "📁{username} ཡིས་ཡིག་ཆ་བསྐུར་བྱུང་།",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤{username} ཡིས་སྐད་སྒྲ་བསྐུར་བྱུང་།",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} ཡིས་པར་རིས་བསྐུར་བྱུང་།",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} ཡིས་སྦྱར་པར་བསྐུར་བྱུང་།",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} ཡིས་བརྙན་ལམ་བསྐུར་བྱུང་།",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} ཡིས་ཁ་པར་འཕྲིན་ལན་བསྐུར་བྱུང་།",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "གཙོ་བོའི་མིང་གཞན་དུ་བསྒྲིགས་པ།",
+  "setStatus": "གནས་བབ་སྒྲིག་བཀོད།",
+  "settings": "སྒྲིག་བཀོད།",
+  "share": "བརྒྱུད་བསྐུར། / བགོ་བཤའ།",
+  "sharedTheLocation": "{username} ཡིས་གནས་ས་བགོ་བཤའ་བྱས།",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "མཆོང་བ།",
+  "sourceCode": "ཁུངས་ཨང་།",
+  "startedACall": "{senderName} ཡིས་ཁ་པར་བཏང་བྱུང་།",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "གནས་བབ།",
+  "statusExampleMessage": "དེ་རིང་ཁྱེད་རང་བདེ་པོ་ཡིན་ནམ།",
+  "submit": "སྐྱེལ་བ།",
+  "synchronizingPleaseWait": "མཉམ་འབྱུང་བྱེད་བཞིན་པ… སྒྲུགས་ོས།",
+  "systemTheme": "རང་འགུལ་བཟོ་ལྟ།",
+  "theyDontMatch": "མི་མཐུན་པ།",
+  "theyMatch": "མཐུན་པ།",
+  "tooManyRequestsWarning": "ཞུ་བ་མང་དྲགས་པས། རྗེས་སུ་ཡང་བསྐྱར་མཚམས་སྦྱོར་བྱོས།",
+  "tryToSendAgain": "ཡང་བསྐྱར་སྐྱེལ་བ།",
+  "unbannedUser": "{username} ཡིས་ {targetName} ཡི་བཀག་སྡོམ་བཅད་ཟིན།",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "སྒྲིག་ཆས་བཀག་སྡོམ་གཅོད་པ།",
+  "unknownDevice": "མི་ཤེས་པའི་སྒྲིག་ཆས།",
+  "unknownEncryptionAlgorithm": "མི་ཤེས་པའི་གསང་སྡོམ་རྩིས་ཐབས།",
+  "unknownEvent": "མི་ཤེས་པའི་བྱུང་རིམ་ '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "སྐད་མེད་གཅོད་པ།",
+  "unpin": "སྟེང་འགོད་གཅོད་པ།",
+  "userAndOthersAreTyping": "{username} དང་མི་ {count} ཡིས་ཡི་གེ་འབྲི་བཞིན་པ…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} དང་ {username2} ཡིས་ཡི་གེ་འབྲི་བཞིན་པ…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} ཡིས་ཡི་གེ་འབྲི་བཞིན་པ…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪{username} འཆར་མོལ་ནས་ཕྱིར་ཐོན་ཟིན།",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} ཡིས་ {type} བྱུང་རིམ་བསྐུར་བྱུང་།",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "བཤེར་འབེབས་བྱས་ཟིན།",
+  "verifyUser": "སྤྱོད་པོ་བཤེར་འབེབས།",
+  "verifyThisUser": "སྤྱོད་པོ་འདི་བཤེར་འབེབས།",
+  "verifyThisUserBody": "བདེ་འཇགས་མཐོར་འདེགས་ཕྱིར་རྣམ་འགྱུར་བསྡུར་ནས་སྤྱོད་པོ་འདི་བཤེར་འབེབས་བྱོས།",
+  "waitingOtherUser": "སྤྱོད་པོ་གཞན་ལ་སྒྲུག་པ།",
+  "waitingOtherUserBody": "གཞན་གྱིས་དང་ལེན་བྱས་རྗེས་བཤེར་འབེབས་བྱེད་ཐུབ།",
+  "compareEmoji": "རྣམ་འགྱུར་བསྡུར་བ།",
+  "compareEmojiOrderBody": "རྣམ་འགྱུར་གོ་རིམ་གཅིག་པ་ཡིན་མིན་བསྡུར་ོས།",
+  "compareEmojiSameBody": "འོག་གི་རྣམ་འགྱུར་གཞན་གྱི་སྒྲིག་ཆས་དང་གཅིག་པ་ཡིན་མིན་བཤེར་ོས།",
+  "verifyRequestTitle": "བཤེར་འབེབས་ཞུ་བ།",
+  "verifyRequestBody": "བདེ་འཇགས་ཕྱིར་སྤྱོད་པོ་གཞན་གྱིས་ཁྱེད་ཀྱི་ཐོབ་ཐང་བཤེར་འབེབས་བྱེད་འདོད།",
+  "verificationSuccessTitle": "བཤེར་འབེབས་གྲུབ་ཟིན།",
+  "verificationSuccessBody": "དེ་རིང་ནས་བཟུང་སྤྱོད་པོ་འདིའི་ཐོབ་ཐང་ལ་ཡིད་ཆེས་བྱེད་ཆོག",
+  "verificationFailedTitle": "བཤེར་འབེབས་ཕམ་པ།",
+  "verificationFailedBody": "དུས་ཚོད་ཡོལ་བའམ་དང་ལེན་མ་བྱས་པ།",
+  "done": "གྲུབ་ཟིན།",
+  "retry": "ཡང་བསྐྱར་འབད་པ།",
+  "verifyBeforeFirstMessageTitle": "སྤྱོད་པོ་འདི་བཤེར་འབེབས་བྱེད་དམ།",
+  "verifyBeforeFirstMessageBody": "འདི་ནི་ཁྱེད་ཀྱིས་བསྐུར་བའི་འཕྲིན་ཐུང་དང་པོ་ཡིན།",
+  "verifyNow": "དེ་མུར་བཤེར་འབེབས།",
+  "sendDirectly": "དེ་མུར་སྐྱེལ་བ།",
+  "messageNotifications": "འཕྲིན་ཐུང་བརྡ་ཐོ།",
+  "messageNotify": "འཕྲིན་ཐུང་བརྡ་ཐོ།",
+  "addBio": "རང་ཉིད་མཚམས་སྦྱོར་སྣོན་པ།",
+  "setNewAvatar": "མགོ་པར་གསར་པ་བསྒྲིགས་པ།",
+  "members": "ཚོགས་མི།",
+  "rolesAndPermissions": "ཐོབ་ཐང་དང་ཐོབ་ཐང་རིམ་པ།",
+  "personalProfile": "སྒེར་གྱི་ཡིག་ཆ།",
+  "setRemark": "མཆན་བུར་བཀོད་པ།",
+  "pinnedMessages": "སྟེང་དུ་བཀོད་པའི་འཕྲིན་ཐུང་།",
+  "pinnedMessagesCount": "སྟེང་བཀོད་འཕྲིན་ཐུང་ {count} ཡོད།",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "སྟེང་བཀོད་འཕྲིན་ཐུང་མེད།",
+  "agreement": "གྲོས་མཐུན།",
+  "mediaAndFiles": "མེ་ཏྲི་ཡ་དང་ཡིག་ཆ།",
+  "polls": "འོས་ཤོག",
+  "leaveCommunity": "སྤྱི་ཁོངས་ནས་ཕྱིར་ཐོན།",
+  "deleteGroupChat": "ཚོགས་པའི་འཆར་མོལ་སུབ་པ།",
+  "media": "མེ་ཏྲི་ཡ།",
+  "noMedia": "མེ་ཏྲི་ཡ་མེད།",
+  "noFiles": "ཡིག་ཆ་མེད།",
+  "downloadingFile": "ཡིག་ཆ་ཕབ་ལེན་བྱེད་བཞིན་པ…",
+  "addToContacts": "འབྲེལ་གཏུག་པར་སྣོན་པ།",
+  "addContact": "འབྲེལ་གཏུག་པ་སྣོན་པ།",
+  "deleteContact": "འབྲེལ་གཏུག་པ་སུབ་པ།",
+  "bio": "མཚམས་སྦྱོར།",
+  "bioEmpty": "མཚམས་སྦྱོར་མེད།",
+  "blockUser": "སྤྱོད་པོ་བཀག་སྡོམ།",
+  "unblockUser": "བཀག་སྡོམ་གཅོད་པ།",
+  "call": "ཁ་པར་གཏོང་བ།",
+  "verifyStart": "བཤེར་འབེབས་འགོ་ཚུགས།",
+  "verifySuccess": "བཤེར་འབེབས་ལེགས་གྲུབ།",
+  "verifyTitle": "ཞང་ཧོ་གཞན་བཤེར་འབེབས།",
+  "visibilityOfTheChatHistory": "འཆར་མོལ་ལོ་རྒྱུས་མཐོང་རྒྱའི་ཁྱབ་ཁོངས།",
+  "visibleForAllParticipants": "ཞུགས་མི་ཚང་མར་མཐོང་ཐུབ།",
+  "visibleForEveryone": "མི་ཚང་མར་མཐོང་ཐུབ།",
+  "voiceMessage": "སྐད་སྒྲ་འཕྲིན་ཐུང་།",
+  "waitingPartnerAcceptRequest": "གཞན་གྱིས་དང་ལེན་བྱེད་པར་སྒྲུག་པ…",
+  "waitingPartnerEmoji": "གཞན་གྱིས་ emoji དང་ལེན་བྱེད་པར་སྒྲུག་པ…",
+  "waitingPartnerNumbers": "གཞན་གྱིས་ཨང་ཀི་དང་ལེན་བྱེད་པར་སྒྲུག་པ…",
+  "warning": "ཉེན་བརྡ།",
+  "weSentYouAnEmail": "ང་ཚོས་ཁྱེད་ལ་གློག་ཡིག་ཅིག་བསྐུར་ཟིན།",
+  "whoCanPerformWhichAction": "སུས་བྱ་བ་གང་བསྒྲུབ་ཆོག",
+  "whoIsAllowedToJoinThisGroup": "སུ་ཚོགས་པ་འདིར་ཞུགས་ཆོག",
+  "whyDoYouWantToReportThis": "ཞུ་གཏུག་བྱེད་པའི་རྒྱུ་མཚན་ཅི།",
+  "withTheseAddressesRecoveryDescription": "ཁ་བྱང་འདི་དག་གིས་གསང་ཨང་སླར་གསོ་བྱེད་ཐུབ།",
+  "writeAMessage": "འཕྲིན་ཐུང་འབྲི་བ…",
+  "yes": "ཡིན།",
+  "you": "ཁྱེད།",
+  "youAreNoLongerParticipatingInThisChat": "ཁྱེད་འཆར་མོལ་འདིར་མ་ཞུགས་པ།",
+  "youHaveBeenBannedFromThisChat": "ཁྱེད་འཆར་མོལ་འདི་ནས་བཀག་སྡོམ་བྱས་ཟིན།",
+  "yourPublicKey": "ཁྱེད་ཀྱི་公钥",
+  "addToSpace": "གནས་ཁོངས་སུ་སྣོན་པ།",
+  "obtainingLocation": "གནས་ས་ལེན་བཞིན་པ…",
+  "noMatrixServer": "{server1} འདི་ Matrix ཞབས་ཞུ་ཆས་མིན། {server2} ཚོད་ལྟ་བྱེད་དམ།",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "གནས་སའི་ཐོབ་ཐང་མ་ཐོབ། གནས་ས་བགོ་བཤའ་བྱེད་པར་ཐོབ་ཐང་སྤྲོད་ོས།",
+  "locationDisabledNotice": "གནས་སའི་ཞབས་ཞུ་བཀག་ཟིན།",
+  "errorObtainingLocation": "གནས་ས་ལེན་པར་ནོར་འཁྲུལ་བྱུང་: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "གནས་ཁོངས་གསར་པ་བཟོ་བ།",
+  "cantOpenUri": "URI {uri} ཁ་ཕྱེ་མི་ཐུབ།",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "འགུལ་པར་དང་རྣམ་འགྱུར་རང་རྡོལ་གྱིས་སྟོན་པ།",
+  "spaceName": "གནས་ཁོངས་མིང་།",
+  "spaceIsPublic": "གནས་ཁོངས་འདི་ཡོངས་ཁྱབ་ཡིན།",
+  "shareLocation": "གནས་ས་བགོ་བཤའ།",
+  "openInMaps": "ས་ཁྲ་ནང་ཁ་ཕྱེ་བ།",
+  "sendOnEnter": "Enter མཐེབ་གནོན་པས་སྐྱེལ་བ།",
+  "scanQrCode": "དབྱིབས་ཨང་བཤེར་བ།",
+  "qrCode": "དབྱིབས་ཨང་།",
+  "shareQrCode": "དབྱིབས་ཨང་བགོ་བཤའ།",
+  "oneClientLoggedOut": "ཁྱེད་ཀྱི་སྤྱོད་མིང་གཅིག་ཕྱིར་ཐོན་ཟིན།",
+  "removeFromBundle": "འདེམས་ཚོགས་འདི་ནས་སུབ་པ།",
+  "unverified": "མ་བཤེར་བ།",
+  "repeatPassword": "གསང་ཨང་ཡང་བསྐྱར་སྐྱེལ་བ།",
+  "addAccount": "ཞང་ཧོ་སྣོན་པ།",
+  "editBundlesForAccount": "ཞང་ཧོ་འདིའི་འདེམས་ཚོགས་རྩོམ་སྒྲིག",
+  "addToBundle": "འདེམས་ཚོགས་སུ་སྣོན་པ།",
+  "bundleName": "འདེམས་ཚོགས་མིང་།",
+  "link": "སྦྲེལ་མཐུད།",
+  "sender": "སྐྱེལ་མཁན།",
+  "openGallery": "པར་མཛོད་ཁ་ཕྱེ་བ།",
+  "messageInfo": "འཕྲིན་ཐུང་ཞིབ་ཕྲ།",
+  "time": "དུས་ཚོད།",
+  "removeFromSpace": "གནས་ོངས་འདི་ནས་སུབ་པ།",
+  "commandHint_discardsession": "ལས་ཡུན་དོར་བ།",
+  "commandHint_dm": "སྒེར་མོལ་གསར་བཟོ།",
+  "commandHint_clearcache": "གསོག་འཇོག་གཙང་སེལ།",
+  "commandHint_create": "ཚོགས་པ་སྟོང་པ་གསར་བཟོ།",
+  "markAsRead": "ཀློག་ཟིན་མཚན་རྟགས།",
+  "reportUser": "སྤྱོད་པོ་ཞུ་གཏུག",
+  "reactedWith": "{sender} ཡིས་ {reaction} ལན་འདེབས་བྱས།",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "བྱུང་རིམ་འདི་སྟེང་འགོད་གཅོད་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "pinMessage": "འཆར་མོལ་ཁང་དུ་སྟེང་འགོད།",
+  "emojis": "རྣམ་འགྱུར།",
+  "unsupportedAndroidVersionLong": "བྱེད་ལས་འདིར་ Android ཐོན་རིམ་གསར་པ་དགོས།",
+  "unsupportedAndroidVersion": "རྒྱབ་སྐྱོར་མེད་པའི་ Android ཐོན་རིམ།",
+  "youRejectedTheInvitation": "ཁྱེད་ཀྱིས་མགྲོན་བརྡ་མ་བླངས།",
+  "youJoinedTheChat": "ཁྱེད་འཆར་མོལ་དུ་ཞུགས་ཟིན།",
+  "youBannedUser": "ཁྱེད་ཀྱིས་ {user} བཀག་སྡོམ་བྱས།",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 {user} ཡིས་ཁྱེད་ལ་མགྲོན་བརྡ་བཏང་བྱུང་།",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 ཁྱེད་ཀྱིས་ {user} ལ་མགྲོན་བརྡ་བཏང་ཟིན།",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 ཁྱེད་ཀྱིས་ {user} ཕྱིར་ཕུད་བྱས།",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "ཁྱེད་ཀྱིས་ {user} ཡི་བཀག་སྡོམ་བཅད་ཟིན།",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 ཁྱེད་ཀྱིས་མགྲོན་བརྡ་བླངས་ཟིན།",
+  "youHaveWithdrawnTheInvitationFor": "ཁྱེད་ཀྱིས་ {user} ཡི་མགྲོན་བརྡ་ཕྱིར་འེན་བྱས།",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 ཁྱེད་ཀྱིས་ {user} ཕྱིར་ཕུད་དང་བཀག་སྡོམ་བྱས།",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Apple KeyChain དུ་ཉར་ཚགས།",
+  "storeInAndroidKeystore": "Android KeyStore དུ་ཉར་ཚགས།",
+  "storeSecurlyOnThisDevice": "སྒྲིག་ཆས་འདིར་བདེ་འཇགས་ཉར་ཚགས།",
+  "users": "སྤྱོད་པོ།",
+  "countFiles": "ཡིག་ཆ་ {count} ཡོད།",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "རྒྱབ་ཉར་ཡིག་ཆ་ནས་སླར་གསོ།",
+  "dehydrate": "ལས་ཡུན་ཕྱིར་འདྲེན་དང་སྒྲིག་ཆས་གཙང་སེལ།",
+  "dehydrateWarning": "བྱ་བ་འདི་ཕྱིར་འཐེན་མི་ཐུབ།",
+  "user": "སྤྱོད་པོ།",
+  "userNotFound": "སྤྱོད་པོ་མ་རྙེད།",
+  "custom": "རང་བཟོ།",
+  "confirmMatrixId": "ཞང་ཧོ་སུབ་ཕྱིར་རང་གི་ Matrix ID གཏན་ཁེལ་བྱོས།",
+  "supposedMxid": "{mxid} ཡིན་དགོས།",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "ཚོགས་པར་མཚན་རྟགས་འགོད་པ།",
+  "commandHint_markasdm": "སྒེར་མོལ་ལ་མཚན་རྟགས་འགོད་པ།",
+  "whyIsThisMessageEncrypted": "འཕྲིན་ཐུང་འདི་ཀློག་མི་ཐུབ་པའི་རྒྱུ་མཚན་ཅི།",
+  "noKeyForThisMessage": "འཕྲིན་ཐུང་འདི་སྒྲིག་ཆས་འདིར་མ་འཛུལ་སྔོན་བསྐུར་བ་ཡིན་སྲིད།",
+  "newSpace": "གནས་ཁོངས་གསར་པ།",
+  "doNotShowAgain": "ཡང་བསྐྱར་མི་སྟོན་པ།",
+  "googlyEyesContent": "{senderName} ཡིས་ཁྱེད་ལ་ “མིག་ཆེན” སྐྱེལ་བྱུང་།",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "“མིག་ཆེན” རྣམ་འགྱུར་སྐྱེལ་བ།",
+  "commandHint_cuddle": "“འཁྱུད་པའི” རྣམ་འགྱུར་སྐྱེལ་བ།",
+  "commandHint_hug": "“པང་དུ་ལེན་པའི” རྣམ་འགྱུར་སྐྱེལ་བ།",
+  "cuddleContent": "{senderName} ཡིས་ཁྱེད་ལ་འཁྱུད་བྱུང་།",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} ཡིས་ཁྱེད་པང་དུ་བླངས་བྱུང་།",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "འཆར་མོལ་སྟོང་པ། (སྔོན་ཆད་ {oldDisplayName} ཡིན།)",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "གནས་ཁོངས་ཀྱིས་འཆར་མོལ་བསྡུ་སྒྲིལ་བྱེད་ཐུབ།",
+  "encryptThisChat": "འཆར་མོལ་འདི་གསང་སྡོམ་བྱེད་པ།",
+  "disableEncryptionWarning": "བདེ་འཇགས་ཕྱིར་གསང་སྡོམ་མཚམས་འཇོག་མི་ཐུབ།",
+  "sorryThatsNotPossible": "དགོངས་དག འདི་བསྒྲུབ་མི་ཐུབ།",
+  "report": "ཞུ་གཏུག",
+  "fileIsTooBigForServer": "སྐྱེལ་མི་ཐུབ། ཡིག་ཆ་ཆེ་དྲགས་པ།",
+  "noOtherDevicesFound": "སྒྲིག་ཆས་གཞན་མ་རྙེད།",
+  "jumpToLastReadMessage": "མཐའ་མར་བཀླགས་པའི་འཕྲིན་ཐུང་ལ་མཆོང་བ།",
+  "readUpToHere": "འདི་ཚུན་བཀླགས་ཟིན།",
+  "jump": "མཆོང་བ།",
+  "openLinkInBrowser": "ལྟ་བྱེད་ཆས་སུ་སྦྲེལ་མཐུད་ཁ་ཕྱེ་བ།",
+  "fileHasBeenSavedAt": "ཡིག་ཆ་ {path} རུ་ཉར་ཚགས་བྱས་ཟིན།",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 ནོར་འཁྲུལ་བྱུང་། བཟོ་བཀོད་པར་ནོར་འཁྲུལ་ཞུ་གཏུག་བྱེད་ཆོག",
+  "noBackupWarning": "ཉེན་བརྡ། རྒྱབ་ཉར་མ་སྤར་ན་གསང་སྡོམ་འཕྲིན་ཐུང་མཐོང་མི་ཐུབ།",
+  "reopenChat": "འཆར་མོལ་ཡང་བསྐྱར་ཁ་ཕྱེ་བ།",
+  "importEmojis": "རྣམ་འགྱུར་ནང་འདྲེན།",
+  "notAnImage": "པར་རིས་ཡིག་ཆ་མིན།",
+  "importNow": "དེ་མུར་ནང་འདྲེན།",
+  "importFromZipFile": ".zip ཡིག་ཆ་ནས་ནང་འདྲེན།",
+  "replace": "བརྗེ་བ།",
+  "exportEmotePack": "རྣམ་འགྱུར་包 .zip དུ་ཕྱིར་འདྲེན།",
+  "sendTypingNotifications": "ཡིག་འཇུག་བྱེད་བཞིན་པའི་བརྡ་ཐོ་སྐྱེལ་བ།",
+  "createGroup": "ཚོགས་པ་གསར་བཟོ།",
+  "shareInviteLink": "མགྲོན་བརྡའི་སྦྲེལ་མཐུད་བགོ་བཤའ།",
+  "tryAgain": "ཡང་བསྐྱར་ཚོད་ལྟ།",
+  "chatPermissions": "འཆར་མོལ་ཐོབ་ཐང་།",
+  "chatDescription": "འཆར་མོལ་གསལ་བཤད།",
+  "chatDescriptionHasBeenChanged": "འཆར་མོལ་གསལ་བཤད་བརྗེས་ཟིན།",
+  "noChatDescriptionYet": "འཆར་མོལ་གསལ་བཤད་མེད།",
+  "invalidServerName": "ཞབས་ཞུ་ཆས་ཀྱི་མིང་ནུས་མེད།",
+  "redactMessageDescription": "འཕྲིན་ཐུང་འདི་མི་ཚང་མའི་སར་ནས་སུབ་ངེས།",
+  "optionalRedactReason": "(འདེམས་ཆོག) སུབ་པའི་རྒྱུ་མཚན...",
+  "setChatDescription": "འཆར་མོལ་གསལ་བཤད་བསྒྲིགས་པ།",
+  "setColorTheme": "བཟོ་ལྟའི་ཚོན་མདོག་བསྒྲིགས་པ:",
+  "invite": "མགྲོན་བརྡ།",
+  "addMembers": "ཚོགས་མི་སྣོན་པ།",
+  "inviteViaLink": "སྦྲེལ་མཐུད་ནས་མགྲོན་བརྡ་གཏོང་བ།",
+  "memberListAdminOnlyNotice": "ཐོ་ཡིག་འདི་དོ་དམ་པས་ལས་མཐོང་མི་ཐུབ།",
+  "contactsInThisChat": "འཆར་མོལ་འདིའི་འབྲེལ་གཏུག་པ།",
+  "noInviteLink": "མགྲོན་བརྡའི་སྦྲེལ་མཐུད་མེད།",
+  "messagesStyle": "འཕྲིན་ཐུང་བཟོ་ལྟ།:",
+  "redactedBy": "{username} ཡིས་སུབ་ཟིན།",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "{username} ཡིས་སུབ་ཟིན། རྒྱུ་མཚན: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 ཚོགས་པའི་མགྲོན་བརྡ།",
+  "emoteKeyboardNoRecents": "ཉེ་ཆར་སྤྱད་པའི་རྣམ་འགྱུར་འདི་རུ་སྟོན་ངེས...",
+  "invalidInput": "ནུས་མེད་འཇུག་པ།!",
+  "wrongPinEntered": "PIN ཨང་ཀི་ནོར་བ།! {seconds} སྐར་ཆའི་རྗེས་སུ་ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} ཡིས་ཞུགས་རྒྱུའི་མགྲོན་བརྡ་ཞུས།",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "0 ལས་ཆེ་བའི་ཨང་ཀི་འཇུག་ོས།",
+  "banUserDescription": "སྤྱོད་པོ་འདི་འཆར་མོལ་ཁང་དུ་ཞུགས་མི་ཆོག",
+  "removeDevicesDescription": "སྒྲིག་ཆས་འདི་ནས་ཕྱིར་འཐེན་བྱེད་ངེས།",
+  "unbanUserDescription": "བཀག་སྡོམ་བཅད་རྗེས་ཡང་བསྐྱར་ཞུགས་ཆོག",
+  "pushNotificationsNotAvailable": "བརྡ་ཐོ་སྐྱེལ་མི་ཐུབ།",
+  "makeAdminDescription": "དོ་དམ་པར་བསྒྲིགས་རྗེས་ཕྱིར་འཐེན་མི་ཐུབ།",
+  "archiveRoomDescription": "འཆར་མོལ་འདི་ ཉར་གསོག་ ཏུ་སྤོ་ངེས།",
+  "learnMore": "རྒྱུས་ལོན་མང་པོ་བྱེད་པ།",
+  "roomUpgradeDescription": "འཆར་མོལ་ཁང་འདི་ ཐོན་རིམ་གསར་པར་ བསྐྱར་བཟོ་བྱེད་པ།",
+  "kickUserDescription": "སྤྱོད་པོ་འདི་ ཕྱིར་ཕུད་ བྱེད་ཀྱང་ བཀག་སྡོམ་ མི་བྱེད།",
+  "blockListDescription": "སྤྱོད་པོ་བཀག་སྡོམ་བྱས་རྗེས་ འཕྲིན་ཐུང་ མི་འབྱོར།",
+  "createGroupAndInviteUsers": "ཚོགས་པ་གསར་བཟོ་དང་ མགྲོན་བརྡ་ གཏོང་བ།",
+  "blockedUsers": "བཀག་སྡོམ་བྱས་པའི་སྤྱོད་པོ།",
+  "groupCanBeFoundViaSearch": "འཚོལ་བསྡུ་ བྱས་ནས་ ཚོགས་པ་ རྙེད་ཐུབ།",
+  "noUsersFoundWithQuery": "སྤྱོད་པོ་ \"{query}\" མ་རྙེད།",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "བཀག་སྡོམ།",
+  "yourGlobalUserIdIs": "ཁྱེད་ཀྱི་ ཡོངས་ཁྱབ་ ID ནི: ",
+  "commandHint_sendraw": "json སྐྱེལ་བ།",
+  "wrongRecoveryKey": "སླར་གསོའི་ ལྡེ་མིག་ ནོར་བ།",
+  "blockUsername": "སྤྱོད་མིང་ སྣང་མེད་ བྱེད་པ།",
+  "groupName": "ཚོགས་པའི་ མིང་།",
+  "databaseMigrationTitle": "མཛོད་ ལེགས་བཅོས་ བྱས་ཟིན།",
+  "searchChatsRooms": "འཚོལ་བསྡུ #འཆར་མོལ, @སྤྱོད་པོ…",
+  "databaseMigrationBody": "དུས་ཚོད་ ཅུང་ཟད་ དགོས།",
+  "thisDevice": "སྒྲིག་ཆས་ འདི:",
+  "publicSpaces": "ཡོངས་ཁྱབ་ གནས་ཁོངས།",
+  "passwordIsWrong": "གསང་ཨང་ ནོར་བ།",
+  "pleaseEnterYourCurrentPassword": "ད་ལྟའི་ གསང་ཨང་ འཇུག་ོས།",
+  "nothingFound": "ཅི་ཡང་ མ་རྙེད…",
+  "newPassword": "གསང་ཨང་ གསར་པ།",
+  "passwordsDoNotMatch": "གསང་ཨང་ མི་མཐུན་པ།",
+  "select": "འདེམས་པ།",
+  "pleaseChooseAStrongPassword": "གསང་ཨང་ མཁྲེགས་པོ་ འདེམས་ོས།",
+  "addChatOrSubSpace": "འཆར་མོལ་ ལམ་ གནས་ཁོངས་ ཕྲན་བུ་ སྣོན་པ།",
+  "leaveEmptyToClearStatus": "སྟོང་པར་ བཞག་ནས་ གནས་བབ་ སུབ་པ།",
+  "joinSpace": "གནས་ཁོངས་སུ་ ཞུགས་པ།",
+  "searchForUsers": "འཚོལ་བསྡུ @སྤྱོད་པོ…",
+  "initAppError": "ཉེར་སྤྱོད་ འགོ་འཛུགས་པར་ ནོར་འཁྲུལ་ བྱུང་།",
+  "sessionLostBody": "ལས་ཡུན་ ཤོར་ཟིན། ནོར་འཁྲུལ་: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "ལས་ཡུན་ སླར་གསོ་ བྱེད་བཞིན་པ། ནོར་འཁྲུལ་: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "ཡིག་འཇུག་ བྱེད་བཞིན་པ་ གཞན་གྱིས་ མཐོང་ཐུབ།",
+  "formattedMessagesDescription": "Markdown རྣམ་པ་ སྤྱོད་པ།",
+  "verifyOtherUserDescription": "སྤྱོད་པོ་ གཞན་ བཤེར་འབེབས་ བྱེད་པ།",
+  "verifyOtherDeviceDescription": "སྒྲིག་ཆས་ གཞན་ བཤེར་འབེབས་ བྱེད་པ།",
+  "canceledKeyVerification": "{sender} ཡིས་ ལྡེ་མིག་ བཤེར་འབེབས་ མཚམས་བཞག",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "ཀློག་ཟིན་ བརྡ་ཐོ་ སྐྱེལ་བ།",
+  "formattedMessages": "རྣམ་པ་ ཅན་གྱི་ འཕྲིན་ཐུང་།",
+  "verifyOtherDevice": "🔐 སྒྲིག་ཆས་ གཞན་ བཤེར་འབེབས།",
+  "verifyOtherUser": "🔐 སྤྱོད་པོ་ གཞན་ བཤེར་འབེབས།",
+  "sendReadReceiptsDescription": "འཕྲིན་ཐུང་ བཀླགས་ཟིན་པ་ གཞན་གྱིས་ མཐོང་ཐུབ།",
+  "acceptedKeyVerification": "{sender} ཡིས་ ལེ་མིག་ བཤེར་འབེབས་ དང་ལེན་ བྱས།",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} ཡིས་ བཤེར་འབེབས་ གྲོབ་ཟིན།",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} ཡིས་ བཤེར་འབེབས་ ལེགས་གྲུབ་ བྱས།",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} ཡིས་ བཤེར་འབེབས་ ཞུས།",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} ཡིས་ བཤེར་འབེབས་ འགོ་ཚུགས།",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "འབྱོར་བའི་ འཕྲིན་ཐུང་།",
+  "stickers": "སྦྱར་པར།",
+  "discover": "གསར་རྙེད།",
+  "commandHint_ignore": "ID སྣང་མེད་ བྱེད་པ།",
+  "commandHint_unignore": "ID སྣང་མེད་ གཅོད་པ།",
+  "unreadChatsInApp": "{appname}: {unread} མ་ཀློག་པའི་ འཆར་མོལ།",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "ལྡེ་མིག་གསང་ཨང་བསྒྲིགས་རྗེས་ NYX ལ་འཛུལ་སྐབས་ཐོབ་ཐང་བཤེར་དགོས།",
+  "globalChatId": "ཡོངས་ཁྱབ་ འཆར་མོལ ID",
+  "accessAndVisibility": "འཛུལ་ཞུགས་ དང་ མཐོང་རྒྱའི་ ཁྱབ་ོངས།",
+  "accessAndVisibilityDescription": "སུ་ ཞུགས་ཆོག འཚོལ་བསྡུ་ བྱེད་སྟངས།",
+  "customEmojisAndStickers": "རང་བཟོ་ རྣམ་འགྱུར་ དང་ སྦྱར་པར།",
+  "hideRedactedMessages": "སུབ་པའི་ འཕྲིན་ཐུང་ སྦས་བསྐུལ།",
+  "passwordRecoverySettings": "གསང་ཨང་ སླར་གསོའི་ སྒྲིག་བཀོད།",
+  "knock": "ཞུ་བ།",
+  "noOneCanJoin": "སུ་ཡང་ ཞུགས་མི་ཆོག",
+  "knocking": "ཞུ་བ་ བྱེད་བཞིན་པ།",
+  "chatCanBeDiscoveredViaSearchOnServer": "{server} ནས་ འཚོལ་བསྡུ་ བྱེད་ཐུབ།",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "སྤྱོད་པོ་ {count} བཀག་སྡོམ་ བྱས་ཟིན།",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "སུབ་པའི་ འཕྲིན་ཐུང་ མཐོང་མི་ཐུབ།",
+  "hideInvalidOrUnknownMessageFormats": "ནུས་མེད་ འཕྲིན་ཐུང་ སྦས་བསྐུལ།",
+  "customEmojisAndStickersBody": "རྣམ་འགྱུར་ དང་ སྦྱར་པར་ སྣོན་པ།",
+  "usersMustKnock": "ཞུ་བ་ བྱས་ནས་ ཞུགས་དགོས།",
+  "noDatabaseEncryption": "མཛོད་ གསང་སྡོམ་ མི་རྒྱབ་སྐྱོར།",
+  "publicChatAddresses": "ཡོངས་ཁྱབ་ འཆར་མོལ་ ཁ་བྱང་།",
+  "createNewAddress": "ཁ་བྱང་ གསར་པ་ བཟོ་བ།",
+  "searchMore": "འཚོལ་བསྡུ་ སྣོན་པ…",
+  "gallery": "པར་མཛོད།",
+  "files": "ཡིག་ཆ།",
+  "searchIn": "“{chat}” འཆར་མོལ་ ནང་ འཚོལ་བསྡུ…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "གཡས་ནས་གཡོན་དུ་ཤུད་ནས་ལན་འདེབས་པ།",
+  "noMoreChatsFound": "འཆར་མོལ་གཞན་མི་འདུག…",
+  "space": "གནས་ཁོངས།",
+  "goToSpace": "གནས་ཁོངས་ {space} ལ་འགྲོ་བ།",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "མ་ཀློག་པར་མཚན་རྟགས་འགོད་པ།",
+  "unread": "མ་ཀློག་པ།",
+  "userLevel": "{level} - སྤྱོད་པོ།",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - གྲོགས་སྣེ་ལེན་པ།",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - དོ་དམ་པ།",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "སྤྱོད་པོ་གཞན་མགྲོན་བརྡ་གཏོང་བ།",
+  "changeTheChatPermissions": "འཆར་མོལ་ཐོབ་ཐང་བརྗེ་བ།",
+  "changeTheVisibilityOfChatHistory": "འཆར་མོལ་ལོ་རྒྱུས་མཐོང་རྒྱայիཁྱབ་ཁོངས་བརྗེ་བ།",
+  "changeTheCanonicalRoomAlias": "གཙོ་བོའི་ཡོངས་ཁྱབ་ཁ་བྱང་བརྗེ་བ།",
+  "sendRoomNotifications": "མི་ཚང་མར་བརྡ་ཐོ་སྐྱེལ་བ།",
+  "changeTheDescriptionOfTheGroup": "འཆར་མོལ་གསལ་བཤད་བརྗེ་བ།",
+  "changeGeneralChatSettings": "དཀྱུས་མའི་སྒྲིག་བཀོད་བརྗེ་བ།",
+  "chatPermissionsDescription": "འཆར་མོལ་ཐོབ་ཐང་རིམ་པ་སྒྲིག་བཀོད།",
+  "changelog": "ཉེར་སྤྱོད་གསར་བཟོའི་ཐོ།",
+  "updateInstalled": "🎉 ཐོན་རིམ་ {version} སྒྲིག་འཇུག་གྲུབ་ཟིན།",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "སྐྱེལ་བ་མཚམས་བཞག་ཟིན།",
+  "noChatsFoundHere": "འདི་རུ་འཆར་མོལ་མི་འདུག འོག་གི་མཐེབ་ནས་འཆར་མོལ་གསར་པ་འགོ་ཚུགས་ོས། ⤵️",
+  "loginWithMatrixId": "Matrix-ID ཡིས་འཛུལ་ཞུ།",
+  "doesNotSeemToBeAValidHomeserver": "ཞབས་ཞུ་ཆས་ནུས་མེད།",
+  "calculatingFileSize": "ཡིག་ཆའི་ཆེ་ཆུང་རྩིས་རྒྱག་བཞིན་པ…",
+  "oneOfYourDevicesIsNotVerified": "སྒྲིག་ཆས་གཅིག་མ་བཤེར་བ།",
+  "noticeChatBackupDeviceVerification": "རྒྱབ་ཉར་མཐུད་རྗེས་རང་འགུལ་གྱིས་བཤེར་འབེབས་བྱེད་ངེས།",
+  "continueText": "མངོན་འགྱུར།",
+  "blur": "模糊 / མི་གསལ་བ:",
+  "opacity": "不透明 / དྭངས་ཚད:",
+  "setWallpaper": "རྒྱབ་ལྗོངས་སྒྲིག་བཀོད།",
+  "manageAccount": "ཞང་ཧོ་དོ་དམ།",
+  "aboutHomeserver": "{homeserver} སྐོར།",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "ཐོན་རིམ།",
+  "noContactInformationProvided": "འབྲེལ་གཏུག་འཕྲིན་ལན་མེད།",
+  "contactServerAdmin": "ཞབས་ཞུ་ཆས་དོ་དམ་པར་འབྲེལ་གཏུག་བྱེད་པ།",
+  "name": "མིང་།",
+  "surname": "རུས་མིང་།",
+  "personalIntro": "རང་ཉིད་མཚམས་སྦྱོར།",
+  "nameDescription": "རང་གི་མིང་འཇུག་ོས།",
+  "aboutYourselfDescription": "རང་ཉིད་ཀྱི་མཚམས་སྦྱོར།",
+  "email": "གློག་ཡིག",
+  "emailForLogin": "འཛུལ་ཞུའི་གློག་ཡིག",
+  "changeEmail": "གློག་ཡིག་བརྗེ་བ།",
+  "changeEmailDescription": "གསང་ཨང་སླར་གསོའི་གློག་ཡིག་བརྗེ་བ།",
+  "bindNewEmail": "གློག་ཡིག་གསར་པ་བཅིང་བ།",
+  "newEmailSameAsOld": "གློག་ཡིག་གསར་པ་དང་རྙིང་པ་གཅིག་པ་ཡིན་མི་ཆོག",
+  "bindEmail": "གློག་ཡིག་བཅིང་བ།",
+  "bindEmailDescription": "གསང་ཨང་སླར་གསོའི་གློག་ཡིག་བཅིང་བ།",
+  "enterEmail": "གློག་ཡིག་འཇུག་ོས།",
+  "enterValidEmail": "ནུས་ཡོད་གློག་ཡིག་འཇུག་ོས།",
+  "getVerificationCode": "བཤེར་ཨང་ལེན་པ།",
+  "verificationCode": "བཤེར་ཨང་།",
+  "enterVerificationCode": "བཤེར་ཨང་འཇུག་ོས།",
+  "enterCodeSentTo": "{email} ལ་བསྐུར་བའི་བཤེར་ཨང་འཇུག་ོས།",
+  "createPassword": "གསང་ཨང་གསར་བཟོ།",
+  "createPasswordDescription": "འཛུལ་ཞུའི་གསང་ཨང་བསྒྲིགས་ོས།",
+  "enterPassword": "གསང་ཨང་འཇུག་ོས།",
+  "enterPasswordAgain": "གསང་ཨང་ཡང་བསྐྱར་འཇུག་ོས།",
+  "bind": "བཅིང་བ།",
+  "walletAddress": "ཁུག་མ་ཁ་བྱང་།",
+  "walletForLogin": "འཛུལ་ཞུའི་ཁུག་མ།",
+  "ethereumMainnetAddress": "Ethereum ཁ་བྱང་།",
+  "none": "མེད།",
+  "username": "སྤྱོད་མིང་།",
+  "usernameDescription": "སྤྱོད་མིང་བསྒྲིགས་རྗེས་གཞན་གྱིས་འཚོལ་བསྡུ་བྱེད་ཐུབ།",
+  "usernameRuleHint": "a-z དང་ 0-9 སྤྱོད་ཆོག",
+  "chatViaLink": "སྦྲེལ་མཐུད་འདི་ནས་འཆར་མོལ་བྱེད་ཆོག:",
+  "contactServerSecurity": "བདེ་འཇགས་དོ་དམ་པར་འབྲེལ་གཏུག་བྱེད་པ།",
+  "supportPage": "རྒྱབ་སྐྱོར་ཤོག་ལེབ།",
+  "serverInformation": "ཞབས་ཞུ་ཆས་འཕྲིན་ལན:",
+  "website": "དྲ་ཚིག",
+  "italicText": "ཡིག་གཟུགས་གཡོ་བ།",
+  "strikeThrough": "བར་ཤད།",
+  "pleaseFillOut": "སྐོང་ོས།",
+  "addLink": "སྦྲེལ་མཐུད་སྣོན་པ།",
+  "boldText": "ཡིག་གཟུགས་སྦོམ་པ།",
+  "invalidUrl": "URL ནུས་མེད།",
+  "unableToJoinChat": "ཞུགས་མི་ཐུབ།",
+  "sendImages": "པར་རིས་ {count} སྐྱེལ་བ།",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "གཅོར་བ།",
+  "previous": "སྔོན་མ།",
+  "otherPartyNotLoggedIn": "གཞན་གྱིས་འཛུལ་ཞུ་མ་བྱས་པས་འཕྲིན་ཐུང་མི་འབྱོར།",
+  "appWantsToUseForLoginDescription": "འཕྲིན་ལན་བགོ་བཤའ་བྱེད་པར་ཤར་བ།",
+  "open": "ཁ་ཕྱེ་བ།",
+  "appWantsToUseForLogin": "'{server}' ཡིས་འཛུལ་ཞུ།",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "ཞབས་ཞུ་ཆས་ལ་སྒྲུག་པ…",
+  "synchronizingPleaseWaitCounter": " མཉམ་འབྱུང་བྱེད་བཞིན་པ… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 འཆར་མོལ་ཞུ་བ་གསར་པ།",
+  "generalNotificationSettings": "དཀྱུས་མའི་བརྡ་ཐོ་སྒྲིག་བཀོད།",
+  "userSpecificNotificationSettings": "སྤྱོད་པོའི་བརྡ་ཐོ་སྒྲིག་བཀོད།",
+  "notificationRuleMaster": "བརྡ་ཐོ་ཚང་མ་སྐད་མེད།",
+  "notificationRuleSuppressNotices": "རང་འགུལ་འཕྲིན་ཐུང་སྦས་བསྐུལ།",
+  "notificationRuleInviteForMe": "རང་གི་མགྲོན་བརྡ།",
+  "notificationRuleInviteForMeDescription": "མགྲོན་བརྡ་འབྱོར་སྐབས་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleMemberEvent": "ཚོགས་མིའི་བྱུང་རིམ།",
+  "notificationRuleMemberEventDescription": "ཚོགས་མིའི་བརྡ་ཐོ་སྦས་བསྐུལ།",
+  "notificationRuleIsUserMention": "རང་ཉིད་གླེང་བ།",
+  "notificationRuleIsUserMentionDescription": "རང་ཉིད་གླེང་སྐབས་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleContainsDisplayName": "མིང་ཡོད་པ།",
+  "notificationRuleIsRoomMention": "འཆར་མོལ་ཁང་གླེང་བ།",
+  "notificationRuleRoomnotifDescription": "@room ཡོད་སྐབས་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleTombstone": "དྲན་རྡོ།",
+  "notificationRuleRoomServerAcl": "འཆར་མོལ་ཁང་ ACL",
+  "notificationRuleSuppressEdits": "བཟོ་བཅོས་སྦས་བསྐུལ།",
+  "notificationRuleCall": "ཁ་པར།",
+  "notificationRuleRoomOneToOne": "སྒེར་མོལ་འཆར་མོལ་ཁང་།",
+  "notificationRuleRoomOneToOneDescription": "སྒེར་མོལ་འཕྲིན་ཐུང་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleEncrypted": "གསང་སྡོམ་བྱས་ཟིན།",
+  "notificationRuleEncryptedDescription": "གསང་སྡོམ་འཕྲིན་ཐུང་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Jitsi བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleServerAcl": "ACL བྱུང་རིམ་སྦས་བསྐུལ།",
+  "notificationRuleServerAclDescription": "ACL བརྡ་ཐོ་སྦས་བསྐུལ།",
+  "deletePushRuleCanNotBeUndone": "སུབ་རྗེས་ཕྱིར་འཐེན་མི་ཐུབ།",
+  "more": "མང་པོ།",
+  "notificationRuleReactionDescription": "ལན་འདེབས་བརྡ་ཐོ་སྦས་བསྐུལ།",
+  "notificationRuleMessageDescription": "དཀྱུས་མའི་འཕྲིན་ཐུང་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleContainsUserName": "སྤྱོད་མིང་ཡོད་པ།",
+  "otherNotificationSettings": "བརྡ་ཐོ་སྒྲིག་བཀོད་གཞན།",
+  "notificationRuleContainsUserNameDescription": "སྤྱོད་མིང་ཡོད་སྐབས་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleIsRoomMentionDescription": "འཆར་མོལ་ཁང་གླེང་སྐབས་བརྡ་ཐོ་གཏོང་བ།",
+  "contentNotificationSettings": "ནང་དོན་བརྡ་ཐོ་སྒྲིག་བཀོད།",
+  "notificationRuleMasterDescription": "བརྡ་ཐོ་ཚང་མ་བཀག་འགོག",
+  "notificationRuleSuppressNoticesDescription": "རང་འགུལ་བརྡ་ཐོ་སྦས་བསྐུལ།",
+  "roomNotificationSettings": "འཆར་མོལ་ཁང་གི་བརྡ་ཐོ་སྒྲིག་བཀོད།",
+  "notificationRuleRoomServerAclDescription": "ACL བརྡ་ཐོ་སྦས་བསྐུལ།",
+  "notificationRuleContainsDisplayNameDescription": "མིང་ཡོད་སྐབས་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleRoomnotif": "འཆར་མོལ་ཁང་གི་བརྡ་ཐོ།",
+  "notificationRuleTombstoneDescription": "ཁྲོམ་ཟིན་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleReaction": "ལན་འདེབས།",
+  "notificationRuleSuppressEditsDescription": "བཟོ་བཅོས་བརྡ་ཐོ་སྦས་བསྐུལ།",
+  "notificationRuleCallDescription": "ཁ་པར་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleEncryptedRoomOneToOne": "གསང་སྡོམ་སྒེར་མོལ།",
+  "notificationRuleEncryptedRoomOneToOneDescription": "གསང་སྡོམ་སྒེར་མོལ་བརྡ་ཐོ་གཏོང་བ།",
+  "notificationRuleMessage": "འཕྲིན་ཐུང་།",
+  "unknownPushRule": "མི་ཤེས་པའི་བསྐུར་རྩིས་ '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "བཤེར་འབེབས་བྱས་པའི་སྒྲིག་ཆས།",
+  "shareKeysWithDescription": "ལྡེ་མིག་བགོ་བཤའ་བྱེད་སའི་སྒྲིག་ཆས་འདེམས་ོས།",
+  "shareKeysWith": "ལྡེ་མིག་བགོ་བཤའ་བྱེད་ས།…",
+  "allDevices": "སྒྲིག་ཆས་ཚང་མ།",
+  "crossVerifiedDevicesIfEnabled": "བཤེར་འབེབས་བྱས་པའི་སྒྲིག་ཆས།",
+  "verifiedDevicesOnly": "བཤེར་འབེབས་བྱས་པའི་སྒྲིག་ཆས་ཁོ་ན།",
+  "optionalMessage": "(འདེམས་ཆོག) འཕྲིན་ཐུང་…",
+  "takeAPhoto": "པར་རྒྱག་པ།",
+  "recordAVideo": "བརྙན་ལམ་རྒྱག་པ།",
+  "notSupportedOnThisDevice": "སྒྲིག་ཆས་འདིས་མི་རྒྱབ་སྐྱོར་བྱེད།",
+  "enterNewChat": "འཆར་མོལ་གསར་པར་འཛུལ་བ།",
+  "commandHint_roomupgrade": "འཆར་མོལ་ཁང་ཐོན་རིམ་མཐོར་འདེགས་བྱེད་པ།",
+  "approve": "ཆོག་མཆན།",
+  "youHaveKnocked": "ཞུགས་རྒྱུའི་ཞུ་བ་བྱས་ཟིན།",
+  "pleaseWaitUntilInvited": "མགྲོན་བརྡ་མ་བཏང་བར་སྒྲུགས་ོས།",
+  "countInvited": "མི་ {count} ལ་མགྲོན་བརྡ་བཏང་ཟིན།",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "ཐོ་ཡིག",
+  "sentVoiceMessage": "🎙️ {duration} - {sender} ཡི་སྐད་སྒྲ་འཕྲིན་ཐུང་།",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "སྒྲིག་ཆས་འདི་ནས་ཕྱིར་འཐེན་བྱེད་པ།",
+  "commandHint_logoutall": "སྒྲིག་ཆས་ཚང་མ་ནས་ཕྱིར་འཐེན་བྱེད་པ།",
+  "displayNavigationRail": "འགུལ་བདེའི་སྒྲིག་ཆས་སྟེང་ལམ་སྟོན་ཕྲེང་བ་སྟོན་པ།",
+  "customReaction": "རང་བཟོ་ལན་འདེབས།",
+  "moreEvents": "བྱུང་རིམ་མང་པོ།",
+  "declineInvitation": "མགྲོན་བརྡ་མ་བླངས།",
+  "noMessagesYet": "འཕྲིན་ཐུང་མེད།",
+  "longPressToRecordVoiceMessage": "ཡུན་རིང་ནོན་ནས་སྐད་སྒྲ་བཅུག་ོས།",
+  "pause": "བར་མཚམས།",
+  "resume": "མངོན་འགྱུར།",
+  "removeFromSpaceDescription": "གནས་ོངས་ནས་སུབ་ཀྱང་ཐོ་ཡིག་ཏུ་ཡོད།",
+  "countChats": "འཆར་མོལ་ {chats} ཡོད།",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "{spaces} ཡི་གནས་ོངས་ཚོགས་མི།",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "{spaces} ཡི་ཚོགས་མིས་ཞུ་བ་བྱེད་ཆོག",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "འོས་ཤོག",
+  "startPoll": "འོས་ཤོག་འགོ་ཚུགས།",
+  "endPoll": "འོས་ཤོག་མཚམས་བཞག",
+  "editPoll": "འོས་ཤོག་རྩོམ་སྒྲིག",
+  "deletePoll": "འོས་ཤོག་སུབ་པ།",
+  "answersVisible": "འོས་ཤོག་འབྲས་བུ་མཐོང་ཐུབ།",
+  "hiddenPoll": "འོས་ཤོག་སྦས་བསྐུལ།",
+  "pollQuestion": "འོས་ཤོག་གི་གནད་དོན།",
+  "answerOption": "འདེམས་ཚན།",
+  "addAnswerOption": "འདེམས་ཚན་སྣོན་པ།",
+  "allowMultipleAnswers": "མང་པོ་འདེམས་ཆོག",
+  "pollHasBeenEnded": "འོས་ཤོག་མཚམས་བཞག་ཟིན།",
+  "startedAPoll": "{senderName} ཡིས་འོས་ཤོག་འགོ་ཚུགས།",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "ཤོག་གྲངས་ {count}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "མཇུག་སྒྲིལ་རྗེས་འབྲས་བུ་སྟོན་ངེས།",
+  "active": "སྤྱོད་བཞིན་པ།",
+  "ended": "མཇུག་སྒྲིལ་ཟིན།",
+  "thread": "འཕྲིན་ཐུང་ཕྲེང་བ།",
+  "replyInThread": "འཕྲིན་ཐུང་ཕྲེང་བའི་ནང་ལན་འདེབས་པ།",
+  "countReplies": "ལན་འདེབས་ {count} ཡོད།",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "གཙོ་བོའི་འཆར་མོལ་ལ་ལོག་པ།",
+  "saveChanges": "བཟོ་བཅོས་ཉར་ཚགས།",
+  "createSticker": "སྦྱར་པར་གསར་བཟོ།",
+  "useAsSticker": "སྦྱར་པར་ལྟར་སྤྱོད་པ།",
+  "useAsEmoji": "རྣམ་འགྱུར་ལྟར་སྤྱོད་པ།",
+  "stickerPackNameAlreadyExists": "སྦྱར་པར་包 མིང་འདི་ཡོད།",
+  "newStickerPack": "སྦྱར་པར་包 གསར་པ།",
+  "stickerPackName": "སྦྱར་པར་包 མིང་།",
+  "attribution": "རྩོམ་པོ་པོ།",
+  "skipChatBackup": "རྒྱབ་ཉར་མཆོང་བ།",
+  "skipChatBackupWarning": "རྒྱབ་ཉར་མ་བྱས་ན་འཕྲིན་ཐུང་ཤོར་སྲིད།",
+  "changedTheChatDescription": "{username} ཡིས་འཆར་མོལ་གསལ་བཤད་བརྗེས་པ།",
+  "changedTheChatName": "{username} ཡིས་འཆར་མོལ་མིང་བརྗེས་པ།",
+  "noMoreResultsFound": "འབྲས་བུ་གཞན་མ་རྙེད།",
+  "chatSearchedUntil": "{time} ཚུན་གྱི་འཆར་མོལ་བཤེར་ཟིན།",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "མཉམ་འབྲེལ་ URL",
+  "clientWellKnownInformation": "Client-Well-Known འཕྲིན་ལན:",
+  "baseUrl": "གཞི་རྩའི་ URL",
+  "identityServer": "ཐོབ་ཐང་ཞབས་ཞུ་ཆས:",
+  "versionWithNumber": "ཐོན་རིམ: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "ཉིན་ཐོ།",
+  "advancedConfigs": "མཐོ་རིམ་སྒྲིག་བཀོད།",
+  "advancedConfigurations": "མཐོ་རིམ་སྒྲིག་བཀོད།",
+  "signIn": "འཛུལ་ཞུ།",
+  "createNewAccount": "ཞང་ཧོ་གསར་པ་བཟོ་བ།",
+  "signUpGreeting": "NYX ནི་གཅིག་བསྡུས་མིན་པའི་དྲ་བ་ཡིན། ཞབས་ཞུ་ཆས་འདེམས་ོས།",
+  "signInGreeting": "Matrix ཞང་ཧོ་ཡོད་དམ། ཕེབས་པར་དགའ་བསུ་ཞུ།",
+  "theProcessWasCanceled": "བརྒྱུད་རིམ་མཚམས་བཞག་ཟིན།",
+  "join": "ཞུགས་པ།",
+  "searchOrEnterHomeserverAddress": "ཞབས་ཞུ་ཆས་ཁ་བྱང་འཚོལ་བའམ་འཇུག་ོས།",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "ཐོབ་ཐང་རིམ་པ་སྒྲིག་བཀོད།",
+  "makeModerator": "གྲོགས་སྣེ་ལེན་པ།",
+  "makeAdmin": "དོ་དམ་པ།",
+  "removeModeratorRights": "གྲོགས་སྣེ་ལེན་པའི་ཐོབ་ཐང་སུབ་པ།",
+  "removeAdminRights": "དོ་དམ་པའི་ཐོབ་ཐང་སུབ་པ།",
+  "powerLevel": "ཐོབ་ཐང་རིམ་པ།",
+  "setPowerLevelDescription": "ཐོབ་ཐང་རིམ་པ་ 0 ནས་ 100 བར་སྒྲིག་བཀོད་བྱེད་པ།",
+  "owner": "བདག་པོ།",
+  "mute": "སྐད་མེད།",
+  "createNewChat": "འཆར་མོལ་གསར་པ་བཟོ་བ།",
+  "reset": "བསྐྱར་བཟོ།",
+  "supportFluffyChat": "NYX ལ་རྒྱབ་སྐྱོར་བྱེད་པ།",
+  "support": "རྒྱབ་སྐྱོར།",
+  "setLowPriority": "དམའ་རིམ་གཙོ་བོར་བསྒྲིགས་པ།",
+  "unsetLowPriority": "དམའ་རིམ་གཙོ་བོ་གཅོད་པ།",
+  "playSoundOnNotification": "བརྡ་ཐོའི་སྐད་སྒྲ་གཏོང་བ།",
+  "addTag": "标签 སྣོན་པ།",
+  "removeTag": "标签 སུབ་པ།",
+  "tagName": "标签 མིང་།",
+  "createNewTag": "标签 གསར་པ་བཟོ་བ།",
+  "discardEdits": "ཉར་ཚགས་མ་བྱས་པའི་བཟོ་བཅོས་འདུག དོར་རམ།",
+  "hideRoomsInSpaces": "གནས་ོངས་ནང་གི་འཆར་མོལ་ཁང་སྦས་བསྐུལ།",
+  "possibleByYou": "ཁྱེད་ཀྱི་རྒྱབ་སྐྱོར་ལ་ཐུགས་རྗེ་ཆེ།",
+  "showThumbnailsInTimeline": "པར་རིས་དང་བརྙན་ལམ་གྱི་བསྡུས་དབྱིབས་སྟོན་པ།",
+  "appSubtitle": "བདེ་འཇགས་ Matrix འཕྲིན་ལན།",
+  "appDescription": "གསང་སྡོམ་བྱས་པའི་ Matrix Network འཕྲིན་ལན།",
+  "interactiveVerification": "ཕན་ཚུན་བཤེར་འབེབས།",
+  "interactiveVerificationDescription": "སྒྲིག་ཆས་ཚང་མ་བཤེར་འབེབས་བྱེད་པ།",
+  "countUnverifiedDevices": "འཆར་མོལ་འདིར་མ་བཤེར་བའི་སྒྲིག་ཆས་ {count} ཡོད།",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "གསང་སྡོམ་འཕྲིན་ཐུང་།",
+  "unencryptedMessage": "གསང་སྡོམ་མ་བྱས་པའི་འཕྲིན་ཐུང་།",
+  "publicKey": "公钥: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "སྒྲིག་ཆས་ Identity Key",
+  "showMore": "མང་པོ་སྟོན་པ།",
+  "showLess": "ཉུང་ངུ་སྟོན་པ།",
+  "restoreBootstrapEmptyDevicesDescription": "གསང་ཨང་འདྲི་ཚིག་གམ་སླར་གསོའི་ལྡེ་མིག་འཇུག་ོས།",
+  "restoreBootstrapDevicesDescription": "སྒྲིག་ཆས་འདེམས་ནས་བཤེར་འབེབས་བྱོས:",
+  "resetAccount": "ཞང་ཧོ་བསྐྱར་བཟོ།",
+  "restoreCryptoIdentity": "གསང་སྡོམ་ཐོབ་ཐང་སླར་གསོ།",
+  "resetCryptoIdentity": "གསང་སྡོམ་ཐོབ་ཐང་བསྐྱར་བཟོ།",
+  "setUpCryptoIdentity": "གསང་སྡོམ་ཐོབ་ཐང་བསྒྲིགས་པ།",
+  "waitingForKeys": "ལྡེ་མིག་ལ་སྒྲུག་པ…",
+  "noKeysTransmitted": "ལྡེ་མིག་མ་བསྐུར་བ། ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས།",
+  "unlock": "ལྡེ་མིག་གཅོད་པ།",
+  "openFile": "ཡིག་ཆ་ཁ་ཕྱེ་བ།",
+  "resetAccountWarning": "ཞང་ཧོ་བསྐྱར་བཟོ་བྱས་ན་འཕྲིན་ཐུང་རྙིང་པ་མཐོང་མི་ཐུབ།",
+  "newPassphraseDescription": "གསང་ཨང་འདྲི་ཚིག་མཁྲེགས་པོ་འདེམས་ོས།",
+  "newPassphrase": "གསང་ཨང་འདྲི་ཚིག་གསར་པ།",
+  "repeatPassphrase": "གསང་ཨང་འདྲི་ཚིག་ཡང་བསྐྱར་འཇུག་ོས།",
+  "passphrasesMatch": "གསང་ཨང་འདྲི་ཚིག་མཐུན་པ།",
+  "passphraseLengthRequirement": "ཡིག་འབྲུ་ 12 ལས་མི་ཉུང་བ།",
+  "passphraseUpperAndLowerCaseRequirement": "ཡིག་ཆེན་དང་ཡིག་ཆུང་ཡོད་པ།",
+  "passphraseSpecialCharactersRequirement": "དམིགས་བསལ་ཡིག་འབྲུ་ཡོད་པ།",
+  "passphraseNumberRequirement": "ཨང་ཀི་ཡོད་པ།",
+  "storeRecoveryKeyDescription": "སླར་གསོའི་ལྡེ་མིག་ཉར་ཚགས་བྱོས།",
+  "saveAsFile": "ཡིག་ཆ་ལྟར་ཉར་ཚགས།",
+  "youAreReadyToStart": "འགོ་བཙུགས་ཆོག!",
+  "noUserKeyFound": "སྤྱོད་པོའི་ལྡེ་མིག་མ་རྙེད།",
+  "unsignedDevice": "མཚན་རྟགས་མ་བཀོད་པའི་སྒྲིག་ཆས།",
+  "signedDevice": "མཚན་རྟགས་བཀོད་པའི་སྒྲིག་ཆས།",
+  "noCurve25519KeyFound": "curve25519 key མ་རྙེད།",
+  "messageNotDecryptable": "འཕྲིན་ཐུང་གསང་འགྲེལ་མ་ཐུབ།",
+  "knownSince": "ཤེས་པའི་དུས་ཚོད: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "གསང་སྡོམ་འཕྲིན་ཐུང་འདི་སྤྱོད་པོ་འདིས་ལས་མཐོང་མི་ཐུབ:",
+  "messageCanOnlyBeReadByUsers": "གསང་སྡོམ་འཕྲིན་ཐུང་འདི་སྤྱོད་པོ་འདི་དག་གིས་ལས་མཐོང་མི་ཐུབ:",
+  "today": "དེ་རིང་།",
+  "sending": "སྐྱེལ་བཞིན་པ།",
+  "generatingThumbnail": "བསྡུས་དབྱིབས་བཟོ་བཞིན་པ།",
+  "encrypting": "གསང་སྡོམ་བྱེད་བཞིན་པ།",
+  "uploading": "ཡར་འདྲེན་བྱེད་བཞིན་པ།",
+  "edited": "(བཟོ་བཅོས་བྱས་ཟིན)",
+  "couldNotBeSent": "སྐྱེལ་མ་ཐུབ།",
+  "yesterday": "ཁ་རྩང་།",
+  "resetRecoveryKey": "སླར་གསོའི་ལྡེ་མིག་བསྐྱར་བཟོ།",
+  "pleaseEnter6Digits": "ཨང་ཀི་ ༦ འཇུག་ོས།",
+  "disableAppLock": "ལྡེ་མིག་གསང་ཨང་རྒྱབ་པ།",
+  "disableAppLockAreYouSure": "ཉེར་སྤྱོད་ལྡེ་མིག་བཀག་འགོག་བྱེད་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "enableBiometrics": "ལུས་པོའི་ཁྱད་ཆོས་བཤེར་འབེབས་སྤར་བ།",
+  "disableBiometrics": "ལུས་པོའི་ཁྱད་ཆོས་བཤེར་འབེབས་བཀག་འགོག",
+  "biometricsDescription": "ངོ་དང་མཛུབ་མོས་ལྡེ་མིག་གཅོད་པ།",
+  "useAppLock": "ཉེར་སྤྱོད་ལྡེ་མིག་སྤྱོད་པ།",
+  "unlockWithBiometrics": "ལུས་པོའི་ཁྱད་ཆོས་ཀྱིས་ལྡེ་མིག་གཅོད་པ།",
+  "resetPin": "PIN ཨང་ཀི་བསྐྱར་བཟོ།",
+  "forwardCountMessages": "འཕྲིན་ཐུང་ {count} བརྒྱུད་བསྐུར་བྱེད་དམ།",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "པར་རིས་རྩོམ་སྒྲིག",
+  "rotateLeft": "གཡོན་དུ་སྐོར་བ།",
+  "rotateRight": "གཡས་སུ་སྐོར་བ།",
+  "mirror": "མེ་ལོང་ལྟར་འཆར་བ།",
+  "save": "ཉར་ཚགས།",
+  "draw": "རི་མོ་འབྲི་བ།",
+  "undo": "ཕྱིར་འཐེན།",
+  "clear": "གཙང་སེལ།",
+  "eraser": "རྦུད་ཤད།",
+  "crop": "དྲ་གཏུབ།",
+  "loadingMessages": "འཕྲིན་ཐུང་འཚོལ་བསྡུ་བྱེད་བཞིན་པ…",
+  "buildDoesNotSupportFirebase": "ཐོན་རིམ་འདིས་ Firebase མི་རྒྱབ་སྐྱོར།",
+  "unableToRegisterDeviceForFirebase": "Firebase ཐོ་འགོད་མ་ཐུབ།",
+  "unifiedPushDistributors": "Unified Push མཉེན་ཆས:",
+  "doubleTapToReact": "ཐེངས་གཉིས་ནོན་ནས་ལན་འདེབས་པ།",
+  "doubleTapToReactDescription": "འཕྲིན་ཐུང་ལ་ཐེངས་གཉིས་ནོན་ནས་ལན་འདེབས་པ།",
+  "doubleTapReaction": "ཐེངས་གཉིས་ནོན་པའི་ལན་འདེབས།",
+  "sendingFilesDoNotExit": "ཡིག་ཆ་ {count} སྐྱེལ་བཞིན་པ… ཕྱིར་མི་ཐོན་ོས།",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "བརྙན་ལམ་གཅོར་བཞིན་པ…",
+  "shareCrashReports": "ནོར་འཁྲུལ་སྙན་ཞུ་བགོ་བཤའ།",
+  "shareCrashReportsDescription": "ནོར་འཁྲུལ་སྙན་ཞུ་བཟོ་བཀོད་པར་བསྐུར་རམ།",
+  "videoCallsBetaWarning": "བརྙན་ལམ་ཁ་པར་ནི་ཚོད་ལྟའི་བྱེད་ལས་ཡིན།",
+  "callNotAllowed": "དོ་དམ་པས་ལས་ཁ་པར་གཏོང་མི་ཆོག",
+  "countActiveCallMembers": "ཁ་པར་མཐུད་མི་ {count} ཡོད།",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "ཁ་པར་དུ་ཞུགས་པ།",
+  "noDevicesFound": "སྒྲིག་ཆས་མ་རྙེད།",
+  "incomingCall": "ཁ་པར་འབྱོར་བ།",
+  "waitingForParticipant": "ཞུགས་མིར་སྒྲུག་པ…",
+  "decline": "མི་ལེན།",
+  "videoCall": "བརྙན་ལམ་ཁ་པར།",
+  "voiceCall": "སྐད་སྒྲའི་ཁ་པར།",
+  "previewImage": "[པར་རིས]",
+  "previewVideo": "[བརྙན་ལམ]",
+  "previewVoice": "[སྐད་སྒྲ]",
+  "previewAudio": "[སྒྲ་བརྙན]",
+  "previewFile": "[ཡིག་ཆ]",
+  "previewLocation": "[གནས་ས]",
+  "previewSticker": "[སྦྱར་པར]",
+  "previewVoiceCall": "[སྐད་སྒྲའི་ཁ་པར]",
+  "previewVideoCall": "[བརྙན་ལམ་ཁ་པར]",
+  "missedCall": "མ་བླངས་པའི་ཁ་པར།",
+  "callBack": "ཡང་བསྐྱར་གཏོང་བ།",
+  "hangUp": "ཁ་པར་གཅོད་པ།",
+  "startCall": "ཁ་པར་འགོ་ཚུགས།",
+  "selectCamera": "པར་ཆས་འདེམས་པ།",
+  "selectMicrophone": "སྐད་དཔར་འདེམས་པ།",
+  "selectSpeaker": "སྒྲ་དུང་འདེམས་པ།",
+  "toggleMicrophone": "སྐད་དཔར་ཁ་ཕྱེ་/རྒྱབ་པ།",
+  "toggleCamera": "པར་ཆས་ཁ་ཕྱེ་/རྒྱབ་པ།",
+  "startScreensharing": "ཡོལ་བ་བགོ་བཤའ་འགོ་ཚུགས།",
+  "stopScreensharing": "ཡོལ་བ་བགོ་བཤའ་མཚམས་བཞག",
+  "raiseHand": "ལག་པ་ཡར་འདེགས་པ།",
+  "stopRaiseHand": "ལག་པ་མར་འཇོག་པ།",
+  "preferSpeaker": "སྒྲ་དུང་གཙོ་བོར་བསྒྲིགས་པ།",
+  "unexpectedErrorOccurded": "ནོར་འཁྲུལ་བྱུང་: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "ཞང་ཧོ་དང་སྒྲིག་བཀོད།",
+  "incomingCallFrom": "{user} ཡི་ཁ་པར་འབྱོར་བ།",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "ཞབས་ཞུ་ཆས་ནས་ནོར་འཁྲུལ་ལན་འདེབས་བྱུང་: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "ཐོན་རིམ་ {version} གསར་བཟོ་ཡོད།",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "ཕབ་ལེན།",
+  "sharedLocation": "བགོ་བཤའ་བྱས་པའི་གནས་ས།",
+  "contacts": "འབྲེལ་གཏུག་པ།",
+  "groupChats": "ཚོགས་པའི་འཆར་མོལ།",
+  "publicGroups": "ཡོངས་ཁྱབ་ཚོགས་པ།",
+  "createGroupChat": "ཚོགས་པའི་འཆར་མོལ་གསར་བཟོ།",
+  "inviteFriends": "གྲོགས་པོ་མགྲོན་བརྡ་གཏོང་བ།",
+  "emptyChatsTitle": "འཆར་མོལ་མེད།",
+  "emptyChatsDesc": "+ ལ་ནོན་ནས་འཆར་མོལ་གསར་པ་འགོ་ཚུགས་ོས།",
+  "emptyUsersTitle": "སྒེར་མོལ་མེད།",
+  "emptyUsersDesc": "འཚོལ་བར་བསྒྱུར་ནས་འཆར་མོལ་གཞན་ལྟོས།",
+  "emptyUnreadTitle": "མ་ཀློག་པའི་འཕྲིན་ཐུང་མེད།",
+  "emptyUnreadDesc": "འཆར་མོལ་སྟེང་དུ་འགོད་ཆོག",
+  "emptyGroupChatsTitle": "ཚོགས་པར་མ་ཞུགས་པ།",
+  "emptyGroupChatsDesc": "འཚོལ་བར་བསྒྱུར་ནས་འཆར་མོལ་གཞན་ལྟོས།",
+  "emptyPinnedTitle": "སྟེང་འགོད་བྱས་པའི་འཆར་མོལ་མེད།",
+  "emptyPinnedDesc": "འཆར་མོལ་སྟེང་དུ་འགོད་ཆོག",
+  "startChat": "འཆར་མོལ་འགོ་ཚུགས།",
+  "newGroupChat": "ཚོགས་པ་གསར་པ།",
+  "invitedYouToJoinGroup": "{username} ཡིས་ཁྱེད་ཚོགས་པར་མགྲོན་བརྡ་བཏང་བྱུང་།",
+  "joinGroupBannerTitle": "ཚོགས་པར་ཞུགས་ནས་འབྲེལ་བ་མཐུད་ོས།",
+  "joinGroupBannerDesc": "ཚོགས་པ་ཚང་མ་འདི་རུ་སྟོན་ངེས།",
+  "certifiedGroups": "དཔང་བཤེར་ཚོགས་པ་ {count}",
+  "membersCount": "ཚོགས་མི་ {count}",
+  "recentlyOnline": "ཉེ་ཆར་དྲ་ཐོག་ཏུ་ཡོད།",
+  "lastSeenLongAgo": "ཡུན་རིང་དྲ་ཐོག་ཏུ་མེད།",
+  "appearance": "ཕྱི་ཚུལ།",
+  "language": "སྐད་ཡིག",
+  "selectLanguage": "སྐད་ཡིག་འདེམས་པ།",
+  "privacyAndSecurity": "གསང་དོན་དང་བདེ་འཇགས།",
+  "qrScanRecognizing": "ངོས་འཛིན་བྱེད་བཞིན་པ...",
+  "qrScanTimeout": "ངོས་འཛིན་དུས་ཡོལ་ཟིན། ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས།",
+  "qrScanNotFound": "དབྱིབས་ཨང་མ་རྙེད།",
+  "qrScanEmpty": "དབྱིབས་ཨང་སྟོང་པ།",
+  "qrScanFailed": "ངོས་འཛིན་མ་ཐུབ།",
+  "qrScanInvalid": "དབྱིབས་ཨང་ནུས་མེད།",
+  "qrScanIsOwnAccount": "འདི་རང་གི་ཞང་ཧོའི་དབྱིབས་ཨང་ཡིན།",
+  "declineInviteTitle": "ཚོགས་པའི་མགྲོན་བརྡ་མ་བླངས།",
+  "declineInviteConfirm": "{groupName} ཚོགས་པའི་མགྲོན་བརྡ་མ་ལེན་པ་གཏན་ཁེལ་ཡིན་ནམ?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "པར་ཆས།",
+  "photosAndVideos": "པར་རིས་དང་བརྙན་ལམ།",
+  "file": "ཡིག་ཆ།",
+  "online": "དྲ་ཐོག",
+  "offline": "དྲ་མེད།",
+  "messageDeleted": "འཕྲིན་ཐུང་ཕྱིར་འཐེན་བྱས་ཟིན།",
+  "youWithdrewAMessage": "ཁྱེད་ཀྱིས་འཕྲིན་ཐུང་ཞིག་ཕྱིར་འཐེན་བྱས།",
+  "userWithdrewAMessage": "{username} ཡིས་འཕྲིན་ཐུང་ཞིག་ཕྱིར་འཐེན་བྱས།",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "ཡིག་ཆ་ཉར་ཚགས་བྱས་ཟིན།",
+  "savedToGallery": "པར་མཛོད་དུ་ཉར་ཚགས་བྱས་ཟིན།",
+  "couldNotOpenFile": "ཡིག་ཆ་ཁ་ཕྱེ་མ་ཐུབ།",
+  "unknownFile": "མི་ཤེས་པའི་ཡིག་ཆ།",
+  "missedVideoCall": "མ་བླངས་པའི་བརྙན་ལམ་ཁ་པར།",
+  "callCanceled": "ཁ་པར་མཚམས་བཞག་ཟིན།",
+  "callParticipantsCount": "མི་ {count} ཁ་པར་མཐུད་བཞིན་པ།",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "ཞུགས་པ།",
+  "waitingForParticipants": "གཞན་དག་ཞུགས་པར་སྒྲུག་པ…",
+  "callNotAllowedInRoom": "དོ་དམ་པས་ལས་ཁ་པར་གཏོང་མི་ཆོག",
+  "deleteChatDescription": "འཆར་མོལ་འདི་ ཐོ་ཡིག་ ནས་ སུབ་ ཀྱང་ ཕྱིར་ མི་ ཐོན།",
+  "deleteGroupChatDescription": "ཚོགས་པ་ ཁྲོམ་ རྗེས་ ཚོགས་མི་ ཚང་མ་ ཕྱིར་ ཕུད་ ངེས།",
+  "translate": "ཡིག་སྒྱུར།",
+  "translating": "སྒྱུར་བཞིན་པ…",
+  "translateFailed": "ཡིག་སྒྱུར་ མ་ཐུབ།",
+  "callNotificationsChannelName": "ཁ་པར་ མཐུད་བཞིན་པ།",
+  "callNotificationsChannelDescription": "ཁ་པར་ མཐུད་སྐབས་ སྟོན་པ།",
+  "callOngoingNotificationText": "ནོན་ནས་ ཁ་པར་ལ་ ལོག་པ།",
+  "otherPartyCanceledCall": "གཞན་གྱིས་ ཁ་པར་ མཚམས་བཞག",
+  "videoCallCanceled": "བརྙན་ལམ་ ཁ་པར་ མཚམས་བཞག་ཟིན།",
+  "otherPartyCanceledVideoCall": "གཞན་གྱིས་ བརྙན་ལམ་ ཁ་པར་ མཚམས་བཞག",
+  "back": "ཕྱིར་ལོག",
+  "callRinging": "ཁ་པར་ གཏོང་བཞིན་པ…",
+  "callConnecting": "མཐུད་བཞིན་པ…",
+  "callEnded": "ཁ་པར་ བཅད་ཟིན།",
+  "callFailed": "ཁ་པར་ གཏོང་མ་ཐུབ།",
+  "speaker": "སྒྲ་དུང་།",
+  "earpiece": "རྣ་དུང་།",
+  "flipCamera": "པར་ཆས་ བསྒྱུར་བ།",
+  "video": "བརྙན་ལམ།",
+  "microphoneOffHint": "སྐད་དཔར་ མ་ཁ་ཕྱེ་བ།",
+  "end": "མཇུག་སྒྲིལ།",
+  "stateEventYou": "ང་།",
+  "callOutgoing": "གཏོང་བ།",
+  "callDurSeconds": "སྐར་ཆ་ {seconds}",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "སྐར་མ་ {minutes}",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "ཆུ་ཚོད་ {hours} སྐར་མ་ {minutes}",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "རང་གི་ཐོབ་ཐང་བརྗེ་བ།",
+  "permissions": "ཐོབ་ཐང་།",
+  "changeMyRoleConfirmMessage": "ཐོབ་ཐང་རིམ་པ་དམའ་རུ་བཏང་རྗེས་ཕྱིར་འཐེན་མི་ཐུབ།",
+  "demoteToAdmin": "དོ་དམ་པར་དམའ་བཅག",
+  "demoteToModerator": "གྲོགས་སྣེ་ལེན་པར་དམའ་བཅག",
+  "demoteToMember": "ཚོགས་མིར་དམའ་བཅག",
+  "addAdmin": "དོ་དམ་པ་སྣོན་པ།",
+  "addModerator": "གྲོགས་སྣེ་ལེན་པ་སྣོན་པ།",
+  "groupAdmins": "ཚོགས་པའི་དོ་དམ་པ།",
+  "groupModerators": "ཚོགས་པའི་གྲོགས་སྣེ་ལེན་པ།",
+  "addAdminHelp": "དོ་དམ་པ་སྣོན་ནས་ཚོགས་པ་དོ་དམ་བྱེད་པ།",
+  "addModeratorHelp": "གྲོགས་སྣེ་ལེན་པ་སྣོན་ནས་ཚོགས་པ་དོ་དམ་བྱེད་པ།",
+  "noCandidatesToAdd": "སྣོན་རུང་ཚོགས་མི་མེད།",
+  "setAsAdminSuccess": "དོ་དམ་པར་བསྒྲིགས་ཟིན།",
+  "setAsModeratorSuccess": "གྲོགས་སྣེ་ལེན་པར་བསྒྲིགས་ཟིན།",
+  "searchMembers": "ཚོགས་མི་འཚོལ་བསྡུ།",
+  "noResults": "འབྲས་བུ་མེད།",
+  "noResultsDescription": "འབྲས་བུ་མ་རྙེད། ཡང་བསྐྱར་འཚོལ་བསྡུ་བྱོས།",
+  "removeAdminConfirm": "སྤྱོད་པོ་འདིའི་དོ་དམ་པའི་ཐོབ་ཐང་སུབ་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "removeModeratorConfirm": "སྤྱོད་པོ་འདིའི་གྲོགས་སྣེ་ལེན་པའི་ཐོབ་ཐང་སུབ་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "removeAdminSuccess": "དོ་དམ་པའི་ཐོབ་ཐང་སུབ་ཟིན།",
+  "removeModeratorSuccess": "གྲོགས་སྣེ་ལེན་པའི་ཐོབ་ཐང་སུབ་ཟིན།",
+  "manageMembers": "ཚོགས་མི་དོ་དམ།",
+  "inviteMembers": "ཚོགས་མི་མགྲོན་བརྡ་གཏོང་བ།",
+  "removeMembers": "ཚོགས་མི་སུབ་པ།",
+  "banMembers": "ཚོགས་མི་བཀག་སྡོམ།",
+  "editCommunity": "སྤྱི་ཁོངས་རྩོམ་སྒྲིག",
+  "changeCommunityName": "སྤྱི་ཁོངས་མིང་བརྗེ་བ།",
+  "changeCommunityAvatar": "སྤྱི་ཁོངས་མགོ་པར་བརྗེ་བ།",
+  "changeCommunityDescription": "སྤྱི་ཁོངས་མཚམས་སྦྱོར་བརྗེ་བ།",
+  "messagesAndContent": "འཕྲིན་ཐུང་དང་ནང་དོན།",
+  "removeMessages": "འཕྲིན་ཐུང་སུབ་པ།",
+  "adminsOnly": "དོ་དམ་པ་ཁོ་ན།",
+  "adminsAndModerators": "དོ་དམ་པ་དང་གྲོགས་སྣེ་ལེན་པ།",
+  "resetPermissions": "ཐོབ་ཐང་བསྐྱར་བཟོ།",
+  "resetPermissionsConfirmMessage": "ཐོབ་ཐང་ཚང་མ་རང་འགུལ་སྒྲིག་བཀོད་ལ་སླར་གསོ་བྱེད་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "changeSettings": "སྒྲིག་བཀོད་བརྗེ་བ།",
+  "permissionChangedFromTo": "{sender} ཡིས་ {permission} འདི་ {from} ནས་ {to} ལ་བརྗེས་པ།",
+  "changedUserRoleTo": "{username} ཡིས་ {target} འདི་ {role} ལ་བསྒྲིགས་པ།",
+  "viewInChat": "འཆར་མོལ་ནང་ལྟ་བ།",
+  "playbackSpeed": "གཏོང་བའི་མགྱོགས་ཚད།",
+  "normalSpeed": "དཀྱུས་མ།",
+  "qrScanHint": "དབྱིབས་ཨང་སྒྲོམ་ནང་བཞག་ནས་བཤེར་ོས།",
+  "torch": "གློག་ཞུ།",
+  "remarkVisibleOnlyToYou": "མཆན་བུ་འདི་རང་ཉིད་ཀྱིས་ལས་མཐོང་མི་ཐུབ།",
+  "pollVotes": "ཤོག་གྲངས་ {count}",
+  "totalPollVotes": "ཤོག་གྲངས་ཡོངས་རྫོགས {count}",
+  "scanQrMobileOnly": "དབྱིབས་ཨང་བཤེར་བ་འགུལ་བདེའི་སྒྲིག་ཆས་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད།",
+  "publicGroupTech": "ལག་རྩལ་དང་གསར་Format ཞབས་ཞུ།",
+  "publicGroupMarketing": "རྒྱུག་ཚད་དང་ཚོང་དོན་ཁྱབ་བསྒྲགས།",
+  "publicGroupWeb3": "Web3 དང་ཟོང་དངོས་ཉོ་ཚོང་།",
+  "publicGroupCrossBorder": "ཡོངས་ཁྱབ་ཞབས་ཞུ།",
+  "publicGroupFreelance": "རང་མོས་ལས་རིགས་ཉོ་ཚོང་།",
+  "blockUsers": "སྤྱོད་པོ་བཀག་སྡོམ།",
+  "turnedOn": "སྤར་ཟིན།",
+  "screenLockPasscode": "ཡོལ་བ་ལྡེ་མིག་གསང་ཨང་།",
+  "loginPassword": "འཛུལ་ཞུའི་གསང་ཨང་།",
+  "recoveryKey": "སླར་གསོའི་ལྡེ་མིག",
+  "allowKeyStorage": "ལྡེ་མིག་ཉར་ཚགས་ཆོག་པ།",
+  "allowKeyStorageDescription": "གསང་སྡོམ་ཐོབ་ཐང་དང་ལྡེ་མིག་ཞབས་ཞུ་ཆས་སུ་ཉར་ཚགས་བྱེད་པ།",
+  "setUpRecovery": "སླར་གསོ་སྒྲིག་བཀོད།",
+  "setUpRecoverySubtitle": "སྒྲིག་ཆས་མེད་པར་གྱུར་སྐབས་སླར་གསོའི་ལྡེ་མིག་གིས་སླར་གསོ་བྱེད་པ།",
+  "setRecoveryKey": "སླར་གསོའི་ལྡེ་མིག་བསྒྲིགས་པ།",
+  "setRecoveryKeyDescription": "གསང་སྡོམ་ཐོབ་ཐང་དང་ལྡེ་མིག་ཞབས་ཞུ་ཆས་སུ་ཉར་ཚགས་བྱེད་པ།",
+  "generateRecoveryKey": "སླར་གསོའི་ལྡེ་མིག་སྐྱེད་པ།",
+  "clickToCopyRecoveryKey": "ནོན་ནས་སླར་གསོའི་ལྡེ་མིག་བཤུ་བ།",
+  "saveRecoveryKeyTitle": "སླར་གསོའི་ལྡེ་མིག་ཉར་ཚགས།",
+  "saveRecoveryKeyDescription": "སླར་གསོའི་ལྡེ་མིག་འདི་བདེ་འཇགས་ས་ནས་ཉར་ོས།",
+  "saveRecoveryKey": "སླར་གསོའི་ལྡེ་མིག་ཉར་ཚགས།",
+  "recoveryKeyCopied": "སླར་གསོའི་ལྡེ་མིག་བཤུས་ཟིན།",
+  "recoveryKeySaved": "སླར་གསོའི་ལྡེ་མིག་ཉར་ཚགས་བྱས་ཟིན།",
+  "generatingRecoveryKey": "སླར་གསོའི་ལྡེ་མིག་སྐྱེད་བཞིན་པ…",
+  "shareOnlineStatus": "དྲ་ཐོག་གནས་བབ་བགོ་བཤའ།",
+  "shareOnlineStatusSubtitle": "རྒྱབ་ནས་བཀླགས་ཟིན་བརྡ་ཐོ་སྐྱེལ་མི་ཐུབ།",
+  "mediaOptimizeSubtitle": "ཡར་འདྲེན་ལེགས་བཅོས།",
+  "contentModerationAndSecurity": "ནང་དོན་བཤེར་འབེབས་དང་བདེ་འཇགས།",
+  "hideAvatarInRoomInviteRequests": "མགྲོན་བརྡའི་ཞུ་བ་ནང་མགོ་པར་སྦས་བསྐུལ།",
+  "showMediaInTimeline": "དུས་ཚོད་ཕྲེང་བའི་ནང་མེ་ཏྲི་ཡ་སྟོན་པ།",
+  "alwaysHide": "རྟག་ཏུ་སྦས་བསྐུལ།",
+  "inPrivateRooms": "སྒེར་མོལ་ཁང་པའི་ནང་།",
+  "alwaysShow": "རྟག་ཏུ་སྟོན་པ།",
+  "notifyAll": "ཚང་མ།",
+  "mentionsOnly": "གླེང་བ་ཁོ་ན།",
+  "groupChat": "ཚོགས་པའི་འཆར་མོལ།",
+  "privateChat": "སྒེར་མོལ།",
+  "notifyMeInGroupChats": "ཚོགས་པའི་འཆར་མོལ་ནང་ང་ལ་བརྡ་ཐོ་གཏོང་བ།",
+  "notifyMeInPrivateChats": "སྒེར་མོལ་ནང་ང་ལ་བརྡ་ཐོ་གཏོང་བ།",
+  "allMessages": "འཕྲིན་ཐུང་ཚང་མ།",
+  "mentionsAndKeywords": "གླེང་བ་དང་ལྡེ་མིག་ཡིག་འབྲུ་ཁོ་ན།",
+  "mentionsAndKeywordsSubtitleGroup": "གསང་སྡོམ་ཚོགས་པའི་ནང་འདེམས་ཚན་འདི་མི་རྒྱབ་སྐྱོར་བྱེད།",
+  "independentSettingsPerChat": "འཆར་མོལ་རེ་རེའི་རང་རྐྱང་སྒྲིག་བཀོད།",
+  "enableThisWillOverrideDefault": "འདི་སྤར་ན་རང་འགུལ་སྒྲིག་བཀོད་ཟིལ་གྱིས་གནོན་ངེས།",
+  "notifyMeInThisChat": "འཆར་མོལ་འདིའི་ནང་ང་ལ་བརྡ་ཐོ་གཏོང་བ།",
+  "mentionsAndKeywordsRoom": "གླེང་བ་དང་ལྡེ་མིག་ཡིག་འབྲུ།",
+  "mentionsAndKeywordsSubtitleRoom": "ཞབས་ཞུ་ཆས་ཀྱིས་གསང་སྡོམ་ཁང་པའི་ནང་འདེམས་ཚན་འདི་མི་རྒྱབ་སྐྱོར་བྱེད།",
+  "allowCustomSettings": "རང་བཟོ་སྒྲིག་བཀོད་ཆོག་པ།",
+  "notifyMeOnThisDevice": "སྒྲིག་ཆས་འདིའི་སྟེང་ང་ལ་བརྡ་ཐོ་གཏོང་བ།",
+  "mentions": "གླེང་བ།",
+  "notifyMeWhenMentionedInGroup": "ཚོགས་པའི་ནང་ @ བྱེད་སྐབས་ང་ལ་བརྡ་ཐོ་གཏོང་བ།",
+  "moreSettings": "སྒྲིག་བཀོད་མང་པོ།",
+  "oldPassword": "གསང་ཨང་རྙིང་པ།",
+  "appLockTitle": "གསང་ཨང་ལྡེ་མིག",
+  "enableAppLock": "ཡོལ་བ་ལྡེ་མིག་སྤར་བ།",
+  "enterAppLockPasscode": "ལྡེ་མིག་གསང་ཨང་འཇུག་ོས།",
+  "confirmAppLockPasscode": "ལྡེ་མིག་གསང་ཨང་ཡང་བསྐྱར་འཇུག་ོས།",
+  "verifyOldAppLockPasscode": "གསང་ཨང་རྙིང་པ་འཇུག་ོས།",
+  "wrongOldPasscode": "གསང་ཨང་རྙིང་པ་ནོར་བ། ཡང་བསྐྱར་འཇུག་ོས།",
+  "changeAppLock": "ལྡེ་མིག་གསང་ཨང་བརྗེ་བ།",
+  "appLockForgetWarning": "གལ་ཏེ་གསང་ཨང་རྗེད་ན་ཉེར་སྤྱོད་ཡང་བསྐྱར་སྒྲིག་འཇུག་བྱེད་དགོས།",
+  "passcodesDoNotMatch": "གསང་ཨང་གཉིས་མི་མཐུན་པ།",
+  "appLockEnabled": "ཡོལ་བ་ལེ་མིག་གསང་ཨང་སྤར་ཟིན།",
+  "appLockDisabled": "ཡོལ་བ་ལྡེ་མིག་གསང་ཨང་རྒྱབ་ཟིན།",
+  "thisDeviceSection": "སྒྲིག་ཆས་འདི།",
+  "logoutAllOtherSessions": "སྒྲིག་ཆས་གཞན་ཚང་མའི་ལས་ཡུན་ཕྱིར་འཐེན།",
+  "logoutAllOtherDevicesHint": "སྒྲིག་ཆས་འདི་ལས་གཞན་པའི་སྒྲིག་ཆས་ཚང་མ་ནས་ཕྱིར་འཐེན་བྱེད་པ།",
+  "activeSessions": "ཁོམ་པའི་ལས་ཡུན།",
+  "deleteDevice": "སྒྲིག་ཆས་སུབ་པ།",
+  "confirmDeleteDevice": "སྒྲིག་ཆས་ {name} སུབ་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "སྒྲིག་ཆས་ ID",
+  "lastLogin": "འཛུལ་ཟིན།",
+  "ipAddressLabel": "IP ཁ་བྱང་།",
+  "clientInfo": "སྤྱོད་མིང་།",
+  "clientIdLabel": "སྤྱོད་མིང་ ID",
+  "deviceNameLabel": "མིང་།",
+  "removeDevice": "སྒྲིག་ཆས་སུབ་པ།",
+  "timeAgo": "{time} ཡི་སྔོན།",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "སྐར་མ།",
+  "hoursUnit": "ཆུ་ཚོད།",
+  "daysUnit": "ཉིན།",
+  "loginWelcomeTitle": "ཁྱེད་ཀྱི་ {appName} ནང་ཞུགས་ོས།",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "{appName} སྤྱོད་པར་ཕེབས་པར་དགའ་བསུ་ཞུ། མགྱོགས་ལ་གསལ་བའི་འཕྲིན་ཐུང་ཉེར་སྤྱོད།",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "ཞང་ཧོ་གསར་པ་བཟོ་བ།",
+  "updateReadyTitle": "གསར་བསྒྱུར་གྲ་སྒྲིག་འདུག",
+  "updateReadyMessage": "ང་ཚོས་ནང་དོན་འགའ་ཞིག་བཟང་བཟོ་བྱས་ཡོད། གསར་བསྒྱུར་ལག་བསྟར་བྱེད་ཕྱིར་ཨཕ་ལག་བསྐྱར་བསྐྱོད་བྱོས།",
+  "restartNow": "ད་ལྟ་བསྐྱར་བསྐྱོད་བྱོས",
+  "noPublicGroupsYet": "ཁྱད་འདོན་གྲུབ་པའི་ཚོགས་པ་མེད"
+}

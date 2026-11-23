@@ -1,0 +1,4092 @@
+{
+  "@@locale": "sq",
+  "@@last_modified": "2026-11-03 14:46:00.000000",
+  "about": "Rreth",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Prano",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} pranoi ftesën",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Llogaria",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} aktivizoi enkriptimin skaj me skaj",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Shto email",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Administrator",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Alias",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Të gjitha",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} iu përgjigj thirrjes",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Kushdo mund të bashkohet",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Khapja e aplikacionit",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Arkivi",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "A lejohen vizitorët të bashkohen?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Jeni të sigurt?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Jeni të sigurt që dëshironi të dilni?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Ju lutemi shkruani frazën kaluese të sigurisë ose çelësin e rimëkëmbjes për të nënshkruar.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Dëshironi të pranoni kërkesën e verifikimit nga {username}?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Llojet e hyrjes të mbështetura nga serviri kryesor:\n{serverVersions}\nPor ky aplikacion mbështet vetëm:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Përjashto nga biseda",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Përjashto anëtarin",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "I përjashtuar",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} përjashtoi {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Blloko pajisjen",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "I bllokuar",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Anulo",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Ndrysho emrin e pajisjes",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} ndryshoi mezin e bisedës",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} ndryshoi lejet e bisedës",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} ndryshoi emrin e shfaqur në: '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} ndryshoi rregullat e qasjes së vizitorëve",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} ndryshoi rregullat e qasjes së vizitorëve në: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} ndryshoi shikueshmërinë e historikut",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} ndryshoi shikueshmërinë e historikut në: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} ndryshoi rregullat e bashkimit",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} ndryshoi rregullat e bashkimit në: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} ndryshoi mezin e profilit",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} ndryshoi pseudonimet e dhomës",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} ndryshoi lidhjen e ftesës",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Ndrysho fjalëkalimin",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Ndrysho serverin kryesor",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Ndrysho pamjen",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Ndrysho emrin e grupit",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Ndrysho mezin tuaj",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "Enkriptimi është dëmtuar",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Bisedë",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Ruanje e bisedës",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Detajet e bisedës",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Bisedat",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Zgjidhni një fjalëkalim të fortë",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Pastro arkivin",
+  "close": "Mbyll",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Përjashto përdoruesin e caktuar nga kjo dhomë",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Dërgo tekst të formatuar me HTML",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Fto përdoruesin e caktuar në këtë dhomë",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Bashkohu në dhomën e caktuar",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Largo përdoruesin e caktuar nga kjo dhomë",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Largohesh nga kjo dhomë",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Prezanto veten",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Vendos avatarin tuaj për këtë dhomë (përmes mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Vendos pseudonimin tuaj për këtë dhomë",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Vendos nivelin e lejes së përdoruesit (parazgjedhur: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Dërgo tekst të thjeshtë",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Dërgo përgjigje si reagim",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Dërgo tekst",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Hiq përjashtimin e përdoruesit në këtë dhomë",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Komandë e pavlefshme",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} nuk është një komandë.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Ju lutemi krahasoni emoji-t",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Ju lutemi krahasoni numrat e mëposhtëm",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Kofiguro bisedën",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "Kontakti është ftuar në grup",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Ky përmbajtje i është raportuar administratorit të serverit",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "U kopjua në clipboard",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Kopjo",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Kopjo në clipboard",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Nuk mund të deshifrohej mesazhi: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Deshifrimi i mesazhit dështoi, ju lutemi provoni përsëri më vonë",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} pjesëmarrës",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Krijo",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} krijoi bisedën",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Momentalisht aktiv",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "E errët",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Kjo do të çaktivizojë llogarinë tuaj. Kjo nuk mund të zhbëhet! Jeni të sigurt?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Niveli i parazgjedhur i lejes për përdoruesit e rinj",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Fshi",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Fshi llogarinë",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Fshi mesazhin",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Fshi të gjitha mesazhet",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Pastro historikun e bisedës",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Jeni të sigurt që dëshironi të fshini të gjitha mesazhet në këtë bisedë? Ky veprim nuk mund të zhbëhet.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Jeni të sigurt që dëshironi të pastroni historikun e kësaj bisede? Ky veprim nuk mund të zhbëhet.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Aktivizo fshirjen automatike",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Fshi automatikisht mesazhet e reja në këtë bisedë pas një periudhe të caktuar",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 ditë",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 javë",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 muaj",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Çaktivizo",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Pajisjet",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Biseda direkte",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Emri i shfaqur është ndryshuar",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Shkarko skedar",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Ndrysho",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Ndrysho serverët e bllokuar",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Ndrysho emrin e shfaqur",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Ndrysho pseudonimet e dhomës",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Ndrysho mezin e dhomës",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Emoji ekziston tashmë!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Kodi i shkurtër i emoji-t është i pavlefshëm!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Kodi i shkurtër i emoji-t",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Bisedë e zbrazët",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Aktivizo paketat e emoji-ve në nivel global",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Aktivizo enkriptimin",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Nuk do të mund ta çaktivizoni enkriptimin më vonë. Jeni të sigurt?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "I enkriptuar",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Enkriptimi",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Enkriptimi nuk është i aktivizuar",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} përfundoi thirrjen",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Shkruani një adresë email",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Madhësia e shkronjave",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Përcill",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "U përcjell",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Nga moment i bashkimit",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Nga momenti i ftesës",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Grup",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Grupi është publik",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Grupet",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Grup me emrin {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Vizitorët janë të ndaluar",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Vizitorët mund të bashkohen",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} tërhoqi ftesën për {targetName}",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Ndihmë",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Fshih ngjarjet e panjohura",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Ijoro",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Përdoruesit e injoruar",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Kam klikuar në lidhje",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Fraza kaluese ose çelësi i rimëkëmbjes është i pasaktë",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Fto kontaktin",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Fto kontaktin në {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "I ftuar",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} ftoi {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Vetëm përdoruesit e ftuar",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} ju fton në NYX. \n1. Instaloni NYX: https://fluffychat.im \n2. Regjistrohuni ose hyni \n3. Hapni lidhjen e ftesës:\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "po shkruan...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} u bashkua me bisedën",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Bashkohu me dhomën",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Shkruani adresën e dhomës",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "p.sh. !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Adresë e pavlefshme!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Dhoma nuk u gjet!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Bashkimi me dhomën dështoi",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "U gjet dhomë me këtë adresë",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Vazhdo",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Pa përshkrim~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Kërko të bashkohesh",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Hyr në dhomë",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Përshkrimi",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} largoi {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} largoi dhe përjashtoi {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Largo nga biseda",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Jeni larguar nga kjo bisedë grupore",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Largo anëtarin",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Hera e fundit aktiv: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Largohem",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "u largua nga biseda",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "E çelët",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Ngarko edhe {count} pjesëmarrës të tjerë",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Po ngarkohet… Ju lutemi prisni.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Ngarko më shumë…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Hyr",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Hyr në {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Dil",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Jeni të sigurt që dëshironi të dilni nga llogaria aktuale NYX?",
+  "mention": "Përmend",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Mesazhet",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Moderator",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Hesht bisedën",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Bisedë e re",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 Mesazh i ri në NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Kërkesë e re verifikimi!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Tjetra",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Jo",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "S'ka lidhje me serverin",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Nuk u gjetën emoji. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Mund ta aktivizoni enkriptimin vetëm kur dhoma nuk është e qasshme publikisht.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Duket se nuk keni Firebase Cloud Messaging në telefonin tuaj. Nëse dëshironi të merrni njoftime nga NYX, rekomandohet të instaloni ntfy. Me ntfy ose një aplikacion tjetër UnifiedPush mund të merrni njoftime në mënyrë të sigurt. Mund ta shkarkoni ntfy nga PlayStore ose F-Droid.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Nuk keni shtuar ende një mënyrë për rimëkëmbjen e fjalëkalimit.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Pa leje",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Nuk u gjetën dhomat…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Njoftimet",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} persona po shkruajnë…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Ruajtja e çelësave në internet është aktivizuar",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Upps! Ndodhi një gabim gjatë konfigurimit të njoftimeve push.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Upps, diçka shkoi gabim…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Hapni aplikacionin për të lexuar mesazhet",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Hap kamerën",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "ose",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Pjesëmarrës",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Fraza kaluese ose çelësi i rimëkëmbjes",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Fjalëkalimi",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Kam harruar fjalëkalimin",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Fjalëkalimi u ndryshua",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Rimëkëmbja e fjalëkalimit",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Fikso",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Ju lutemi zgjidhni një kod PIN",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Ju lutemi klikoni mbi lidhjen në email dhe pastaj vazhdoni.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Ju lutemi shkruani fjalëkalimin tuaj",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Ju lutemi shkruani PIN-in tuaj",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Ju lutemi shkruani kodin e kyçjes",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Ju lutemi shkruani emrin tuaj të përdoruesit",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Ju lutemi ndiqni udhëzimet në faqen e uebit dhe klikoni Tjetra.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Privatësia",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Dhoma publike",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Arsyeja",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} fshiu një ngjarje",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Fshi mesazhin",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Refuzo",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} refuzoi ftesën",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Largo",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Largo të gjitha pajisjet e tjera",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Hiq përjashtimin nga biseda",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Largo mezin tuaj",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Zëvendëso dhomën me një me version më të ri",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Përgjigju",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Raporto mesazhin",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "Dhoma është përditësuar",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Versioni i dhomës",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Ruaj skedarin",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Kërko",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Siguria",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Dërgo",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Dërgo një mesazh",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Dërgo si tekst",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Dërgo meazh zëri",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Dërgo skedar",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Dërgo imazh",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Dërgo mesazhe",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Dërgo video",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} dërgoi një skedar",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} dërgoi audio",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} dërgoi një foto",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} dërgoi një ngjitëse",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} dërgoi një video",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} dërgoi informacionet e thirrjes",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Vendos si pseudonim kryesor",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Vendos statusin",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Cilësimet",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Shpërndaj",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} ndau vendndodhjen",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Kaperce",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Kodi burimor",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} nisi një thirrje",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Statusi",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Si jeni sot?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Dërgo",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Po sinkronizohet… Ju lutemi prisni.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Sistemit",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Ato nuk përputhen",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Ato përputhen",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Shumë kërkesa. Ju lutemi provoni përsëri më vonë!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Provo të dërgosh përsëri",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} hoqi përjashtimin për {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Zhblloko pajisjen",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Pajisje e panjohur",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Algoritëm enkriptimi i panjohur",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Ngjarje e panjohur '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Kthe zërin e bisedës",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Zfikso",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} dhe {count} të tjerë po shkruajnë…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} dhe {username2} po shkruajnë…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} po shkruan…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} u largua nga biseda",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} dërgoi një ngjarje {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "I verifikuar",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Verifiko përdoruesin",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Verifiko këtë përdorues",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Për siguri më të lartë, verifikoni këtë përdorues duke krahasuar një grup emoji-sh me pajisjen e tij. Bëjeni këtë sy me sy ose përmes një thirrjeje me video.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Po pritni përdoruesin tjetër",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "Pasi të pranohet, do të mund të vazhdoni verifikimin",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Krahaso emoji-t",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Krahasoni emoji-t dhe sigurohuni që janë në të njëjtën renditje",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Ju lutemi verifikoni nëse emoji-t e mëposhtëm përputhen me ato në pajisjen e tjetrit",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Kërkesë verifikimi",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Për siguri të rritur, një përdorues tjetër dëshiron të verifikojë identitetin tuaj. Do t'ju shfaqen emoji për t'i krahasuar",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Verifikimi doli me sukses",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Tani mund t'i besoni identitetit të këtij përdoruesi për të bërë thirrje ose shkëmbyer mesazhe",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Verifikimi dështoi",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "Kërkesës i skadoi koha, u refuzua ose simbolet nuk përputheshin",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "U krye",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Riprovo",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "A dëshironi ta verifikoni këtë përdorues?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Ky është mesazhi i parë që i dërgoni këtij përdoruesi. Për siguri më të madhe, mund ta verifikoni identitetin e tij së pari ose t'i dërgoni mesazhin direkt.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Verifiko tani",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Dërgo direkt",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Njoftimet e mesazheve",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Njoftimi i mesazhit",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Shto bio",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Vendos mezin e ri",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Anëtarët",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Rolet dhe lejet",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Profili personal",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Vendos shënim",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Mesazhet e fiksuara",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 mesazh i fiksuar} other{{count} mesazhe të fiksuara}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "S'ka mesazhe të fiksuara",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Marrëveshja",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Media dhe skedarët",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Sondazhet",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Braktis komunitetin",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Fshi bisedën grupore",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Media",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Nuk ka media",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Nuk ka skedarë",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Po shkarkohet skedari…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Shto te kontaktet",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Shto kontakt",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Fshi kontaktin",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Bio",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "S'ka bio",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Blloko përdoruesin",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Zhblloko përdoruesin",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Thirrje",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Fillo verifikimin",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "U verifikuat me sukses!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Verifiko llogaritë e tjera",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Shikueshmëria e historikut të bisedës",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "E dukshme për të gjithë pjesëmarrësit",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "E dukshme për çdokënd",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Mesazh me zë",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Po pritet që pala tjetër të pranojë kërkesën…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Po pritet që pala tjetër të pranojë emoji-t…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Po pritet që pala tjetër të pranojë numrat…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Kujdes!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Ju kemi dërguar një email",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Kush mund të kryejë cilat veprime",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Kush lejohet të bashkohet me këtë grup",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Cila është arsyeja pse dëshironi ta raportoni këtë?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Përmes këtyre adresave mund të rimëkëmbni fjalëkalimin tuaj.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Shkruaj një mesazh…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Po",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Ju",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Ju nuk jeni më pjesëmarrës në këtë bisedë",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Jeni përjashtuar nga kjo bisedë",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Çelësi juaj publik",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Shto në hapësirë",
+  "obtainingLocation": "Po merret vendndodhja…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} nuk është një server Matrix, të provohet {server2}?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Leja e vendndodhjes u refuzua. Ju lutemi jepni këtë leje për të ndarë vendndodhjen tuaj.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Shërbimi i vendndodhjes është i çaktivizuar. Ju lutemi aktivizojeni për të ndarë vendndodhjen tuaj.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Gabim gjatë marrjes së vendndodhjes: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Krijo hapësirë të re",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Nuk mund të hapej URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Luaj automatikisht ngjitëset dhe emoji-t me lëvizje",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Emri i hapësirës",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Hapësira është publike",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Ndaj vendndodhjen",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Hap në harta",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Dërgo me sustën Enter",
+  "scanQrCode": "Skeno kodin QR",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "Kodi QR",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Ndaj kodin QR",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Një nga klientët tuaj është shkyçur",
+  "removeFromBundle": "Largo nga kjo paketë",
+  "unverified": "I paverifikuar",
+  "repeatPassword": "Përsërit fjalëkalimin",
+  "addAccount": "Shto llogari",
+  "editBundlesForAccount": "Ndrysho paketat për këtë llogari",
+  "addToBundle": "Shto në paketë",
+  "bundleName": "Emri i paketës",
+  "link": "Lidhja",
+  "sender": "Dërguesi",
+  "openGallery": "Hap galerinë",
+  "messageInfo": "Info mbi mesazhin",
+  "time": "Koha",
+  "removeFromSpace": "Largo nga kjo hapësirë",
+  "commandHint_discardsession": "Hidh tej seancën",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Krijo një bisedë direkte\nPërdorni opsionin --no-encryption për të çaktivizuar enkriptimin",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Pastro fshehtinën (cache)",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Krijo një bisedë grupore të zbrazët\nPërdorni opsionin --no-encryption për të çaktivizuar enkriptimin",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Shëno si të lexuar",
+  "reportUser": "Raporto përdoruesin",
+  "reactedWith": "{sender} u përgjigj me {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Jeni të sigurt që dëshironi ta zfiksoni këtë ngjarje përgjithmonë?",
+  "pinMessage": "Fikso në dhomë",
+  "emojis": "Emoji-t",
+  "unsupportedAndroidVersionLong": "Kjo veçori kërkon një me me version më të ri të Android. Ju lutemi kontrolloni për përditësime ose mbështetje nga Lineage OS.",
+  "unsupportedAndroidVersion": "Version i pambështetur i Android",
+  "youRejectedTheInvitation": "Ju refuzuat ftesën",
+  "youJoinedTheChat": "Ju u bashkuat me bisedën",
+  "youBannedUser": "Ju përjashtuat {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 U ftuat nga {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Ju ftuat {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Ju larguat {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Ju hoqët përjashtimin për {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Ju pranuat ftesën",
+  "youHaveWithdrawnTheInvitationFor": "Ju tërhoqët ftesën për {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Ju larguat dhe përjashtuat {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Ruaj në Apple KeyChain",
+  "storeInAndroidKeystore": "Ruaj në Android KeyStore",
+  "storeSecurlyOnThisDevice": "Ruaj në mënyrë të sigurt në këtë pajisje",
+  "users": "Përdoruesit",
+  "countFiles": "{count} skedarë",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Rikthe nga skedari i ruajtjes",
+  "dehydrate": "Eksporto seancën dhe fshi pajisjen",
+  "dehydrateWarning": "Ky veprim nuk mund të zhbëhet. Sigurohuni që ta ruani skedarin e rezervimit në një vend të sigurt.",
+  "user": "Përdorues",
+  "userNotFound": "Përdoruesi nuk u gjet",
+  "custom": "Përshtatur",
+  "confirmMatrixId": "Ju lutemi konfirmoni Matrix ID tuaj për të fshirë llogarinë.",
+  "supposedMxid": "Pritet të jetë {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Shëno si grup",
+  "commandHint_markasdm": "Shëno ID-në e caktuar të Matrix si dhomë bisede private",
+  "whyIsThisMessageEncrypted": "Pse ky mesazh nuk është i lexueshëm?",
+  "noKeyForThisMessage": "Kjo mund të ndodhë nëse mesazhi është dërguar para se të hynit në llogari nga kjo pajisje.\n\nGjithashtu ka mundësi që dërguesi t'ju ketë bllokuar pajisjen ose ka pasur një problem me lidhjen e rrjetit.\n\nA mund ta lexoni mesazhin në një pajisje tjetër? Nëse po, mund t'i kaloni çelësat prej saj! Shkoni te Cilësimet > Pajisjet dhe sigurohuni që pajisjet tuaja janë verifikuar reciprokisht. Herën tjetër kur të hapni dhomën e bisedës dhe të dyja pajisjet të jenë në plan të parë, çelësat do të transmetohen automatikisht.\n\nNuk dëshironi t'i humbni çelësat kur dilni ose ndërroni pajisjen? Sigurohuni që keni aktivizuar ruajtjen e bisedave te cilësimet.",
+  "newSpace": "Hapësirë e re",
+  "doNotShowAgain": "Mos e shfaq më",
+  "googlyEyesContent": "{senderName} ju dërgoi emoji me sy që rrotullohen",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Dërgo emoji me sy që rrotullohen",
+  "commandHint_cuddle": "Dërgo një përkëdhelje",
+  "commandHint_hug": "Dërgo një përqafim",
+  "cuddleContent": "{senderName} ju përkëdheli",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} ju përqafoi",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Bisedë e zbrazët (më parë {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Hapësirat ju lejojnë të bashkoni bisedat dhe të krijoni komunitete private ose publike.",
+  "encryptThisChat": "Enkripto këtë bisedë",
+  "disableEncryptionWarning": "Për arsye sigurie, nuk mund ta çaktivizoni enkriptimin në një bisedë ku është aktivizuar më parë.",
+  "sorryThatsNotPossible": "Na vjen keq... kjo nuk është e mundur",
+  "report": "Raporto",
+  "fileIsTooBigForServer": "Nuk mund të dërgohej! Serveri mbështet vetëm skedarë deri në {max}.",
+  "noOtherDevicesFound": "Nuk u gjetën pajisje të tjera",
+  "jumpToLastReadMessage": "Kërce te mesazhi i fundit i lexuar",
+  "readUpToHere": "Lexuar deri këtu",
+  "jump": "Kërce",
+  "openLinkInBrowser": "Hap lidhjen në shfletues",
+  "fileHasBeenSavedAt": "Skedari u ruajt në {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 Oh jo. Diçka shkoi gabim. Nëse dëshironi, mund t'ua raportoni këtë gabim zhvilluesve.",
+  "noBackupWarning": "Kujdes! Pa aktivizuar ruajtjen e bisedave, nuk do të keni qasje në mesazhet tuaja të enkriptuara. Rekomandohet me ngulm ta aktivizoni para se të dilni.",
+  "reopenChat": "Rihap bisedën",
+  "importEmojis": "Importo emoji-t",
+  "notAnImage": "Nuk është skedar imazhi.",
+  "importNow": "Importo tani",
+  "importFromZipFile": "Importo nga skedari .zip",
+  "replace": "Zëvendëso",
+  "exportEmotePack": "Eksporto paketën e emoji-ve si .zip",
+  "sendTypingNotifications": "Dërgo njoftimet kur jeni duke shkruar",
+  "createGroup": "Krijo bisedë grupore",
+  "shareInviteLink": "Ndaj lidhjen e ftesës",
+  "tryAgain": "Riprovo",
+  "chatPermissions": "Lejet e bisedës",
+  "chatDescription": "Përshkrimi i bisedës",
+  "chatDescriptionHasBeenChanged": "Përshkrimi i bisedës u ndryshua",
+  "noChatDescriptionYet": "S'është krijuar ende përshkrimi i bisedës.",
+  "invalidServerName": "Emër serveri i pavlefshëm",
+  "redactMessageDescription": "Mesazhi do të fshihet për të gjithë pjesëmarrësit në këtë bisedë. Ky veprim nuk mund të zhbëhet.",
+  "optionalRedactReason": "(Opsionale) Arsyeja e fshirjes së këtij mesazhi...",
+  "setChatDescription": "Vendos përshkrimin e bisedës",
+  "setColorTheme": "Vendos temën e ngjyrave:",
+  "invite": "Fto",
+  "addMembers": "Shto anëtarë",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Fto përmes lidhjes",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Kjo listë është e dukshme vetëm për administratorët e bisedës grupore.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Kontaktet në këtë bisedë",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Ky grup nuk ka ende një lidhje ftese",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Stili i mesazheve:",
+  "redactedBy": "U fshi nga {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "U fshi nga {username}, arsyeja: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Ftesë për bisedë grupore",
+  "emoteKeyboardNoRecents": "Emoji-t e përdorura së fundmi do të shfaqen këtu...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Hyrje e pavlefshme!",
+  "wrongPinEntered": "PIN-i i shkruar është i pasaktë! Skoni përsëri pas {seconds} sekondash…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} kërkoi një ftesë për t'u bashkuar me dhomën",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Ju lutemi shkruani një numër më të madh se 0",
+  "banUserDescription": "Përdoruesit do t'i ndalohet hyrja në dhomën e bisedës dhe nuk do të mund të hyjë përsëri derisa të hiqet përjashtimi.",
+  "removeDevicesDescription": "Do të shkyçeni nga kjo pajisje dhe nuk do të mund të merrni më mesazhe në të.",
+  "unbanUserDescription": "Përdoruesi do të mund të hyjë përsëri në bisedë nëse tregon interes.",
+  "pushNotificationsNotAvailable": "Njoftimet push nuk janë të disponueshme",
+  "makeAdminDescription": "Pasi ta bëni këtë përdorues administrator, mund të mos jeni në gjendje ta zhbëni pasi ai do të ketë të njëjtat leje si ju.",
+  "archiveRoomDescription": "Biseda do të zhvendoset në arkiv. Përdoruesit e tjerë do të mund të shohin se jeni larguar nga biseda.",
+  "learnMore": "Mëso më shumë",
+  "roomUpgradeDescription": "Dhoma aktuale do të rikrijohet duke përdorur versionin e ri të dhomës. Të gjithë pjesëmarrësit do të njoftohen për kalimin në dhomën e re. Për më shumë informacion, vizitoni https://spec.matrix.org/latest/rooms/",
+  "kickUserDescription": "Përdoruesi do të largohet nga biseda por nuk është përjashtuar. Në bisedat publike, ai mund të ribashkohet në çdo kohë.",
+  "blockListDescription": "Mund të bllokoni përdoruesit që ju shqetësojnë. Nuk do të merrni asnjë mesazh ose ftesë nga përdoruesit në listën e bllokuar.",
+  "createGroupAndInviteUsers": "Krijo grup dhe fto përdorues",
+  "blockedUsers": "Përdoruesit e bllokuar",
+  "groupCanBeFoundViaSearch": "Grupi mund të gjendet përmes kërkimit",
+  "noUsersFoundWithQuery": "Na vjen keq, nuk u gjet asnjë përdorues për \"{query}\". Kontrolloni nëse keni bërë ndonjë gabim në shkrim.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Blloko",
+  "yourGlobalUserIdIs": "ID-ja juaj globale e përdoruesit është: ",
+  "commandHint_sendraw": "Dërgo JSON origjinal",
+  "wrongRecoveryKey": "Na vjen keq… ky nuk duket të jetë çelësi i saktë i rimëkëmbjes.",
+  "blockUsername": "Injoro emrin e përdoruesit",
+  "groupName": "Emri i grupit",
+  "databaseMigrationTitle": "Baza e të dhënave u optimizua",
+  "searchChatsRooms": "Kërko #biseda, @përdorues…",
+  "databaseMigrationBody": "Ju lutemi prisni. Kjo mund të marrë pak kohë.",
+  "thisDevice": "Kjo pajisje:",
+  "publicSpaces": "Hapësirat publike",
+  "passwordIsWrong": "Fjalëkalimi që shkruat është i pasaktë",
+  "pleaseEnterYourCurrentPassword": "Ju lutemi shkruani fjalëkalimin tuaj aktual",
+  "nothingFound": "Nuk u gjet asgjë…",
+  "newPassword": "Fjalëkalimi i ri",
+  "passwordsDoNotMatch": "Fjalëkalimet nuk përputhen",
+  "select": "Zgjidh",
+  "pleaseChooseAStrongPassword": "Ju lutemi zgjidhni një fjalëkalim të fortë",
+  "addChatOrSubSpace": "Shto bisedë ose nënhapësirë",
+  "leaveEmptyToClearStatus": "Lëreni zbrazët për të pastruar statusin tuaj.",
+  "joinSpace": "Bashkohu me hapësirën",
+  "searchForUsers": "Kërko @përdorues…",
+  "initAppError": "Ndodhi një gabim gjatë nisjes së aplikacionit",
+  "sessionLostBody": "Seanca juaj humbi. Ju lutemi raportojani këtë gabim zhvilluesit në adresën {url}. Gabimi: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "Aplikacioni tani po përpiqet të rikthejë seancën tuaj nga ruajtja. Ju lutemi raportojani këtë gabim zhvilluesit në adresën {url}. Gabimi: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Pjesëmarrësit e tjerë në bisedë mund të shohin kur jeni duke shkruar një mesazh të ri.",
+  "formattedMessagesDescription": "Shfaq përmbajtje teksti me formatim Markdown si tekst i theksuar.",
+  "verifyOtherUserDescription": "Nëse verifikoni përdoruesin tjetër, mund të jeni plotësisht të sigurt se me kë po komunikoni. 💪\n\nKur të nisni verifikimin, ju dhe përdoruesi tjetër do të shihni një dritare me njoftim. Më pas do të duhet të krahasoni një seri emoji-sh ose numrash.\n\nMënyra më e mirë është ta bëni këtë fizikisht ose përmes një thirrjeje me video. 👭",
+  "verifyOtherDeviceDescription": "Kur verifikoni një pajisje tjetër, pajisjet mund të shkëmbejnë çelësat për të rritur sigurinë e përgjithshme. 💪 Kur të nisni verifikimin, në të dyja pajisjet do të shfaqet një dritare njoftimi. Më pas krahasoni emoji-t ose numrat që shfaqen në të dy ekranet. 🤳",
+  "canceledKeyVerification": "{sender} anuloi verifikimin e çelësit",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Dërgo konfirmimet e leximit",
+  "formattedMessages": "Mesazhet e formatuara",
+  "verifyOtherDevice": "🔐 Verifiko pajisjen tjetër",
+  "verifyOtherUser": "🔐 Verifiko përdoruesin tjetër",
+  "sendReadReceiptsDescription": "Pjesëmarrësit e tjerë në bisedë mund të shohin nëse keni lexuar mesazhet.",
+  "acceptedKeyVerification": "{sender} pranoi verifikimin e çelësit",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} është gati për verifikimin e çelësit",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} përfundoi verifikimin e çelësit",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} kërkoi verifikimin e çelësit",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} nisi verifikimin e çelësit",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Mesazhet e ardhura",
+  "stickers": "Ngjitëset",
+  "discover": "Zulo",
+  "commandHint_ignore": "Injoro ID-në e dhënë të Matrix",
+  "commandHint_unignore": "Hiq injorimin për ID-në e dhënë të Matrix",
+  "unreadChatsInApp": "{appname}: {unread} biseda të palezuara",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "Pasi të keni vendosur një PIN kyçjeje, kërkohet verifikim për të hyrë në aplikacionin NYX",
+  "globalChatId": "ID-ja globale e bisedës",
+  "accessAndVisibility": "Qasja dhe shikueshmëria",
+  "accessAndVisibilityDescription": "Kush mund të bashkohet me këtë bisedë dhe si mund të zbulohet ajo.",
+  "customEmojisAndStickers": "Emoji dhe ngjitëse të përshtatura",
+  "hideRedactedMessages": "Fshih mesazhet e fshira",
+  "passwordRecoverySettings": "Cilësimet e rimëkëmbjes së fjalëkalimit",
+  "knock": "Trokit",
+  "noOneCanJoin": "Askush nuk mund të bashkohet",
+  "knocking": "Po troket",
+  "chatCanBeDiscoveredViaSearchOnServer": "Biseda mund të zbulohet përmes kërkimit në {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Tani ka {count} përdorues të bllokuar.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Nëse dikush fshin një mesazh, ai nuk do të jetë më i dukshëm në bisedë.",
+  "hideInvalidOrUnknownMessageFormats": "Fshih formatet e pavlefshme ose të panjohura të mesazheve",
+  "customEmojisAndStickersBody": "Shtoni ose ndani emoji apo ngjitëse që mund të përdoren në çdo bisedë.",
+  "usersMustKnock": "Përdoruesit duhet të trokasin për t'u bashkuar",
+  "noDatabaseEncryption": "Enkriptimi i bazës së të dhënave nuk mbështetet në këtë platformë",
+  "publicChatAddresses": "Adresat publike të bisedës",
+  "createNewAddress": "Krijo adresë të re",
+  "searchMore": "Kërko më shumë…",
+  "gallery": "Galeria",
+  "files": "Skedarët",
+  "searchIn": "Kërko në bisedën \"{chat}\"…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Rrëshqitni nga e djathta në të majtë për t'u përgjigjur",
+  "noMoreChatsFound": "Nuk u gjetën biseda të tjera…",
+  "space": "Hapësira",
+  "goToSpace": "Shko te hapësira: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Shëno si të palezuar",
+  "unread": "I palezuar",
+  "userLevel": "{level} - Përdorues",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Moderator",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Administrator",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Fto përdorues të tjerë në këtë bisedë",
+  "changeTheChatPermissions": "Ndrysho lejet e bisedës",
+  "changeTheVisibilityOfChatHistory": "Ndrysho shikueshmërinë e historikut të bisedës",
+  "changeTheCanonicalRoomAlias": "Ndrysho adresën kryesore publike të bisedës",
+  "sendRoomNotifications": "Dërgo njoftime që përfshijnë të gjithë në dhomë (@room)",
+  "changeTheDescriptionOfTheGroup": "Ndrysho përshkrimin e bisedës",
+  "changeGeneralChatSettings": "Ndrysho cilësimet e përgjithshme të bisedës",
+  "chatPermissionsDescription": "Përcaktoni cili nivel i lejeve kërkohet për veprime të caktuara. Nivelet 0, 50 dhe 100 zakonisht përfaqësojnë përdoruesit, moderatorët dhe administratorët, por mund të përdorni çdo nivel.",
+  "changelog": "Regjistri i ndryshimeve",
+  "updateInstalled": "🎉 Përditësimi {version} u instalua!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Dërgimi u anulua",
+  "noChatsFoundHere": "S'u gjetën biseda këtu. Përdorni butonin më poshtë ⤵️ për të nisur një bisedë të re",
+  "loginWithMatrixId": "Hyr me Matrix ID",
+  "doesNotSeemToBeAValidHomeserver": "Nuk duket të jetë një server kryesor i përputhshëm. A është URL e saktë?",
+  "calculatingFileSize": "Po llogaritet madhësia e skedarit…",
+  "oneOfYourDevicesIsNotVerified": "Një nga pajisjet tuaja nuk është e verifikuar",
+  "noticeChatBackupDeviceVerification": "Vëmendje: Kur të lidhni të gjitha pajisjet tuaja me ruajtjen e bisedave, ato do të verifikohen automatikisht.",
+  "continueText": "Vazhdo",
+  "blur": "Flusim:",
+  "opacity": "Paaqësi:",
+  "setWallpaper": "Vendos letrën e murit",
+  "manageAccount": "Menaxho llogarinë",
+  "aboutHomeserver": "Rreth {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Versioni",
+  "noContactInformationProvided": "Serveri nuk ofroi asnjë informacion të vlefshëm kontakti",
+  "contactServerAdmin": "Kontakto administratorin e serverit",
+  "name": "Emri",
+  "surname": "Mbiemri",
+  "personalIntro": "Prezantimi personal",
+  "nameDescription": "Shkruani emrin tuaj dhe mund të shtoni një mez.",
+  "aboutYourselfDescription": "Disa fjalë rreth vetes suaj.",
+  "email": "Email",
+  "emailForLogin": "Përdoret për hyrje në llogarinë NYX.",
+  "changeEmail": "Ndrysho email-in",
+  "changeEmailDescription": "Mund të ndryshoni email-in e rimëkëmbjes për të rivendosur fjalëkalimin dhe rimarrë qasjen në llogari.",
+  "bindNewEmail": "Lidh email të ri",
+  "newEmailSameAsOld": "Email-i i ri nuk mund të jetë i njëjtë me aktualin",
+  "bindEmail": "Lidh email-in",
+  "bindEmailDescription": "Mund të lidhni një email për të rivendosur fjalëkalimin dhe rimarrë qasjen në llogari.",
+  "enterEmail": "Shkruaj email-in",
+  "enterValidEmail": "Ju lutemi shkruani një email të vlefshëm",
+  "getVerificationCode": "Merri kodin e verifikimit",
+  "verificationCode": "Kodi i verifikimit",
+  "enterVerificationCode": "Shkruaj kodin e verifikimit",
+  "enterCodeSentTo": "Ju lutemi shkruani kodin që sapo u dërgua te {email}.",
+  "createPassword": "Krijo fjalëkalim",
+  "createPasswordDescription": "Ju lutemi vendosni një fjalëkalim për verifikimin e sigurisë së llogarisë.",
+  "enterPassword": "Shkruaj fjalëkalimin",
+  "enterPasswordAgain": "Shkruaj fjalëkalimin përsëri",
+  "bind": "Lidh",
+  "walletAddress": "Adresa e portofolit",
+  "walletForLogin": "Përdoret për hyrje në llogarinë NYX.",
+  "ethereumMainnetAddress": "Adresa Ethereum Mainnet",
+  "none": "Asnjë",
+  "username": "Emri i përdoruesit",
+  "usernameDescription": "Mund të vendosni një emër përdoruesi në NYX. Pas kësaj, të tjerët mund t'ju gjejnë dhe kontaktojnë përmes tij.",
+  "usernameRuleHint": "Mund të përdorni a-z, 0-9 dhe vizën poshtë. Madhësia minimale është 5 karaktere.",
+  "chatViaLink": "Mund të bisedojnë me ju përmes kësaj lidhjeje:",
+  "contactServerSecurity": "Kontakto ekipin e sigurisë së serverit",
+  "supportPage": "Faqja e mbështetjes",
+  "serverInformation": "Informacioni i serverit:",
+  "website": "Faqja ueb",
+  "italicText": "Tekst i pjerrët",
+  "strikeThrough": "I vizuar përmes",
+  "pleaseFillOut": "Ju lutemi plotësoni",
+  "addLink": "Shto lidhje",
+  "boldText": "Tekst i theksuar",
+  "invalidUrl": "URL e pavlefshme",
+  "unableToJoinChat": "Nuk mund të bashkohej me bisedën. Ndoshta pala tjetër e ka mbyllur bisedën.",
+  "sendImages": "Dërgo {count} imazhe",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Ngjesh",
+  "previous": "I mëparshmi",
+  "otherPartyNotLoggedIn": "Pala tjetër nuk është e kyçur aktualisht dhe s'mund të marrë mesazhe!",
+  "appWantsToUseForLoginDescription": "Ju lejoni këtë aplikacion dhe uebfaqe të ndajnë informacion rreth jush.",
+  "open": "Hap",
+  "appWantsToUseForLogin": "Hyr duke përdorur serverin '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Po pritet serveri…",
+  "synchronizingPleaseWaitCounter": " Po sinkronizohet… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Kërkesë e re bisede",
+  "generalNotificationSettings": "Cilësimet e përgjithshme të njoftimeve",
+  "userSpecificNotificationSettings": "Përdor cilësime njoftimesh të caktuara",
+  "notificationRuleMaster": "Hesht të gjitha njoftimet",
+  "notificationRuleSuppressNotices": "Fshih mesazhet automatike",
+  "notificationRuleInviteForMe": "Ftesat për mua",
+  "notificationRuleInviteForMeDescription": "Njofto përdoruesin kur ftohet të bashkohet me një dhomë bisede.",
+  "notificationRuleMemberEvent": "Ngjarjet e anëtarëve",
+  "notificationRuleMemberEventDescription": "Fshih njoftimet për ngjarjet e anëtarësimit.",
+  "notificationRuleIsUserMention": "Përmendja e përdoruesit",
+  "notificationRuleIsUserMentionDescription": "Njofto përdoruesin kur përmendet direkt me emër në një mesazh.",
+  "notificationRuleContainsDisplayName": "Përmban emrin e shfaqur",
+  "notificationRuleIsRoomMention": "Përmendja e dhomës",
+  "notificationRuleRoomnotifDescription": "Njofto përdoruesin kur mesazhi përmban «@room».",
+  "notificationRuleTombstone": "Prishja e dhomës",
+  "notificationRuleRoomServerAcl": "ACL i serverit të dhomës",
+  "notificationRuleSuppressEdits": "Fshih ndryshimet",
+  "notificationRuleCall": "Thirrjet",
+  "notificationRuleRoomOneToOne": "Dhomë bisede tek-për-tek",
+  "notificationRuleRoomOneToOneDescription": "Njofto për mesazhet në dhomat tek-për-tek.",
+  "notificationRuleEncrypted": "Të enkriptuara",
+  "notificationRuleEncryptedDescription": "Njofto për mesazhet në dhomat e enkriptuara.",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Njofto përdoruesin për ngjarjet e dritares Jitsi.",
+  "notificationRuleServerAcl": "Fshih ngjarjet e ACL të serverit",
+  "notificationRuleServerAclDescription": "Fshih njoftimet e ngjarjeve të ACL të serverit.",
+  "deletePushRuleCanNotBeUndone": "Fshirja e këtij cilësimi njoftimi nuk mund të zhbëhet.",
+  "more": "Më shumë",
+  "notificationRuleReactionDescription": "Fshih njoftimet e reagimeve.",
+  "notificationRuleMessageDescription": "Njofto përdoruesin për mesazhet e zakonshme.",
+  "notificationRuleContainsUserName": "Përmban emrin e përdoruesit",
+  "otherNotificationSettings": "Cilësime të tjera njoftimesh",
+  "notificationRuleContainsUserNameDescription": "Njofto përdoruesin kur mesazhi përmban emrin e tij të përdoruesit.",
+  "notificationRuleIsRoomMentionDescription": "Njofto përdoruesin kur ka përmendje të dhomës.",
+  "contentNotificationSettings": "Cilësimet e njoftimeve të përmbajtjes",
+  "notificationRuleMasterDescription": "Eskalon mbi të gjitha rregullat e tjera dhe çaktivizon të gjitha njoftimet.",
+  "notificationRuleSuppressNoticesDescription": "Fshih njoftimet nga klientët automatikë si robotët (bot).",
+  "roomNotificationSettings": "Cilësimet e njoftimeve të dhomës",
+  "notificationRuleRoomServerAclDescription": "Fshih njoftimet e listës së kontrollit të qasjes (ACL) së serverit të dhomës.",
+  "notificationRuleContainsDisplayNameDescription": "Njofto përdoruesin kur mesazhi përmban emrin e tij të shfaqur.",
+  "notificationRuleRoomnotif": "Njoftimi i dhomës",
+  "notificationRuleTombstoneDescription": "Njofto përdoruesin për mesazhet e çaktivizimit/mbylljes së dhomës.",
+  "notificationRuleReaction": "Reagimi",
+  "notificationRuleSuppressEditsDescription": "Fshih njoftimet e modifikimit të mesazheve.",
+  "notificationRuleCallDescription": "Njofto përdoruesin për thirrjet.",
+  "notificationRuleEncryptedRoomOneToOne": "Dhomë e enkriptuar tek-për-tek",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Njofto për mesazhet në dhomat e enkriptuara tek-për-tek.",
+  "notificationRuleMessage": "Mesazh",
+  "unknownPushRule": "Rregull i panjohur njoftimi '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Pajisjet e verifikuara ndërsjellazi",
+  "shareKeysWithDescription": "Zgjidhni cilave pajisje duhet t'u besohet për t'u lejuar të lexojnë mesazhet tuaja në bisedat e enkriptuara:",
+  "shareKeysWith": "Ndaj çelësat me…",
+  "allDevices": "Të gjitha pajisjet",
+  "crossVerifiedDevicesIfEnabled": "Pajisjet e verifikuara ndërsjellazi (nëse është e aktivizuar)",
+  "verifiedDevicesOnly": "Vetëm pajisjet e verifikuara",
+  "optionalMessage": "(Opsionale) Mesazh…",
+  "takeAPhoto": "Bëj një foto",
+  "recordAVideo": "Rregjistro një video",
+  "notSupportedOnThisDevice": "Nuk mbështetet në këtë pajisje",
+  "enterNewChat": "Hyr në bisedë të re",
+  "commandHint_roomupgrade": "Përditëso këtë dhomë në versionin e caktuar të dhomës",
+  "approve": "Aprovo",
+  "youHaveKnocked": "Keni kërkuar të bashkoheni",
+  "pleaseWaitUntilInvited": "Ju lutemi prisni derisa dikush nga kjo dhomë t'ju ftojë.",
+  "countInvited": "Të ftuar {count}",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Lista e kontrollit",
+  "sentVoiceMessage": "🎙️ {duration} - Mesazh me zë nga {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Dil nga pajisja aktuale",
+  "commandHint_logoutall": "Dil nga të gjitha pajisjet aktive",
+  "displayNavigationRail": "Shfaq mezin e navigimit në pajisjet celulare",
+  "customReaction": "Reagim i përshtatur",
+  "moreEvents": "Më shumë ngjarje",
+  "declineInvitation": "Refuzo ftesën",
+  "noMessagesYet": "S'ka mesazhe ende",
+  "longPressToRecordVoiceMessage": "Shtypni gjatë për të regjistruar një mesazh me zë.",
+  "pause": "Pauzë",
+  "resume": "Vazhdo",
+  "removeFromSpaceDescription": "Kjo do ta largojë bisedën nga hapësira, por ajo do të mbetet në listën tuaj të bisedave.",
+  "countChats": "{chats} biseda",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Anëtar i hapësirës {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Anëtarët e hapësirës {spaces} mund të trokasin",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Sondazh",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Nisi sondazhin",
+  "endPoll": "Përfundo sondazhin",
+  "editPoll": "Ndrysho sondazhin",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Fshi sondazhin",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Rezultatet e sondazhit janë të dukshme",
+  "hiddenPoll": "Sondazh i fshehur",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Pyetja e sondazhit",
+  "answerOption": "Opsioni",
+  "addAnswerOption": "Shto opsion",
+  "allowMultipleAnswers": "Lejo votim me shumë opsione",
+  "pollHasBeenEnded": "Sondazhi përfundoi",
+  "startedAPoll": "{senderName} nisi një sondazh",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{1 votë} other{{count} vota}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Rezultatet do të jenë të dukshme pasi të përfundojë sondazhi",
+  "active": "Në vijim",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Përfunduar",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Fije bisede",
+  "replyInThread": "Përgjigju në fije",
+  "countReplies": "{count, plural, =1{1 përgjigje} other{{count} përgjigje}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Kthehu te biseda kryesore",
+  "saveChanges": "Ruaj ndryshimet",
+  "createSticker": "Krijo ngjitëse ose emoji",
+  "useAsSticker": "Përdor si ngjitëse",
+  "useAsEmoji": "Përdor si emoji",
+  "stickerPackNameAlreadyExists": "Emri i paketës së ngjitëseve ekziston tashmë",
+  "newStickerPack": "Paketë e re ngjitësesh",
+  "stickerPackName": "Emri i paketës së ngjitëseve",
+  "attribution": "Autori",
+  "skipChatBackup": "Kaperce ruajtjen e bisedës",
+  "skipChatBackupWarning": "Jeni të sigurt? Pa ruajtjen e bisedës, mund të humbisni qasjen në mesazhe nëse ndërroni pajisjen.",
+  "changedTheChatDescription": "{username} ndryshoi përshkrimin e bisedës",
+  "changedTheChatName": "{username} ndryshoi emrin e bisedës",
+  "noMoreResultsFound": "Nuk u gjetën më rezultate",
+  "chatSearchedUntil": "Kërkimi i historikut të bisedës u krye deri më {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "URL bazë e federatës",
+  "clientWellKnownInformation": "Informacioni Client-Well-Known:",
+  "baseUrl": "URL bazë",
+  "identityServer": "Serveri i identitetit:",
+  "versionWithNumber": "Versioni: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Regjistrat (logs)",
+  "advancedConfigs": "Konfigurime të avancuara",
+  "advancedConfigurations": "Konfigurime të avancuara",
+  "signIn": "Hyr",
+  "createNewAccount": "Krijo llogari të re",
+  "signUpGreeting": "NYX është i decentralizuar! Zgjidhni serverin ku dëshironi të krijoni llogarinë!",
+  "signInGreeting": "Keni tashmë një llogari Matrix? Mirë se vini përsëri! Zgjidhni serverin për të hyrë.",
+  "theProcessWasCanceled": "Procesi u anulua.",
+  "join": "Bashkohu",
+  "searchOrEnterHomeserverAddress": "Kërko ose shkruaj adresën e serverit",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Vendos nivelin e lejes",
+  "makeModerator": "Bëj moderator",
+  "makeAdmin": "Bëj administrator",
+  "removeModeratorRights": "Hiq të drejtat e moderatorit",
+  "removeAdminRights": "Hiq të drejtat e administratorit",
+  "powerLevel": "Niveli i lejes",
+  "setPowerLevelDescription": "Niveli i lejeve përcakton se çfarë mund të bëjnë anëtarët në këtë dhomë bisede (nga 0 deri në 100).",
+  "owner": "Pronar",
+  "mute": "Hesht",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Krijo bisedë të re",
+  "reset": "Riestartoni",
+  "supportFluffyChat": "Mbështet NYX",
+  "support": "Mbështetje",
+  "setLowPriority": "Vendos me prioritet të ulët",
+  "unsetLowPriority": "Hiq prioritetin e ulët",
+  "playSoundOnNotification": "Luaj sonoritet gjatë njoftimeve",
+  "addTag": "Shto etiketë",
+  "removeTag": "Fshi etiketën",
+  "tagName": "Emri i etiketës",
+  "createNewTag": "Krijo etiketë të re",
+  "discardEdits": "Keni ndryshime të naruajtura. Dëshironi t'i hidhni tej?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Fshih dhomat që ndodhen në hapësira",
+  "possibleByYou": "Pa mbështetjen tuaj ky version nuk do të ekzistonte. NYX mbetet pa pagesë, me kod të hapur dhe i udhëhequr nga komuniteti.",
+  "showThumbnailsInTimeline": "Shfaq pamjet e vogla të fotove dhe videove në vijën e kohës",
+  "appSubtitle": "Komunikim i sigurt [matrix]",
+  "appDescription": "Mënyrë e thjeshtë për komunikim të enkriptuar për të gjithë përmes rrjetit të decentralizuar [matrix].",
+  "interactiveVerification": "Verifikim interaktiv",
+  "interactiveVerificationDescription": "Nëse jeni pranë kontaktit ose po komunikoni përmes një kanali të sigurt, mund të verifikoni të gjitha pajisjet duke krahasuar numrat ose emoji-t.",
+  "countUnverifiedDevices": "Kjo bisedë ka {count} pajisje të paverifikuara.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Mesazh i enkriptuar",
+  "unencryptedMessage": "Mesazh i paenkriptuar",
+  "publicKey": "Çelësi publik: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Çelësi i identitetit të pajisjes",
+  "showMore": "Shfaq më shumë",
+  "showLess": "Shfaq më pak",
+  "restoreBootstrapEmptyDevicesDescription": "Ju lutemi shkruani frazën kaluese ose çelësin e rimëkëmbjes për të verifikuar këtë pajisje dhe marrë qasje në ruajtjen e mesazheve.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Zgjidhni një nga pajisjet tuaja të tjera për të verifikuar këtë seancë:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Rivendos llogarinë",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Rikthe identitetin kriptografik",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Rivendos identitetin kriptografik",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Krijo identitetin kriptografik",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Po priten çelësat… Mbajeni pajisjen tjetër aktive.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "S'u transmetua asnjë çelës. Ju lutemi riprovojeni.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Zhblloko",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Hap skedarin",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Rivendosja e llogarisë do të shkaktojë humbjen e përhershme të qasjes në mesazhet e vjetra. Të gjitha pajisjet aktuale do të duhet të verifikohen përsëri. Bëjeni këtë vetëm nëse nuk keni pajisje tjetër për të verifikuar seancën dhe keni humbur çelësin ose frazën kaluese!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "NYX përdor enkriptim skaj me skaj. Për të mos humbur mesazhet tuaja, zgjidhni një frazë kaluese të fortë për të mbrojtur të dhënat dhe ruajtjen e mesazheve.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Fraza e re kaluese",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Përsërit frazën kaluese",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Frazat kaluese përputhen",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Gjatësia duhet të jetë së paku 12 karaktere.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Përmban shkronja të mëdha dhe të vogla.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Përmban karaktere speciale.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Përmban të paktën një numër.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Shkruajeni këtë çelës rimëkëmbjeje për të mundësuar rikthimin e mesazheve dhe identitetit tuaj.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Ruaj si skedar",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Jeni gati të filloni!",
+  "noUserKeyFound": "Nuk u gjet çelësi i përdoruesit",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Pajisje e panënshkruar",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Pajisje e nënshkruar",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Nuk u gjet çelësi curve25519",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Mesazhi nuk mund të deshifrohet",
+  "knownSince": "I njohur që nga: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Mesazhi juaj është i enkriptuar skaj me skaj dhe mund të lexohet vetëm nga ky përdorues:",
+  "messageCanOnlyBeReadByUsers": "Mesazhi juaj është i enkriptuar skaj me skaj dhe mund të lexohet vetëm nga këta përdorues:",
+  "today": "Sot",
+  "sending": "Po dërgohet",
+  "generatingThumbnail": "Po gjenerohet mezi i vogël",
+  "encrypting": "Po enkriptohet",
+  "uploading": "Po ngarkohet",
+  "edited": "(E ndryshuar)",
+  "couldNotBeSent": "Nuk mund të dërgohej",
+  "yesterday": "Dje",
+  "resetRecoveryKey": "Rivendos çelësin e rimëkëmbjes",
+  "pleaseEnter6Digits": "Ju lutemi shkruani 6 shifra për të aktivizuar kyçjen e aplikacionit.",
+  "disableAppLock": "Çaktivizo kodin e kyçjes",
+  "disableAppLockAreYouSure": "Jeni të sigurt që dëshironi të çaktivizoni kyçjen e aplikacionit?",
+  "enableBiometrics": "Aktivizo verifikimin biometrik",
+  "disableBiometrics": "Çaktivizo verifikimin biometrik",
+  "biometricsDescription": "Me verifikimin biometrik mund ta zhbllokoni aplikacionin me fytyrë ose me shenjë gishtash. Disponueshmëria varet nga pajisja juaj.",
+  "useAppLock": "Përdor kyçjen e aplikacionit",
+  "unlockWithBiometrics": "Zhblloko me biometri",
+  "resetPin": "Rivendos PIN-in",
+  "forwardCountMessages": "Dëshironi të përcillni {count, plural, =1{1 mesazh} other{{count} mesazhe}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Ndrysho imazhin",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Rrotullo majtas",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Rrotullo djathtas",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Pasqyro",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Ruaj",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Vizatoni",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Zhbëj",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Pastro",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Gomë",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Prit",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Po ngarkohen mesazhet…",
+  "buildDoesNotSupportFirebase": "Ky verzion nuk mbështet Firebase Cloud Messaging.",
+  "unableToRegisterDeviceForFirebase": "Nuk mund të regjistrohej pajisja për Firebase Cloud Messaging.",
+  "unifiedPushDistributors": "Shpërndarësit e UnifiedPush:",
+  "doubleTapToReact": "Prek dy herë për të reaguar",
+  "doubleTapToReactDescription": "Prekni dy herë mbi mesazh për të reaguar në vend të përzgjedhjes së tekstit",
+  "doubleTapReaction": "Reagim me prekje të dyfishtë",
+  "sendingFilesDoNotExit": "Po dërgohen {count} skedarë… Ju lutemi mos dilni!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Po ngjeshët videoja…",
+  "shareCrashReports": "Ndaj raportet e rrëzimit të aplikacionit",
+  "shareCrashReportsDescription": "Të ndahen automatikisht raportet e rrëzimit të aplikacionit me zhvilluesit?",
+  "videoCallsBetaWarning": "Thirrjet me video janë një veçori në testim (Beta). Mund të ketë probleme ose sjellje të papritura. Mund të dëgjojmë mendimet tuaja.",
+  "callNotAllowed": "Në këtë dhomë vetëm administratorët ose pronari mund të nisin thirrje, ju lutemi kërkojuni atyre ta nisin së pari.",
+  "countActiveCallMembers": "{count} anëtarë aktivë në thirrje",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Hyr në thirrje",
+  "noDevicesFound": "Nuk u gjetën pajisje",
+  "incomingCall": "Thirrje hyrëse",
+  "waitingForParticipant": "Po priten pjesëmarrësit…",
+  "decline": "Refuzo",
+  "videoCall": "Thirrje me video",
+  "voiceCall": "Thirrje me zë",
+  "previewImage": "[Foto]",
+  "previewVideo": "[Video]",
+  "previewVoice": "[Zë]",
+  "previewAudio": "[Audio]",
+  "previewFile": "[Skedar]",
+  "previewLocation": "[Vendndodhja]",
+  "previewSticker": "[Ngjitëse]",
+  "previewVoiceCall": "[Thirrje me zë]",
+  "previewVideoCall": "[Thirrje me video]",
+  "missedCall": "Thirrje e humbur",
+  "callBack": "Rithirr",
+  "hangUp": "Mbyll thirrjen",
+  "startCall": "Nisi thirrjen",
+  "selectCamera": "Zgjidh kamerën",
+  "selectMicrophone": "Zgjidh mikrofonin",
+  "selectSpeaker": "Zgjidh altoparlantin",
+  "toggleMicrophone": "Ndërro gjendjen e mikrofonit",
+  "toggleCamera": "Ndërro gjendjen e kamerës",
+  "startScreensharing": "Nisi ndarjen e ekranit",
+  "stopScreensharing": "Ndalo ndarjen e ekranit",
+  "raiseHand": "Ngre dorën",
+  "stopRaiseHand": "Ule dorën",
+  "preferSpeaker": "Prefero altoparlantin",
+  "unexpectedErrorOccurded": "Ndodhi një gabim i papritur: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Llogaritë dhe cilësimet",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Thirrje hyrëse nga {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Serveri u përgjigj me gabim: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Është i disponueshëm përditësimi për versionin {version}",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Shkarko",
+  "sharedLocation": "Vendndodhja e ndarë",
+  "contacts": "Kontaktet",
+  "groupChats": "Bisedat grupore",
+  "publicGroups": "Grupet publike",
+  "createGroupChat": "Krijo bisedë grupore",
+  "inviteFriends": "Fto miqtë",
+  "emptyChatsTitle": "S'ka biseda ende",
+  "emptyChatsDesc": "Kliko + në këndin e djathtë lart për të nisur një bisedë të re",
+  "emptyUsersTitle": "Momentalisht nuk keni mesazhe private",
+  "emptyUsersDesc": "Mund të hiqni filtrat për të parë biseda të tjera",
+  "emptyUnreadTitle": "S'ka asnjë mesazh të palezuar",
+  "emptyUnreadDesc": "Mund ta fiksoni bisedën te cilësimet e saj",
+  "emptyGroupChatsTitle": "Nuk jeni bashkuar me asnjë bisedë grupore ende",
+  "emptyGroupChatsDesc": "Mund të hiqni filtrat për të parë biseda të tjera",
+  "emptyPinnedTitle": "S'keni biseda të fiksuara",
+  "emptyPinnedDesc": "Mund ta fiksoni bisedën te cilësimet e saj",
+  "startChat": "Nisi bisedën",
+  "newGroupChat": "Bisedë e re grupore",
+  "invitedYouToJoinGroup": "{username} ju ftoi të bashkoheni me bisedën grupore",
+  "joinGroupBannerTitle": "Bashkohuni me bisedën grupore, qëndroni në kontakt",
+  "joinGroupBannerDesc": "Bisedat grupore i ndajnë anëtarët sipas temave. Të gjitha grupet ku jeni bashkuar do të shfaqen këtu.",
+  "certifiedGroups": "{count} grupe të certifikuara",
+  "membersCount": "{count} anëtarë",
+  "recentlyOnline": "Aktiv së fundmi",
+  "lastSeenLongAgo": "Nuk ka qenë aktiv prej kohësh",
+  "appearance": "Pamja",
+  "language": "Gjuha",
+  "selectLanguage": "Zgjidh gjuhën",
+  "privacyAndSecurity": "Privatësia dhe siguria",
+  "qrScanRecognizing": "Po njihet...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Koha e njohjes skadoi, ju lutemi riprovojeni",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "Nuk u gjet asnjë kod QR",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "Përmbajtja e kodit QR është e zbrazët",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Njohja dështoi",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "Kod QR i pavlefshëm",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Ky është kodi QR i llogarisë suaj",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Refuzo ftesën për grupin",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Jeni të sigurt që dëshironi të refuzoni bashkimin me grupin {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Kamera",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Foto dhe video",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Skedar",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Aktiv",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Joaktiv",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Mesazhi u fshi",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Ju fshitë një mesazh",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} fshiu një mesazh",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Skedari u ruajt",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "U ruajt në galeri",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Hapja e skedarit dështoi",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Skedar i panjohur",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Thirrje me video e humbur",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Thirrja u anulua",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} persona në thirrje",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Bashkohu",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Po pritet që të tjerët të bashkohen…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Vetëm administratorët e dhomës mund të nisin thirrje në këtë dhomë",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Kjo do ta fshijë bisedën nga lista, por nuk do të dilni nga biseda. Ajo do të rishfaqet automatikisht kur të merrni një mesazh të ri.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Pas fshirjes së grupit, të gjithë anëtarët do të largohen dhe kjo nuk mund të zhbëhet.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Përkthe",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Po përkthehet…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Përkthimi dështoi, ju lutemi provoni përsëri më vonë",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Thirrja në vijim",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Shfaqet kur një thirrje me zë ose me video është në vijim",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Kliko për t'u kthyer te thirrja",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Pala tjetër e anuloi thirrjen",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Thirrja me video u anulua",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Pala tjetër e anuloi thirrjen me video",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Mbrapsht",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Po bie zëri…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Po lidhet…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Thirrja përfundoi",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Thirrja dështoi",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Altoparlanti",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Dëgjuesja",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Ndërro kamerën",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Video",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Mikrofoni është i çaktivizuar",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Përfundo",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Unë",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Thirrje dalëse",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds}s",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes}m",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours}h {minutes}m",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Ndrysho rolin tim",
+  "permissions": "Lejet",
+  "changeMyRoleConfirmMessage": "Po ulni nivelin tuaj të lejeve. Ky ndryshim nuk mund të zhbëhet. Nëse jeni përdoruesi i fundit me privilegje në grup, nuk do të mund t'i rimerrni lejet.",
+  "demoteToAdmin": "Ule në administrator",
+  "demoteToModerator": "Ule në moderator",
+  "demoteToMember": "Ule në anëtar",
+  "addAdmin": "Shto administrator",
+  "addModerator": "Shto moderator",
+  "groupAdmins": "Administratorët e grupit",
+  "groupModerators": "Moderatorët e grupit",
+  "addAdminHelp": "Mund të shtoni administratorë për t'ju ndihmuar të menaxhoni komunitetin.",
+  "addModeratorHelp": "Mund të shtoni moderatorë për t'ju ndihmuar të menaxhoni komunitetin.",
+  "noCandidatesToAdd": "S'ka anëtarë të mundshëm për t'u shtuar",
+  "setAsAdminSuccess": "U vendos si administrator",
+  "setAsModeratorSuccess": "U vendos si moderator",
+  "searchMembers": "Kërko anëtarët",
+  "noResults": "S'ka rezultate",
+  "noResultsDescription": "Nuk u gjet asnjë rezultat përkatës, ju lutemi kërkoni përsëri.",
+  "removeAdminConfirm": "Jeni të sigurt që dëshironi t'i hiqni lejet e administratorit këtij përdoruesi?",
+  "removeModeratorConfirm": "Jeni të sigurt që dëshironi t'i hiqni lejet e moderatorit këtij përdoruesi?",
+  "removeAdminSuccess": "Lejet e administratorit u hoqën",
+  "removeModeratorSuccess": "Lejet e moderatorit u hoqën",
+  "manageMembers": "Menaxho anëtarët",
+  "inviteMembers": "Fto anëtarë",
+  "removeMembers": "Largo anëtarët",
+  "banMembers": "Përjashto anëtarët",
+  "editCommunity": "Ndrysho komunitetin",
+  "changeCommunityName": "Ndrysho emrin e komunitetit",
+  "changeCommunityAvatar": "Ndrysho mezin e komunitetit",
+  "changeCommunityDescription": "Ndrysho përshkrimin e komunitetit",
+  "messagesAndContent": "Mesazhet dhe përmbajtja",
+  "removeMessages": "Largo mesazhet",
+  "adminsOnly": "Vetëm administratorët",
+  "adminsAndModerators": "Administratorët dhe moderatorët",
+  "resetPermissions": "Rivendos lejet",
+  "resetPermissionsConfirmMessage": "Jeni të sigurt që dëshironi t'i ktheni të gjitha lejet në cilësimet e parazgjedhura?",
+  "changeSettings": "Ndrysho cilësimet",
+  "permissionChangedFromTo": "{sender} ndryshoi lejen {permission} nga {from} në {to}",
+  "changedUserRoleTo": "{username} ndryshoi rolin e {target} në {role}",
+  "viewInChat": "Shiko në bisedë",
+  "playbackSpeed": "Shpejtësia e riprodhimit",
+  "normalSpeed": "Normale",
+  "qrScanHint": "Vendosni kodin QR brenda kornizës për ta skenuar",
+  "torch": "Drita (Blic)",
+  "remarkVisibleOnlyToYou": "Shënimi është i dukshëm vetëm për ju",
+  "pollVotes": "{count} vota",
+  "totalPollVotes": "Gjithsej {count} vota",
+  "scanQrMobileOnly": "Veçoria e skenimit të kodit QR mbështetet vetëm në celularë",
+  "publicGroupTech": "Teknologji dhe shërbime zhvillimi",
+  "publicGroupMarketing": "Tregtim dhe reklamim",
+  "publicGroupWeb3": "Web3 dhe asete virtuale",
+  "publicGroupCrossBorder": "Shërbime ndërkufitare dhe asete virtuale",
+  "publicGroupFreelance": "Pune me orar të lirë (Freelance)",
+  "blockUsers": "Blloko përdoruesit",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Aktivizuar",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Kodi i kyçjes së ekranit",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Fjalëkalimi i hyrjes",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Çelësi i rimëkëmbjes",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Lejo ruajtjen e çelësave",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Ruajeni identitetin kriptografik dhe çelësat e mesazheve në mënyrë të sigurt në server, në mënyrë që të mund të shihni historikun e mesazheve në çdo pajisje të re.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Krijo rimëkëmbjen",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Përdorni çelësin e rimëkëmbjes për të rikthyer identitetin tuaj kriptografik dhe historikun e mesazheve nëse humbisni të gjitha pajisjet ekzistuese",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Vendos çelësin e rimëkëmbjes",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Ruani identitetin tuaj kriptografik dhe çelësat e mesazheve në mënyrë të sigurt në server. Kështu mund të shihni historikun e mesazheve tuaja në çdo pajisje të re.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Gjenero çelësin e rimëkëmbjes",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Kliko për të kopjuar çelësin e rimëkëmbjes",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Ruaj çelësin e rimëkëmbjes",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Ruajeni këtë çelës rimëkëmbjeje në një vend të sigurt, si për shembull te një menaxhues fjalëkalimesh ose kasafortë fizike.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Ruaj çelësin e rimëkëmbjes",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Çelësi i rimëkëmbjes u kopjua",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Çelësi i rimëkëmbjes u ruajt",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "Po gjenerohet çelësi i rimëkëmbjes…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Ndaj statusin e aktivitetit",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Pas çaktivizimit nuk do të dërgoni apo merrni konfirmime leximi ose njoftime për shkrimin",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Optimizuar për ngarkim",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Moderimi i përmbajtjes dhe siguria",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Fshih mezin në kërkesat e ftesave për dhomë",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Shfaq mediat në vijën e kohës",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Fshih gjithmonë",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "Në dhomat private",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Shfaq gjithmonë",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Të gjitha",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Vetëm përmendjet",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Bisedë grupore",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Bisedë private",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Më njofto në bisedat grupore",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Më njofto në bisedat private",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Të gjitha mesazhet",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Vetëm përmendjet dhe fjalët kyçe",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "Serveri nuk e mbështet këtë opsion në grupet e enkriptuara, prandaj mund të mos merrni njoftime në disa grupe",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Cilësime të pavarura për çdo bisedë",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Aktivizimi i këtij opsioni do të mbishkruajë cilësimet tuaja të parazgjedhura.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Më njofto në këtë bisedë",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Vetëm përmendjet dhe fjalët kyçe",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Serveri juaj kryesor nuk e mbështet këtë opsion në dhomat e enkriptuara, mund të mos merrni njoftime në disa dhoma.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Lejo cilësime të përshtatura",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Më njofto në këtë pajisje",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Përmendjet",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Më njofto kur më përmendin në grup",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Më shumë cilësime",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Fjalëkalimi i vjetër",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Khapja me PIN",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Aktivizo kyçjen e ekranit",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Ju lutemi shkruani kodin e kyçjes së ekranit",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Ju lutemi shkruani përsëri kodin e ri të kyçjes",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Ju lutemi shkruani kodin e vjetër të kyçjes",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Kodi i vjetër është i pasaktë, ju lutemi provoni përsëri",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Ndrysho kodin e kyçjes",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Vëmendje: Nëse harroni kodin e kyçjes, do t'ju duhet ta riinstaloni aplikacionin.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Kodet e shkruara nuk përputhen",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Kodi i kyçjes u aktivizua",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Kodi i kyçjes u çaktivizua",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Kjo pajisje",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Dil nga të gjitha seancat në pajisjet e tjera",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Shkyç nga të gjitha pajisjet përveç kësaj.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Seancat aktive",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Fshi pajisjen",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Jeni të sigurt për fshirjen e pajisjes {name}?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "ID e pajisjes",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Hyrja e fundit",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "Adresa IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Klienti",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "ID e klientit",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Emri",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Largo pajisjen",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} më parë",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "minuta",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "orë",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "ditë",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Mirë se vini në {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "Mirë se vini në përdorimin e {appName}, një aplikacion mesazhesh i shpejtë dhe minimalist.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Krijo llogari",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Përditësimi është gati",
+  "updateReadyMessage": "Kemi optimizuar disa funksione. Rinisni aplikacionin për të aplikuar përditësimin.",
+  "restartNow": "Rinis tani",
+  "noPublicGroupsYet": "Ende nuk ka grupe të certifikuara"
+}

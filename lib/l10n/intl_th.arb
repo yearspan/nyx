@@ -1,0 +1,4083 @@
+{
+  "@@locale": "th",
+  "@@last_modified": "2021-08-14 12:41:09.767805",
+  "about": "เกี่ยวกับ",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "ยอมรับ",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} ยอมรับคำเชิญแล้ว",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "บัญชี",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} เปิดใช้งานการเข้ารหัสแบบต้นทางถึงปลายทางแล้ว",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "เพิ่มอีเมล",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "ผู้ดูแลระบบ",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "ชื่อสำรอง",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "ทั้งหมด",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} รับสายแล้ว",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "ทุกคนสามารถเข้าร่วมได้",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "ล็อกแอปพลิเคชัน",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "เก็บถาวร",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "อนุญาตให้แขกเข้าร่วมได้หรือไม่?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "คุณแน่ใจหรือไม่?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "โปรดป้อนรหัสผ่านที่เก็บข้อมูลปลอดภัยหรือคีย์กู้คืนของคุณเพื่อลงชื่อ",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "ยอมรับคำขอการยืนยันจาก {username} หรือไม่?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "Type": "String",
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "ประเภทการเข้าสู่ระบบที่เซิร์ฟเวอร์หลักรองรับ:\\n{serverVersions}\\nแต่แอปพลิเคชันนี้รองรับเฉพาะ:\\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "แบนออกจากแชท",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "แบนสมาชิก",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "ถูกแบน",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} แบน {targetName} แล้ว",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "บล็อกอุปกรณ์",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "ถูกบล็อก",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "ยกเลิก",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "เปลี่ยนชื่ออุปกรณ์",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} เปลี่ยนรูปโปรไฟล์แชทแล้ว",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} เปลี่ยนสิทธิ์การแชทแล้ว",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} เปลี่ยนชื่อที่แสดงเป็น '{displayname}' แล้ว",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} เปลี่ยนกฎการเข้าถึงของแขกแล้ว",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} เปลี่ยนกฎการเข้าถึงของแขกเป็น: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} เปลี่ยนการมองเห็นประวัติแชทแล้ว",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} เปลี่ยนการมองเห็นประวัติแชทเป็น: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} เปลี่ยนกฎการเข้าร่วมแล้ว",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} เปลี่ยนกฎการเข้าร่วมเป็น: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} เปลี่ยนรูปโปรไฟล์แล้ว",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} เปลี่ยนชื่อสำรองของห้องแล้ว",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} เปลี่ยนลิงก์คำเชิญห้องแล้ว",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "เปลี่ยนรหัสผ่าน",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "เปลี่ยนเซิร์ฟเวอร์หลัก",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "เปลี่ยนธีม",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "เปลี่ยนชื่อกลุ่ม",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "เปลี่ยนรูปโปรไฟล์ของคุณ",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "การเข้ารหัสเสียหาย",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "แชท",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "สำรองข้อมูลแชท",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "รายละเอียดแชท",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "แชททั้งหมด",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "เลือก [รหัสผ่าน] ที่รัดกุม",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "ล้างข้อมูลที่เก็บถาวร",
+  "close": "ปิด",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "แบนผู้ใช้ที่ระบุออกจากห้องแชทนี้",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "ส่งข้อความที่จัดรูปแบบ HTML",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "เชิญผู้ใช้ที่ระบุเข้าสู่ห้องแชทนี้",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "เข้าร่วมห้องแชทที่ระบุ",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "เตะผู้ใช้ที่ระบู่ออกจากห้องแชทนี้",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "ออกจากห้องแชทนี้",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "อธิบายตัวคุณเอง",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "ตั้งค่ารูปโปรไฟล์ของคุณในห้องนี้ (ผ่าน mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "ตั้งชื่อเล่นของคุณในห้องนี้",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "กำหนดระดับสิทธิ์ของผู้ใช้ที่ระบุ (ค่าเริ่มต้น: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "ส่งข้อความธรรมดา",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "ส่งการตอบสนองเป็นปฏิกิริยา",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "ส่งข้อความ",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "ยกเลิกการแบนผู้ใช้ที่ระบุในห้องแชทนี้",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "คำสั่งไม่ถูกต้อง",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} ไม่ใช่คำสั่งที่ถูกต้อง",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "โปรดเปรียบเทียบอิโมจิ",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "โปรดเปรียบเทียบตัวเลขด้านล่างนี้",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "กำหนดค่าแชท",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "ได้รับเชิญผู้ติดต่อเข้าร่วมกลุ่มแล้ว",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "รายงานเนื้อหานี้ไปยังผู้ดูแลเซิร์ฟเวอร์แล้ว",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "คัดลอกไปยังคลิปบอร์ดแล้ว",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "คัดลอก",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "คัดลอกไปยังคลิปบอร์ด",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "ไม่สามารถถอดรหัสข้อความได้: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "ไม่สามารถถอดรหัสข้อความได้ชั่วคราว โปรดลองใหม่อีกครั้งในภายหลัง",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} ผู้เข้าร่วม",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "สร้าง",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} สร้างแชทแล้ว",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "ใช้งานอยู่ตอนนี้",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "มืด",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "การดำเนินการนี้จะปิดใช้งานบัญชีผู้ใช้ของคุณ ไม่สามารถย้อนกลับได้! คุณแน่ใจหรือไม่?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "ระดับสิทธิ์เริ่มต้นสำหรับผู้ใช้ใหม่",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "ลบ",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "ลบบัญชี",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "ลบข้อความ",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "ลบข้อความทั้งหมด",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "ล้างประวัติการแชท",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "คุณแน่ใจหรือไม่ว่าต้องการลบข้อความทั้งหมดในแชทนี้? การดำเนินการนี้ไม่สามารถย้อนกลับได้",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติการแชทนี้? การดำเนินการนี้ไม่สามารถย้อนกลับได้",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "เปิดใช้งานการลบอัตโนมัติ",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "ลบข้อความใหม่ในห้องแชทนี้โดยอัตโนมัติหลังจากผ่านไปสักระยะ",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 วัน",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 สัปดาห์",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 เดือน",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "ปิดใช้งาน",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "อุปกรณ์",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "แชทส่วนตัว",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "เปลี่ยนชื่อที่แสดงแล้ว",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "ดาวน์โหลดไฟล์",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "แก้ไข",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "แก้ไขเซิร์ฟเวอร์ที่ถูกบล็อก",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "แก้ไขชื่อที่แสดง",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "แก้ไขชื่อสำรองของห้อง",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "แก้ไขรูปโปรไฟล์ห้อง",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "มีอีโมจินี้อยู่แล้ว!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "รหัสย่ออีโมจิไม่ถูกต้อง!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "รหัสย่ออีโมจิ",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "แชทว่างเปล่า",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "เปิดใช้งานอีโมจิทั่วโลก",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "เปิดใช้งานการเข้ารหัส",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "คุณจะไม่สามารถปิดใช้งานการเข้ารหัสได้ในภายหลัง คุณแน่ใจหรือไม่?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "เข้ารหัสแล้ว",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "การเข้ารหัส",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "ยังไม่ได้เปิดใช้งานการเข้ารหัส",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} วางสายแล้ว",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "ป้อนที่อยู่อีเมล",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "ขนาดตัวอักษร",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "ส่งต่อ",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "ส่งต่อแล้ว",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "นับตั้งแต่เข้าร่วม",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "นับจากคำเชิญ",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "กลุ่ม",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "กลุ่มนี้เป็นสาธารณะ",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "กลุ่ม",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "กลุ่มกับ {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "ไม่อนุญาตให้แขกเข้าร่วม",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "แขกสามารถเข้าร่วมได้",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} ถอนคำเชิญสำหรับ {targetName} แล้ว",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "ช่วยเหลือ",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "ซ่อนกิจกรรมที่ไม่รู้จัก",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "ละเว้น",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "ผู้ใช้ที่ถูกละเว้น",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "ฉันคลิกลิงก์แล้ว",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "วลีรหัสผ่านหรือคีย์กู้คืนไม่ถูกต้อง",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "เชิญผู้ติดต่อ",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "เชิญผู้ติดต่อเข้าร่วมกลุ่ม {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "ได้รับเชิญ",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} เชิญ {targetName} แล้ว",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "เฉพาะผู้ใช้ที่ได้รับเชิญเท่านั้น",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} เชิญคุณมาใช้งาน NYX \\n1. ติดตั้งแอปพลิเคชัน NYX: https://fluffychat.im \\n2. ลงทะเบียนหรือเข้าสู่ระบบ \\n3. เปิดลิงก์คำเชิญ:\\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "กำลังพิมพ์…",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} เข้าร่วมแชทแล้ว",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "เข้าร่วมห้อง",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "ป้อนที่อยู่ห้อง",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "เช่น !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "ที่อยู่ไม่ถูกต้อง!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "ไม่พบห้อง!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "เข้าร่วมห้องไม่สำเร็จ",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "พบห้องที่ตรงกัน",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "ดำเนินการต่อ",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "ไม่มีหัวข้อห้อง",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "สมัครเพื่อเข้าร่วม",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "เข้าสู่ห้อง",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "บทนำ",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} เตะ {targetName} ออกแล้ว",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} เตะและแบน {targetName} แล้ว",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "เตะออกจากแชท",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "คุณถูกเตะออกจากกลุ่มนี้แล้ว",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "นำสมาชิกออก",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "ใช้งานล่าสุดเมื่อ: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "ออก",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "ออกจากแชทแล้ว",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "สว่าง",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "โหลดผู้เข้าร่วมเพิ่มอีก {count} คน",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "กำลังโหลด… โปรดรอสักครู่",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "โหลดเพิ่ม…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "เข้าสู่ระบบ",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "เข้าสู่ระบบสู่ {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "ออกจากระบบ",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "คุณแน่ใจหรือไม่ว่าต้องการออกจากบัญชี NYX นี้?",
+  "mention": "กล่าวถึง",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "ข้อความ",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "ผู้ดูแล",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "ปิดเสียงแชท",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "แชทใหม่",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 ข้อความใหม่ใน NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "คำขอการยืนยันใหม่!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "ถัดไป",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "ไม่ใช่",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "ไม่มีการเชื่อมต่อกับเซิร์ฟเวอร์",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "ไม่พบอีโมจิ 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "คุณสามารถเปิดใช้งานการเข้ารหัสได้เฉพาะเมื่อห้องนี้ไม่ใช่ห้องสาธารณะเท่านั้น",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "ดูเหมือนว่าโทรศัพท์ของคุณไม่มี Firebase Cloud Messaging หากคุณต้องการรับการแจ้งเตือนพุชสำหรับ NYX ต่อไป ขอแนะนำให้ติดตั้ง ntfy ผ่าน PlayStore หรือ F-Droid เพื่อความปลอดภัยของข้อมูล",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "คุณยังไม่ได้เพิ่มวิธีการกู้คืนรหัสผ่าน",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "ไม่มีสิทธิ์",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "ไม่พบห้อง…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "การแจ้งเตือน",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} คนกำลังพิมพ์…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "ตกลง",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "เปิดใช้งานการสำรองข้อมูลคีย์ออนไลน์แล้ว",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "อุ๊ย! น่าเสียดาย เกิดข้อผิดพลาดในการกำหนดค่าการแจ้งเตือนพุช",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "อุ๊ย เกิดข้อผิดพลาดบางอย่างขึ้น…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "เปิดแอปเพื่ออ่านข้อความ",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "เปิดกล้อง",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "หรือ",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "ผู้เข้าร่วม",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "วลีรหัสผ่านหรือคีย์กู้คืน",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "รหัสผ่าน",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "ลืมรหัสผ่าน",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "เปลี่ยนรหัสผ่านแล้ว",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "การกู้คืนรหัสผ่าน",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "ปักหมุด",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "โปรดเลือกรหัสผ่าน",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "โปรดคลิกลิงก์ในอีเมลแล้วดำเนินการต่อ",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "โปรดป้อนรหัสผ่านของคุณ",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "โปรดป้อนรหัส PIN ของคุณ",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "โปรดป้อนรหัสล็อก",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "โปรดป้อนชื่อผู้ใช้ของคุณ",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "โปรดทำตามคำแนะนำบนเว็บไซต์แล้วคลิกถัดไป",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "ความเป็นส่วนตัว",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "ห้องสาธารณะ",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "เหตุผล",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} ลบกิจกรรมแล้ว",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "ลบข้อความ",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "ปฏิเสธ",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} ปฏิเสธคำเชิญแล้ว",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "นำออก",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "นำอุปกรณ์อื่นๆ ทั้งหมดออก",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "ยกเลิกการแบนจากแชท",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "นำรูปโปรไฟล์ออก",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "อัปเกรดห้องเป็นเวอร์ชันใหม่กว่า",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "ตอบกลับ",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "รายงานข้อความ",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "ห้องได้รับการอัปเกรดแล้ว",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "เวอร์ชันห้อง",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "บันทึกไฟล์",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "ค้นหา",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "ความปลอดภัย",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "ส่ง",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "ส่งข้อความ",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "ส่งเป็นข้อความ",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "ส่งเสียง",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "ส่งไฟล์",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "ส่งรูปภาพ",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "ส่งข้อความ",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "ส่งวิดีโอ",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} ส่งไฟล์แล้ว",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} ส่งข้อความเสียงแล้ว",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} ส่งรูปภาพแล้ว",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} ส่งสติกเกอร์แล้ว",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} ส่งวิดีโอแล้ว",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} ส่งข้อมูลการโทรแล้ว",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "ตั้งเป็นชื่อสำรองหลัก",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "ตั้งค่าสถานะ",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "การตั้งค่า",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "แชร์",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} แชร์ตำแหน่งแล้ว",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "ข้าม",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "ซอร์สโค้ด",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} เริ่มต้นการโทรแล้ว",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "สถานะ",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "วันนี้เป็นอย่างไรบ้าง?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "ส่ง",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "กำลังซิงโ크รไนซ์… โปรดรอสักครู่",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "ระบบ",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "ไม่ตรงกัน",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "ตรงกัน",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "มีคำขอมากเกินไป โปรดลองใหม่อีกครั้งในภายหลัง!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "ลองส่งใหม่อีกครั้ง",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} ยกเลิกการแบน {targetName} แล้ว",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "เลิกบล็อกอุปกรณ์",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "อุปกรณ์ที่ไม่รู้จัก",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "อัลกอริทึมการเข้ารหัสที่ไม่รู้จัก",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "กิจกรรมที่ไม่รู้จัก '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "เปิดเสียงแชท",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "ยกเลิกปักหมุด",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} และอีก {count} คนกำลังพิมพ์…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} และ {username2} กำลังพิมพ์…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} กำลังพิมพ์…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} ออกจากแชทแล้ว",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} ส่งกิจกรรมประเภท {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "ยืนยันแล้ว",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "ยืนยันผู้ใช้",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "ยืนยันผู้ใช้นี้",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "เพื่อความปลอดภัยยิ่งขึ้น โปรดตรวจสอบตัวตนของผู้ใช้นี้โดยเปรียบเทียบอิโมจิชุดหนึ่งบนอุปกรณ์ของคุณ ควรทำผ่านช่องทางที่ปลอดภัย เช่น การพบกันต่อหน้า",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "กำลังรอผู้ใช้อื่น",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "เมื่อได้รับการยอมรับ คุณจะสามารถดำเนินการยืนยันต่อได้",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "เปรียบเทียบอิโมจิ",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "เปรียบเทียบอิโมจิเพื่อให้แน่ใจว่าอยู่ในลำดับเดียวกัน",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "โปรดตรวจสอบว่าอิโมจิด้านล่างตรงกับอิโมจิบนอุปกรณ์ของอีกฝ่าย",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "คำขอการยืนยัน",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "เพื่อความปลอดภัยยิ่งขึ้น ผู้ใช้อื่นต้องการยืนยันตัวตนของคุณ คุณจะเห็นอิโมจิชุดหนึ่งเพื่อใช้เปรียบเทียบ",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "ยืนยันสำเร็จ",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "ตอนนี้คุณสามารถไว้วางใจตัวตนของผู้ใช้นี้เพื่อเริ่มการโทรหรือรับส่งข้อความได้แล้ว",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "การยืนยันล้มเหลว",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "คำขอหมดเวลา ถูกปฏิเสธ หรือข้อมูลยืนยันไม่ตรงกัน",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "เสร็จสิ้น",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "ลองอีกครั้ง",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "ยืนยันผู้ใช้นี้หรือไม่?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "นี่คือข้อความแรกที่คุณส่งถึงผู้ใช้นี้ เพื่อความปลอดภัยยิ่งขึ้น คุณสามารถยืนยันตัวตนของพวกเขาก่อนส่ง หรือจะส่งโดยตรงเลยก็ได้",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "ยืนยันตอนนี้",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "ส่งโดยตรง",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "การแจ้งเตือนข้อความ",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "การแจ้งเตือนข้อความ",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "เพิ่มประวัติส่วนตัว",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "ตั้งรูปโปรไฟล์ใหม่",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "สมาชิก",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "บทบาทและสิทธิ์",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "โปรไฟล์ส่วนตัว",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "ตั้งหมายเหตุ",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "ข้อความที่ปักหมุด",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 ข้อความที่ปักหมุด} other{{count} ข้อความที่ปักหมุด}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "ไม่มีข้อความที่ปักหมุด",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "ข้อตกลง",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "สื่อและไฟล์",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "แบบสำรวจ",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "ออกจากชุมชน",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "ลบแชทกลุ่ม",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "สื่อ",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "ไม่มีสื่อ",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "ไม่มีไฟล์",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "กำลังดาวน์โหลดไฟล์…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "เพิ่มลงในผู้ติดต่อ",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "เพิ่มผู้ติดต่อ",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "ลบผู้ติดต่อ",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "ประวัติส่วนตัว",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "ยังไม่มีประวัติส่วนตัว",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "บล็อกผู้ใช้",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "เลิกบล็อก",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "โทร",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "เริ่มการยืนยัน",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "คุณยืนยันสำเร็จแล้ว!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "ยืนยันบัญชีอื่น",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "การมองเห็นประวัติการแชท",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "มองเห็นได้สำหรับผู้เข้าร่วมทุกคน",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "มองเห็นได้สำหรับทุกคน",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "ข้อความเสียง",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "กำลังรอให้อีกฝ่ายยอมรับคำขอ…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "กำลังรอให้อีกฝ่ายยอมรับอิโมจิ…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "กำลังรอให้อีกฝ่ายยอมรับตัวเลข…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "คำเตือน!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "เราได้ส่งอีเมลถึงคุณแล้ว",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "ใครสามารถดำเนินการใดได้บ้าง",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "ใครได้รับอนุญาตให้เข้าร่วมกลุ่มนี้",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "ทำไมคุณถึงต้องการรายงานสิ่งนี้?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "คุณสามารถกู้คืนรหัสผ่านของคุณผ่านที่อยูเหล่านี้ได้",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "เขียนข้อความ…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "ใช่",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "คุณ",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "คุณไม่ได้มีส่วนร่วมในแชทนี้อีกต่อไป",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "คุณถูกแบนจากแชทนี้แล้ว",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "คีย์สาธารณะของคุณ",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "เพิ่มลงในสเปซ",
+  "obtainingLocation": "กำลังรับตำแหน่ง…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} ไม่ใช่เซิร์ฟเวอร์ Matrix, ลองใช้ {server2} แทนหรือไม่?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "สิทธิ์การเข้าถึงตำแหน่งถูกปฏิเสธ โปรดให้สิทธิ์นี้เพื่อแชร์ตำแหน่งของคุณ",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "บริการระบุตำแหน่งถูกปิดใช้งาน โปรดเปิดใช้งานเพื่อแชร์ตำแหน่งของคุณ",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "เกิดข้อผิดพลาดในการรับตำแหน่ง: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "สร้างสเปซใหม่",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "ไม่สามารถเปิด URI {uri} ได้",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "เล่นสติกเกอร์ตุกติกและภาพเคลื่อนไหวอัตโนมัติ",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "ชื่อสเปซ",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "สเปซนี้เป็นสาธารณะ",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "แชร์ตำแหน่ง",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "เปิดในแผนที่",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "กด Enter เพื่อส่ง",
+  "scanQrCode": "สแกนคิวอาร์โค้ด",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "คิวอาร์โค้ด",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "แชร์คิวอาร์โค้ด",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "ไคลเอนต์ของคุณตัวหนึ่งออกจากระบบแล้ว",
+  "removeFromBundle": "นำออกจากชุดรวมนี้",
+  "unverified": "ยังไม่ได้ยืนยัน",
+  "repeatPassword": "ยืนยันรหัสผ่าน",
+  "addAccount": "เพิ่มบัญชี",
+  "editBundlesForAccount": "แก้ไขชุดรวมสำหรับบัญชีนี้",
+  "addToBundle": "เพิ่มลงในชุดรวม",
+  "bundleName": "ชื่อชุดรวม",
+  "link": "ลิงก์",
+  "sender": "ผู้ส่ง",
+  "openGallery": "เปิดแกลเลอรี",
+  "messageInfo": "ข้อมูลข้อความ",
+  "time": "เวลา",
+  "removeFromSpace": "นำออกจากสเปซนี้",
+  "commandHint_discardsession": "ละทิ้งเซสชัน",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "สร้างแชทส่วนตัว\\nใช้ตัวเลือก --no-encryption เพื่อปิดการเข้ารหัส",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "ล้างแคช",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "สร้างแชทกลุ่มเปล่า\\nใช้ตัวเลือก --no-encryption เพื่อปิดการเข้ารหัส",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "ทำเครื่องหมายว่าอ่านแล้ว",
+  "reportUser": "รายงานผู้ใช้",
+  "reactedWith": "{sender} ตอบสนองด้วย {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการปักหมุดเหตุการณ์นี้อย่างถาวร?",
+  "pinMessage": "ปักหมุดในห้อง",
+  "emojis": "อิโมจิ",
+  "unsupportedAndroidVersionLong": "ฟีเจอร์นี้ต้องใช้เวอร์ชัน Android ที่ใหม่กว่า โปรดตรวจสอบการอัปเดตหรือการสนับสนุนจาก Lineage OS",
+  "unsupportedAndroidVersion": "เวอร์ชัน Android ไม่รองรับ",
+  "youRejectedTheInvitation": "คุณปฏิเสธคำเชิญแล้ว",
+  "youJoinedTheChat": "คุณเข้าร่วมแชทแล้ว",
+  "youBannedUser": "คุณแบน {user} แล้ว",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 คุณได้รับเชิญโดย {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 คุณเชิญ {user} แล้ว",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 คุณเตะ {user} ออกแล้ว",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "คุณยกเลิกการแบน {user} แล้ว",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 คุณยอมรับคำเชิญแล้ว",
+  "youHaveWithdrawnTheInvitationFor": "คุณได้ถอนคำเชิญสำหรับ {user} แล้ว",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 คุณเตะและแบน {user} แล้ว",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "จัดเก็บใน Apple KeyChain",
+  "storeInAndroidKeystore": "จัดเก็บใน Android KeyStore",
+  "storeSecurlyOnThisDevice": "จัดเก็บอย่างปลอดภัยบนอุปกรณ์นี้",
+  "users": "ผู้ใช้",
+  "countFiles": "{count} ไฟล์",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "กู้คืนจากไฟล์สำรอง",
+  "dehydrate": "ส่งออกเซสชันและล้างข้อมูลอุปกรณ์",
+  "dehydrateWarning": "การดำเนินการนี้ไม่สามารถย้อนกลับได้ โปรดตรวจสอบให้แน่ใจว่าคุณได้จัดเก็บไฟล์สำรองไว้อย่างปลอดภัย",
+  "user": "ผู้ใช้",
+  "userNotFound": "ไม่พบผู้ใช้",
+  "custom": "กำหนดเอง",
+  "confirmMatrixId": "โปรดยืนยัน Matrix ID ของคุณเพื่อลบบัญชี",
+  "supposedMxid": "ควรจะเป็น: {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "ทำเครื่องหมายว่าเป็นกลุ่ม",
+  "commandHint_markasdm": "ทำเครื่องหมาย Matrix ID ที่ระบุว่าเป็นแชทส่วนตัว",
+  "whyIsThisMessageEncrypted": "ทำไมข้อความนี้จึงไม่สามารถอ่านได้?",
+  "noKeyForThisMessage": "ปัญหานี้อาจเกิดขึ้นหากข้อความถูกส่งก่อนที่คุณจะเข้าสู่ระบบบัญชีนี้บนอุปกรณ์นี้\\n\\nนอกจากนี้ ผู้ส่งอาจบล็อกอุปกรณ์ของคุณหรืออาจเกิดปัญหาการเชื่อมต่อเครือข่าย\\n\\nคุณสามารถอ่านข้อความในเซสชันอื่นได้หรือไม่? ถ้าได้ คุณสามารถโอนย้ายข้อมูลจากที่นั่นได้! ไปที่ การตั้งค่า > อุปกรณ์ และตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณยืนยันกันและกันแล้ว กุญแจจะถูกโอนย้ายโดยอัตโนมัติในครั้งถัดไปที่คุณเปิดห้องแชทและเซสชันทั้งสองใช้งานอยู่หน้าจอ\\n\\nคุณไม่ต้องการสูญเสียกุญแจเมื่อออกจากระบบหรือเปลี่ยนอุปกรณ์ใช่ไหม? โปรดตรวจสอบว่าได้เปิดใช้งานการสำรองข้อมูลแชทในการตั้งค่าแล้ว",
+  "newSpace": "สเปซใหม่",
+  "doNotShowAgain": "ไม่ต้องแสดงอีก",
+  "googlyEyesContent": "{senderName} ส่งอีโมจิ 'ตาโตตื่นเต้น' ให้คุณ",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "ส่งอีโมจิ 'ตาโตตื่นเต้น'",
+  "commandHint_cuddle": "ส่งการกระทำ 'คลอเคลีย'",
+  "commandHint_hug": "ส่งการกระทำ 'กอด'",
+  "cuddleContent": "{senderName} คลอเคลียคุณ",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} กอดคุณ",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "แชทว่างเปล่า (ชื่อเดิม: {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "สเปซช่วยให้คุณจัดระเบียบแชทและสร้างชุมชนส่วนตัวหรือสาธารณะได้",
+  "encryptThisChat": "เข้ารหัสแชทนี้",
+  "disableEncryptionWarning": "เนื่องจากเหตุผลด้านความปลอดภัย คุณไม่สามารถปิดใช้งานการเข้ารหัสของแชทที่เคยเข้ารหัสมาก่อนได้",
+  "sorryThatsNotPossible": "ขออภัย… นั่นเป็นไปไม่ได้",
+  "report": "รายงาน",
+  "fileIsTooBigForServer": "ไม่สามารถส่งได้! เซิร์ฟเวอร์รองรับขนาดไฟล์สูงสุด {max} เท่านั้น",
+  "noOtherDevicesFound": "ไม่พบอุปกรณ์อื่น",
+  "jumpToLastReadMessage": "ข้ามไปยังข้อความที่อ่านล่าสุด",
+  "readUpToHere": "อ่านถึงตรงนี้แล้ว",
+  "jump": "ข้าม",
+  "openLinkInBrowser": "เปิดลิงก์ในเบราว์เซอร์",
+  "fileHasBeenSavedAt": "บันทึกไฟล์ที่: {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 โอ้ไม่นะ เกิดข้อผิดพลาดบางอย่าง หากต้องการคุณสามารถรายงานข้อผิดพลาดนี้ให้นักพัฒนาทราบได้",
+  "noBackupWarning": "คำเตือน! หากคุณไม่เปิดใช้งานการสำรองข้อมูลแชท คุณจะไม่สามารถเข้าถึงข้อความที่เข้ารหัสได้ ขอแนะนำอย่างยิ่งให้เปิดใช้งานการสำรองข้อมูลแชทก่อนออกจากระบบ",
+  "reopenChat": "เปิดแชทอีกครั้ง",
+  "importEmojis": "นำเข้าอีโมจิ",
+  "notAnImage": "ไม่ใช่ไฟล์รูปภาพ",
+  "importNow": "นำเข้าตอนนี้",
+  "importFromZipFile": "นำเข้าจากไฟล์ .zip",
+  "replace": "แทนที่",
+  "exportEmotePack": "ส่งออกชุดอีโมจิเป็น .zip",
+  "sendTypingNotifications": "ส่งการแจ้งเตือนการพิมพ์",
+  "createGroup": "สร้างแชทกลุ่ม",
+  "shareInviteLink": "แชร์ลิงก์คำเชิญ",
+  "tryAgain": "ลองอีกครั้ง",
+  "chatPermissions": "สิทธิ์การแชท",
+  "chatDescription": "คำอธิบายแชท",
+  "chatDescriptionHasBeenChanged": "เปลี่ยนคำอธิบายแชทแล้ว",
+  "noChatDescriptionYet": "ยังไม่มีคำอธิบายแชท",
+  "invalidServerName": "ชื่อเซิร์ฟเวอร์ไม่ถูกต้อง",
+  "redactMessageDescription": "ข้อความนี้จะถูกลบสำหรับผู้เข้าร่วมทุกคนในแชทนี้ การดำเนินการนี้ไม่สามารถย้อนกลับได้",
+  "optionalRedactReason": "(ไม่บังคับ) เหตุผลในการลบข้อความนี้...",
+  "setChatDescription": "ตั้งค่าคำอธิบายแชท",
+  "setColorTheme": "ตั้งค่าธีมสี:",
+  "invite": "เชิญ",
+  "addMembers": "เพิ่มสมาชิก",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "เชิญผ่านลิงก์",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "รายชื่อนี้สามารถดูได้โดยผู้ดูแลระบบกลุ่มเท่านั้น",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "ผู้ติดต่อในแชทนี้",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "กลุ่มนี้ยังไม่มีลิงก์คำเชิญ",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "รูปแบบข้อความ:",
+  "redactedBy": "ถูกลบโดย {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "ถูกลบโดย {username} เนื่องจาก: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 คำเชิญแชทกลุ่ม",
+  "emoteKeyboardNoRecents": "อีโมจิที่ใช้ล่าสุดจะปรากฏที่นี่...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "ข้อมูลป้อนเข้าไม่ถูกต้อง!",
+  "wrongPinEntered": "ป้อน PIN ไม่ถูกต้อง! โปรดลองอีกครั้งใน {seconds}วินาที…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} ขอเคาะประตูเพื่อเข้าร่วมห้องแชท",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "โปรดป้อนตัวเลขที่มากกว่า 0",
+  "banUserDescription": "ผู้ใช้นี้จะถูกแบนออกจากห้องแชทและจะไม่สามารถเข้ามาได้อีกจนกว่าจะถูกยกเลิกการแบน",
+  "removeDevicesDescription": "คุณจะออกจากระบบจากอุปกรณ์นี้และจะไม่ได้รับข้อความอีกต่อไป",
+  "unbanUserDescription": "หากผู้ใช้พยายามเข้าร่วม พวกเขาสามารถเข้ามาในแชทได้อีกครั้ง",
+  "pushNotificationsNotAvailable": "ไม่สามารถใช้งานการแจ้งเตือนพุชได้",
+  "makeAdminDescription": "หลังจากตั้งผู้ใช้นี้เป็นผู้ดูแลระบบแล้ว พวกเขาจะมีสิทธิ์เหมือนกับคุณ และคุณอาจไม่สามารถย้อนกลับการกระทำนี้ได้",
+  "archiveRoomDescription": "แชทจะถูกย้ายไปยังที่เก็บถาวร ผู้ใช้อื่นจะเห็นว่าคุณออกจากแชทแล้ว",
+  "learnMore": "เรียนรู้เพิ่มเติม",
+  "roomUpgradeDescription": "ห้องแชทปัจจุบันจะถูกสร้างใหม่โดยใช้เวอร์ชันห้องใหม่ ผู้เข้าร่วมทุกคนจะได้รับแจ้งให้ย้ายไปยังห้องใหม่ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเวอร์ชันห้อง โปรดไปที่ https://spec.matrix.org/latest/rooms/",
+  "kickUserDescription": "ผู้ใช้นี้จะถูกเตะออกจากแชทแต่จะไม่ถูกแบน ในแชทสาธารณะ ผู้ใช้นี้สามารถกลับเข้ามาใหม่ได้ตลอดเวลา",
+  "blockListDescription": "คุณสามารถบล็อกผู้ใช้ที่รบกวนคุณได้ คุณจะไม่ได้รับข้อความหรือคำเชิญเข้าห้องใดๆ จากผู้ใช้ในรายการบล็อกของคุณ",
+  "createGroupAndInviteUsers": "สร้างกลุ่มและเชิญผู้ใช้",
+  "blockedUsers": "ผู้ใช้ที่ถูกบล็อก",
+  "groupCanBeFoundViaSearch": "สามารถค้นหากลุ่มนี้ได้ผ่านการค้นหา",
+  "noUsersFoundWithQuery": "ขออภัย ไม่พบผู้ใช้ที่ตรงกับ \"{query}\" โปรดตรวจสอบว่าสะกดถูกต้องหรือไม่",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "บล็อก",
+  "yourGlobalUserIdIs": "รหัสผู้ใช้สากลของคุณคือ: ",
+  "commandHint_sendraw": "ส่งดิบ JSON",
+  "wrongRecoveryKey": "ขออภัย… คีย์กู้คืนนี้ดูเหมือนจะไม่ถูกต้อง",
+  "blockUsername": "ละเว้นชื่อผู้ใช้",
+  "groupName": "ชื่อกลุ่ม",
+  "databaseMigrationTitle": "ฐานข้อมูลได้รับการปรับแต่งแล้ว",
+  "searchChatsRooms": "ค้นหา #แชท, @ผู้ใช้…",
+  "databaseMigrationBody": "โปรดรอสักครู่ กระบวนการนี้อาจใช้เวลาสักครู่",
+  "thisDevice": "อุปกรณ์นี้:",
+  "publicSpaces": "สเปซสาธารณะ",
+  "passwordIsWrong": "รหัสผ่านที่คุณป้อนไม่ถูกต้อง",
+  "pleaseEnterYourCurrentPassword": "โปรดป้อนรหัสผ่านปัจจุบันของคุณ",
+  "nothingFound": "ไม่พบสิ่งใดเลย…",
+  "newPassword": "รหัสผ่านใหม่",
+  "passwordsDoNotMatch": "รหัสผ่านไม่ตรงกัน",
+  "select": "เลือก",
+  "addChatOrSubSpace": "เพิ่มแชทหรือสเปซย่อย",
+  "leaveEmptyToClearStatus": "เว้นว่างไว้เพื่อล้างสถานะ",
+  "joinSpace": "เข้าร่วมสเปซ",
+  "searchForUsers": "ค้นหา @ผู้ใช้…",
+  "initAppError": "เกิดข้อผิดพลาดในการเริ่มต้นแอปพลิเคชัน",
+  "sessionLostBody": "เซสชันของคุณสูญหาย โปรดรายงานข้อผิดพลาดนี้ให้นักพัฒนาทราบที่ {url} ข้อความแสดงข้อผิดพลาด: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "แอปพลิเคชันกำลังพยายามกู้คืนเซสชันของคุณจากการสำรองข้อมูล โปรดรายงานข้อผิดพลาดนี้ให้นักพัฒนาทราบที่ {url} ข้อความแสดงข้อผิดพลาด: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "ผู้เข้าร่วมแชทรายอื่นสามารถมองเห็นได้เมื่อคุณกำลังพิมพ์ข้อความใหม่",
+  "formattedMessagesDescription": "ใช้ Markdown เพื่อแสดงเนื้อหาข้อความแบบสมบูรณ์ เช่น ข้อความตัวหนา",
+  "verifyOtherUserDescription": "หากคุณยืนยันผู้ใช้อื่น คุณจะมั่นใจได้อย่างแน่นอนว่าคุณกำลังสื่อสารอยู่กับใคร 💪\\n\\nเมื่อคุณเริ่มการยืนยัน คุณและผู้ใช้อื่นจะเห็นหน้าต่างป๊อปอัปในแอป จากนั้นคุณจะเห็นอิโมจิหรือตัวเลขชุดหนึ่ง ซึ่งคุณและผู้ใช้อื่นจะต้องเปรียบเทียบว่าตรงกันหรือไม่\\n\\nวิธีที่ดีที่สุดในการทำเช่นนี้คือการพบกันต่อหน้าหรือเริ่มวิดีโอคอล 👭",
+  "verifyOtherDeviceDescription": "เมื่อคุณยืนยันอุปกรณ์อื่น อุปกรณ์เหล่านี้จะสามารถแลกเปลี่ยนคีย์กันได้ ซึ่งช่วยเพิ่มความปลอดภัยโดยรวม 💪 เมื่อคุณเริ่มการยืนยัน แอปบนอุปกรณ์ทั้งสองจะแสดงหน้าต่างป๊อปอัป จากนั้นคุณจะเห็นอิโมจิหรือตัวเลขชุดหนึ่ง ซึ่งคุณต้องเปรียบเทียบสิ่งที่แสดงบนอุปกรณ์ทั้งสองเครื่อง ทางที่ดีควรเตรียมอุปกรณ์ทั้งสองไว้ใกล้ตัวก่อนเริ่มการยืนยัน 🤳",
+  "canceledKeyVerification": "{sender} ยกเลิกการยืนยันคีย์แล้ว",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "ส่งใบตอบรับการอ่าน",
+  "formattedMessages": "ข้อความที่จัดรูปแบบ",
+  "verifyOtherDevice": "🔐 ยืนยันอุปกรณ์อื่น",
+  "verifyOtherUser": "🔐 ยืนยันผู้ใช้อื่น",
+  "sendReadReceiptsDescription": "ผู้เข้าร่วมแชทรายอื่นสามารถมองเห็นได้ว่าคุณได้อ่านข้อความแล้วหรือไม่",
+  "acceptedKeyVerification": "{sender} ยอมรับการยืนยันคีย์แล้ว",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} พร้อมสำหรับการยืนยันคีย์แล้ว",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} เสร็จสิ้นการยืนยันคีย์แล้ว",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} ขอการยืนยันคีย์",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} เริ่มต้นการยืนยันคีย์แล้ว",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "ข้อความขาเข้า",
+  "stickers": "สติกเกอร์",
+  "discover": "ค้นพบ",
+  "commandHint_ignore": "ละเว้น Matrix ID ที่ระบุ",
+  "commandHint_unignore": "ยกเลิกการละเว้น Matrix ID ที่ระบุ",
+  "unreadChatsInApp": "{appname}: {unread} แชทที่ยังไม่ได้อ่าน",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "หลังจากตั้งรหัสผ่านล็อกแล้ว คุณจะต้องยืนยันตัวตนเมื่อเข้าสู่แอปพลิเคชัน NYX",
+  "globalChatId": "รหัสแชทสากล",
+  "accessAndVisibility": "การเข้าถึงและการมองเห็น",
+  "accessAndVisibilityDescription": "ใครบ้างที่สามารถเข้าร่วมแชทนี้และค้นพบได้อย่างไร",
+  "customEmojisAndStickers": "อิโมจิและสติกเกอร์กำหนดเอง",
+  "hideRedactedMessages": "ซ่อนข้อความที่ถูกลบ",
+  "passwordRecoverySettings": "การตั้งค่าการกู้คืนรหัสผ่าน",
+  "knock": "เคาะประตู",
+  "noOneCanJoin": "ไม่มีใครสามารถเข้าร่วมได้",
+  "knocking": "กำลังเคาะประตู",
+  "chatCanBeDiscoveredViaSearchOnServer": "สามารถค้นหาแชทนี้ได้ผ่านการค้นหาบน {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "ขณะนี้มีผู้ใช้ที่ถูกบล็อกอยู่ {count} คน",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "หากมีคนลบข้อความ ข้อความนั้นจะไม่ปรากฏในแชทอีกเลย",
+  "hideInvalidOrUnknownMessageFormats": "ซ่อนรูปแบบข้อความที่ไม่ถูกต้องหรือไม่รู้จัก",
+  "customEmojisAndStickersBody": "เพิ่มหรือแชร์อิโมจิหรือสติกเกอร์ที่สามารถใช้ได้กับทุกแชท",
+  "usersMustKnock": "ผู้ใช้ต้องเคาะประตูก่อนจึงจะเข้าร่วมได้",
+  "noDatabaseEncryption": "ไม่รองรับการเข้ารหัสฐานข้อมูลบนแพลตฟอร์มนี้",
+  "publicChatAddresses": "ที่อยู่แชทสาธารณะ",
+  "createNewAddress": "สร้างที่อยู่ใหม่",
+  "searchMore": "ค้นหาเพิ่มเติม…",
+  "gallery": "แกลเลอรี",
+  "files": "ไฟล์",
+  "searchIn": "ค้นหาใน \"{chat}\"…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "ปัดจากขวาไปซ้ายเพื่อตอบกลับ",
+  "noMoreChatsFound": "ไม่พบแชทเพิ่มเติมแล้ว…",
+  "space": "สเปซ",
+  "goToSpace": "ไปที่สเปซ: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "ทำเครื่องหมายว่ายังไม่ออ่าน",
+  "unread": "ยังไม่ได้อ่าน",
+  "userLevel": "{level} - ผู้ใช้",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - ผู้ดูแล",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - ผู้ดูแลระบบ",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "เชิญผู้ใช้อื่นเข้าสู่ห้องแชทนี้",
+  "changeTheVisibilityOfChatHistory": "เปลี่ยนการมองเห็นประวัติการแชท",
+  "changeTheCanonicalRoomAlias": "เปลี่ยนชื่อสำรองห้องแชทหลัก",
+  "sendRoomNotifications": "ส่งการแจ้งเตือนถึงทุกคนในห้องแชท",
+  "changeTheDescriptionOfTheGroup": "เปลี่ยนคำอธิบายแชท",
+  "changeGeneralChatSettings": "เปลี่ยนการตั้งค่าแชททั่วไป",
+  "chatPermissionsDescription": "กำหนดระดับสิทธิ์ที่จำเป็นสำหรับการกระทำต่างๆ ในห้องแชทนี้ ระดับสิทธิ์ 0, 50 และ 100 มักจะแสดงถึงผู้ใช้ ผู้ดูแล และผู้ดูแลระบบ แต่คุณสามารถปรับแต่งระดับใดก็ได้",
+  "changelog": "บันทึกการเปลี่ยนแปลง",
+  "updateInstalled": "🎉 ติดตั้งการอัปเดต {version} แล้ว!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "ยกเลิกการส่งแล้ว",
+  "noChatsFoundHere": "ยังไม่พบแชทที่นี่ ใช้ปุ่มด้านล่างเพื่อเริ่มแชทใหม่กับใครบางคน ⤵️",
+  "loginWithMatrixId": "เข้าสู่ระบบด้วย Matrix ID",
+  "doesNotSeemToBeAValidHomeserver": "ดูเหมือนว่าจะไม่ใช่เซิร์ฟเวอร์หลักที่เข้ากันได้ URL ถูกต้องหรือไม่?",
+  "calculatingFileSize": "กำลังคำนวณขนาดไฟล์…",
+  "oneOfYourDevicesIsNotVerified": "อุปกรณ์ตัวหนึ่งของคุณยังไม่ได้รับการยืนยัน",
+  "noticeChatBackupDeviceVerification": "หมายเหตุ: เมื่อคุณเชื่อมต่ออุปกรณ์ทั้งหมดของคุณกับการสำรองข้อมูลแชท อุปกรณ์เหล่านี้จะได้รับการยืนยันโดยอัตโนมัติ",
+  "continueText": "ดำเนินการต่อ",
+  "blur": "ความเบลอ:",
+  "opacity": "ความทึบแสง:",
+  "setWallpaper": "ตั้งค่าวอลเปเปอร์",
+  "manageAccount": "จัดการบัญชี",
+  "aboutHomeserver": "เกี่ยวกับ {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "เวอร์ชัน",
+  "noContactInformationProvided": "เซิร์ฟเวอร์ไม่ได้ให้ข้อมูลติดต่อที่ถูกต้อง",
+  "contactServerAdmin": "ติดต่อผู้ดูแลเซิร์ฟเวอร์",
+  "name": "ชื่อ",
+  "surname": "นามสกุล",
+  "personalIntro": "แนะนำตัวส่วน and",
+  "nameDescription": "ป้อนชื่อของคุณและเพิ่มรูปโปรไฟล์ (ไม่บังคับ)",
+  "aboutYourselfDescription": "แนะนำตัวคุณเองเป็นข้อความ",
+  "email": "อีเมล",
+  "emailForLogin": "ใช้สำหรับการเข้าสู่ระบบบัญชี NYX",
+  "changeEmail": "เปลี่ยนอีเมล",
+  "changeEmailDescription": "คุณสามารถเปลี่ยนอีเมลสำรองของคุณเพื่อรีเซ็ตรหัสผ่านและกู้คืนการเข้าถึงบัญชี NYX ของคุณได้",
+  "bindNewEmail": "ผูกอีเมลใหม่",
+  "newEmailSameAsOld": "อีเมลใหม่ไม่สามารถเหมือนกับอีเมลเดิมได้",
+  "bindEmail": "ผูกอีเมล",
+  "bindEmailDescription": "คุณสามารถผูกอีเมลเพื่อรีเซ็ตรหัสผ่านและกู้คืนการเข้าถึงบัญชี NYX ของคุณได้",
+  "enterEmail": "ป้อนอีเมล",
+  "enterValidEmail": "โปรดป้อนอีเมลที่ถูกต้อง",
+  "getVerificationCode": "รับรหัสยืนยัน",
+  "verificationCode": "รหัสยืนยัน",
+  "enterVerificationCode": "ป้อนรหัสยืนยัน",
+  "enterCodeSentTo": "โปรดป้อนรหัสยืนยันที่ส่งไปยัง {email}",
+  "createPassword": "สร้างรหัสผ่าน",
+  "createPasswordDescription": "โปรดตั้งรหัสผ่านเข้าสู่ระบบสำหรับการตรวจสอบความปลอดภัยของบัญชี",
+  "enterPassword": "ป้อนรหัสผ่าน",
+  "enterPasswordAgain": "ป้อนรหัสผ่านอีกครั้ง",
+  "bind": "ผูก",
+  "walletAddress": "ที่อยู่กระเป๋าเงิน",
+  "walletForLogin": "ใช้สำหรับการเข้าสู่ระบบบัญชี NYX",
+  "ethereumMainnetAddress": "ที่อยู่เครือข่ายหลัก Ethereum",
+  "none": "ไม่มี",
+  "username": "ชื่อผู้ใช้",
+  "usernameDescription": "คุณสามารถตั้งชื่อผู้ใช้บน NYX หลังจากตั้งค่าแล้ว ผู้อื่นจะสามารถค้นหาคุณและติดต่อกับคุณได้ผ่านชื่อผู้ใช้นี้",
+  "usernameRuleHint": "คุณสามารถใช้ a-z, 0-9 และขีดล่าง ความยาวขั้นต่ำ 5 ตัวอักษร",
+  "chatViaLink": "สามารถแชทกับคุณผ่านลิงก์นี้:",
+  "contactServerSecurity": "ติดต่อการจัดการความปลอดภัยของเซิร์ฟเวอร์",
+  "supportPage": "หน้าสนับสนุน",
+  "serverInformation": "ข้อมูลเซิร์ฟเวอร์:",
+  "website": "เว็บไซต์",
+  "italicText": "ข้อความตัวเอียง",
+  "strikeThrough": "ขีดฆ่า",
+  "pleaseFillOut": "โปรดกรอกข้อมูล",
+  "addLink": "เพิ่มลิงก์",
+  "boldText": "ข้อความตัวหนา",
+  "invalidUrl": "URL ไม่ถูกต้อง",
+  "unableToJoinChat": "ไม่สามารถเข้าร่วมแชทได้ บทสนทนาอาจถูกปิดโดยฝ่ายอื่นแล้ว",
+  "sendImages": "ส่งรูปภาพ {count} รูป",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "บีบอัด",
+  "previous": "ก่อนหน้า",
+  "otherPartyNotLoggedIn": "อีกฝ่ายไม่ได้เข้าสู่ระบบอยู่ในขณะนี้ จึงไม่สามารถรับข้อความได้!",
+  "appWantsToUseForLoginDescription": "คุณกำลังอนุญาตให้แอปพลิเคชันและเว็บไซต์นี้แบ่งปันข้อมูลเกี่ยวกับคุณ",
+  "open": "เปิด",
+  "appWantsToUseForLogin": "เข้าสู่ระบบด้วยเซิร์ฟเวอร์ '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "กำลังรอเซิร์ฟเวอร์…",
+  "synchronizingPleaseWaitCounter": "กำลังซิงโครไนซ์… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 คำขอแชทใหม่",
+  "generalNotificationSettings": "การตั้งค่าการแจ้งเตือนทั่วไป",
+  "userSpecificNotificationSettings": "ใช้การตั้งค่าการแจ้งเตือนเฉพาะผู้ใช้",
+  "notificationRuleMaster": "ปิดเสียงการแจ้งเตือนทั้งหมด",
+  "notificationRuleSuppressNotices": "ซ่อนข้อความอัตโนมัติ",
+  "notificationRuleInviteForMe": "คำเชิญสำหรับฉัน",
+  "notificationRuleInviteForMeDescription": "แจ้งเตือนเมื่อผู้ใช้ได้รับเชิญเข้าสู่ห้องแชท",
+  "notificationRuleMemberEvent": "กิจกรรมสมาชิก",
+  "notificationRuleMemberEventDescription": "ซ่อนการแจ้งเตือนกิจกรรมสถานะสมาชิก",
+  "notificationRuleIsUserMention": "การกล่าวถึงผู้ใช้",
+  "notificationRuleIsUserMentionDescription": "แจ้งเตือนผู้ใช้เมื่อมีชื่อผู้ใช้ถูกกล่าวถึงโดยตรงในข้อความ",
+  "notificationRuleContainsDisplayName": "มีชื่อที่แสดง",
+  "notificationRuleIsRoomMention": "การกล่าวถึงห้องแชท",
+  "notificationRuleRoomnotifDescription": "แจ้งเตือนผู้ใช้เมื่อข้อความมีคำว่า \"@room\"",
+  "notificationRuleTombstone": "หลุมศพห้อง",
+  "notificationRuleRoomServerAcl": "ACL เซิร์ฟเวอร์ห้อง",
+  "notificationRuleSuppressEdits": "ซ่อนการแก้ไข",
+  "notificationRuleCall": "การโทร",
+  "notificationRuleRoomOneToOne": "ห้องแชทแบบตัวต่อตัว",
+  "notificationRuleRoomOneToOneDescription": "แจ้งเตือนผู้ใช้สำหรับข้อความในห้องแชทแบบตัวต่อตัว",
+  "notificationRuleEncrypted": "เข้ารหัสแล้ว",
+  "notificationRuleEncryptedDescription": "แจ้งเตือนผู้ใช้สำหรับข้อความในห้องแชทที่เข้ารหัส",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "แจ้งเตือนผู้ใช้สำหรับกิจกรรมส่วนประกอบ Jitsi",
+  "notificationRuleServerAcl": "ซ่อนกิจกรรม Server ACL",
+  "notificationRuleServerAclDescription": "ซ่อนการแจ้งเตือนกิจกรรม Server ACL",
+  "deletePushRuleCanNotBeUndone": "การลบการตั้งค่าการแจ้งเตือนนี้ไม่สามารถย้อนกลับได้",
+  "more": "เพิ่มเติม",
+  "notificationRuleReactionDescription": "ซ่อนการแจ้งเตือนปฏิกิริยา",
+  "notificationRuleMessageDescription": "แจ้งเตือนผู้ใช้สำหรับข้อความปกติ",
+  "notificationRuleContainsUserName": "มีชื่อผู้ใช้",
+  "otherNotificationSettings": "การตั้งค่าการแจ้งเตือนอื่นๆ",
+  "notificationRuleContainsUserNameDescription": "แจ้งเตือนผู้ใช้เมื่อข้อความมีชื่อผู้ใช้",
+  "notificationRuleIsRoomMentionDescription": "แจ้งเตือนเมื่อมีการกล่าวถึงห้องแชท",
+  "contentNotificationSettings": "การตั้งค่าการแจ้งเตือนเนื้อหา",
+  "notificationRuleMasterDescription": "แทนที่กฎอื่นๆ ทั้งหมดและปิดใช้งานการแจ้งเตือนทั้งหมด",
+  "notificationRuleSuppressNoticesDescription": "ซ่อนการแจ้งเตือนจากไคลเอนต์อัตโนมัติ เช่น บอท",
+  "roomNotificationSettings": "การตั้งค่าการแจ้งเตือนห้องแชท",
+  "notificationRuleRoomServerAclDescription": "ซ่อนการแจ้งเตือนรายการควบคุมการเข้าถึงเซิร์ฟเวอร์ห้องแชท (ACL)",
+  "notificationRuleContainsDisplayNameDescription": "แจ้งเตือนผู้ใช้เมื่อข้อความมีชื่อที่แสดงของผู้ใช้",
+  "notificationRuleRoomnotif": "การแจ้งเตือนห้อง",
+  "notificationRuleTombstoneDescription": "แจ้งเตือนผู้ใช้สำหรับข้อความเกี่ยวกับการปิดห้องแชท",
+  "notificationRuleReaction": "ปฏิกิริยา",
+  "notificationRuleSuppressEditsDescription": "ซ่อนการแจ้งเตือนการแก้ไขข้อความ",
+  "notificationRuleCallDescription": "แจ้งเตือนผู้ใช้สำหรับข้อความการโทร",
+  "notificationRuleEncryptedRoomOneToOne": "ห้องแชทแบบตัวต่อตัวที่เข้ารหัส",
+  "notificationRuleEncryptedRoomOneToOneDescription": "แจ้งเตือนผู้ใช้สำหรับข้อความในห้องแชทแบบตัวต่อตัวที่เข้ารหัส",
+  "notificationRuleMessage": "ข้อความ",
+  "unknownPushRule": "กฎการแจ้งเตือนที่ไม่รู้จัก '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "อุปกรณ์ที่ได้รับการยืนยันแบบไขว้",
+  "shareKeysWithDescription": "ควรเชื่อถืออุปกรณ์ใดบ้างเพื่อให้สามารถอ่านข้อความในแชทที่เข้ารหัสของคุณได้?",
+  "shareKeysWith": "แชร์คีย์กับ…",
+  "allDevices": "อุปกรณ์ทั้งหมด",
+  "crossVerifiedDevicesIfEnabled": "อุปกรณ์ที่ได้รับการยืนยันแบบไขว้ (หากเปิดใช้งาน)",
+  "verifiedDevicesOnly": "เฉพาะอุปกรณ์ที่ได้รับการยืนยันแล้ว",
+  "optionalMessage": "(ไม่บังคับ) ข้อความ…",
+  "takeAPhoto": "ถ่ายภาพ",
+  "recordAVideo": "บันทึกวิดีโอ",
+  "notSupportedOnThisDevice": "ไม่รองรับบนอุปกรณ์นี้",
+  "enterNewChat": "เปิดแชทใหม่",
+  "commandHint_roomupgrade": "อัปเกรดห้องแชทนี้เป็นเวอร์ชันห้องที่ระบุ",
+  "approve": "อนุมัติ",
+  "youHaveKnocked": "คุณได้เคาะประตูเพื่อขอเข้าร่วมแล้ว",
+  "pleaseWaitUntilInvated": "โปรดรอจนกว่าจะมีคนจากห้องแชทนี้เชิญคุณ",
+  "countInvited": "ได้รับเชิญ: {count}",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "รายการตรวจสอบ",
+  "sentVoiceMessage": "🎙️ {duration} - ข้อความเสียงที่ส่งโดย {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "ออกจากระบบจากอุปกรณ์ปัจจุบัน",
+  "commandHint_logoutall": "ออกจากระบบจากอุปกรณ์ที่ใช้งานอยู่ทั้งหมด",
+  "displayNavigationRail": "แสดงแถบนำทางบนมือถือ",
+  "customReaction": "ปฏิกิริยา, กำหนดเอง",
+  "moreEvents": "กิจกรรมเพิ่มเติม",
+  "declineInvitation": "ปฏิเสธคำเชิญ",
+  "noMessagesYet": "ยังไม่มีข้อความ",
+  "longPressToRecordVoiceMessage": "กดค้างไว้เพื่อบันทึกข้อความเสียง",
+  "pause": "หยุดชั่วคราว",
+  "resume": "ดำเนินการต่อ",
+  "removeFromSpaceDescription": "แชทจะถูกนำออกจากสเปซ แต่จะยังคงแสดงอยู่ในรายการแชทของคุณ",
+  "countChats": "{chats} แชท",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "สมาชิกสเปซ {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "สมาชิกสเปซ {spaces} สามารถเคาะประตูได้",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "แบบสำรวจ",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "เริ่มแบบสำรวจ",
+  "endPoll": "สิ้นสุดแบบสำรวจ",
+  "editPoll": "แก้ไขแบบสำรวจ",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "ลบแบบสำรวจ",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "ผลลัพธ์แบบสำรวจมองเห็นได้",
+  "hiddenPoll": "แบบสำรวจซ่อนอยู่",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "หัวข้อแบบสำรวจ",
+  "answerOption": "ตัวเลือก",
+  "addAnswerOption": "เพิ่มตัวเลือก",
+  "allowMultipleAnswers": "อนุญาตให้เลือกคำตอบได้หลายข้อ",
+  "pollHasBeenEnded": "แบบสำรวจสิ้นสุดลงแล้ว",
+  "startedAPoll": "{senderName} เริ่มแบบสำรวจ",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{1 คะแนน} other{{count} คะแนน}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "ผลลัพธ์จะแสดงเมื่อแบบสำรวจสิ้นสุดลง",
+  "active": "ใช้งานอยู่",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "สิ้นสุดแล้ว",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "เธรดข้อความ",
+  "replyInThread": "ตอบกลับในเธรด",
+  "countReplies": "{count, plural, =1{1 การตอบกลับ} other{{count} การตอบกลับ}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "กลับสู่แชทหลัก",
+  "saveChanges": "บันทึกการเปลี่ยนแปลง",
+  "createSticker": "สร้างภาพสติกเกอร์หรืออีโมจิ",
+  "useAsSticker": "ใช้เป็นสติกเกอร์",
+  "useAsEmoji": "ใช้เป็นอีโมจิ",
+  "stickerPackNameAlreadyExists": "มีชื่อชุดสติกเกอร์นี้อยู่แล้ว",
+  "newStickerPack": "ชุดสติกเกอร์ใหม่",
+  "stickerPackName": "ชื่อชุดสติกเกอร์",
+  "attribution": "ที่มา",
+  "skipChatBackup": "ข้ามการสำรองข้อมูลแชท",
+  "skipChatBackupWarning": "คุณแน่ใจหรือไม่? หากคุณไม่เปิดสำรองข้อมูลแชท คุณอาจจะไม่สามารถเข้าถึงข้อความได้เมื่อเปลี่ยนอุปกรณ์",
+  "changedTheChatDescription": "{username} เปลี่ยนคำอธิบายแชทแล้ว",
+  "changedTheChatName": "{username} เปลี่ยนชื่อแชทแล้ว",
+  "noMoreResultsFound": "ไม่พบผลลัพธ์เพิ่มเติม",
+  "chatSearchedUntil": "ค้นหาประวัติการแชทถึงวันที่ {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "URL ฐานสหพันธ์",
+  "clientWellKnownInformation": "ข้อมูล Client-Well-Known:",
+  "baseUrl": "URL ฐาน",
+  "identityServer": "เซิร์ฟเวอร์ตัวตน:",
+  "versionWithNumber": "เวอร์ชัน: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "บันทึกระบบ",
+  "advancedConfigs": "การกำหนดค่าขั้นสูง",
+  "advancedConfigurations": "การกำหนดค่าขั้นสูง",
+  "signIn": "ลงชื่อเข้าใช้",
+  "createNewAccount": "สร้างบัญชีใหม่",
+  "signUpGreeting": "NYX มีลักษณะกระจายศูนย์! เลือกเซิร์ฟเวอร์ที่คุณต้องการสร้างบัญชีด้วย!",
+  "signInGreeting": "มีบัญชี Matrix อยู่แล้วใช่ไหม? ยินดีต้อนรับกลับมา! เลือกเซิร์ฟเวอร์หลักเพื่อเข้าสู่ระบบ",
+  "theProcessWasCanceled": "กระบวนการถูกยกเลิก",
+  "join": "เข้าร่วม",
+  "searchOrEnterHomeserverAddress": "ค้นหาหรือป้อนที่อยู่เซิร์ฟเวอร์หลัก",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "ตั้งค่าระดับสิทธิ์",
+  "makeModerator": "แต่งตั้งเป็นผู้ดูแล",
+  "makeAdmin": "แต่งตั้งเป็นผู้ดูแลระบบ",
+  "removeModeratorRights": "ถอดถอนสิทธิ์ผู้ดูแล",
+  "removeAdminRights": "ถอดถอนสิทธิ์ผู้ดูแลระบบ",
+  "powerLevel": "ระดับสิทธิ์",
+  "setPowerLevelDescription": "ระดับสิทธิ์จะกำหนดสิ่งที่สมาชิกกลุ่มสามารถทำได้ในห้องนี้ โดยมีค่าตั้งแต่ 0 ถึง 100",
+  "owner": "เจ้าของ",
+  "mute": "ปิดเสียง",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "สร้างแชทใหม่",
+  "reset": "รีเซ็ต",
+  "supportFluffyChat": "สนับสนุน NYX",
+  "support": "สนับสนุน",
+  "setLowPriority": "ตั้งเป็นลำดับความสำคัญต่ำ",
+  "unsetLowPriority": "ยกเลิกการตั้งค่าลำดับความสำคัญต่ำ",
+  "playSoundOnNotification": "เล่นเสียงเมื่อมีการแจ้งเตือน",
+  "addTag": "เพิ่มแท็ก",
+  "removeTag": "นำแท็กออก",
+  "tagName": "ชื่อแท็ก",
+  "createNewTag": "สร้างแท็กใหม่",
+  "discardEdits": "มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก ต้องการละทิ้งการแก้ไขหรือไม่?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "ซ่อนห้องที่อยู่ภายในสเปซ",
+  "possibleByYou": "เวอร์ชันนี้จะไม่สามารถเกิดขึ้นได้หากไม่มีการสนับสนุนของคุณ NYX ยังคงใช้งานฟรี เป็นโอเพนซอร์ส และขับเคลื่อนโดยชุมชนอย่างสมบูรณ์",
+  "showThumbnailsInTimeline": "แสดงรูปภาพตัวอย่างและวิดีโอตัวอย่างในไทม์ไลน์",
+  "appSubtitle": "การสื่อสารผ่าน [matrix] ที่ปลอดภัย",
+  "appDescription": "สื่อสารแบบเข้ารหัสที่เรียบง่ายและเข้าถึงได้สำหรับทุกคน ผ่านเครือข่าย [matrix] ที่กระจายศูนย์",
+  "interactiveVerification": "การยืนยันแบบโต้ตอบ",
+  "interactiveVerificationDescription": "หากคุณและผู้ติดต่ออยู่ด้วยกันหรือสื่อสารผ่านช่องทางที่ปลอดภัย คุณสามารถยืนยันอุปกรณ์ทั้งหมดได้พร้อมกันโดยการเปรียบเทียบตัวเลขหรืออิโมจิที่ปลอดภัย",
+  "countUnverifiedDevices": "มีอุปกรณ์ที่ยังไม่ได้ยืนยัน {count} เครื่องในห้องแชทนี้",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "ข้อความที่เข้ารหัส",
+  "unencryptedMessage": "ข้อความที่ไม่ได้เข้ารหัส",
+  "publicKey": "คีย์สาธารณะ: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "คีย์ประจำตัวอุปกรณ์",
+  "showMore": "แสดงเพิ่มเติม",
+  "showLess": "แสดงน้อยลง",
+  "restoreBootstrapEmptyDevicesDescription": "โปรดป้อนวลีรหัสผ่านหรือคีย์กู้คืนเพื่อยืนยันอุปกรณ์นี้และรับสิทธิ์เข้าถึงข้อมูลสำรองข้อความที่เข้ารหัส",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "โปรดเลือกอุปกรณ์อื่นเพื่อยืนยันเซสชันนี้:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "รีเซ็ตบัญชี",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "กู้คืนข้อมูลประจำตัวการเข้ารหัส",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "รีเซ็ตข้อมูลประจำตัวการเข้ารหัส",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "ตั้งค่าข้อมูลประจำตัวการเข้ารหัส",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "กำลังรอกุญแจ… โปรดรักษาให้อุปกรณ์อื่นเปิดใช้งานอยู่",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "ไม่มีการส่งกุญแจ โปรดลองอีกครั้ง",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "ปลดล็อก",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "เปิดไฟล์",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "การรีเซ็ตบัญชีจะทำให้ไม่สามารถเข้าถึงข้อความเก่าได้อีกต่อไป จำเป็นต้องยืนยันอุปกรณ์ปัจจุบันทั้งหมดใหม่อีกครั้ง โปรดดำเนินการนี้เฉพาะเมื่อคุณไม่มีอุปกรณ์อื่นที่สามารถยืนยันเซสชันได้ และคุณได้ทำคีย์กู้คืนและวลีรหัสผ่านหายแล้วเท่านั้น!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "NYX ใช้การเข้ารหัสแบบต้นทางถึงปลายทาง เพื่อไม่ให้ข้อความสูญหาย โปรดเลือกวลีรหัสผ่านที่รัดกุมเพื่อปกป้องข้อมูลประจำตัวการเข้ารหัสและการสำรองข้อมูลข้อความที่เข้ารหัสของคุณ",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "วลีรหัสผ่านใหม่",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "ยืนยันวลีรหัสผ่านอีกครั้ง",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "วลีรหัสผ่านตรงกัน",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "ความยาวต้องมีอย่างน้อย 12 ตัวอักษร",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "ต้องประกอบด้วยตัวอักษรพิมพ์ใหญ่และพิมพ์เล็ก",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "ต้องประกอบด้วยอักขระพิเศษ",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "ต้องประกอบด้วยตัวเลข",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "โปรดจดคีย์กู้คืนของคุณไว้ในที่ปลอดภัย เพื่อใช้กู้คืนข้อความที่เข้ารหัสและข้อมูลประจำตัวการเข้ารหัส",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "บันทึกเป็นไฟล์",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "คุณพร้อมที่จะเริ่มต้นแล้ว!",
+  "noUserKeyFound": "ไม่พบคีย์ผู้ใช้",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "อุปกรณ์ที่ยังไม่ได้ลงนาม",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "อุปกรณ์ที่ลงนามแล้ว",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "ไม่พบคีย์ curve25519",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "ไม่สามารถถอดรหัสข้อความได้",
+  "knownSince": "รู้จักตั้งแต่วันที่: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "ข้อความของคุณได้รับการเข้ารหัสแบบต้นทางถึงปลายทาง และสามารถอ่านได้โดยผู้ใช้นี้เท่านั้น:",
+  "messageCanOnlyBeReadByUsers": "ข้อความของคุณได้รับการเข้ารหัสแบบต้นทางถึงปลายทาง และสามารถอ่านได้โดยผู้ใช้เหล่านี้เท่านั้น:",
+  "today": "วันนี้",
+  "sending": "กำลังส่ง",
+  "generatingThumbnail": "กำลังสร้างรูปภาพตัวอย่าง",
+  "encrypting": "กำลังเข้ารหัส",
+  "uploading": "กำลังอัปโหลด",
+  "edited": "(แก้ไขแล้ว)",
+  "couldNotBeSent": "ไม่สามารถส่งได้",
+  "yesterday": "เมื่อวาน",
+  "resetRecoveryKey": "รีเซ็ตคีย์กู้คืน",
+  "pleaseEnter6Digits": "โปรดป้อนตัวเลข 6 หลักเพื่อเปิดใช้งานการล็อกแอปพลิเคชัน",
+  "disableAppLock": "ปิดรหัสล็อก",
+  "disableAppLockAreYouSure": "คุณแน่ใจหรือไม่ว่าต้องการปิดใช้งานการล็อกแอปพลิเคชัน?",
+  "enableBiometrics": "เปิดใช้งานการยืนยันตัวตนด้วยไบโอเมตริกซ์",
+  "disableBiometrics": "ปิดใช้งานการยืนยันตัวตนด้วยไบโอเมตริกซ์",
+  "biometricsDescription": "ไบโอเมตริกซ์ช่วยให้คุณปลดล็อกแอปด้วยใบหน้าหรือลายนิ้วมือของคุณ การใช้งานได้จริงขึ้นอยู่กับอุปกรณ์ของคุณ",
+  "useAppLock": "ใช้การล็อกแอปพลิเคชัน",
+  "unlockWithBiometrics": "ปลดล็อกด้วยไบโอเมตริกซ์",
+  "resetPin": "รีเซ็ตรหัส PIN",
+  "forwardCountMessages": "ส่งต่อข้อความ {count, plural, =1{1 ข้อความ} other{{count} ข้อความ}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "แก้ไขรูปภาพ",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "หมุนไปทางซ้าย",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "หมุนไปทางขวา",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "พลิกกระจก",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "บันทึก",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "วาด",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "เลิกทำ",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "ล้าง",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "ยางลบ",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "ครอบตัด",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "กำลังโหลดข้อความ…",
+  "buildDoesNotSupportFirebase": "รุ่นนี้ไม่รองรับ Firebase Cloud Messaging",
+  "unableToRegisterDeviceForFirebase": "ไม่สามารถลงทะเบียนอุปกรณ์สำหรับ Firebase Cloud Messaging ได้",
+  "unifiedPushDistributors": "ตัวกระจาย Unified Push:",
+  "doubleTapToReact": "แตะสองครั้งเพื่อตอบสนอง",
+  "doubleTapToReactDescription": "แตะที่ข้อความสองครั้งเพื่อส่งปฏิกิริยาแทนการเลือกข้อความ",
+  "doubleTapReaction": "แตะสองครั้งเพื่อตอบสนอง",
+  "sendingFilesDoNotExit": "กำลังส่งไฟล์ {count} ไฟล์… โปรดอย่าออกจากแอป!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "กำลังบีบอัดวิดีโอ…",
+  "shareCrashReports": "แชร์รายงานการขัดข้อง",
+  "shareCrashReportsDescription": "ต้องการแชร์รายงานการขัดข้องให้นักพัฒนาโดยอัตโนมัติหรือไม่?",
+  "videoCallsBetaWarning": "วิดีโอคอลเป็นฟีเจอร์รุ่นเบต้า อาจพบบั๊กหรือสถานการณ์ที่ไม่คาดคิดได้ เรายินดีรับฟังความคิดเห็นของคุณ",
+  "callNotAllowed": "เฉพาะผู้ดูแลระบบหรือเจ้าของห้องเท่านั้นที่สามารถเริ่มการโทรในห้องนี้ได้ ให้พวกเขาเริ่มก่อน แล้วคุณจึงจะเข้าร่วมได้",
+  "countActiveCallMembers": "{count} สมาชิกที่กำลังโทรอยู่",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "เข้าร่วมการโทร",
+  "noDevicesFound": "ไม่พบอุปกรณ์",
+  "incomingCall": "สายเรียกเข้า",
+  "waitingForParticipant": "กำลังรอผู้เข้าร่วม…",
+  "decline": "ปฏิเสธ",
+  "videoCall": "วิดีโอคอล",
+  "voiceCall": "โทรด้วยเสียง",
+  "previewImage": "[ูปภาพ]",
+  "previewVideo": "[วิดีโอ]",
+  "previewVoice": "[เสียง]",
+  "previewAudio": "[เสียง]",
+  "previewFile": "[ไฟล์]",
+  "previewLocation": "[ตำแหน่ง]",
+  "previewSticker": "[สติกเกอร์]",
+  "previewVoiceCall": "[โทรด้วยเสียง]",
+  "previewVideoCall": "ิ[ดีโอคอล]",
+  "missedCall": "สายที่ไม่ได้รับ",
+  "callBack": "โทรกลับ",
+  "hangUp": "วางสาย",
+  "startCall": "เริ่มการโทร",
+  "selectCamera": "เลือกกล้อง",
+  "selectMicrophone": "เลือกไมโครโฟน",
+  "selectSpeaker": "เลือกส피เกอร์",
+  "toggleMicrophone": "เปิด/ปิดไมโครโฟน",
+  "toggleCamera": "เปิด/ปิดกล้อง",
+  "startScreensharing": "เริ่มแชร์หน้าจอ",
+  "stopScreensharing": "หยุดแชร์หน้าจอ",
+  "raiseHand": "ยกมือขึ้น",
+  "stopRaiseHand": "ลดมือลง",
+  "preferSpeaker": "เน้นใช้ลำโพง",
+  "unexpectedErrorOccurded": "เกิดข้อผิดพลาดที่ไม่คาดคิด: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "บัญชีและการตั้งค่า",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "สายเรียกเข้าจาก {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "เซิร์ฟเวอร์ตอบกลับด้วยข้อผิดพลาด: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "พร้อมอัปเดตเวอร์ชัน {version} แล้ว",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "ดาวน์โหลด",
+  "sharedLocation": "ตำแหน่งที่แชร์",
+  "contacts": "ผู้ติดต่อ",
+  "groupChats": "แชทกลุ่ม",
+  "publicGroups": "กลุ่มสาธารณะ",
+  "createGroupChat": "สร้างแชทกลุ่ม",
+  "inviteFriends": "เชิญเพื่อน",
+  "emptyChatsTitle": "ไม่มีแชท",
+  "emptyChatsDesc": "แตะที่ไอคอน + ที่มุมขวาบนเพื่อเริ่มบทสนทนาใหม่",
+  "emptyUsersTitle": "คุณไม่มีข้อความส่วนตัวในขณะนี้",
+  "emptyUsersDesc": "คุณสามารถยกเลิกการเลือกตัวกรองเพื่อดูบทสนทนาอื่นๆ ได้",
+  "emptyUnreadTitle": "ไม่มีข้อความที่ยังไม่ได้อ่าน",
+  "emptyUnreadDesc": "คุณสามารถปักหมุดแชทได้จากการตั้งค่าแชท",
+  "emptyGroupChatsTitle": "คุณยังไม่ได้เข้าร่วมแชทกลุ่มใดๆ",
+  "emptyGroupChatsDesc": "คุณสามารถยกเลิกการเลือกตัวกรองเพื่อดูบทสนทนาอื่นๆ ได้",
+  "emptyPinnedTitle": "คุณไม่มีแชทที่ปักหมุดไว้",
+  "emptyPinnedDesc": "คุณสามารถปักหมุดแชทได้จากการตั้งค่าแชท",
+  "startChat": "เริ่มแชท",
+  "newGroupChat": "แชทกลุ่มใหม่",
+  "invitedYouToJoinGroup": "{username} เชิญคุณเข้าร่วมแชทกลุ่ม",
+  "joinGroupBannerTitle": "เข้าร่วมแชทกลุ่มและเชื่อมต่อกันอยู่เสมอ",
+  "joinGroupBannerDesc": "แชทกลุ่มจะแบ่งออกเป็นกลุ่มตามหัวข้อ แชทกลุ่มทั้งหมดที่คุณเข้าร่วมจะแสดงอยู่ที่นี่",
+  "certifiedGroups": "{count} กลุ่มที่ผ่านการรับรอง",
+  "membersCount": "{count} สมาชิก",
+  "recentlyOnline": "ออนไลน์ล่าสุดเมื่อเร็วๆ นี้",
+  "lastSeenLongAgo": "ออฟไลน์ไปนานมากแล้ว",
+  "appearance": "รูปลักษณ์",
+  "language": "ภาษา",
+  "selectLanguage": "เลือกภาษา",
+  "privacyAndSecurity": "ความเป็นส่วนตัวและความปลอดภัย",
+  "qrScanRecognizing": "กำลังจดจำ...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "การจดจำหมดเวลา โปรดลองอีกครั้ง",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "ไม่พบคิวอาร์โค้ด",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "เนื้อหาคิวอาร์โค้ดว่างเปล่า",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "การจดจำไม่สำเร็จ",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "คิวอาร์โค้ดไม่ถูกต้อง",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "นี่คือคิวอาร์โค้ดบัญชีของคุณเอง",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "ปฏิเสธการเข้าร่วมแชทกลุ่ม",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "คุณแน่ใจหรือไม่ว่าต้องการปฏิเสธการเข้าร่วมแชทกลุ่ม {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "กล้อง",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "รูปภาพและวิดีโอ",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "ไฟล์",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "ออนไลน์",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "ออฟไลน์",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "ข้อความถูกยกเลิกแล้ว",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "คุณยกเลิกข้อความแล้ว",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} ยกเลิกข้อความแล้ว",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "บันทึกไฟล์แล้ว",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "บันทึกลงแกลเลอรีแล้ว",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "ไม่สามารถเปิดไฟล์ได้",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "ไฟล์ที่ไม่รู้จัก",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "สายวิดีโอคอลที่ไม่ได้รับ",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "การโทรถูกยกเลิก",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} คนในการโทร",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "เข้าร่วม",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "กำลังรอผู้เข้าร่วมคนอื่นๆ…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "เฉพาะผู้ดูแลห้องเท่านั้นที่สามารถเริ่มการโทรในห้องนี้ได้",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "แชทจะถูกลบออกจากรายการ แต่จะยังไม่ได้ออกจากแชท และจะปรากฏขึ้นมาใหม่อัตโนมัติเมื่อมีข้อความใหม่ส่งมา",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "หลังจากแชทกลุ่มถูกยุบ สมาชิกทั้งหมดจะถูกนำออกจากกลุ่ม และไม่สามารถย้อนกลับได้",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "แปล",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "กำลังแปล…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "การแปลล้มเหลว โปรดลองใหม่อีกครั้งในภายหลัง",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "การโทรที่กำลังดำเนินอยู่",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "แสดงขึ้นในขณะที่การโทรด้วยเสียงหรือวิดีโอกำลังดำเนินอยู่",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "แตะเพื่อกลับสู่การโทร",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "อีกฝ่ายยกเลิกการโทรแล้ว",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "วิดีโอคอลถูกยกเลิก",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "อีกฝ่ายยกเลิกวิดีโอคอลแล้ว",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "ย้อนกลับ",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "กำลังดัง…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "กำลังเชื่อมต่อ…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "การโทรสิ้นสุดลงแล้ว",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "การโทรล้มเหลว",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "ลำโพง",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "หูฟัง",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "สลับกล้อง",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "วิดีโอ",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "ไมโครโฟนไม่ได้เปิดใช้งาน",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "สิ้นสุด",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "คุณ",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "สายโทรออก",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} วินาที",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} นาที",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} ชั่วโมง {minutes} นาที",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "เปลี่ยนบทบาทของฉัน",
+  "permissions": "สิทธิ์",
+  "changeMyRoleConfirmMessage": "สิทธิ์ของคุณกำลังถูกลดระดับลง การเปลี่ยนแปลงนี้ไม่สามารถย้อนกลับได้ หากคุณเป็นผู้ใช้งานที่มีสิทธิ์สูงคนสุดท้ายในแชทกลุ่มนี้ คุณจะไม่สามารถรับสิทธิ์คืนได้อีก",
+  "demoteToAdmin": "ลดระดับเป็นผู้ดูแลระบบ",
+  "demoteToModerator": "ลดระดับเป็นผู้ดูแล",
+  "demoteToMember": "ลดระดับเป็นสมาชิก",
+  "addAdmin": "เพิ่มผู้ดูแลระบบ",
+  "addModerator": "เพิ่มผู้ดูแล",
+  "groupAdmins": "ผู้ดูแลระบบกลุ่ม",
+  "groupModerators": "ผู้ดูแลกลุ่ม",
+  "addAdminHelp": "คุณสามารถเพิ่มผู้ดูแลระบบเพื่อช่วยคุณจัดการชุมชนของคุณได้",
+  "addModeratorHelp": "คุณสามารถเพิ่มผู้ดูแลเพื่อช่วยคุณจัดการชุมชนของคุณได้",
+  "noCandidatesToAdd": "ไม่มีสมาชิกที่เป็นผู้สมัครให้เพิ่มได้",
+  "setAsAdminSuccess": "ตั้งค่าเป็นผู้ดูแลระบบสำเร็จ",
+  "setAsModeratorSuccess": "ตั้งค่าเป็นผู้ดูแลสำเร็จ",
+  "searchMembers": "ค้นหาสมาชิก",
+  "noResults": "ไม่พบผลลัพธ์",
+  "noResultsDescription": "ไม่พบผลลัพธ์ที่เกี่ยวข้อง โปรดลองค้นหาใหม่อีกครั้ง",
+  "removeAdminConfirm": "คุณแน่ใจหรือไม่ว่าต้องการถอดถอนสิทธิ์ผู้ดูแลระบบของผู้ใช้นี้?",
+  "removeModeratorConfirm": "คุณแน่ใจหรือไม่ว่าต้องการถอดถอนสิทธิ์ผู้ดูแลของผู้ใช้นี้?",
+  "removeAdminSuccess": "ถอดถอนสิทธิ์ผู้ดูแลระบบสำเร็จ",
+  "removeModeratorSuccess": "ถอดถอนสิทธิ์ผู้ดูแลสำเร็จ",
+  "manageMembers": "จัดการสมาชิก",
+  "inviteMembers": "เชิญสมาชิก",
+  "removeMembers": "นำสมาชิกออก",
+  "banMembers": "แบนสมาชิก",
+  "editCommunity": "แก้ไขชุมชน",
+  "changeCommunityName": "เปลี่ยนชื่อชุมชน",
+  "changeCommunityAvatar": "เปลี่ยนรูปโปรไฟล์ชุมชน",
+  "changeCommunityDescription": "เปลี่ยนคำอธิบายชุมชน",
+  "messagesAndContent": "ข้อความและเนื้อหา",
+  "removeMessages": "นำข้อความออก",
+  "adminsOnly": "เฉพาะผู้ดูแลระบบเท่านั้น",
+  "adminsAndModerators": "ผู้ดูแลระบบและผู้ดูแล",
+  "resetPermissions": "รีเซ็ตสิทธิ์",
+  "resetPermissionsConfirmMessage": "คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ตสิทธิ์ทั้งหมดกลับเป็นค่าเริ่มต้น?",
+  "changeSettings": "เปลี่ยนการตั้งค่า",
+  "permissionChangedFromTo": "{sender} เปลี่ยนสิทธิ์ {permission} จาก {from} เป็น {to}",
+  "changedUserRoleTo": "{username} ตั้งค่าให้ {target} เป็น {role}",
+  "viewInChat": "ดูในแชท",
+  "playbackSpeed": "ความเร็วในการเล่น",
+  "normalSpeed": "ปกติ",
+  "qrScanHint": "วางคิวอาร์โค้ดให้อยู่ในกรอบเพื่อสแกน",
+  "torch": "ไฟฉาย",
+  "remarkVisibleOnlyToYou": "หมายเหตุนี้จะมองเห็นได้โดยคุณเท่านั้น",
+  "pollVotes": "{count} คะแนน",
+  "totalPollVotes": "คะแนนรวมทั้งหมด {count} คะแนน",
+  "scanQrMobileOnly": "ฟีเจอร์การสแกน QR รองรับเฉพาะอุปกรณ์มือถือเท่านั้น",
+  "publicGroupTech": "บริการด้านเทคโนโลยีและการพัฒนา",
+  "publicGroupMarketing": "การโฆษณาการตลาดและการจราจรเว็บ",
+  "publicGroupWeb3": "เว็บ 3 และธุรกรรมสินทรัพย์เสมือน",
+  "publicGroupCrossBorder": "บริการข้ามพรมแดนและสินทรัพย์เสมือน",
+  "publicGroupFreelance": "ทั่วไป / ธุรกรรมงานอิสระ",
+  "blockUsers": "บล็อกผู้ใช้",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "เปิด",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "รหัสผ่านล็อกหน้าจอ",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "รหัสผ่านเข้าสู่ระบบ",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "คีย์กู้คืน",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "อนุญาตการจัดเก็บคีย์",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "จัดเก็บข้อมูลประจำตัวการเข้ารหัสและคีย์ข้อความของคุณไว้อย่างปลอดภัยบนเซิร์ฟเวอร์ เพื่อให้คุณสามารถดูประวัติการแชทของคุณบนอุปกรณ์ใหม่ใดๆ ก็ได้",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "ตั้งค่าการกู้คืน",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "หากคุณทำอุปกรณ์ปัจจุบันทั้งหมดสูญหาย ให้ใช้คีย์กู้คืนเพื่อกู้คืนข้อมูลประจำตัวการเข้ารหัสและประวัติการแชทของคุณ",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "ตั้งค่าคีย์กู้คืน",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "จัดเก็บข้อมูลประจำตัวการเข้ารหัสและคีย์ข้อความของคุณไว้อย่างปลอดภัยบนเซิร์ฟเวอร์ เพื่อให้คุณสามารถดูประวัติการแชทของคุณบนอุปกรณ์ใหม่ใดๆ ก็ได้",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "สร้างคีย์กู้คืน",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "คลิกเพื่อคัดลอกคีย์กู้คืน",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "บันทึกคีย์กู้คืน",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "เก็บคีย์กู้คืนนี้ไว้ในที่ปลอดภัย เช่น ตัวจัดการรหัสผ่าน โน้ตที่เข้ารหัส หรือตู้นิรภัยทางกายภาพ",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "บันทึกคีย์กู้คืน",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "คัดลอกคีย์กู้คืนแล้ว",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "บันทึกคีย์กู้คืนแล้ว",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "กำลังสร้างคีย์กู้คืน…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "แชร์สถานะออนไลน์",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "เมื่อปิด คุณจะไม่สามารถส่งหรือรับใบตอบรับการอ่านหรือการแจ้งเตือนการพิมพ์ได้",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "ปรับให้เหมาะสมสำหรับการอัปโหลด",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "การดูแลเนื้อหาและความปลอดภัย",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "ซ่อนรูปโปรไฟล์ในคำขอเชิญเข้าร่วมห้อง",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "แสดงสื่อในไทม์ไลน์",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "ซ่อนเสมอ",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "ในห้องส่วนตัว",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "แสดงเสมอ",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "ทั้งหมด",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "เฉพาะการกล่าวถึง",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "แชทกลุ่ม",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "แชทส่วนตัว",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "แจ้งเตือนฉันในแชทกลุ่ม",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "แจ้งเตือนฉันในแชทส่วนตัว",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "ข้อความทั้งหมด",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "เฉพาะการกล่าวถึงและคำสำคัญ",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "เนื่องจากเซิร์ฟเวอร์ไม่รองรับตัวเลือกนี้ในแชทกลุ่มที่เข้ารหัส คุณจึงอาจไม่ได้รับการแจ้งเตือนในแชทกลุ่มบางกลุ่ม",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "การตั้งค่าอิสระสำหรับแต่ละแชท",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "การเปิดใช้งานตัวเลือกนี้จะแทนที่การตั้งค่าเริ่มต้นของคุณ",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "แจ้งเตือนฉันในห้องแชทนี้",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "เฉพาะการกล่าวถึงและคำสำคัญ",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "เซิร์ฟเวอร์หลักของคุณไม่รองรับตัวเลือกนี้ในห้องที่เข้ารหัส คุณอาจไม่ได้รับการแจ้งเตือนในบางห้อง",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "อนุญาตการตั้งค่ากำหนดเอง",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "แจ้งเตือนฉันบนอุปกรณ์นี้",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "การกล่าวถึง",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "แจ้งเตือนฉันเมื่อถูกกล่าวถึงด้วย @ ในกลุ่ม",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "การตั้งค่าเพิ่มเติม",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "รหัสผ่านเดิม",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "รหัสผ่านล็อก",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "ปลดล็อกหน้าจอ",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "โปรดป้อนรหัสผ่านล็อกหน้าจอ",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "โปรดป้อนรหัสผ่านล็อกหน้าจอใหม่อีกครั้ง",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "โปรดป้อนรหัสผ่านล็อกหน้าจอเดิม",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "รหัสผ่านเดิมไม่ถูกต้อง โปรดป้อนใหม่อีกครั้ง",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "เปลี่ยนรหัสล็อก",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "หมายเหตุ: หากคุณลืมรหัสผ่านล็อก คุณจะต้องติดตั้งแอปพลิเคชันใหม่",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "รหัสผ่านที่ป้อนไม่ตรงกัน",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "เปิดใช้งานรหัสผ่านล็อกหน้าจอแล้ว",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "ปิดใช้งานรหัสผ่านล็อกหน้าจอแล้ว",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "อุปกรณ์นี้",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "ออกจากระบบจากเซสชันอื่นๆ ทั้งหมด",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "ออกจากระบบจากอุปกรณ์ทั้งหมด ยกเว้นอุปกรณ์นี้",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "เซสชันที่ใช้งานอยู่",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "ลบอุปกรณ์",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "ต้องการลบอุปกรณ์ {name} ใช่หรือไม่?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "Device ID",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "เข้าสู่ระบบล่าสุด",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "ที่อยู่ IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "ไคลเอนต์",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "Client ID",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "ชื่อ",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "นำอุปกรณ์ออก",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} ที่แล้ว",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "นาที",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "ชั่วโมง",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "วัน",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "ยินดีต้อนรับสู่แอปพลิเคชัน {appName} ของคุณ",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "ยินดีต้อนรับสู่ {appName} แอปพลิเคชันรับส่งข้อความที่รวดเร็วและเรียบง่าย",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "สร้างบัญชี",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "อัปเดตพร้อมใช้งาน",
+  "updateReadyMessage": "เราได้ปรับปรุงบางฟีเจอร์แล้ว ให้รีสตาร์ทแอปเพื่อใช้อัปเดต",
+  "restartNow": "รีสตาร์ทตอนนี้",
+  "noPublicGroupsYet": "ยังไม่มีกลุ่มที่ได้รับการรับรอง"
+}

@@ -1,0 +1,4074 @@
+{
+  "@@locale": "fa",
+  "about": "درباره",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "قبول",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} دعوت را پذیرفت",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "حساب کاربری",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} رمزنگاری سرتاسری را فعال کرد",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "افزودن ایمیل",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "مدیر",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "نام مستعار",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "همه",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} به تماس پاسخ داد",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "همه می‌توانند عضو شوند",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "قفل برنامه",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "آرشیو",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "آیا مهمانان اجازه ورود دارند؟",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "آیا مطمئن هستید؟",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "آیا مطمئن هستید که می‌خواهید خارج شوید؟",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "لطفاً عبارت عبور یا کلید بازیابی ذخیره شده در محیط امن را برای امضا وارد کنید.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "آیا درخواست تأیید هویت از طرف {username} را می‌پذیرید؟",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "روش‌های ورود پشتیبانی شده توسط سرور اصلی:\n{serverVersions}\nاما این برنامه فقط پشتیبانی می‌کند از:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "مسدودسازی از چت",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "مسدود کردن عضو",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "مسدود شده",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} کاربر {targetName} را مسدود کرد",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "مسدودسازی دستگاه",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "مسدود شد",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "لغو",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "تغییر نام دستگاه",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} تصویر چت را تغییر داد",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} دسترسی‌های چت را تغییر داد",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} نام نمایشی را به «{displayname}» تغییر داد",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} قوانین دسترسی مهمان را تغییر داد",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} قوانین دسترسی مهمان را به {rules} تغییر داد",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} قابلیت مشاهده تاریخچه را تغییر داد",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} قابلیت مشاهده تاریخچه را به {rules} تغییر داد",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} قوانین عضویت را تغییر داد",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} قوانین عضویت را به {joinRules} تغییر داد",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} تصویر پروفایل را تغییر داد",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} نام‌های مستعار اتاق را تغییر داد",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} لینک دعوت را تغییر داد",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "تغییر رمز عبور",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "تغییر سرور اصلی",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "تغییر پوسته",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "تغییر نام گروه",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "تغییر تصویر پروفایل",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "رمزنگاری آسیب دیده است",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "چت",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "پشتیبان‌گیری از گفتگوها",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "اطلاعات چت",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "گفتگوها",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "یک رمز عبور قوی انتخاب کنید",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "پاکسازی آرشیو",
+  "close": "بستن",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "مسدود کردن کاربر مشخص شده در این اتاق چت",
+  "@commandHint_ban": {
+    "type": "String"
+  },
+  "commandHint_html": "ارسال متن با قالب‌بندی HTML",
+  "@commandHint_html": {
+    "type": "String"
+  },
+  "commandHint_invite": "دعوت از کاربر به این اتاق چت",
+  "@commandHint_invite": {
+    "type": "String"
+  },
+  "commandHint_join": "عضویت در اتاق چت مشخص شده",
+  "@commandHint_join": {
+    "type": "String"
+  },
+  "commandHint_kick": "اخراج کاربر مشخص شده از این اتاق چت",
+  "@commandHint_kick": {
+    "type": "String"
+  },
+  "commandHint_leave": "خروج از این اتاق چت",
+  "@commandHint_leave": {
+    "type": "String"
+  },
+  "commandHint_me": "معرفی خود",
+  "@commandHint_me": {
+    "type": "String"
+  },
+  "commandHint_myroomavatar": "تنظیم تصویر شما در این اتاق چت (از طریق mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String"
+  },
+  "commandHint_myroomnick": "تنظیم نام مستعار شما در این اتاق چت",
+  "@commandHint_myroomnick": {
+    "type": "String"
+  },
+  "commandHint_op": "تنظیم سطح دسترسی کاربر (پیش‌فرض: ۵۰)",
+  "@commandHint_op": {
+    "type": "String"
+  },
+  "commandHint_plain": "ارسال متن ساده",
+  "@commandHint_plain": {
+    "type": "String"
+  },
+  "commandHint_react": "ارسال پاسخ به عنوان واکنش",
+  "@commandHint_react": {
+    "type": "String"
+  },
+  "commandHint_send": "ارسال متن",
+  "@commandHint_send": {
+    "type": "String"
+  },
+  "commandHint_unban": "رفع مسدودیت کاربر در این اتاق چت",
+  "@commandHint_unban": {
+    "type": "String"
+  },
+  "commandInvalid": "دستور نامعتبر است",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "دستور {command} یک دستور معتبر نیست.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    }
+  },
+  "compareEmojiMatch": "لطفاً ایموجی‌ها را مقایسه کنید",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "لطفاً ارقام زیر را مقایسه کنید",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "پیکربندی چت",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "مخاطب به گروه دعوت شد",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "این محتوا به مدیر سرور گزارش شده است",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "در حافظه کپی شد",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "کپی",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "کپی در حافظه",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "رمزگشایی پیام انجام نشد: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "رمزگشایی پیام موقتاً ناموفق بود، لطفاً بعداً دوباره امتحان کنید",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} شرکت‌کننده",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "ایجاد",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} چت را ایجاد کرد",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "در حال حاضر فعال",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "تاریک",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}، {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "این عمل حساب کاربری شما را غیرفعال می‌کند و قابل بازگشت نیست! آیا مطمئن هستید؟",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "سطح دسترسی پیش‌فرض کاربران جدید",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "حذف",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "حذف حساب کاربری",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "حذف پیام",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "حذف تمام پیام‌ها",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "پاکسازی تاریخچه چت",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "آیا از حذف تمام پیام‌های این چت اطمینان دارید؟ این عمل قابل بازگشت نیست.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "آیا از پاکسازی تاریخچه این چت اطمینان دارید؟ این عمل قابل بازگشت نیست.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "فعال‌سازی حذف خودکار",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "حذف خودکار پیام‌های جدید پس از مدت زمان مشخص",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "۱ روز",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "۱ هفته",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "۱ ماه",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "غیرفعال‌سازی",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "دستگاه‌ها",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "چت‌های خصوصی",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "نام نمایشی تغییر کرد",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "دانلود فایل",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "ویرایش",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "ویرایش سرورهای مسدود شده",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "ویرایش نام نمایشی",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "ویرایش نام‌های مستعار اتاق",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "ویرایش تصویر اتاق",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "این ایموجی از قبل وجود دارد!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "میانبر ایموجی نامعتبر است!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "میانبر ایموجی",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "چت خالی",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "فعال‌سازی جهانی ایموجی‌ها",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "فعال‌سازی رمزنگاری",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "امکان غیرفعال‌سازی رمزنگاری پس از فعال‌سازی وجود ندارد، آیا مطمئن هستید؟",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "رمزنگاری شده",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "رمزنگاری",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "رمزنگاری فعال نیست",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} تماس را پایان داد",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "یک آدرس ایمیل وارد کنید",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "اندازه فونت",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "بازارسال",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "بازارسال شد",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "از زمان عضویت",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "از زمان دعوت",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "گروه",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "گروه عمومی است",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "گروه‌ها",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "گروه با نام {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "ورود مهمانان ممنوع است",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "مهمانان می‌توانند عضو شوند",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} دعوت نامه {targetName} را لغو کرد",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "راهنما",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "پنهان‌سازی رویدادهای ناشناخته",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "نادیده گرفتن",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "کاربران نادیده گرفته شده",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "روی لینک کلیک کردم",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "عبارت عبور یا کلید بازیابی اشتباه است",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "دعوت از مخاطب",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "دعوت از مخاطب به {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "دعوت شده",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} کاربر {targetName} را دعوت کرد",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "فقط کاربران دعوت‌شده",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} شما را به استفاده از NYX دعوت کرده است.\n۱. نصب NYX: https://fluffychat.im\n۲. ثبت‌نام یا ورود\n۳. باز کردن لینک دعوت:\n{link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "در حال تایپ است",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} به چت پیوست",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "عضویت در اتاق",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "آدرس اتاق را وارد کنید",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "مثال: !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "آدرس نامعتبر است!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "اتاق یافت نشد!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "ورود به اتاق ناموفق بود",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "اتاق مربوطه پیدا شد",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "ادامه",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "بدون توضیحات…",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "درخواست ورود",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "ورود به اتاق",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "توضیحات",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} کاربر {targetName} را اخراج کرد",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} کاربر {targetName} را اخراج و مسدود کرد",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "اخراج از اتاق چت",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "شما از این چت گروهی اخراج شده‌اید",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "حذف عضو",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "آخرین بازدید: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "خروج",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "از چت خارج شد",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "روشن",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "بارگذاری {count} شرکت‌کننده بیشتر",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "در حال بارگذاری… لطفاً شکیبا باشید.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "بارگذاری بیشتر…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "ورود",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "ورود به {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "خروج از حساب",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "آیا از خروج از حساب کاربری NYX اطمینان دارید؟",
+  "mention": "اشاره",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "پیام‌ها",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "مدیر گروه",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "بی‌صدا کردن",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "گفتگوی جدید",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 پیام جدید در NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "درخواست احراز هویت جدید!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "بعدی",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "خیر",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "عدم برقراری ارتباط با سرور",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "هیچ ایموجی پیدا نشد. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "رمزنگاری فقط زمانی قابل فعال‌سازی است که اتاق برای عموم قابل دسترسی نباشد.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "به نظر می‌رسد سرویس Firebase Cloud Messaging روی گوشی شما نصب نیست. اگر می‌خواهید اعلان‌های NYX را دریافت کنید، نصب ntfy توصیه می‌شود.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "شما هنوز روشی برای بازیابی رمز عبور اضافه نکرده‌اید.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "عدم دسترسی",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "هیچ اتاقی پیدا نشد…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "اعلان‌ها",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} نفر در حال تایپ هستند…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "تأیید",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "پشتیبان‌گیری آنلاین کلیدها فعال است",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "اوپس! متأسفانه در پیکربندی اعلان‌ها خطایی رخ داد.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "اوپس، خطایی رخ داد…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "برای خواندن پیام‌ها برنامه را باز کنید",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "باز کردن دوربین",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "یا",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "شرکت‌کننده",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "عبارت عبور یا کلید بازیابی",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "رمز عبور",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "فراموشی رمز عبور",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "رمز عبور تغییر یافت",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "بازیابی رمز عبور",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "سنجاق کردن",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "لطفاً یک کد قفل انتخاب کنید",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "لطفاً روی لینک موجود در ایمیل کلیک کنید و سپس ادامه دهید.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "لطفاً رمز عبور خود را وارد کنید",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "لطفاً کد PIN خود را وارد کنید",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "لطفاً رمز قفل را وارد کنید",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "لطفاً نام کاربری خود را وارد کنید",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "لطفاً دستورالعمل‌های روی وب‌سایت را دنبال کنید و سپس روی بعدی کلیک کنید.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "حریم خصوصی",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "اتاق‌های عمومی",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "علت",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} یک رویداد را حذف کرد",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "حذف پیام",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "رد کردن",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} دعوت را رد کرد",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "حذف",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "حذف تمام دستگاه‌های دیگر",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "رفع مسدودیت در چت",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "حذف تصویر پروفایل",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "به‌روزرسانی اتاق چت به نسخه جدیدتر",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "پاسخ",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "گزارش پیام",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "اتاق چت ارتقا یافت",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "نسخه اتاق چت",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "ذخیره فایل",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "جستجو",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "امنیت",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "ارسال",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "ارسال یک پیام",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "ارسال متنی",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "ارسال صوتی",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "ارسال فایل",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "ارسال تصویر",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "ارسال پیام‌ها",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "ارسال ویدیو",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} یک فایل فرستاد",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} یک صدا فرستاد",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} یک تصویر فرستاد",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} یک استیکر فرستاد",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} یک ویدیو فرستاد",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} اطلاعات تماس را ارسال کرد",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "تنظیم به عنوان نام مستعار اصلی",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "تنظیم وضعیت",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "تنظیمات",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "اشتراک‌گذاری",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} موقعیت مکانی خود را به اشتراک گذاشت",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "رد شدن",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "سورس کد",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} تماسی را آغاز کرد",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "وضعیت",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "امروز چطوری؟",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "ارسال",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "در حال همگام‌سازی… لطفاً شکیبا باشید.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "سیستم",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "مطابقت ندارند",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "مطابقت دارند",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "تعداد درخواست‌ها بیش از حد است. لطفاً بعداً دوباره امتحان کنید!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "تلاش مجدد برای ارسال",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} کاربر {targetName} را رفع مسدودیت کرد",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "رفع مسدودیت دستگاه",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "دستگاه ناشناخته",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "الگوریتم رمزنگاری ناشناخته",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "رویداد ناشناخته '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "خروج از حالت بی‌صدا",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "برداشتن سنجاق",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} و {count} نفر دیگر در حال تایپ هستند…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} و {username2} در حال تایپ هستند…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} در حال تایپ است…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} چت را ترک کرد",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} یک رویداد {type} فرستاد",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "تأیید شده",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "تأیید کاربر",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "تأیید این کاربر",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "جهت امنیت بیشتر، این کاربر را با مقایسه شکل‌ها و ایموجی‌ها تأیید کنید. این کار را از طریق یک کانال امن مانند حضوری انجام دهید.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "در انتظار کاربر مقابل",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "پس از پذیرش، می‌توانید فرآیند تأیید را ادامه دهید",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "مقایسه ایموجی‌ها",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "ایموجی‌ها را مقایسه کنید و مطمئن شوید ترتیب آن‌ها کاملاً یکسان است",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "لطفاً بررسی کنید آیا ایموجی‌های زیر با دستگاه طرف مقابل مطابقت دارند یا خیر",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "درخواست تأیید هویت",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "جهت ارتقای امنیت، کاربر دیگری قصد تأیید هویت دارد. مجموعه‌ای از ایموجی‌ها جهت مقایسه نمایش داده می‌شود",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "تأیید هویت موفقیت‌آمیز بود",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "اکنون می‌توانید به هویت این کاربر اعتماد کرده و تماس یا پیام برقرار نمایید",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "تأیید هویت ناموفق بود",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "درخواست منقضی یا رد شده است، یا اطلاعات مطابقت ندارند",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "انجام شد",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "تلاش مجدد",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "آیا این کاربر تأیید شود؟",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "این اولین پیام شما به این کاربر است. برای امنیت بیشتر می‌توانید ابتدا هویت او را تأیید کرده یا مستقیماً پیام ارسال کنید.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "تأیید در حال حاضر",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "ارسال مستقیم",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "اعلان‌های پیام",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "اعلان‌های پیام",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "افزودن بیوگرافی",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "تنظیم تصویر پروفایل جدید",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "اعضا",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "نقش‌ها و دسترسی‌ها",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "پروفایل شخصی",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "تنظیم یادداشت/نام مستعار",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "پیام‌های سنجاق شده",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count} پیام سنجاق شده",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "هیچ پیام سنجاق شده‌ای وجود ندارد",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "توافق‌نامه",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "رسانه و فایل‌ها",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "نظرسنجی‌ها",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "خروج از جامعه",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "حذف گروه چت",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "رسانه",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "بدون رسانه",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "بدون فایل",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "در حال دانلود فایل…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "افزودن به مخاطبین",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "افزودن مخاطب",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "حذف مخاطب",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "بیوگرافی",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "بدون بیوگرافی",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "مسدود کردن کاربر",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "رفع مسدودیت کاربر",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "تماس",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "شروع تأیید هویت",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "تأیید هویت با موفقیت انجام شد!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "تأیید حساب‌های دیگر",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "قابلیت مشاهده تاریخچه چت",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "قابل مشاهده برای همه شرکت‌کنندگان",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "قابل مشاهده برای عموم",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "پیام صوتی",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "در انتظار پذیرش درخواست توسط طرف مقابل…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "در انتظار پذیرش ایموجی توسط طرف مقابل…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "در انتظار پذیرش ارقام توسط طرف مقابل…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "هشدار!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "ما یک ایمیل برای شما ارسال کردیم",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "چه کسی چه اقداماتی انجام دهد",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "چه کسانی مجاز به عضویت در این گروه هستند",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "دلیل گزارش این محتوا چیست؟",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "از طریق این آدرس‌ها می‌توانید رمز عبور را بازیابی کنید.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "نوشتن پیام…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "بله",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "شما",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "شما دیگر در این چت حضور ندارید",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "شما از این چت مسدود شده‌اید",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "کلید عمومی شما",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "افزودن به فضا",
+  "obtainingLocation": "در حال دریافت موقعیت مکانی…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "سرور {server1} یک سرور ماتریکس نیست، امتحان سرور {server2}؟",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "دسترسی موقعیت مکانی رد شد. برای اشتراک‌گذاری موقعیت خود مجوز مربوطه را اعطا کنید.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "سرویس موقعیت مکانی غیرفعال است. لطفاً آن را فعال کنید.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "خطا در دریافت موقعیت مکانی: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "ایجاد فضای جدید",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "امکان باز کردن URI وجود ندارد: {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "پخش خودکار استیکرهای متحرک و ایموجی‌ها",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholders": {
+      "placeholder": {}
+    }
+  },
+  "spaceName": "نام فضا",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "فضا عمومی است",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "اشتراک‌گذاری موقعیت مکانی",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "باز کردن در نقشه",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "ارسال با کلید Enter",
+  "scanQrCode": "اسکن کد QR",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "کد QR",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "اشتراک‌گذاری کد QR",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "یکی از کلاینت‌های شما خارج شده است",
+  "removeFromBundle": "حذف از این مجموعه",
+  "unverified": "تأیید نشده",
+  "repeatPassword": "تکرار رمز عبور",
+  "addAccount": "افزودن حساب کاربری",
+  "editBundlesForAccount": "ویرایش مجموعه‌های این حساب",
+  "addToBundle": "افزودن به مجموعه",
+  "bundleName": "نام مجموعه",
+  "link": "لینک",
+  "sender": "فرستنده",
+  "openGallery": "باز کردن گالری",
+  "messageInfo": "اطلاعات پیام",
+  "time": "زمان",
+  "removeFromSpace": "حذف از این فضا",
+  "commandHint_discardsession": "دور انداختن نشست",
+  "@commandHint_discardsession": {
+    "type": "String"
+  },
+  "commandHint_dm": "ایجاد چت خصوصی\nاز گزینه‌ی --no-encryption برای غیرفعال‌سازی رمزنگاری استفاده کنید",
+  "@commandHint_dm": {
+    "type": "String"
+  },
+  "commandHint_clearcache": "پاکسازی حافظه پنهان",
+  "@commandHint_clearcache": {
+    "type": "String"
+  },
+  "commandHint_create": "ایجاد چت گروهی خالی\nاز گزینه‌ی --no-encryption برای غیرفعال‌سازی رمزنگاری استفاده کنید",
+  "@commandHint_create": {
+    "type": "String"
+  },
+  "markAsRead": "علامت‌گذاری به عنوان خوانده‌شده",
+  "reportUser": "گزارش کاربر",
+  "reactedWith": "{sender} با {reaction} واکنش نشان داد",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "آیا از برداشتن دائمی سنجاق این رویداد مطمئن هستید؟",
+  "pinMessage": "سنجاق کردن به اتاق چت",
+  "emojis": "ایموجی‌ها",
+  "unsupportedAndroidVersionLong": "این قابلیت نیاز به نسخه جدیدتری از اندروید دارد.",
+  "unsupportedAndroidVersion": "نسخه اندروید پشتیبانی نمی‌شود",
+  "youRejectedTheInvitation": "شما دعوت را رد کردید",
+  "youJoinedTheChat": "شما به چت پیوستید",
+  "youBannedUser": "شما کاربر {user} را مسدود کردید",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 شما توسط {user} دعوت شدید",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 شما {user} را دعوت کردید",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 شما {user} را اخراج کردید",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "شما مسدودیت {user} را رفع کردید",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 شما دعوت را پذیرفتید",
+  "youHaveWithdrawnTheInvitationFor": "شما دعوت‌نامه {user} را لغو کردید",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 شما {user} را اخراج و مسدود کردید",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "ذخیره در Apple KeyChain",
+  "storeInAndroidKeystore": "ذخیره در Android KeyStore",
+  "storeSecurlyOnThisDevice": "ذخیره امن روی این دستگاه",
+  "users": "کاربران",
+  "countFiles": "{count} فایل",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "بازیابی از فایل پشتیبان",
+  "dehydrate": "خروجی نشست‌ها و پاکسازی دستگاه",
+  "dehydrateWarning": "این اقدام قابل بازگشت نیست. مطمئن شوید فایل پشتیبان را به صورت امن ذخیره کرده‌اید.",
+  "user": "کاربر",
+  "userNotFound": "کاربر یافت نشد",
+  "custom": "سفارشی",
+  "confirmMatrixId": "لطفاً برای حذف حساب، شناسه Matrix خود را تأیید کنید.",
+  "supposedMxid": "باید {mxid} باشد",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "علامت‌گذاری به عنوان گروه",
+  "commandHint_markasdm": "علامت‌گذاری شناسه ماتریکس به عنوان چت خصوصی",
+  "whyIsThisMessageEncrypted": "چرا این پیام قابل خواندن نیست؟",
+  "noKeyForThisMessage": "این حالت ممکن است زمانی رخ دهد که پیام پیش از ورود شما به این دستگاه ارسال شده باشد.\n\nهمچنین ممکن است فرستنده دستگاه شما را مسدود کرده یا شبکه مشکل داشته باشد.\n\nآیا می‌توانید پیام را در نشست دیگری بخوانید؟ اگر بله، می‌توانید کلیدها را از آن منتقل کنید! به تنظیمات > دستگاه‌ها بروید و مطمئن شوید دستگاه‌های شما یکدیگر را تأیید کرده‌اند.",
+  "newSpace": "فضای جدید",
+  "doNotShowAgain": "دیگر نشان نده",
+  "googlyEyesContent": "{senderName} برای شما چشمک فرستاد",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "ارسال ایموجی چشم‌های چرخانی",
+  "commandHint_cuddle": "ارسال نوازش",
+  "commandHint_hug": "ارسال آغوش",
+  "cuddleContent": "{senderName} شما را نوازش کرد",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} شما را در آغوش گرفت",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "چت خالی (قبلاً {oldDisplayName} بود)",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "فضای اختصاصی به شما اجازه می‌دهد چت‌ها را گروه‌بندی کنید و جوامع عمومی یا خصوصی تشکیل دهید.",
+  "encryptThisChat": "رمزنگاری این چت",
+  "disableEncryptionWarning": "به دلیل مسائل امنیتی، امکان غیرفعال‌سازی رمزنگاری در چت‌هایی که قبلاً رمزنگاری شده‌اند وجود ندارد.",
+  "sorryThatsNotPossible": "متأسفانه امکان‌پذیر نیست…",
+  "report": "گزارش",
+  "fileIsTooBigForServer": "امکان ارسال نیست! سرور حداکثر تا حجم {max} را پشتیبانی می‌کند.",
+  "noOtherDevicesFound": "دستگاه دیگری یافت نشد",
+  "jumpToLastReadMessage": "پرش به آخرین پیام خوانده‌شده",
+  "readUpToHere": "خوانده‌شده تا اینجا",
+  "jump": "پرش",
+  "openLinkInBrowser": "باز کردن لینک در مرورگر",
+  "fileHasBeenSavedAt": "فایل در {path} ذخیره شد",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 اوه نه. خطایی پیش آمد. در صورت تمایل می‌توانید گزارش خطا را برای توسعه‌دهندگان ارسال کنید.",
+  "noBackupWarning": "هشدار! در صورت عدم فعال‌سازی پشتیبان چت، دسترسی به پیام‌های رمزنگاری شده را از دست خواهید داد. توصیه اکید می‌شود قبل از خروج، پشتیبان‌گیری را فعال کنید.",
+  "reopenChat": "بازکردن مجدد چت",
+  "importEmojis": "وارد کردن پک ایموجی",
+  "notAnImage": "فایل تصویری نیست.",
+  "importNow": "وارد کردن اکنون",
+  "importFromZipFile": "وارد کردن از فایل zip.",
+  "replace": "جایگزینی",
+  "exportEmotePack": "خروجی پک ایموجی به صورت فایل zip",
+  "sendTypingNotifications": "ارسال وضعیت در حال تایپ",
+  "createGroup": "ایجاد چت گروهی",
+  "shareInviteLink": "اشتراک‌گذاری لینک دعوت",
+  "tryAgain": "تلاش مجدد",
+  "chatPermissions": "دسترسی‌های چت",
+  "chatDescription": "توضیحات چت",
+  "chatDescriptionHasBeenChanged": "توضیحات چت تغییر کرد",
+  "noChatDescriptionYet": "هنوز توضیحاتی برای چت ثبت نشده است.",
+  "invalidServerName": "نام سرور نامعتبر است",
+  "redactMessageDescription": "پیام برای همه افراد این گفتگو حذف می‌شود. این عمل قابل بازگشت نیست.",
+  "optionalRedactReason": "(اختیاری) دلیل حذف پیام...",
+  "setChatDescription": "تنظیم توضیحات چت",
+  "setColorTheme": "تنظیم رنگ پوسته:",
+  "invite": "دعوت",
+  "addMembers": "افزودن اعضا",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "دعوت از طریق لینک",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "این لیست فقط برای مدیران قابل مشاهده است.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "مخاطبین موجود در این چت",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "این گروه لینک دعوت ندارد",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "پیام‌ها:",
+  "redactedBy": "توسط {username} حذف شد",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "توسط {username} حذف شد، به دلیل: «{reason}»",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 دعوت به چت گروهی",
+  "emoteKeyboardNoRecents": "ایموجی‌های اخیر در اینجا قرار می‌گیرند...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "ورودی نامعتبر است!",
+  "wrongPinEntered": "کد پین اشتباه وارد شد! لطفاً {seconds} ثانیه بعد مجدداً تلاش کنید…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} درخواست ورود به اتاق را ارسال کرد",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "لطفاً عددی بزرگتر از ۰ وارد کنید",
+  "banUserDescription": "این کاربر از اتاق چت مسدود می‌شود و تا زمان رفع مسدودیت امکان ورود مجدد نخواهد داشت.",
+  "removeDevicesDescription": "شما از این دستگاه خارج می‌شوید و پیامی دریافت نخواهید کرد.",
+  "unbanUserDescription": "کاربر پس از رفع مسدودیت می‌تواند دوباره وارد چت شود.",
+  "pushNotificationsNotAvailable": "اعلان‌ها در دسترس نیستند",
+  "makeAdminDescription": "اگر این کاربر را مدیر کنید، ممکن است نتوانید دسترسی او را لغو کنید زیرا دسترسی‌های مشابه شما خواهد داشت.",
+  "archiveRoomDescription": "چت به بخش آرشیو منتقل می‌شود و بقیه اعضا خروج شما را مشاهده خواهند کرد.",
+  "learnMore": "اطلاعات بیشتر",
+  "roomUpgradeDescription": "اتاق چت فعلی بازسازی شده و نسخه جدید ساخته می‌شود. همه اعضا اعلان تغییر اتاق دریافت می‌کنند.",
+  "kickUserDescription": "کاربر از چت اخراج می‌شود اما مسدود نمی‌گردد. در چت‌های عمومی کاربر می‌تواند مجدداً وارد شود.",
+  "blockListDescription": "می‌توانید کاربران مزاحم را مسدود کنید. شما پیام یا دعوت‌نامه‌ای از کاربران مسدود شده دریافت نخواهید کرد.",
+  "createGroupAndInviteUsers": "ایجاد گروه و دعوت از کاربران",
+  "blockedUsers": "کاربران مسدود شده",
+  "groupCanBeFoundViaSearch": "گروه از طریق جستجو قابل پیدا شدن است",
+  "noUsersFoundWithQuery": "متأسفانه هیچ کاربری برای عبارت «{query}» یافت نشد. لطفاً دقت ورودی را بررسی کنید.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "مسدود کردن",
+  "yourGlobalUserIdIs": "شناسه کاربری جهانی شما: ",
+  "commandHint_sendraw": "ارسال فایل json خام",
+  "wrongRecoveryKey": "متأسفانه کلید بازیابی وارد شده صحیح به نظر نمی‌رسد.",
+  "blockUsername": "نادیده گرفتن نام کاربری",
+  "groupName": "نام گروه",
+  "databaseMigrationTitle": "پایگاه داده بهینه‌سازی شد",
+  "searchChatsRooms": "جستجوی #چت، @کاربر…",
+  "databaseMigrationBody": "لطفاً منتظر بمانید. ممکن است زمان کوتاهی نیاز باشد.",
+  "thisDevice": "این دستگاه: ",
+  "publicSpaces": "فضاهای عمومی",
+  "passwordIsWrong": "رمز عبور وارد شده نادرست است",
+  "pleaseEnterYourCurrentPassword": "لطفاً رمز عبور فعلی خود را وارد کنید",
+  "nothingFound": "چیزی پیدا نشد…",
+  "newPassword": "رمز عبور جدید",
+  "passwordsDoNotMatch": "رمزهای عبور مطابقت ندارند",
+  "select": "انتخاب",
+  "pleaseChooseAStrongPassword": "لطفاً یک رمز عبور قوی انتخاب کنید",
+  "addChatOrSubSpace": "افزودن چت یا زیرمجموعه فضا",
+  "leaveEmptyToClearStatus": "برای پاک کردن وضعیت، کادر را خالی بگذارید.",
+  "joinSpace": "عضویت در فضا",
+  "searchForUsers": "جستجوی @کاربر…",
+  "initAppError": "خطا در راه‌اندازی اولیه برنامه",
+  "sessionLostBody": "نشست شما منقضی شده است. لطفاً خطا را به توسعه‌دهندگان در {url} گزارش دهید. متن خطا: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "برنامه در حال تلاش برای بازیابی نشست از فایل پشتیبان است. گزارش در {url}. خطا: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "سایر اعضای چت می‌توانند وضعیت تایپ شما را مشاهده کنند.",
+  "formattedMessagesDescription": "نمایش متن‌های غنی با فرمت Markdown مانند متن‌های برجسته.",
+  "verifyOtherUserDescription": "با تأیید هویت کاربران، می‌توانید از هویت مخاطب خود اطمینان کامل حاصل کنید. 💪",
+  "verifyOtherDeviceDescription": "هنگام تأیید هویت دستگاه دیگر، کلیدها تبادل شده و امنیت کلی افزایش می‌یابد. 💪",
+  "canceledKeyVerification": "{sender} تأیید کلید را لغو کرد",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "ارسال رسید خوانده‌شدن",
+  "formattedMessages": "پیام‌های قالب‌بندی شده",
+  "verifyOtherDevice": "🔐 تأیید دستگاه‌های دیگر",
+  "verifyOtherUser": "🔐 تأیید کاربران دیگر",
+  "sendReadReceiptsDescription": "سایر کاربران چت می‌توانند از خوانده شدن پیام‌هایشان توسط شما مطلع شوند.",
+  "acceptedKeyVerification": "{sender} تأیید کلید را پذیرفت",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} آماده تأیید کلید است",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} تأیید کلید را به پایان رساند",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} درخواست تأیید کلید داد",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} روند تأیید کلید را شروع کرد",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "پیام‌های دریافتی",
+  "stickers": "استیکرها",
+  "discover": "کشف / مرور",
+  "commandHint_ignore": "نادیده گرفتن شناسه ماتریکس مشخص شده",
+  "commandHint_unignore": "لغو نادیده گرفتن شناسه ماتریکس مشخص شده",
+  "unreadChatsInApp": "{appname}: {unread} چت خوانده‌نشده",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "پس از تنظیم رمز، ورود به برنامه NYX نیاز به تأیید هویت دارد",
+  "globalChatId": "شناسه چت جهانی",
+  "accessAndVisibility": "دسترسی و قابلیت مشاهده",
+  "accessAndVisibilityDescription": "چه کسانی می‌توانند عضو چت شوند و نحوه یافتن آن.",
+  "customEmojisAndStickers": "ایموجی‌ها و استیکرهای سفارشی",
+  "hideRedactedMessages": "پنهان‌سازی پیام‌های حذف‌شده",
+  "passwordRecoverySettings": "تنظیمات بازیابی رمز عبور",
+  "knock": "درخواست ورود",
+  "noOneCanJoin": "هیچ‌کس نمی‌تواند عضو شود",
+  "knocking": "در حال درخواست ورود",
+  "chatCanBeDiscoveredViaSearchOnServer": "چت از طریق جستجو در سرور {server} قابل کشف است",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "در حال حاضر {count} کاربر مسدود هستند.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "اگر پیامی توسط فردی پاک شود، کلاً از محیط چت حذف خواهد شد.",
+  "hideInvalidOrUnknownMessageFormats": "پنهان کردن فرمت‌های پیام ناشناخته یا نامعتبر",
+  "customEmojisAndStickersBody": "افزودن و اشتراک‌گذاری ایموجی و استیکرهایی که در همه گفتگوها قابل استفاده باشند.",
+  "usersMustKnock": "کاربران باید درخواست ورود دهند",
+  "noDatabaseEncryption": "رمزنگاری دیتابیس در این پلتفرم پشتیبانی نمی‌شود",
+  "publicChatAddresses": "آدرس چت‌های عمومی",
+  "createNewAddress": "ایجاد آدرس جدید",
+  "searchMore": "جستجوی بیشتر…",
+  "gallery": "گالری",
+  "files": "فایل‌ها",
+  "searchIn": "جستجو در چت «{chat}»…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "کشیدن از راست به چپ برای پاسخ",
+  "noMoreChatsFound": "چت بیشتری پیدا نشد…",
+  "space": "فضا",
+  "goToSpace": "ورود به فضای {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "علامت‌گذاری به عنوان خوانده‌نشده",
+  "unread": "خوانده‌نشده",
+  "userLevel": "{level} - کاربر",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - مدیر گروه",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - مدیر ارشد",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "دعوت از سایر کاربران به این چت",
+  "changeTheChatPermissions": "تغییر دسترسی‌های چت",
+  "changeTheVisibilityOfChatHistory": "تغییر قابلیت مشاهده تاریخچه چت",
+  "changeTheCanonicalRoomAlias": "تغییر آدرس اصلی چت عمومی",
+  "sendRoomNotifications": "ارسال اعلان به تمام اعضای چت",
+  "changeTheDescriptionOfTheGroup": "تغییر توضیحات چت",
+  "changeGeneralChatSettings": "تغییر تنظیمات عمومی چت",
+  "chatPermissionsDescription": "تعیین سطح دسترسی لازم برای عملیات‌های مختلف در چت. سطوح ۰، ۵۰ و ۱۰۰ به ترتیب نمایانگر کاربر معمولی، مدیر گروه و مدیر ارشد هستند.",
+  "changelog": "تغییرات اخیر",
+  "updateInstalled": "🎉 نسخه جدید {version} نصب شد!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "ارسال لغو شد",
+  "noChatsFoundHere": "هنوز چتی در اینجا وجود ندارد. با کلیک بر دکمه پایین ⤵️ چت جدیدی آغاز کنید",
+  "loginWithMatrixId": "ورود با شناسه Matrix",
+  "doesNotSeemToBeAValidHomeserver": "به نظر نمی‌رسد سرور اصلی معتبری باشد. آیا URL درست است؟",
+  "calculatingFileSize": "در حال محاسبه حجم فایل…",
+  "oneOfYourDevicesIsNotVerified": "یکی از دستگاه‌های شما تأیید نشده است",
+  "noticeChatBackupDeviceVerification": "توجه: وقتی همه دستگاه‌ها به پشتیبان چت متصل شوند، خودکار تأیید می‌گردند.",
+  "continueText": "ادامه",
+  "blur": "محوشدگی:",
+  "opacity": "شفافیت:",
+  "setWallpaper": "تنظیم تصویر زمینه",
+  "manageAccount": "مدیریت حساب کاربری",
+  "aboutHomeserver": "درباره {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "نسخه",
+  "noContactInformationProvided": "سرور هیچ اطلاعات تماسی ارائه نداده است",
+  "contactServerAdmin": "تماس با مدیر سرور",
+  "name": "نام",
+  "surname": "نام خانوادگی",
+  "personalIntro": "معرفی کوتاه",
+  "nameDescription": "نام خود را وارد کنید و می‌توانید تصویر پروفایل هم بیفزایید.",
+  "aboutYourselfDescription": "توضیح مختصری درباره خودتان.",
+  "email": "ایمیل",
+  "emailForLogin": "جهت ورود به حساب کاربری NYX استفاده می‌شود.",
+  "changeEmail": "تغییر ایمیل",
+  "changeEmailDescription": "می‌توانید ایمیل بازیابی را جهت بازنشانی رمز عبور و بازیابی دسترسی تغییر دهید.",
+  "bindNewEmail": "اتصال ایمیل جدید",
+  "newEmailSameAsOld": "ایمیل جدید نباید با ایمیل فعلی یکسان باشد",
+  "bindEmail": "اتصال ایمیل",
+  "bindEmailDescription": "می‌توانید ایمیل خود را متصل کنید تا در صورت نیاز رمز عبور را بازنشانی و حساب را بازیابی نمایید.",
+  "enterEmail": "ورود ایمیل",
+  "enterValidEmail": "لطفاً یک ایمیل معتبر وارد کنید",
+  "getVerificationCode": "دریافت کد تأیید",
+  "verificationCode": "کد تأیید",
+  "enterVerificationCode": "ورود کد تأیید",
+  "enterCodeSentTo": "لطفاً کدی که به ایمیل {email} ارسال شد را وارد کنید.",
+  "createPassword": "ایجاد رمز عبور",
+  "createPasswordDescription": "لطفاً رمز عبور ورود را جهت تأیید امنیت حساب تنظیم کنید.",
+  "enterPassword": "ورود رمز عبور",
+  "enterPasswordAgain": "تکرار رمز عبور",
+  "bind": "اتصال / ثبت",
+  "walletAddress": "آدرس کیف پول",
+  "walletForLogin": "جهت ورود به حساب کاربری NYX استفاده می‌شود.",
+  "ethereumMainnetAddress": "آدرس شبکه اصلی اتریوم",
+  "none": "هیچ‌کدام",
+  "username": "نام کاربری",
+  "usernameDescription": "می‌توانید در NYX یک نام کاربری تنظیم کنید. پس از تنظیم، دیگران می‌توانند شما را پیدا کرده و پیام دهند.",
+  "usernameRuleHint": "می‌توانید از حروف انگلیسی a-z، اعداد 0-9 و خط زیر (_) استفاده کنید. حداقل طول ۵ کاراکتر است.",
+  "chatViaLink": "دیگران می‌توانند از طریق این لینک با شما چت کنند:",
+  "contactServerSecurity": "ارتباط با تیم امنیت سرور",
+  "supportPage": "صفحه پشتیبانی",
+  "serverInformation": "اطلاعات سرور:",
+  "website": "وب‌سایت",
+  "italicText": "متن مورب",
+  "strikeThrough": "خط‌خورده",
+  "pleaseFillOut": "لطفاً تکمیل کنید",
+  "addLink": "افزودن لینک",
+  "boldText": "متن برجسته",
+  "invalidUrl": "آدرس URL نامعتبر",
+  "unableToJoinChat": "امکان ورود به چت وجود ندارد. ممکن است طرف مقابل گفتگو را بسته باشد.",
+  "sendImages": "ارسال {count} تصویر",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "فشرده‌سازی",
+  "previous": "قبلی",
+  "otherPartyNotLoggedIn": "طرف مقابل در حال حاضر وارد نشده است و امکان دریافت پیام را ندارد!",
+  "appWantsToUseForLoginDescription": "شما بدین‌وسیله به این برنامه و وب‌سایت اجازه می‌دهید اطلاعات مربوط به شما را به اشتراک بگذارند.",
+  "open": "بازکردن",
+  "appWantsToUseForLogin": "ورود با سرور «{server}»",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "در انتظار پاسخ سرور…",
+  "synchronizingPleaseWaitCounter": " در حال همگام‌سازی… ({percentage}٪)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 درخواست چت جدید",
+  "generalNotificationSettings": "تنظیمات عمومی اعلان‌ها",
+  "userSpecificNotificationSettings": "تنظیمات اختصاصی کاربر",
+  "notificationRuleMaster": "بی‌صدا کردن همه اعلان‌ها",
+  "notificationRuleSuppressNotices": "پنهان کردن پیام‌های خودکار",
+  "notificationRuleInviteForMe": "دعوت‌نامه‌های من",
+  "notificationRuleInviteForMeDescription": "اعلام به کاربر هنگام دعوت شدن به اتاق چت.",
+  "notificationRuleMemberEvent": "رویدادهای اعضا",
+  "notificationRuleMemberEventDescription": "پنهان‌سازی اعلان‌های مربوط به رویداد عضویت کاربران.",
+  "notificationRuleIsUserMention": "منشن شدن کاربر",
+  "notificationRuleIsUserMentionDescription": "اعلام به کاربر هنگام منشن شدن نام کاربری او در پیام.",
+  "notificationRuleContainsDisplayName": "شامل نام نمایشی",
+  "notificationRuleIsRoomMention": "منشن اتاق چت",
+  "notificationRuleRoomnotifDescription": "اعلام به کاربر وقتی پیام حاوی «@room» است.",
+  "notificationRuleTombstone": "پایان یافتن اتاق",
+  "notificationRuleRoomServerAcl": "لیست دسترسی سرور به اتاق",
+  "notificationRuleSuppressEdits": "پنهان کردن ویرایش‌ها",
+  "notificationRuleCall": "تماس‌ها",
+  "notificationRuleRoomOneToOne": "اتاق چت دو نفره",
+  "notificationRuleRoomOneToOneDescription": "اعلام پیام جدید در چت‌های دو نفره.",
+  "notificationRuleEncrypted": "رمزنگاری شده",
+  "notificationRuleEncryptedDescription": "اعلام پیام جدید در چت‌های رمزنگاری شده.",
+  "notificationRuleJitsi": "ویجت Jitsi",
+  "notificationRuleJitsiDescription": "هشدار رویدادهای مربوط به Jitsi.",
+  "notificationRuleServerAcl": "پنهان کردن رویدادهای ACL سرور",
+  "notificationRuleServerAclDescription": "پنهان کردن اعلان‌های مربوط به دسترسی سرور.",
+  "deletePushRuleCanNotBeUndone": "حذف این قانون اعلان قابل بازگشت نیست.",
+  "more": "بیشتر",
+  "notificationRuleReactionDescription": "پنهان‌سازی اعلان‌های واکنش.",
+  "notificationRuleMessageDescription": "هشدار پیام‌های عادی به کاربر.",
+  "notificationRuleContainsUserName": "حاوی نام کاربری",
+  "otherNotificationSettings": "سایر تنظیمات اعلان‌ها",
+  "notificationRuleContainsUserNameDescription": "اعلام به کاربر وقتی پیام شامل نام کاربری او باشد.",
+  "notificationRuleIsRoomMentionDescription": "اعلام به کاربر در صورت منشن شدن اتاق.",
+  "contentNotificationSettings": "تنظیمات اعلان محتوا",
+  "notificationRuleMasterDescription": "لغو همه قوانین دیگر و غیرفعال‌سازی کلی اعلان‌ها.",
+  "notificationRuleSuppressNoticesDescription": "پنهان کردن اعلان‌های ربات‌ها و سیستم‌های خودکار.",
+  "roomNotificationSettings": "تنظیمات اعلان‌های اتاق",
+  "notificationRuleRoomServerAclDescription": "پنهان‌سازی اعلان‌های لیست کنترل دسترسی سرور (ACL).",
+  "notificationRuleContainsDisplayNameDescription": "اعلام به کاربر وقتی پیام شامل نام نمایشی او باشد.",
+  "notificationRuleRoomnotif": "اعلان اتاق چت",
+  "notificationRuleTombstoneDescription": "هشدار درباره پیام‌های منحل شدن چت.",
+  "notificationRuleReaction": "واکنش",
+  "notificationRuleSuppressEditsDescription": "پنهان‌سازی اعلان‌های ویرایش پیام.",
+  "notificationRuleCallDescription": "اعلام پیام‌های مربوط به تماس به کاربر.",
+  "notificationRuleEncryptedRoomOneToOne": "چت دو نفره رمزنگاری شده",
+  "notificationRuleEncryptedRoomOneToOneDescription": "اعلام پیام جدید در چت‌های دو نفره رمزنگاری شده.",
+  "notificationRuleMessage": "پیام",
+  "unknownPushRule": "قانون پوش نامشخص '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "دستگاه‌های متقاطع تأیید شده",
+  "shareKeysWithDescription": "مشخص کنید به چه دستگاه‌هایی برای خواندن پیام‌های رمزنگاری شده اعتماد دارید؟",
+  "shareKeysWith": "اشتراک‌گذاری کلیدها با…",
+  "allDevices": "همه دستگاه‌ها",
+  "crossVerifiedDevicesIfEnabled": "دستگاه‌های متقاطع تأیید شده (در صورت فعال بودن)",
+  "verifiedDevicesOnly": "فقط دستگاه‌های تأیید شده",
+  "optionalMessage": "(اختیاری) متن پیام…",
+  "takeAPhoto": "عکاسی",
+  "recordAVideo": "فیلم‌برداری",
+  "notSupportedOnThisDevice": "در این دستگاه پشتیبانی نمی‌شود",
+  "enterNewChat": "ورود به چت جدید",
+  "commandHint_roomupgrade": "ارتقای این اتاق به نسخه مشخص شده",
+  "approve": "تأیید",
+  "youHaveKnocked": "درخواست ورود ارسال شد",
+  "pleaseWaitUntilInvited": "لطفاً منتظر بمانید تا فردی از اتاق شما را دعوت کند.",
+  "countInvited": "{count} نفر دعوت شدند",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "چک‌لیست",
+  "sentVoiceMessage": "🎙️ {duration} - پیام صوتی از طرف {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "خروج از نشست دستگاه فعلی",
+  "commandHint_logoutall": "خروج از تمام دستگاه‌های فعال",
+  "displayNavigationRail": "نمایش نوار نویگیشن در دستگاه همراه",
+  "customReaction": "واکنش سفارشی",
+  "moreEvents": "رویدادهای بیشتر",
+  "declineInvitation": "رد دعوت‌نامه",
+  "noMessagesYet": "هنوز پیامی وجود ندارد",
+  "longPressToRecordVoiceMessage": "برای ضبط پیام صوتی لمس طولانی کنید.",
+  "pause": "توقف",
+  "resume": "ادامه",
+  "removeFromSpaceDescription": "چت از فضا حذف می‌شود اما در لیست چت‌های عادی باقی خواهد ماند.",
+  "countChats": "{chats} چت",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "عضو فضای {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "اعضای فضای {spaces} می‌توانند درخواست ورود دهند",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "نظرسنجی",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "شروع نظرسنجی",
+  "endPoll": "پایان نظرسنجی",
+  "editPoll": "ویرایش نظرسنجی",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "حذف نظرسنجی",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "نتایج نظرسنجی قابل مشاهده است",
+  "hiddenPoll": "نظرسنجی مخفی",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "موضوع نظرسنجی",
+  "answerOption": "گزینه",
+  "addAnswerOption": "افزودن گزینه",
+  "allowMultipleAnswers": "اجازه انتخاب چند گزینه",
+  "pollHasBeenEnded": "نظرسنجی پایان یافت",
+  "startedAPoll": "{senderName} یک نظرسنجی ایجاد کرد",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count} رای",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "نتایج پس از پایان نظرسنجی نمایش داده می‌شود",
+  "active": "در حال برگزاری",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "پایان‌یافته",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "رشته گفتگو",
+  "replyInThread": "پاسخ در رشته گفتگو",
+  "countReplies": "{count} پاسخ",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "بازگشت به چت اصلی",
+  "saveChanges": "ذخیره تغییرات",
+  "createSticker": "ایجاد استیکر یا ایموجی",
+  "useAsSticker": "استفاده به عنوان استیکر",
+  "useAsEmoji": "استفاده به عنوان ایموجی",
+  "stickerPackNameAlreadyExists": "نام پک استیکر تکراری است",
+  "newStickerPack": "پک استیکر جدید",
+  "stickerPackName": "نام پک استیکر",
+  "attribution": "سازنده / منبع",
+  "skipChatBackup": "رد شدن از پشتیبان‌گیری چت",
+  "skipChatBackupWarning": "آیا مطمئن هستید؟ بدون پشتیبان چت، ممکن است موقع تعویض دستگاه دسترسی به پیام‌ها را از دست بدهید.",
+  "changedTheChatDescription": "{username} توضیحات چت را تغییر داد",
+  "changedTheChatName": "{username} نام چت را تغییر داد",
+  "noMoreResultsFound": "نتیجه بیشتری پیدا نشد",
+  "chatSearchedUntil": "جستجوی سوابق چت تا تاریخ {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "آدرس پایه شبکه فدراسیون",
+  "clientWellKnownInformation": "اطلاعات شناسایی کلاینت:",
+  "baseUrl": "آدرس پایه (Base URL)",
+  "identityServer": "سرور احراز هویت:",
+  "versionWithNumber": "نسخه: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "گزارش‌های سیستمی (Logs)",
+  "advancedConfigs": "تنظیمات پیشرفته",
+  "advancedConfigurations": "تنظیمات پیشرفته",
+  "signIn": "ورود",
+  "createNewAccount": "ایجاد حساب جدید",
+  "signUpGreeting": "پلتفرم NYX غیرمتمرکز است! سرور دلخواه را برای ثبت‌نام انتخاب کنید!",
+  "signInGreeting": "قبلاً حساب Matrix ساخته‌اید؟ خوش آمدید! سرور خود را برای ورود انتخاب کنید.",
+  "theProcessWasCanceled": "فرآیند لغو شد.",
+  "join": "عضویت",
+  "searchOrEnterHomeserverAddress": "جستجو یا ورود آدرس سرور اصلی",
+  "matrixId": "شناسه ماتریکس (Matrix ID)",
+  "setPowerLevel": "تنظیم سطح دسترسی",
+  "makeModerator": "ارتقا به مدیر گروه",
+  "makeAdmin": "ارتقا به مدیر ارشد",
+  "removeModeratorRights": "حذف دسترسی مدیر گروه",
+  "removeAdminRights": "حذف دسترسی مدیر ارشد",
+  "powerLevel": "سطح دسترسی",
+  "setPowerLevelDescription": "سطح دسترسی اختیارات اعضا را در این اتاق تعیین می‌کند (بين ۰ تا ۱۰۰).",
+  "owner": "مالک / سازنده",
+  "mute": "بی‌صدا",
+  "@mute": {
+    "description": "Very short string"
+  },
+  "createNewChat": "ایجاد چت جدید",
+  "reset": "بازنشانی",
+  "supportFluffyChat": "حمایت از NYX",
+  "support": "پشتیبانی",
+  "setLowPriority": "تنظیم اولویت پایین",
+  "unsetLowPriority": "لغو اولویت پایین",
+  "playSoundOnNotification": "پخش صدای اعلان",
+  "addTag": "افزودن برچسب",
+  "removeTag": "حذف برچسب",
+  "tagName": "نام برچسب",
+  "createNewTag": "ایجاد برچسب جدید",
+  "discardEdits": "تغییرات ذخیره نشده‌ای وجود دارد. آیا از لغو آن‌ها مطمئن هستید؟",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "پنهان‌سازی اتاق‌های موجود در فضاها",
+  "possibleByYou": "بدون حمایت شما این نسخه ممکن نبود. NYX رایگان، متن‌باز و جامعه‌محور است.",
+  "showThumbnailsInTimeline": "نمایش پیش‌نمایش تصاویر و ویدیوها در گفتگو",
+  "appSubtitle": "ارتباطات امن در بستر شبکه‌ی [matrix]",
+  "appDescription": "ارتباطات رمزنگاری شده غیرمتمرکز در شبکه [matrix] با کاربری آسان.",
+  "interactiveVerification": "تأیید هویت تعاملی",
+  "interactiveVerificationDescription": "در صورت ارتباط حضوری یا کانال امن، می‌توانید تمام دستگاه‌ها را با مقایسه شناسه ایموجی تأیید کنید.",
+  "countUnverifiedDevices": "این چت دارای {count} دستگاه تأیید نشده است.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "پیام رمزنگاری شده",
+  "unencryptedMessage": "پیام عادی (غیر رمزنگاری)",
+  "publicKey": "کلید عمومی: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "کلید هویت دستگاه",
+  "showMore": "نمایش بیشتر",
+  "showLess": "نمایش کمتر",
+  "restoreBootstrapEmptyDevicesDescription": "لطفاً عبارت عبور یا کلید بازیابی را جهت تأیید دستگاه و دسترسی به فایل‌های پشتیبان رمزنگاری وارد کنید.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "لطفاً یکی از دستگاه‌های دیگر را برای تأیید این نشست انتخاب کنید:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "بازنشانی حساب کاربری",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "بازیابی هویت رمزنگاری شده",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "بازنشانی هویت رمزنگاری شده",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "راه‌اندازی هویت رمزنگاری شده",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "در حال دریافت کلیدها… لطفاً دستگاه دیگر را فعال نگه دارید.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "کلیدی منتقل نشد. لطفاً مجدداً امتحان کنید.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "باز کردن قفل",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "باز کردن فایل",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "بازنشانی حساب موجب از دست رفتن دائمی دسترسی به پیام‌های قدیمی می‌شود. باید تمام دستگاه‌ها مجدداً تأیید شوند. تنها زمانی این کار را انجام دهید که هیچ دستگاه دیگری جهت تأیید ندارید!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "برنامه NYX از رمزنگاری سرتاسری استفاده می‌کند. جهت حفظ پیام‌ها، یک عبارت عبور قوی برای حفاظت از هویت رمزنگاری و پشتیبان‌ها انتخاب کنید.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "عبارت عبور جدید",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "تکرار عبارت عبور",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "عبارت‌های عبور مطابقت دارند",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "حداقل ۱۲ کاراکتر داشته باشد.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "شامل حروف بزرگ و کوچک باشد.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "شامل علائم خاص باشد.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "حداقل شامل یک عدد باشد.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "لطفاً کلید بازیابی را یادداشت نمایید تا در آینده پیام‌ها و هویت رمزنگاری بازگردانی شوند.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "ذخیره به عنوان فایل",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "آماده شروع هستید!",
+  "noUserKeyFound": "کلید کاربر یافت نشد",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "دستگاه امضا نشده",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "دستگاه امضا شده",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "کلید curve25519 پیدا نشد",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "پیام قابل رمزگشایی نیست",
+  "knownSince": "تاریخ آشنایی اولیه: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "پیام‌های شما رمزنگاری سرتاسری دارند و فقط توسط این کاربر قابل خواندن است:",
+  "messageCanOnlyBeReadByUsers": "پیام‌های شما رمزنگاری سرتاسری دارند و فقط توسط این کاربران قابل خواندن است:",
+  "today": "امروز",
+  "sending": "در حال ارسال",
+  "generatingThumbnail": "در حال ساخت تصویر پیش‌نمایش",
+  "encrypting": "در حال رمزنگاری",
+  "uploading": "در حال آپلود",
+  "edited": "(ویرایش شده)",
+  "couldNotBeSent": "ارسال نشد",
+  "yesterday": "دیروز",
+  "resetRecoveryKey": "بازنشانی کلید بازیابی",
+  "pleaseEnter6Digits": "لطفاً برای فعال‌سازی قفل برنامه ۶ رقم وارد کنید.",
+  "disableAppLock": "غیرفعال‌سازی رمز قفل",
+  "disableAppLockAreYouSure": "آیا از غیرفعال‌سازی قفل برنامه اطمینان دارید؟",
+  "enableBiometrics": "فعال‌سازی ورود با بیومتریک",
+  "disableBiometrics": "غیرفعال‌سازی ورود با بیومتریک",
+  "biometricsDescription": "با استفاده از حسگر بیومتریک می‌توانید برنامه را با اثر انگشت یا چهره malشlos کنید. این ویژگی وابسته به دستگاه شماست.",
+  "useAppLock": "استفاده از قفل برنامه",
+  "unlockWithBiometrics": "بازکردن با اثر انگشت / چهره",
+  "resetPin": "بازنشانی پین‌کد",
+  "forwardCountMessages": "بازارسال {count} پیام؟",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "ویرایش عکس",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "چرخش به چپ",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "چرخش به راست",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "قرینه",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "ذخیره",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "طراحی / نقاشی",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "بازگشت (Undo)",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "پاک کردن",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "پاک‌کن",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "برش تصویر",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "در حال بارگذاری پیام‌ها…",
+  "buildDoesNotSupportFirebase": "این نسخه از سرویس‌های پوش نوتفیکیشن Firebase پشتیبانی نمی‌کند.",
+  "unableToRegisterDeviceForFirebase": "ثبت دستگاه جهت سرویس پیام‌رسانی ابری Firebase ناموفق بود.",
+  "unifiedPushDistributors": "ارائه‌دهندگان سرویس Unified Push:",
+  "doubleTapToReact": "دوبار لمس سریع جهت ارسال واکنش",
+  "doubleTapToReactDescription": "با دوبار لمس سریع پیام، به جای انتخاب متن به آن واکنش ارسال می‌شود",
+  "doubleTapReaction": "واکنش با دوبار لمس",
+  "sendingFilesDoNotExit": "در حال ارسال {count} فایل… لطفاً از برنامه خارج نشوید!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "در حال فشرده‌سازی ویدیو…",
+  "shareCrashReports": "اشتراک‌گذاری گزارش‌های خرابی",
+  "shareCrashReportsDescription": "ارسال خودکار گزارش خرابی‌های سیستم برای توسعه‌دهندگان؟",
+  "videoCallsBetaWarning": "تماس تصویری در فاز آزمایشی (بتا) است و ممکن است با اشکال همراه باشد. با تشکر از بازخورد شما.",
+  "callNotAllowed": "تنها مدیران یا مالک اتاق مجاز به شروع تماس هستند.",
+  "countActiveCallMembers": "{count} عضو در تماس فعال",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "ورود به تماس",
+  "noDevicesFound": "دستگاهی پیدا نشد",
+  "incomingCall": "تماس ورودی",
+  "waitingForParticipant": "در انتظار پیوستن اعضا…",
+  "decline": "رد تماس",
+  "videoCall": "تماس تصویری",
+  "voiceCall": "تماس صوتی",
+  "previewImage": "[تصویر]",
+  "previewVideo": "[ویدیو]",
+  "previewVoice": "[صدا]",
+  "previewAudio": "[فایل صوتی]",
+  "previewFile": "[فایل]",
+  "previewLocation": "[موقعیت مکانی]",
+  "previewSticker": "[استیکر]",
+  "previewVoiceCall": "[تماس صوتی]",
+  "previewVideoCall": "[تماس تصویری]",
+  "missedCall": "تماس از دست رفته",
+  "callBack": "تماس مجدد",
+  "hangUp": "قطع تماس",
+  "startCall": "شروع تماس",
+  "selectCamera": "انتخاب دوربین",
+  "selectMicrophone": "انتخاب میکروفون",
+  "selectSpeaker": "انتخاب بلندگو",
+  "toggleMicrophone": "تغییر وضعیت میکروفون",
+  "toggleCamera": "تغییر وضعیت دوربین",
+  "startScreensharing": "اشتراک‌گذاری صفحه نمایش",
+  "stopScreensharing": "توقف اشتراک‌گذاری صفحه",
+  "raiseHand": "بالا بردن دست",
+  "stopRaiseHand": "پایین آوردن دست",
+  "preferSpeaker": "اولویت با بلندگو",
+  "unexpectedErrorOccurded": "متأسفانه خطای غیرمنتظره‌ای رخ داد: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "حساب‌ها و تنظیمات",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "تماس ورودی از طرف {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "پاسخ سرور همراه با خطا: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "نسخه جدید {version} در دسترس است",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "دانلود",
+  "sharedLocation": "موقعیت اشتراکی",
+  "contacts": "مخاطبین",
+  "groupChats": "گروه‌ها",
+  "publicGroups": "گروه‌های عمومی",
+  "createGroupChat": "ایجاد چت گروهی",
+  "inviteFriends": "دعوت از دوستان",
+  "emptyChatsTitle": "هنوز چتی وجود ندارد",
+  "emptyChatsDesc": "برای شروع گفتگو روی علامت + در بالا کلیک کنید",
+  "emptyUsersTitle": "هنوز هیچ چت خصوصی ندارید",
+  "emptyUsersDesc": "می‌توانید فیلترها را غیرفعال کنید تا بقیه گفتگوها نمایان شوند",
+  "emptyUnreadTitle": "هیچ پیام خوانده‌نشده‌ای ندارید",
+  "emptyUnreadDesc": "می‌توانید چت‌های مهم را در تنظیمات چت سنجاق کنید",
+  "emptyGroupChatsTitle": "در هیچ چت گروهی عضو نیستید",
+  "emptyGroupChatsDesc": "می‌توانید فیلترها را غیرفعال کنید تا بقیه گفتگوها نمایان شوند",
+  "emptyPinnedTitle": "چتی را سنجاق نکرده‌اید",
+  "emptyPinnedDesc": "می‌توانید گفتگوهای مورد نظر را در بالای لیست سنجاق کنید",
+  "startChat": "شروع گفتگو",
+  "newGroupChat": "گروه جدید",
+  "invitedYouToJoinGroup": "{username} شما را به چت گروهی دعوت کرد",
+  "joinGroupBannerTitle": "عضویت در گروه‌ها و حفظ ارتباط",
+  "joinGroupBannerDesc": "گروه‌ها بر اساس موضوع تقسیم‌بندی شده‌اند. تمام گروه‌هایی که عضو شده‌اید در اینجا قرار می‌گیرند.",
+  "certifiedGroups": "{count} گروه تأیید شده",
+  "membersCount": "{count} عضو",
+  "recentlyOnline": "اخيراً آنلاین بوده",
+  "lastSeenLongAgo": "مدت‌ها پیش آنلاین بوده",
+  "appearance": "ظاهر و پوسته",
+  "language": "زبان",
+  "selectLanguage": "انتخاب زبان",
+  "privacyAndSecurity": "حریم خصوصی و امنیت",
+  "qrScanRecognizing": "در حال تشخیص…",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "زمان اسکن به پایان رسید، مجدداً تلاش کنید",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "کد QR پیدا نشد",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "محتوای کد QR خالی است",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "اسکن ناموفق بود",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "کد QR نامعتبر است",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "این کد QR حساب خود شما است",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "رد دعوت گروه",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "آیا از رد دعوت گروه {groupName} اطمینان دارید؟",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "دوربین",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "عکس‌ها و ویدیوها",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "فایل",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "آنلاین",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "آفلاین",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "پیام پاک شد",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "شما پیامی را پاک کردید",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} پیامی را پاک کرد",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "فایل ذخیره شد",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "در گالری ذخیره شد",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "باز کردن فایل ناموفق بود",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "فایل ناشناخته",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "تماس تصویری از دست رفته",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "تماس لغو شد",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} نفر در تماس",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "پیوستن به تماس",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "در انتظار پیوستن اعضا…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "تنها مدیران اتاق مجاز به برقراری تماس در این اتاق هستند",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "این گفتگو از لیست حذف خواهد شد ولی شما از گروه خارج نمی‌شوید. با دریافت پیام جدید مجدداً ظاهر می‌شود.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "با انحلال گروه، تمام اعضا اخراج شده و قابل بازگردانی نخواهد بود.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "ترجمه",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "در حال ترجمه…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "ترجمه ناموفق بود، لطفاً مجدداً امتحان کنید",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "تماس در حال انجام",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "نمایش در هنگام برقراری تماس صوتی یا تصویری",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "لمس کنید تا به تماس برگردید",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "طرف مقابل تماس را لغو کرد",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "تماس تصویری لغو شد",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "طرف مقابل تماس تصویری را لغو کرد",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "بازگشت",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "در حال زنگ خوردن…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "در حال اتصال…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "تماس پایان یافت",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "تماس ناموفق بود",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "بلندگو",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "گوشی (خروجی صوتی)",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "چرخش دوربین",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "ویدیو",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "میکروفون غیرفعال است",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "پایان",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "من",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "تماس خروجی",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} ثانیه",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} دقیقه",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} ساعت و {minutes} دقیقه",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "تغییر نقش من",
+  "permissions": "دسترسی‌ها",
+  "changeMyRoleConfirmMessage": "شما در حال تنزل سطح دسترسی خود هستید، این عمل قابل بازگشت نیست.",
+  "demoteToAdmin": "تنزل سطح به مدیر ارشد",
+  "demoteToModerator": "تنزل سطح به مدیر گروه",
+  "demoteToMember": "تنزل سطح به عضو عادی",
+  "addAdmin": "افزودن مدیر ارشد",
+  "addModerator": "افزودن مدیر گروه",
+  "groupAdmins": "مدیران ارشد گروه",
+  "groupModerators": "مدیران گروه",
+  "addAdminHelp": "می‌توانید مدیران ارشد جدیدی برای مدیریت جامع‌تر جامعه بیفزایید.",
+  "addModeratorHelp": "می‌توانید مدیران جدیدی جهت نظارت بیفزایید.",
+  "noCandidatesToAdd": "عضوی جهت افزودن وجود ندارد",
+  "setAsAdminSuccess": "به عنوان مدیر ارشد تنظیم شد",
+  "setAsModeratorSuccess": "به عنوان مدیر گروه تنظیم شد",
+  "searchMembers": "جستجوی اعضا",
+  "noResults": "بدون نتیجه",
+  "noResultsDescription": "نتیجه‌ای یافت نشد. لطفاً دوباره جستجو کنید.",
+  "removeAdminConfirm": "آیا از لغو دسترسی مدیر ارشد این کاربر مطمئن هستید؟",
+  "removeModeratorConfirm": "آیا از لغو دسترسی مدیر گروه این کاربر مطمئن هستید؟",
+  "removeAdminSuccess": "دسترسی مدیر ارشد لغو شد",
+  "removeModeratorSuccess": "دسترسی مدیر گروه لغو شد",
+  "manageMembers": "مدیریت اعضا",
+  "inviteMembers": "دعوت از اعضا",
+  "removeMembers": "حذف اعضا",
+  "banMembers": "مسدود کردن اعضا",
+  "editCommunity": "ویرایش جامعه / انجمن",
+  "changeCommunityName": "تغییر نام جامعه",
+  "changeCommunityAvatar": "تغییر تصویر جامعه",
+  "changeCommunityDescription": "تغییر توضیحات جامعه",
+  "messagesAndContent": "پیام‌ها و محتوا",
+  "removeMessages": "حذف پیام‌ها",
+  "adminsOnly": "فقط مدیران ارشد",
+  "adminsAndModerators": "مدیران ارشد و مدیران گروه",
+  "resetPermissions": "بازنشانی دسترسی‌ها",
+  "resetPermissionsConfirmMessage": "آیا از بازنشانی کلیه دسترسی‌ها به حالت پیش‌فرض مطمئن هستید؟",
+  "changeSettings": "تغییر تنظیمات",
+  "permissionChangedFromTo": "{sender} دسترسی {permission} را از {from} به {to} تغییر داد",
+  "changedUserRoleTo": "{username} نقش {target} را به {role} تغییر داد",
+  "viewInChat": "مشاهده در چت",
+  "playbackSpeed": "سرعت پخش",
+  "normalSpeed": "عادی",
+  "qrScanHint": "کد QR را درون کادر قرار دهید",
+  "torch": "چراغ‌قوه",
+  "remarkVisibleOnlyToYou": "یادداشت تنها برای خود شما قابل مشاهده است",
+  "pollVotes": "{count} رای",
+  "totalPollVotes": "مجموع آراء: {count}",
+  "scanQrMobileOnly": "قابلیت اسکن کد فقط در نسخه موبایل پشتیبانی می‌شود",
+  "publicGroupTech": "خدمات فناوری و توسعه نرم‌افزار",
+  "publicGroupMarketing": "بازاریابی و تبلیغات دیجیتال",
+  "publicGroupWeb3": "شبکه Web3 و ارزهای دیجیتال",
+  "publicGroupCrossBorder": "تجارت بین‌الملل و خدمات فرامرزی",
+  "publicGroupFreelance": "فریلنسری و مشاغل آزاد",
+  "blockUsers": "مسدودسازی کاربران",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "روشن / فعال",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "رمز قفل صفحه",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "رمز عبور ورود",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "کلید بازیابی",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "اجازه ذخیره‌سازی کلید",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "ذخیره‌سازی امن هویت رمزنگاری و کلید پیام‌ها در سرور جهت دسترسی به تاریخچه گفتگو در دستگاه‌های جدید.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "تنظیم بازیابی",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "استفاده از کلید بازیابی برای بازگردانی هویت رمزنگاری و سابقه پیام‌ها در صورت مفقودی دستگاه‌ها",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "تنظیم کلید بازیابی",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "ذخیره‌سازی امن کلیدها در سرور تا امکان مرور پیام‌ها در دستگاه جدید داشته باشید.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "ایجاد کلید بازیابی",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "برای کپی کلید بازیابی لمس کنید",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "ذخیره کلید بازیابی",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "کلید بازیابی را در محلی امن مانند برنامه مدیریت رمز عبور یا یادداشت‌های رمزنگاری شده نگهداری کنید.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "ذخیره کلید بازیابی",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "کلید بازیابی کپی شد",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "کلید بازیابی ذخیره شد",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "در حال ایجاد کلید بازیابی…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "اشتراک‌گذاری وضعیت آنلاین",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "در صورت خاموش بودن، ارسال و دریافت وضعیت خوانده‌شدن پیام‌ها و در حال تایپ متوقف می‌شود",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "بهینه‌سازی فایل‌ها جهت ارسال سریع‌تر",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "نظارت بر محتوا و امنیت",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "پنهان‌سازی تصویر پروفایل در درخواست‌های دعوت به اتاق",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "نمایش فایل‌های رسانه‌ای در خط زمانی گفتگو",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "همیشه پنهان باشد",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "در اتاق‌های خصوصی",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "همیشه نشان داده شود",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "همه موارد",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "فقط منشن‌ها",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "چت گروهی",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "چت خصوصی",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "در چت‌های گروهی به من اطلاع بده",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "در چت‌های خصوصی به من اطلاع بده",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "تمام پیام‌ها",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "فقط منشن‌ها و کلمات کلیدی",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "سرور اصلی در چت‌های گروهی رمزنگاری شده از این گزینه پشتیبانی نمی‌کند، لذا ممکن است در برخی گروه‌ها اعلانی در یافت نکنید",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "تنظیمات مستقل برای هر گفتگو",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "فعال‌سازی این گزینه تنظیمات پیش‌فرض شما را نادیده می‌گیرد.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "در این چت به من اطلاع بده",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "فقط منشن‌ها و کلمات کلیدی",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "سرور شما در اتاق‌های رمزنگاری شده از این گزینه پشتیبانی نمی‌کند.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "اجازه تنظیمات سفارشی",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "در این دستگاه به من اطلاع بده",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "منشن‌ها (اشاره‌ها)",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "هنگام منشن شدن در گروه به من اطلاع بده",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "تنظیمات بیشتر",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "رمز عبور قبلی",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "رمز قفل برنامه",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "فعال‌سازی قفل صفحه",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "لطفاً یک رمز برای قفل صفحه وارد کنید",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "لطفاً رمز قفل جدید را تکرار کنید",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "لطفاً رمز قفل قبلی را وارد کنید",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "رمز قبلی نادرست است، مجدداً تلاش کنید",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "تغییر رمز قفل",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "توجه: در صورت فراموشی رمز، باید برنامه را مجدداً نصب کنید.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "رمزهای وارد شده یکسان نیستند",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "رمز قفل برنامه فعال شد",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "رمز قفل برنامه غیرفعال شد",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "این دستگاه",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "خروج از نشست‌های سایر دستگاه‌ها",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "خروج از تمامی دستگاه‌ها به جز دستگاه فعلی.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "نشست‌های فعال",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "حذف دستگاه",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "آیا از حذف دستگاه {name} اطمینان دارید؟",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "شناسه دستگاه (Device ID)",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "آخرین ورود",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "آدرس IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "کلاینت / برنامه",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "شناسه کلاینت",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "نام دستگاه",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "حذف دستگاه",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} پیش",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "دقیقه",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "ساعت",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "روز",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "ورود به {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "به {appName} خوش آمدید، پیام‌رسانی سریع و ساده.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "ایجاد حساب کاربری",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "به‌روزرسانی آماده است",
+  "updateReadyMessage": "ما برخی ویژگی‌ها را بهینه کردیم. برای اعمال به‌روزرسانی، برنامه را مجدداً راه‌اندازی کنید.",
+  "restartNow": "اکنون راه‌اندازی مجدد کنید",
+  "noPublicGroupsYet": "هنوز گروهی تأییدشده وجود ندارد"
+}

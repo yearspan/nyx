@@ -1,0 +1,3953 @@
+{
+  "@@locale": "eo",
+  "@@last_modified": "2026-11-02 00:00:00.000000",
+  "about": "Pri",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Akcepti",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} akceptis la inviton",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Konto",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} aktivigis fin-al-finan ĉifradon",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Aldoni retpoŝton",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Administranto",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Kromnomo",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Ĉiuj",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} respondis la vokon",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Iu ajn povas aliĝi",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Aplikaĵa seruro",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Arkivo",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Ĉu gastoj rajtas aliĝi?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Ĉu vi certas?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Ĉu vi certas, ke vi volas elsaluti?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Bonvolu enigi vian sekuran pasfrazon aŭ restarigan ŝlosilon por subskribi por la alia uzanto.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Ĉu akcepti la konfirman peton de {username}?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Salutaj metodoj subtenataj de la ĉefservilo:\n{serverVersions}\nSed ĉi tiu aplikaĵo subtenas nur:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Malpermesi el la babilejo",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Malpermesi membron",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Malpermesita",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} malpermesis {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Bloki aparaton",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Blokita",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Nuligi",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Ŝanĝi aparatan nomon",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} ŝanĝis la babilejan profilbildon",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} ŝanĝis la babilejajn permesojn",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} ŝanĝis la montratan nomon al: '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} ŝanĝis la gastajn alirregulojn",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} ŝanĝis la gastajn alirregulojn al: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} ŝanĝis la videblecon de la historio",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} ŝanĝis la videblecon de la historio al: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} ŝanĝis la aliĝregulojn",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} ŝanĝis la aliĝregulojn al: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} ŝanĝis la profilbildon",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} ŝanĝis la ĉambrajn kromnomojn",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} ŝanĝis la invitan ligilon",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Ŝanĝi pasvorton",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Ŝanĝi la ĉefservilon",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Ŝanĝi etoson",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Ŝanĝi la grupan nomon",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Ŝanĝi vian profilbildon",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "La ĉifrado estas difektita",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Babilado",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Babilada sekurkopio",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Babiladaj detaloj",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Babiladoj",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Enigu fortan pasvorton",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Malplenigi arkivon",
+  "close": "Fermi",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Malpermesi specifan uzanton en ĉi tiu ĉambro",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Sendi HTML formatitan tekston",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Inviti specifan uzanton al ĉi tiu ĉambro",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Aliĝi al specifa ĉambro",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Forigi specifan uzanton el ĉi tiu ĉambro",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Lasi ĉi tiun ĉambron",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Prezentigi vin",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Agordi vian ĉambran profilbildon (per mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Agordi vian ĉambran kromnomon",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Agordi la permesnivelon de specifa uzanto (defaŭlte: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Sendi simplan tekston",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Sendi reagon al mesaĝo",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Sendi tekston",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Malmalpermesi specifan uzanton en ĉi tiu ĉambro",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Nevalida komando",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} ne estas komando.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Bonvolu kompari la emojiojn",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Bonvolu kompari la sekvajn nombrojn",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Agordi babiladon",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "La kontakto estis invitita al la grupo",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Ĉi tiu enhavo estis raportita al la serviladministrantoj",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Kopie al la tondujo",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Kopii",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Kopii al la tondujo",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Ne eblis malĉifri mesaĝon: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Mesaĝo nuntempe ne povas esti malĉifrita, bonvolu reprovi poste",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} partoprenantoj",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Krei",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} kreis la babiladon",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Nuntempe aktiva",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "Malhela etoso",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Ĉi tio malaktivigos vian konton. Ĉi tio ne povas esti malfarita! Ĉu vi certas?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Defaŭlta permesnivelo por novaj uzantoj",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Forigi",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Forigi konton",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Forigi mesaĝon",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Forigi ĉiujn mesaĝojn",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Malplenigi babilhistorion",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Ĉu vi certas, ke vi volas forigi ĉiujn mesaĝojn en ĉi tiu babilado? Ĉi tiu ago ne estas malfarita.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Ĉu vi certas, ke vi volas malplenigi ĉi tiun babilhistorion? Ĉi tiu ago ne estas malfarita.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Opcigi aŭtomatan forigon",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Aŭtomate forigi novajn mesaĝojn en ĉi tiu babilado post difinita tempo",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 tago",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 semajno",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 monato",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Malŝalti",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Aparatoj",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Privataj babiladoj",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Montrata nomo estis ŝanĝita",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Elŝuti dosieron",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Redakti",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Redakti blokitajn servilojn",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Redakti montratan nomon",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Redakti ĉambran kromnomon",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Redakti ĉambran profilbildon",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Emocio jam ekzistas!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Nevalida emocikodo!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Emocikodo",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Malplena babilado",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Opcigi emojiojn tutmonde",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Opcigi ĉifradon",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Vi poste ne povos malŝalti ĉifradon, ĉu vi certas?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Ĉifrita",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Ĉifrado",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Ĉifrado ne opcigita",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} finis la vokon",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Enigu retpoŝtadreson",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Tipografia grandeco",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Plusendi",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "Plusendita sukcese",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Ekde aliĝo",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Ekde la invito",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Grupo",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Grupo estas publika",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Grupoj",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Grupo kun {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Gastoj estas malpermesitaj",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Gastoj povas aliĝi",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} malvalidigis la inviton por {targetName}",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Helpo",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Kaŝi nekonatajn eventojn",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Ignori",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Ignoritaj uzantoj",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Mi klakis sur la ligilo",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Nevalida pasfrazo aŭ restaŭra ŝlosilo",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Inviti kontakton",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Inviti kontakton al {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Invitita",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} invitis {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Nur invititaj uzantoj",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} invitas vin uzi NYX. \n1. Instalu NYX: https://fluffychat.im \n2. Registriĝu aŭ ensalutu \n3. Malfermu invitan ligilon:\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "tajpas...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} aliĝis al la babilado",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Aliĝi al ĉambro",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Enigu ĉambran adreson",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "Ekzemple !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Nevalida adreso!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Ĉambro ne trovita!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Mukssis aliĝi al ĉambro",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Trovita kongrua ĉambro",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Daŭrigi",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Neniu priskribo ankoraŭ~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Peti aliĝon",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Eniri ĉambron",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Enkonduko",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} forpelis {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} forpelis kaj malpermesis {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Forpeli el babilado",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Vi estis forpelita el ĉi tiu grupo",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Forigi membron",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Laste aktiva: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Forlasi",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "Forlasis la babiladon",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Hluma etoso",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Ŝargi {count} pliajn partoprenantojn",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Ŝargado... bonvolu atendi.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Ŝargi pli...",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Ensaluti",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Ensaluti al {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Elsaluti",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Ĉu vi certas, ke vi volas elsaluti el ĉi tiu NYX-konto?",
+  "mention": "Mencio",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Mesaĝoj",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Moderiganto",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Silentigi",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Nova babilado",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 Nova NYX-mesaĝo",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Nova konfirma peto!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Sekva",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Ne",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Neniu konekto al la servilo",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Neniuj emocioj trovitaj. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Vi nur povas opcigii ĉifradon se la ĉambro ne estas publika.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Ŝajnas ke via telefono ne havas Firebase Cloud Messaging. Por ricevi sciigojn, vi povas instali ntfy aŭ alian Unified Push klienton.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Vi ankoraŭ ne aldonis pasvortan restarigmetodon.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Neniu permeso",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Neniuj ĉambroj trovitaj...",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Sciigoj",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} homoj tajpas...",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "Bone",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Reta ŝlosila sekurkopio opcigita",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Ho ve! Eraro okazis dum agordado de puŝaj sciigoj.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Ho ve, io misiris...",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Malfermu la aplikaĵon por legi mesaĝojn",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Malfermi fotilon",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "aŭ",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Partoprenanto",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Pasfrazo aŭ restaŭra ŝlosilo",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Pasvorto",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Forgasita pasvorto",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Pasvorto estis ŝanĝita",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Pasvorta restarigo",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Alpingli",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Bonvolu elekti kodon",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Bonvolu klaki la retpoŝtan ligilon kaj daŭrigi.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Bonvolu enigi vian pasvorton",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Bonvolu enigi vian PIN-on",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Bonvolu enigi la seruran kodon",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Bonvolu enigi vian uzantnomon",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Bonvolu sekvi la instrukciojn rete kaj klaki sekven.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Privateco",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Publikaj ĉambroj",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Kialo",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} forigis eventon",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Forigi mesaĝon",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Rifuzi",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} rifuzis la inviton",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Forigi",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Forigi ĉiujn aliajn aparatojn",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Malmalpermesi el babilado",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Forigi vian profilbildon",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Ĝisdatigi ĉambron al nova versio",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Respondi",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Raporti mesaĝon",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "La ĉambro estis ĝisdatigita",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Ĉambra versio",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Konservi dosieron",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Serĉi",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Sekureco",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Sendi",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Sendi mesaĝon",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Sendi kiel tekston",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Sendi aŭdion",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Sendi dosieron",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Sendi bildon",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Sendi mesaĝojn",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Sendi videon",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} sendis dosieron",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} sendis aŭdion",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} sendis bildon",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} sendis glumarkon",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} sendis videon",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} sendis alvokajn informojn",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Agordi kiel ĉefan kromnomon",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Agordi staton",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Agordoj",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Konigi",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} konigis la lokon",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Preterpasi",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Fontkodo",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} komencis vokon",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Stato",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Kiel vi fartas hodiaŭ?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Sendi",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Sinkronigado... bonvolu atendi.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Sistemo",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Ili ne kongruas",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Ili kongruas",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Tro da petoj. Bonvolu reprovi poste!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Reprovi sendi",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} malmalpermesis {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Malbloki aparaton",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Nekonata aparato",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Nekonata ĉifra algoritmo",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Nekonata evento '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Malsilentigi",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Malalpingli",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} kaj {count} aliaj tajpas...",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} kaj {username2} tajpas...",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} tajpas...",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} forlasis la babiladon",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} sendis eventon de tipo {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Konfirmita",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Konfirmi uzanton",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Konfirmi ĉi tiun uzanton",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Por sekureco, bonvolu konfirmi ĉi tiun uzanton komparante emojiojn persone aŭ per sekura kanalo",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Atendante la alian uzanton",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "Kiam akceptite, vi povos daŭrigi la konfirmadon",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Kompari emojiojn",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Kompari la emojiojn kaj certigi ke ili estas en la sama ordo",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Bonvolu kontroli ĉu la emojioj sube kongruas kun tiuj ĉe la alia aparato",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Konfirma peto",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Alia uzanto deziras konfirmi vian identecon, vi Vidos aron de emojioj komparendaj",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Konfirmo sukcesis",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Vi nun povas fidi la identecon de ĉi tiu uzanto",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Konfirmo malsukcesis",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "La peto elĉerpiĝis, estis rifuzita aŭ ne kongruis",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Farite",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Reprovi",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Ĉu konfirmi ĉi tiun uzanton?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Ĉi tio estas via unua mesaĝo al ĉi tiu uzanto. Por pli bona sekureco, vi povas konfirmi ilian identecon antaŭ ol sendi.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Konfirmi nun",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Sendi rekte",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Mesaĝaj sciigoj",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Mesaĝa sciigo",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Aldoni biografion",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Agordi novan profilbildon",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Membroj",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Roloj kaj permesoj",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Persona profilo",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Agordi rimarkigon",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Alpinglita mesaĝo",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 alpinglita mesaĝo} other{{count} alpinglitaj mesaĝoj}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Neniuj alpinglitaj mesaĝoj",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Interkonsento",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Aŭdovidaĵoj kaj dosieroj",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Enketoj",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Forlasi komunumon",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Forigi grupan babiladon",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Aŭdovidaĵoj",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Neniuj aŭdovidaĵoj",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Neniuj dosieroj",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Elŝutante dosieron...",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Aldoni al kontaktoj",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Aldoni kontakton",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Forigi kontakton",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Biografio",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Neniu biografio",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Bloki uzanton",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Malbloki uzanton",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Voki",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Komenci konfirmadon",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Vi sukcese konfirmis!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Konfirmi alian konton",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Videbleco de la babilhistorio",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Videbla por ĉiuj partoprenantoj",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Videbla por ĉiuj",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Voĉmesaĝo",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Atendante ke la partnero akceptu la peton...",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Atendante ke la partnero akceptu la emojiojn...",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Atendante ke la partnero akceptu la nombrojn...",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Averto!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Ni sendis al vi retpoŝton",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Kiu povas fari kiun agon",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Kiu rajtas aliĝi al ĉi tiu grupo",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Kial vi volas raporti ĉi tion?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Per ĉi tiuj adresoj vi povas restaŭri vian pasvorton.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Skribi mesaĝon...",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Jes",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Vi",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Vi ne plu partoprenas en ĉi tiu babilado",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Vi estis malpermesita el ĉi tiu babilado",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Via publika ŝlosilo",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Aldoni al spaco",
+  "obtainingLocation": "Akirante lokon...",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} ne estas Matrix-servilo, ĉu provi {server2}?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Loka permeso rifuzita. Bonvolu rajtigi por konigi vian lokon.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Loka servo estas malŝaltita. Bonvolu opcigii por konigi vian lokon.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Eraro akirante lokon: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Krei novan spacon",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Ne eblas malfermi URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Aŭtomate ludi moviĝantajn glumarkojn kaj emojiojn",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Spaca nomo",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Spaco estas publika",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Konigi lokon",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Malfermi en mapo",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Premi Enen por sendi",
+  "scanQrCode": "Skani QR-kodon",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR-kodo",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Konigi QR-kodon",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Unu el viaj klientoj elsalutis",
+  "removeFromBundle": "Forigi el ĉi tiu pakaĵo",
+  "unverified": "Nekonfirmita",
+  "repeatPassword": "Repeti pasvorton",
+  "addAccount": "Aldoni konton",
+  "editBundlesForAccount": "Redakti pakaĵojn por ĉi tiu konto",
+  "addToBundle": "Aldoni al pakaĵo",
+  "bundleName": "Pakaĵa nomo",
+  "link": "Ligilo",
+  "sender": "Sendinto",
+  "openGallery": "Malfermi galerion",
+  "messageInfo": "Mesaĝaj informoj",
+  "time": "Tempo",
+  "removeFromSpace": "Forigi el ĉi tiu spaco",
+  "commandHint_discardsession": "Forĵeti seancon",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Krei privatan babiladon\nUzu la opcio --no-encryption por malŝalti ĉifradon",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Malplenigi kaŝmemoron",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Krei malplenan grupan babiladon\nUzu la opcio --no-encryption por malŝalti ĉifradon",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Marki kiel legita",
+  "reportUser": "Raporti uzanton",
+  "reactedWith": "{sender} reagis per {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Ĉu vi certas, ke vi volas malalpingli ĉi tiun eventon por ĉiam?",
+  "pinMessage": "Alpingli al ĉambro",
+  "emojis": "Emojioj",
+  "unsupportedAndroidVersionLong": "Ĉi tiu funkcio bezonas pli novan version de Android. Bonvolu kontroli ĝisdatigojn.",
+  "unsupportedAndroidVersion": "Nespecifita Android-versio",
+  "youRejectedTheInvitation": "Vi rifuzis la inviton",
+  "youJoinedTheChat": "Vi aliĝis al la babilado",
+  "youBannedUser": "Vi malpermesis {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Vi estis invitita de {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Vi invitis {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Vi forpelis {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Vi malmalpermesis {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Vi akceptis la inviton",
+  "youHaveWithdrawnTheInvitationFor": "Vi malvalidigis la inviton por {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Vi forpelis kaj malpermesis {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Konservi en Apple KeyChain",
+  "storeInAndroidKeystore": "Konservi en Android KeyStore",
+  "storeSecurlyOnThisDevice": "Sekure konservi sur ĉi tiu aparato",
+  "users": "Uzantoj",
+  "countFiles": "{count} dosieroj",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Restaŭri el sekurkopia dosiero",
+  "dehydrate": "Eksporti seancon kaj viŝi aparaton",
+  "dehydrateWarning": "Ĉi tiu ago ne povas esti malfarita. Certigu ke vi sekure konservis vian sekurkopion.",
+  "user": "Uzanto",
+  "userNotFound": "Uzanto ne trovita",
+  "custom": "Propra",
+  "confirmMatrixId": "Bonvolu konfirmi vian Matrix ID por forigi la konton.",
+  "supposedMxid": "Devus esti {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Marki kiel grupo",
+  "commandHint_markasdm": "Marki donitan Matrix ID kiel privatan babiladon",
+  "whyIsThisMessageEncrypted": "Kial ĉi tiu mesaĝo ne legeblas?",
+  "noKeyForThisMessage": "Ĉi tio povas okazi se la mesaĝo estis sendita antaŭ ol vi ensalutis en ĉi tiu aparato.\n\nEble ankaŭ la sendinto blokis vian aparaton aŭ estas retkonekta problemo.\n\nĈu vi povas legi la mesaĝon en alia seanco? Se jes, vi povas transdoni la ŝlosilojn tie! Klaku Agordoj > Aparatoj kaj certigu ke viaj aparatoj konfirmis unu la alian. La ŝlosiloj estos aŭtomate transdonitaj la venontan fojon kiam vi malfermos la ĉambron.",
+  "newSpace": "Nova spaco",
+  "doNotShowAgain": "Ne montri denove",
+  "googlyEyesContent": "{senderName} sendis al vi 'okulajn' emojiojn",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Sendi 'okulajn' emojiojn",
+  "commandHint_cuddle": "Sendi kareson",
+  "commandHint_hug": "Sendi brakumon",
+  "cuddleContent": "{senderName} karesis vin",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} brakumis vin",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Malplena babilado (antaŭe {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Spacoj permesas al vi organizi babiladojn kaj konstrui privatajn aŭ publikajn komunumojn.",
+  "encryptThisChat": "Ĉifri ĉi tiun babiladon",
+  "disableEncryptionWarning": "Pro sekureco, vi ne povas malŝalti ĉifradon en babiladoj kie ĝi antaŭe estis opcigita.",
+  "sorryThatsNotPossible": "Pardonu, tio ne eblas...",
+  "report": "Raporti",
+  "fileIsTooBigForServer": "Ne eblas sendi! La servilo subtenas dosierojn nur ĝis {max}.",
+  "noOtherDevicesFound": "Neniuj aliaj aparatoj trovitaj",
+  "jumpToLastReadMessage": "Salti al la laste legita mesaĝo",
+  "readUpToHere": "Lege ĝis ĉi tie",
+  "jump": "Salti",
+  "openLinkInBrowser": "Malfermi ligilon en retumilo",
+  "fileHasBeenSavedAt": "Dosiero konservita ĉe {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 Ho ve, io misiris. Se vi volas, vi povas raporti ĉi tiun eraron al la programistoj.",
+  "noBackupWarning": "Averto! Se vi ne opcigias babiladan sekurkopion, vi perdos aliron al ĉifritaj mesaĝoj. Estas forte konsilite opcigii tion antaŭ ol elsaluti.",
+  "reopenChat": "Remalfermi babiladon",
+  "importEmojis": "Importi emojiojn",
+  "notAnImage": "Ne estas bilddosiero.",
+  "importNow": "Importi nun",
+  "importFromZipFile": "Importi el .zip dosiero",
+  "replace": "Anstataŭigi",
+  "exportEmotePack": "Eksporti emojipakaĵon kiel .zip",
+  "sendTypingNotifications": "Sendi tajpajn sciigojn",
+  "createGroup": "Krei grupan babiladon",
+  "shareInviteLink": "Invita ligilo",
+  "tryAgain": "Reprovi",
+  "chatPermissions": "Babiladaj permesoj",
+  "chatDescription": "Babilada priskribo",
+  "chatDescriptionHasBeenChanged": "Babilada priskribo estis ŝanĝita",
+  "noChatDescriptionYet": "Ankoraŭ neniu babilada priskribo.",
+  "invalidServerName": "Nevalida servilnomo",
+  "redactMessageDescription": "La mesaĝo estos forigita por ĉiuj partoprenantoj en ĉi tiu konversacio. Ĉi tiu ago ne estas malfarita.",
+  "optionalRedactReason": "(Malnepra) Kialo por forigi ĉi tiun mesaĝon...",
+  "setChatDescription": "Agordi babiladan priskribon",
+  "setColorTheme": "Agordi etosan koloron:",
+  "invite": "Inviti",
+  "addMembers": "Aldoni membrojn",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Inviti per ligilo",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Ĉi tiu listo videblas nur de administrantoj.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Kontaktoj en ĉi tiu babilado",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Neniu invitorigilo por ĉi tiu grupo",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Mesaĝa stilo:",
+  "redactedBy": "Forigita de {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "Forigita de {username} pro: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Grupa invito",
+  "emoteKeyboardNoRecents": "Lastatempaj emojioj aperos ĉi tie...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Nevalida enigo!",
+  "wrongPinEntered": "Nevalida PIN-kodo! Bonvolu reprovi post {seconds} sekundoj...",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} petis inviton por aliĝi al la ĉambro",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Bonvolu enigi nombron pli grandan ol 0",
+  "banUserDescription": "Ĉi tiu uzanto estos malpermesita eniri la ĉambron ĝis la malpermeso estas forigita.",
+  "removeDevicesDescription": "Vi elsalutos el ĉi tiu aparato kaj ne plu ricevos mesaĝojn.",
+  "unbanUserDescription": "Se la uzanto reprovos aliĝi, li denove povos eniri.",
+  "pushNotificationsNotAvailable": "Puŝaj sciigoj ne disponeblas",
+  "makeAdminDescription": "Post kiam vi fariĝos ĉi tiun uzanton administranto, vi eble ne povos tion malfari.",
+  "archiveRoomDescription": "La babilado estos movita al la arkivo. Aliaj uzantoj vidos ke vi forlasis la babiladon.",
+  "learnMore": "Lerni pli",
+  "roomUpgradeDescription": "Nova ĉambra versio estos kreita anstataŭ la nuna. Ĉiuj partoprenantoj ricevos sciigon por ŝanĝi.",
+  "kickUserDescription": "La uzanto estos forpelita sed ne malpermesita. En publikaj ĉambroj ili povas realiĝi iam ajn.",
+  "blockListDescription": "Vi povas bloki ĝenajn uzantojn. Vi ne ricevos mesaĝojn aŭ invitilojn de ili.",
+  "createGroupAndInviteUsers": "Krei grupon kaj inviti uzantojn",
+  "blockedUsers": "Blokitaj uzantoj",
+  "groupCanBeFoundViaSearch": "La grupo troveblas per serĉo",
+  "noUsersFoundWithQuery": "Bedaŭrinde, neniuj uzantoj troviĝis por \"{query}\".",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Bloki",
+  "yourGlobalUserIdIs": "Via ĉefa uzant-ID estas: ",
+  "commandHint_sendraw": "Sendi krudan json",
+  "wrongRecoveryKey": "Pardonu... ĉi tio ŝajnas ne esti la ĝusta restaŭra ŝlosilo.",
+  "blockUsername": "Ignori uzantnomon",
+  "groupName": "Grupa nomo",
+  "databaseMigrationTitle": "Datumbazo optimumigita",
+  "searchChatsRooms": "Serĉi #ĉambrojn, @uzantojn...",
+  "databaseMigrationBody": "Bonvolu atendi momenton.",
+  "thisDevice": "Ĉi tiu aparato:",
+  "publicSpaces": "Publikaj spacoj",
+  "passwordIsWrong": "La enigita pasvorto malĝustas",
+  "pleaseEnterYourCurrentPassword": "Bonvolu enigi vian nunan pasvorton",
+  "nothingFound": "Nenio trovita...",
+  "newPassword": "Nova pasvorto",
+  "passwordsDoNotMatch": "Pasvortoj ne kongruas",
+  "select": "Elekti",
+  "pleaseChooseAStrongPassword": "Bonvolu elekti fortan pasvorton",
+  "addChatOrSubSpace": "Aldoni babiladon aŭ subspacon",
+  "leaveEmptyToClearStatus": "Lasu malplena por viŝi vian staton.",
+  "joinSpace": "Aliĝi al spaco",
+  "searchForUsers": "Serĉi @uzantojn...",
+  "initAppError": "Eraro okazis dum la pravalorizado de la aplikaĵo",
+  "sessionLostBody": "Via seanco perdiĝis. Bonvolu raporti ĉi tiun eraron ĉe {url}. La erarmesaĝo estas: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "La aplikaĵo nun provas restarigi vian seancon. Bonvolu raporti al {url}. Eraro: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Aliaj partoprenantoj povas vidi kiam vi tajpas novan mesaĝon.",
+  "formattedMessagesDescription": "Uzi Markdown por riĉa teksto, ekzemple dika teksto.",
+  "verifyOtherUserDescription": "Se vi konfirmas alian uzanton, vi certas kun kiu vi komunikas. 💪",
+  "verifyOtherDeviceDescription": "Kiam vi konfirmas alian aparaton, sekureco pliiĝas. 💪",
+  "canceledKeyVerification": "{sender} nuligis la ŝlosilkonfirmadon",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Sendi leg-konfirmojn",
+  "formattedMessages": "Formatitaj mesaĝoj",
+  "verifyOtherDevice": "🔐 Konfirmi alian aparaton",
+  "verifyOtherUser": "🔐 Konfirmi alian uzanton",
+  "sendReadReceiptsDescription": "Aliaj partoprenantoj povas vidi ĉu vi legis la mesaĝon.",
+  "acceptedKeyVerification": "{sender} akceptis la ŝlosilkonfirmadon",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} pretas por la ŝlosilkonfirmado",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} finis la ŝlosilkonfirmadon",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} petis ŝlosilkonfirmadon",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} komencis la ŝlosilkonfirmadon",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Envenantaj mesaĝoj",
+  "stickers": "Glumarkoj",
+  "discover": "Malkovri",
+  "commandHint_ignore": "Ignori donitan Matrix ID",
+  "commandHint_unignore": "Malignori donitan Matrix ID",
+  "unreadChatsInApp": "{appname}: {unread} nelegitaj babiladoj",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "Post agordo de serura paskodo, aŭtentigo estas bezonata por eniri NYX",
+  "globalChatId": "Ĉefa babil-ID",
+  "accessAndVisibility": "Aliro kaj videbleco",
+  "accessAndVisibilityDescription": "Kiu povas aliĝi kaj kiel malkovri ĝin.",
+  "customEmojisAndStickers": "Propraj emojioj kaj glumarkoj",
+  "hideRedactedMessages": "Kaŝi forigitajn mesaĝojn",
+  "passwordRecoverySettings": "Pasvortaj restaŭraj agordoj",
+  "knock": "Peti",
+  "noOneCanJoin": "Neniu povas aliĝi",
+  "knocking": "Petante",
+  "chatCanBeDiscoveredViaSearchOnServer": "Babilado trovebla per serĉo ĉe {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Nuntempe ekzistas {count} blokitaj uzantoj.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Se iu forigas mesaĝon, ĝi ne plu videblos en la babilado.",
+  "hideInvalidOrUnknownMessageFormats": "Kaŝi nevalidajn mesaĝajn formatojn",
+  "customEmojisAndStickersBody": "Aldoni aŭ konigi emojiojn kaj glumarkojn.",
+  "usersMustKnock": "Uzantoj devas peti aliĝon",
+  "noDatabaseEncryption": "Datumbaza ĉifrado ne estas subtenata",
+  "publicChatAddresses": "Publikaj babiladaj adresoj",
+  "createNewAddress": "Krei novan adreson",
+  "searchMore": "Serĉi pli...",
+  "gallery": "Galerio",
+  "files": "Dosieroj",
+  "searchIn": "Serĉi en \"{chat}\"...",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Swipe de dekstre al maldekstre por respondi",
+  "noMoreChatsFound": "Neniuj pliaj babiladoj trovitaj...",
+  "space": "Spaco",
+  "goToSpace": "Iri al spaco: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Marki kiel nelegita",
+  "unread": "Nelegita",
+  "userLevel": "{level} - Uzanto",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Moderiganto",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Administranto",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Inviti aliajn uzantojn al ĉi tiu babilado",
+  "changeTheChatPermissions": "Ŝanĝi babiladajn permesojn",
+  "changeTheVisibilityOfChatHistory": "Ŝanĝi videblecon de la babilhistorio",
+  "changeTheCanonicalRoomAlias": "Ŝanĝi ĉefan publikan adreson",
+  "sendRoomNotifications": "Sendi sciigojn al ĉiuj en la ĉambro",
+  "changeTheDescriptionOfTheGroup": "Ŝanĝi babiladan priskribon",
+  "changeGeneralChatSettings": "Ŝanĝi ĝeneralajn agordojn",
+  "chatPermissionsDescription": "Difini permesnivelojn por specifaj agoj en ĉi tiu babilado.",
+  "changelog": "Ĝisdatiga historio",
+  "updateInstalled": "🎉 Ĝisdatigo {version} instalita!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Sendado nuligita",
+  "noChatsFoundHere": "Neniuj babiladoj tie ĉi ankoraŭ.",
+  "loginWithMatrixId": "Ensaluti per Matrix ID",
+  "doesNotSeemToBeAValidHomeserver": "Ŝajnas ne esti kongrua hejmservilo.",
+  "calculatingFileSize": "Kalkulante dosiergrandon...",
+  "oneOfYourDevicesIsNotVerified": "Unu el viaj aparatoj ne estas konfirmita",
+  "noticeChatBackupDeviceVerification": "Atento: Kiam vi konektas ĉiujn aparatojn al la sekurkopio, ili estos aŭtomate konfirmitaj.",
+  "continueText": "Daŭrigi",
+  "blur": "Malklarigo:",
+  "opacity": "Opakeco:",
+  "setWallpaper": "Agordi tapeton",
+  "manageAccount": "Administri konton",
+  "aboutHomeserver": "Pri {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Versio",
+  "noContactInformationProvided": "La servilo ne donis kontaktinformojn",
+  "contactServerAdmin": "Kontakti serviladministranton",
+  "name": "Nomo",
+  "surname": "Familia nomo",
+  "personalIntro": "Persona prezento",
+  "nameDescription": "Enigu vian nomon kaj profilbildon.",
+  "aboutYourselfDescription": "Teksta prezento pri vi mem.",
+  "email": "Retpoŝto",
+  "emailForLogin": "Por NYX-konto-ensaluto.",
+  "changeEmail": "Ŝanĝi retpoŝton",
+  "changeEmailDescription": "Vi povas ŝanĝi la restaŭran retpoŝton.",
+  "bindNewEmail": "Ligi novan retpoŝton",
+  "newEmailSameAsOld": "Nova retpoŝto devas esti malsama",
+  "bindEmail": "Ligi retpoŝton",
+  "bindEmailDescription": "Ligu retpoŝton por pasvorta restarigo.",
+  "enterEmail": "Enigu retpoŝton",
+  "enterValidEmail": "Bonvolu enigi validan retpoŝton",
+  "getVerificationCode": "Akiri konfirman kodon",
+  "verificationCode": "Konfirma kodo",
+  "enterVerificationCode": "Enigu konfirman kodon",
+  "enterCodeSentTo": "Enigu la kodon senditan al {email}.",
+  "createPassword": "Krei pasvorton",
+  "createPasswordDescription": "Agordu ensalutan pasvorton.",
+  "enterPassword": "Enigu pasvorton",
+  "enterPasswordAgain": "Repeti pasvorton",
+  "bind": "Ligi",
+  "walletAddress": "Monujadreso",
+  "walletForLogin": "Por ensaluto",
+  "ethereumMainnetAddress": "Ethereum ĉefreta adreso",
+  "none": "Neniu",
+  "username": "Uzantnomo",
+  "usernameDescription": "Vi povas agordi uzantnomon ĉe NYX. Post kiam ĝi estos agordita, aliaj povos trovi vin kaj kontakti vin per ĉi tiu uzantnomo.",
+  "usernameRuleHint": "Uzu a-z, 0-9 kaj substrekon (_). Minimumo 5 signoj.",
+  "chatViaLink": "Babili per ligilo:",
+  "contactServerSecurity": "Kontakti servilajn sekurecadministrantojn",
+  "supportPage": "Subtenpaĝo",
+  "serverInformation": "Servilaj informoj:",
+  "website": "Retejo",
+  "italicText": "Kursiva teksto",
+  "strikeThrough": "Trastrekita",
+  "pleaseFillOut": "Bonvolu plenigi",
+  "addLink": "Aldoni ligilon",
+  "boldText": "Dika teksto",
+  "invalidUrl": "Nevalida URL",
+  "unableToJoinChat": "Ne eblas aliĝi al la babilado.",
+  "sendImages": "Sendi {count} bildojn",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Kompakti",
+  "previous": "Antaŭa",
+  "otherPartyNotLoggedIn": "La alia flanko ne estas ensalutita!",
+  "appWantsToUseForLoginDescription": "Vi permesas al ĉi tiu aplikaĵo kundividi informojn.",
+  "open": "Malfermi",
+  "appWantsToUseForLogin": "Ensaluti per '{server}' servilo",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Atendante servilon...",
+  "synchronizingPleaseWaitCounter": " Sinkronigante... ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Nova babiladopeto",
+  "generalNotificationSettings": "Ĝeneralaj sciigaj agordoj",
+  "userSpecificNotificationSettings": "Uzantaj sciigaj agordoj",
+  "notificationRuleMaster": "Silentigi ĉiujn sciigojn",
+  "notificationRuleSuppressNotices": "Kaŝi aŭtomatajn mesaĝojn",
+  "notificationRuleInviteForMe": "Invitoj al mi",
+  "notificationRuleInviteForMeDescription": "Sciigi kiam invitite.",
+  "notificationRuleMemberEvent": "Membraj eventoj",
+  "notificationRuleMemberEventDescription": "Kaŝi membrecajn sciigojn.",
+  "notificationRuleIsUserMention": "Mencio de uzanto",
+  "notificationRuleIsUserMentionDescription": "Sciigi kiam via nomo estas menciita.",
+  "notificationRuleContainsDisplayName": "Enhavas montratan nomon",
+  "notificationRuleIsRoomMention": "Ĉambra mencio",
+  "notificationRuleRoomnotifDescription": "Sciigi kiam mesaĝo enhavas @room.",
+  "notificationRuleTombstone": "Tombejo",
+  "notificationRuleRoomServerAcl": "Ĉambra servila ACL",
+  "notificationRuleSuppressEdits": "Kaŝi redaktojn",
+  "notificationRuleCall": "Voko",
+  "notificationRuleRoomOneToOne": "Unu-al-unu ĉambro",
+  "notificationRuleRoomOneToOneDescription": "Sciigi en unu-al-unu ĉambroj.",
+  "notificationRuleEncrypted": "Ĉifrita",
+  "notificationRuleEncryptedDescription": "Sciigi en ĉifritaj ĉambroj.",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Sciigi por Jitsi eventoj.",
+  "notificationRuleServerAcl": "Kaŝi servilajn ACL-eventojn",
+  "notificationRuleServerAclDescription": "Kaŝi servilajn ACL-sciigojn.",
+  "deletePushRuleCanNotBeUndone": "Ĉi tiu ago ne estas malfarita.",
+  "more": "Pli",
+  "notificationRuleReactionDescription": "Kaŝi reagajn sciigojn.",
+  "notificationRuleMessageDescription": "Sciigi pri normalaj mesaĝoj.",
+  "notificationRuleContainsUserName": "Enhavas uzantnomon",
+  "otherNotificationSettings": "Aliaj sciigaj agordoj",
+  "notificationRuleContainsUserNameDescription": "Sciigi kiam enhavas vian uzantnomon.",
+  "notificationRuleIsRoomMentionDescription": "Sciigi pri ĉambraj mencioj.",
+  "contentNotificationSettings": "Enhavaj sciigaj agordoj",
+  "notificationRuleMasterDescription": "Superregi ĉiujn aliajn regulojn.",
+  "notificationRuleSuppressNoticesDescription": "Kaŝi sciigojn de robotoj.",
+  "roomNotificationSettings": "Ĉambraj sciigaj agordoj",
+  "notificationRuleRoomServerAclDescription": "Kaŝi ĉambrersizajn ACL-sciigojn.",
+  "notificationRuleContainsDisplayNameDescription": "Sciigi kiam enhavas vian nomon.",
+  "notificationRuleRoomnotif": "Ĉambraro",
+  "notificationRuleTombstoneDescription": "Sciigi pri malfermitaj ĉambroj.",
+  "notificationRuleReaction": "Reago",
+  "notificationRuleSuppressEditsDescription": "Kaŝi mesaĝajn redaktojn.",
+  "notificationRuleCallDescription": "Sciigi pri alvokoj.",
+  "notificationRuleEncryptedRoomOneToOne": "Ĉifrita unu-al-unu ĉambro",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Sciigi en ĉifritaj unu-al-unu ĉambroj.",
+  "notificationRuleMessage": "Mesaĝo",
+  "unknownPushRule": "Nekonata puŝa regulo '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Kruckonfirmitaj aparatoj",
+  "shareKeysWithDescription": "Kiu aparato rajtas legi viajn mesaĝojn en ĉifritaj babiladoj?",
+  "shareKeysWith": "Kun kiuj aparatoj konigi ŝlosilojn...",
+  "allDevices": "Ĉiuj aparatoj",
+  "crossVerifiedDevicesIfEnabled": "Kruckonfirmitaj aparatoj (se opcigita)",
+  "verifiedDevicesOnly": "Nur konfirmitaj aparatoj",
+  "optionalMessage": "(Malnepra) Mesaĝo...",
+  "takeAPhoto": "Fari foton",
+  "recordAVideo": "Registri videon",
+  "notSupportedOnThisDevice": "Ne subtenata en ĉi tiu aparato",
+  "enterNewChat": "Eniri novan babiladon",
+  "commandHint_roomupgrade": "Ĝisdatigi ĉi tiun ĉambron al specifa versio",
+  "approve": "Konsenti",
+  "youHaveKnocked": "Vi petis aliĝon",
+  "pleaseWaitUntilInvited": "Bonvolu atendi ĝis iu invitos vin.",
+  "countInvited": "Invititaj {count}",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Kontrollisto",
+  "sentVoiceMessage": "🎙️ {duration} - Voĉmesaĝo de {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Elsaluti el nuna aparato",
+  "commandHint_logoutall": "Elsaluti el ĉiuj aktivaj aparatoj",
+  "displayNavigationRail": "Montri navigadan strieton",
+  "customReaction": "Propra reago",
+  "moreEvents": "Pliaj eventoj",
+  "declineInvitation": "Rifuzi inviton",
+  "noMessagesYet": "Ankoraŭ neniuj mesaĝoj",
+  "longPressToRecordVoiceMessage": "Longe premi por registri voĉmesaĝon.",
+  "pause": "Paŭzi",
+  "resume": "Daŭrigi",
+  "removeFromSpaceDescription": "Forigos la babiladon el la spaco, sed ĝi ankoraŭ aperos en la listo.",
+  "countChats": "{chats} babiladoj",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Spacano de {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Spacano de {spaces} povas frapeti",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Enketo",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Komenci enketon",
+  "endPoll": "Fini enketon",
+  "editPoll": "Redakti enketon",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Forigi enketon",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Rezultoj videblaj",
+  "hiddenPoll": "Kaŝita enketo",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Enketa demando",
+  "answerOption": "Elekto",
+  "addAnswerOption": "Aldoni elekton",
+  "allowMultipleAnswers": "Permesi plurajn elektojn",
+  "pollHasBeenEnded": "La enketo finiĝis",
+  "startedAPoll": "{senderName} komencis enketon",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{voĉo} other{{count} voĉoj}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Rezultoj videblos kiam finiĝos",
+  "active": "Aktiva",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Finita",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Fadenaro",
+  "replyInThread": "Respondi en fadenaro",
+  "countReplies": "{count, plural, =1{respondo} other{{count} respondoj}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Reen al ĉefa babilado",
+  "saveChanges": "Konservi ŝanĝojn",
+  "createSticker": "Krei glumarkon",
+  "useAsSticker": "Uzi kiel glumarkon",
+  "useAsEmoji": "Uzi kiel emojion",
+  "stickerPackNameAlreadyExists": "Glumarkpakaĵo jam ekzistas",
+  "newStickerPack": "Nova glumarkpakaĵo",
+  "stickerPackName": "Glumarkpakaĵa nomo",
+  "attribution": "Atribuo",
+  "skipChatBackup": "Preterpasi babiladan sekurkopion",
+  "skipChatBackupWarning": "Ĉu certas? Sen sekurkopio vi eble perdos mesaĝojn.",
+  "changedTheChatDescription": "{username} ŝanĝis la priskribon",
+  "changedTheChatName": "{username} ŝanĝis la nomon",
+  "noMoreResultsFound": "Neniuj pluaj rezultoj trovitaj",
+  "chatSearchedUntil": "Babilado serĉita ĝis {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "Federacia bazo-URL",
+  "clientWellKnownInformation": "Client-Well-Known informo:",
+  "baseUrl": "Bazo-URL",
+  "identityServer": "Identiga servilo:",
+  "versionWithNumber": "Versio: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Protokoloj",
+  "advancedConfigs": "Altnivelaj agordoj",
+  "advancedConfigurations": "Altnivelaj agordoj",
+  "signIn": "Ensaluti",
+  "createNewAccount": "Krei novan konton",
+  "signUpGreeting": "NYX estas malcentralizita!",
+  "signInGreeting": "Jam havas konton? Bonvenon ree!",
+  "theProcessWasCanceled": "La procezo estis nuligita.",
+  "join": "Aliĝi",
+  "searchOrEnterHomeserverAddress": "Serĉi aŭ enigi hejmservilan adreson",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Agordi povonivelon",
+  "makeModerator": "Fari moderiganto",
+  "makeAdmin": "Fari administranto",
+  "removeModeratorRights": "Forigi moderigantajn rajtojn",
+  "removeAdminRights": "Forigi administrajn rajtojn",
+  "powerLevel": "Povonivelo",
+  "setPowerLevelDescription": "Povonivelo difinas kion membroj povas fari.",
+  "owner": "Posedanto",
+  "mute": "Silentigi",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Krei novan babiladon",
+  "reset": "Restaŭri",
+  "supportFluffyChat": "Subteni NYX",
+  "support": "Subteno",
+  "setLowPriority": "Agordi malaltan prioritaton",
+  "unsetLowPriority": "Malagordi malaltan prioritaton",
+  "playSoundOnNotification": "Ludi sonon ĉe sciigo",
+  "addTag": "Aldoni etikedon",
+  "removeTag": "Forigi etikedon",
+  "tagName": "Etikeda nomo",
+  "createNewTag": "Krei novan etikedon",
+  "discardEdits": "Malkonservi ŝanĝojn?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Kaŝi ĉambrojn en spacoj",
+  "possibleByYou": "Sen via subteno ĉi tio ne estus ebla.",
+  "showThumbnailsInTimeline": "Montri bildetojn en historio",
+  "appSubtitle": "Sekura [matrix] komunikado",
+  "appDescription": "Rabi senpage kaj malcentralizite.",
+  "interactiveVerification": "Interaktiva konfirmo",
+  "interactiveVerificationDescription": "Konfirmi aparatojn per komparo de emojioj.",
+  "countUnverifiedDevices": "{count} nekonfirmitaj aparatoj.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Ĉifrita mesaĝo",
+  "unencryptedMessage": "Neĉifrita mesaĝo",
+  "publicKey": "Publika ŝlosilo: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Aparata identiga ŝlosilo",
+  "showMore": "Montri pli",
+  "showLess": "Montri malpli",
+  "restoreBootstrapEmptyDevicesDescription": "Enigu pasfrazon aŭ restaŭran ŝlosilon.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Elektu alian aparaton por konfirmi:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Restaŭri konton",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Restaŭri ĉifran identecon",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Restaŭri ĉifran identecon",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Agordi ĉifran identecon",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Atendante ŝlosilojn...",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Neniuj ŝlosiloj transdonitaj.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Malfermi",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Malfermi dosieron",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Atento: vi perlos viajn malnovajn mesaĝojn.",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "Uzu fortan pasfrazon.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Nova pasfrazo",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Repeti pasfrazon",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Pasfrazoj kongruas",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Minimume 12 signoj.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Enhavas majusklojn kaj minusklojn.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Enhavas specialajn signojn.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Enhavas nombron.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Skribu vian restaŭran ŝlosilon.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Konservi kiel dosieron",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Vi pretas komenci!",
+  "noUserKeyFound": "Neniu uzanta ŝlosilo trovita",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Nesubskribita aparato",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Subskribita aparato",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Neniu curve25519 ŝlosilo trovita",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Mesaĝo ne malĉifrebla",
+  "knownSince": "Konata ekde: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Via mesaĝo estas ĉifrita kaj legebla nur de:",
+  "messageCanOnlyBeReadByUsers": "Viaj mesaĝoj estas ĉifritaj kaj legeblaj nur de ĉi tiuj uzantoj:",
+  "today": "Hodiaŭ",
+  "sending": "Sendante",
+  "generatingThumbnail": "Generante bildeton",
+  "encrypting": "Ĉifrante",
+  "uploading": "Alŝutante",
+  "edited": "(redaktita)",
+  "couldNotBeSent": "Ne eblis sendi",
+  "yesterday": "Hieraŭ",
+  "resetRecoveryKey": "Restaŭri ŝlosilon",
+  "pleaseEnter6Digits": "Enigu 6 ciferojn por opcigii seruron.",
+  "disableAppLock": "Malŝalti seruran kodon",
+  "disableAppLockAreYouSure": "Ĉu certas?",
+  "enableBiometrics": "Opcigi biometrian konfirmon",
+  "disableBiometrics": "Malŝalti biometrian konfirmon",
+  "biometricsDescription": "Per biometrika aŭtentigo vi povas malŝlosi la aplikaĵon per via vizaĝo aŭ fingrospuro. La eblecoj dependas de via aparato.",
+  "useAppLock": "Uzi aplikaĵan seruron",
+  "unlockWithBiometrics": "Malŝlosi per biometrio",
+  "resetPin": "Restaŭri PIN-on",
+  "forwardCountMessages": "Plusendi {count, plural, =1{mesaĝon} other{{count} mesaĝojn}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Redakti bildon",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Rotacii maldekstren",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Rotacii dekstren",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Speguli",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Konservi",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Desegni",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Malfari",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Viŝi",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Cigumilo",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Kropi",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Ŝargante mesaĝojn...",
+  "buildDoesNotSupportFirebase": "Ĉi tiu versio ne subtenas Firebase.",
+  "unableToRegisterDeviceForFirebase": "Ne eblis registri aparaton.",
+  "unifiedPushDistributors": "Unified Push distribuantoj:",
+  "doubleTapToReact": "Duoble klaki por reagi",
+  "doubleTapToReactDescription": "Duoble klaki mesaĝon por reagi",
+  "doubleTapReaction": "Duobla klako por reagi",
+  "sendingFilesDoNotExit": "Sendante {count} dosierojn... bonvolu ne eliri!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Kompaktigante videon...",
+  "shareCrashReports": "Konigi kraŝraportojn",
+  "shareCrashReportsDescription": "Aŭtomate konigi kraŝraportojn?",
+  "videoCallsBetaWarning": "Videovokoj estas beta-funkcio.",
+  "callNotAllowed": "Nur administrantoj povas komenci vokon.",
+  "countActiveCallMembers": "{count} aktivaj alvokmembroj",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Eniri vokon",
+  "noDevicesFound": "Neniuj aparatoj trovitaj",
+  "incomingCall": "Envenanta voko",
+  "waitingForParticipant": "Atendante partoprenanton...",
+  "decline": "Rifuzi",
+  "videoCall": "Videovoko",
+  "voiceCall": "Voĉvoko",
+  "previewImage": "[Bildo]",
+  "previewVideo": "[Video]",
+  "previewVoice": "[Voĉo]",
+  "previewAudio": "[Aŭdo]",
+  "previewFile": "[Dosiero]",
+  "previewLocation": "[Loko]",
+  "previewSticker": "[Glumarko]",
+  "previewVoiceCall": "[Voĉvoko]",
+  "previewVideoCall": "[Videovoko]",
+  "missedCall": "Mica voketo",
+  "callBack": "Reuoki",
+  "hangUp": "Fini",
+  "startCall": "Komenci vokon",
+  "selectCamera": "Elekti fotilon",
+  "selectMicrophone": "Elekti mikrofonon",
+  "selectSpeaker": "Elekti laŭtparolilon",
+  "toggleMicrophone": "Baskuligi mikrofonon",
+  "toggleCamera": "Baskuligi fotilon",
+  "startScreensharing": "Komenci ekranaŭdvidon",
+  "stopScreensharing": "Haltigi ekranaŭdvidon",
+  "raiseHand": "Levi manon",
+  "stopRaiseHand": "Mallevi manon",
+  "preferSpeaker": "Preferi laŭtparolilon",
+  "unexpectedErrorOccurded": "Bedaŭrinde okazis neatendita eraro: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Kontoj kaj agordoj",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Voko de {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Servila eraro: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Versio {version} disponeblas",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Elŝuti",
+  "sharedLocation": "Konigita loko",
+  "contacts": "Kontaktoj",
+  "groupChats": "Grupaj babiladoj",
+  "publicGroups": "Publikaj grupoj",
+  "createGroupChat": "Krei grupan babiladon",
+  "inviteFriends": "Inviti amikojn",
+  "emptyChatsTitle": "Neniuj babiladoj",
+  "emptyChatsDesc": "Klaku supren por komenci",
+  "emptyUsersTitle": "Neniuj privataj mesaĝoj",
+  "emptyUsersDesc": "Vi povas ŝanĝi filtrilojn",
+  "emptyUnreadTitle": "Neniuj nelegitaj",
+  "emptyUnreadDesc": "Ĉio estas legita",
+  "emptyGroupChatsTitle": "Vi ne estas en grupoj",
+  "emptyGroupChatsDesc": "Aliĝu al grupoj",
+  "emptyPinnedTitle": "Neniuj alpinglitoj",
+  "emptyPinnedDesc": "Alpinglu babiladojn",
+  "startChat": "Komenci babiladon",
+  "newGroupChat": "Nova grupbabilo",
+  "invitedYouToJoinGroup": "{username} invitis vin al grupo",
+  "joinGroupBannerTitle": "Aliĝu al la grupo",
+  "joinGroupBannerDesc": "Grupu laŭ temoj",
+  "certifiedGroups": "{count} atestitaj grupoj",
+  "membersCount": "{count} membroj",
+  "recentlyOnline": "Lastatempe rete",
+  "lastSeenLongAgo": "Laste vidita longe antaŭe",
+  "appearance": "Aspekto",
+  "language": "Lingvo",
+  "selectLanguage": "Elekti lingvon",
+  "privacyAndSecurity": "Privateco kaj Sekureco",
+  "qrScanRecognizing": "Rekonante...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Tempe elĉerpita",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "Neniu QR-kodo trovita",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "Malplena QR-kodo",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Malsukcesis rekonado",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "Nevalida QR-kodo",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Via propra konto",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Rifuzi inviton",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Ĉu rifuzi {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Fotilo",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Fotoj kaj videoj",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Dosiero",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Rete",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Senrete",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Mesaĝo forigita",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Vi retiriĝis mesaĝon",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} forigis mesaĝon",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Dosiero konservita",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Konservita al galerio",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Ne eblis malfermi dosieron",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Nekonata dosiero",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Mica videovoko",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Voko nuligita",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} en voko",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Aliĝi",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Atendante aliulojn...",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Nur administrantoj povas voki ĉi tie",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Forigi de listo sed ne forlasi.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Dissolvi grupon por ĉiuj.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Traduki",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Tradukante...",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Tradukado malsukcesis",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Voko aktiva",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Montras dum voko",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Klaku por reiri",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Alia flanko nuligis vokon",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Videovoko nuligita",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Alia flanko nuligis videovokon",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Reen",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Vokante...",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Konektante...",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Voko finiĝis",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Voko malsukcesis",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Laŭtparolilo",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Aŭdilo",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Turni",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Video",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Mikrofono malŝaltita",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Fini",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Vi",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Eliranta",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} sekundoj",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} minutoj",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} horoj {minutes} minutoj",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Ŝanĝi mian rolon",
+  "permissions": "Permesoj",
+  "changeMyRoleConfirmMessage": "Malpliigo ne malfarigeblas.",
+  "demoteToAdmin": "Malkonfirmi administranton",
+  "demoteToModerator": "Malkonfirmi moderiganton",
+  "demoteToMember": "Malkonfirmi membron",
+  "addAdmin": "Aldoni administranton",
+  "addModerator": "Aldoni moderiganton",
+  "groupAdmins": "Grupadministrantoj",
+  "groupModerators": "Grupmoderigantoj",
+  "addAdminHelp": "Helpu administri.",
+  "addModeratorHelp": "Helpu moderigi.",
+  "noCandidatesToAdd": "Neniuj kandidatoj",
+  "setAsAdminSuccess": "Administrantiĝis",
+  "setAsModeratorSuccess": "Moderigantiĝis",
+  "searchMembers": "Serĉi membrojn",
+  "noResults": "Neniuj rezultoj",
+  "noResultsDescription": "Nenio trovita.",
+  "removeAdminConfirm": "Ĉu forigi administrantan rajton?",
+  "removeModeratorConfirm": "Ĉu forigi moderigantan rajton?",
+  "removeAdminSuccess": "Forigita",
+  "removeModeratorSuccess": "Forigita",
+  "manageMembers": "Administri membrojn",
+  "inviteMembers": "Inviti membrojn",
+  "removeMembers": "Forigi membrojn",
+  "banMembers": "Malpermesi membrojn",
+  "editCommunity": "Redakti komunumon",
+  "changeCommunityName": "Ŝanĝi komunumon",
+  "changeCommunityAvatar": "Ŝanĝi komunumprofilon",
+  "changeCommunityDescription": "Ŝanĝi komunumpriskribon",
+  "messagesAndContent": "Mesaĝoj kaj enhavo",
+  "removeMessages": "Forigi mesaĝojn",
+  "adminsOnly": "Nur administrantoj",
+  "adminsAndModerators": "Administrantoj kaj moderigantoj",
+  "resetPermissions": "Restaŭri permesojn",
+  "resetPermissionsConfirmMessage": "Ĉu restarigi defaŭltajn?",
+  "changeSettings": "Ŝanĝi agordojn",
+  "permissionChangedFromTo": "{sender} ŝanĝis {permission} de {from} al {to}",
+  "changedUserRoleTo": "{username} agordis {target} al {role}",
+  "viewInChat": "Vidi en babilado",
+  "playbackSpeed": "Ludrapido",
+  "normalSpeed": "Normala",
+  "qrScanHint": "Metu QR-kodon en la kadron",
+  "torch": "Torĉo",
+  "remarkVisibleOnlyToYou": "Rimarko nur por vi",
+  "pollVotes": "{count} voĉoj",
+  "totalPollVotes": "Entute {count} voĉoj",
+  "scanQrMobileOnly": "Nur poŝtelefono",
+  "publicGroupTech": "Tekniko",
+  "publicGroupMarketing": "Merkatiko",
+  "publicGroupWeb3": "Web3",
+  "publicGroupCrossBorder": "Translimaj",
+  "publicGroupFreelance": "Sendependa",
+  "blockUsers": "Bloki uzantojn",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Elsaluti el ĉiuj aparatoj krom ĉi tiu.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Permesi konservejon de ŝlosiloj",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Sekure konservu vian kriptografian identecon kaj mesaĝajn ŝlosilojn sur la servilo, tiel ke vi povos vidi vian mesaĝan historion sur iu ajn nova aparato.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Ŝaltita",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Ekrana paskodo",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Ensaluta pasvorto",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Reakira ŝlosilo",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Agordi reakiron",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Agordi reakiran ŝlosilon",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Sekure konservu vian kriptografian identecon kaj mesaĝajn ŝlosilojn sur la servilo. Tiel vi povos vidi vian mesaĝan historion sur iu ajn nova aparato.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Generi reakiran ŝlosilon",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Klaku por kopii reakiran ŝlosilon",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Konservi reakiran ŝlosilon",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Dividi interretan staton",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Kaŝi avataron en ĉambraj invitaj petoj",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Montri plurmedian enhavon en tempolinio",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Ĉiam kaŝi",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "En privataj ĉambroj",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Ĉiam montri",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Nur mencioj",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Grupbabilejo",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Privata babilejo",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Sciigi min en grupbabilejoj",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Sciigi min en privataj babilejoj",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Nur mencioj kaj ŝlosilvortoj",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "La servilo ne subtenas ĉi tiun opcion en ĉifritaj grupbabilejoj, do vi eble ne ricevos sciigojn en iuj grupoj.",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Sendependaj agordoj por ĉiu babilejo",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Ŝalti ĉi tion anstataŭigos viajn defaŭltajn agordojn.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Sciigi min en ĉi tiu babilejo",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Nur mencioj kaj ŝlosilvortoj",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Via ĉefservilo ne subtenas ĉi tiun opcion en ĉifritaj ĉambroj, vi eble ne ricevos sciigojn en iuj ĉambroj.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Permesi proprajn agordojn",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Pliaj agordoj",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Aplikaĵa seruro",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Ŝalti ekranan seruron",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Bonvolu enigi seruran paskodon",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Bonvolu denove enigi la novan seruran paskodon",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Malĝusta malnova paskodo, bonvolu reprovi",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "La paskodoj ne kongruas",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Ekrana paskodo ebligita",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Ĉi tiu aparato",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Elsaluti el ĉiuj aliaj sesioj",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Aktivaj sesioj",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Forigi aparaton",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Ĉu vi certas pri la aparato {name}?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "clientInfo": "Kliento",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Forigi aparaton",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "Antaŭ {time}",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "daysUnit": "tago",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Aliĝu al via {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Krei konton",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Ĝisdatigo preta",
+  "updateReadyMessage": "Ni optimumigis kelkajn funkciojn. Rekomenci la aplikaĵon por apliki la ĝisdatigon.",
+  "restartNow": "Rekomenci nun",
+  "noPublicGroupsYet": "Ankoraŭ ne estas certigitaj grupoj"
+}

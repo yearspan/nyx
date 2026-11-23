@@ -1,0 +1,4059 @@
+{
+  "@@locale": "ka",
+  "about": "შესახებ",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "მიღება",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username}-მ მიიღო მოწვევა",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "ანგარიში",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username}-მ ჩართო ბოლოდან ბოლომდე შიფრაცია",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "ელ. ფოსტის დამატება",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "ადმინისტრატორი",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "ალიასი",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "ყველა",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName}-მ უპასუხა ზარს",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "შემოსვლა ყველას შეუძლია",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "აპლიკაციის დაბლოკვა",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "არქივი",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "ნებადართულია სტუმრების შემოსვლა?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "დარწმუნებული ხართ?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "დარწმუნებული ხართ, რომ გსურთ გასვლა?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "ხელმოსაწერად შეიყვანეთ თქვენი პაროლი ან უსაფრთხო აღდგენის გასაღები.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "მივიღოთ ვერიფიკაციის მოთხოვნა {username}-სგან?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "სერვერის მიერ მხარდაჭერილი შესვლის ტიპები:\\n{serverVersions}\\nმაგრამ ეს აპლიკაცია მხარს უჭერს მხოლოდ:\\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "ჩატიდან დაბლოკვა",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "წევრის დაბლოკვა",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "დაბლოკილია",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username}-მ დაბლოკა {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "მოწყობილობის დაბლოკვა",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "დაბლოკილია",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "გაუქმება",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "მოწყობილობის სახელის შეცვლა",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username}-მ შეცვალა ჩატის ავატარი",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username}-მ შეცვალა ჩატის უფლებები",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username}-მ სახელი შეიცვალა როგორც „{displayname}“",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username}-მ შეცვალა სტუმართა წვდომის წესები",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username}-მ შეცვალა სტუმართა წვდომის წესები: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username}-მ შეცვალა ისტორიის ხილვადობა",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username}-მ შეცვალა ისტორიის ხილვადობა შემდეგნაირად: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username}-მ შეცვალა გაერთიანების წესები",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username}-მ შეცვალა გაერთიანების წესები შემდეგნაირად: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username}-მ შეცვალა პროფილის ავატარი",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username}-მ შეცვალა ოთახის ალიასები",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username}-მ შეცვალა ოთახის მოწვევის ბმული",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "პაროლის შეცვლა",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "მთავარი სერვერის შეცვლა",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "თემის შეცვლა",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "ჯგუფის სახელის შეცვლა",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "ავატარის შეცვლა",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "შიფრაცია დაზიანებულია",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "ჩატი",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "ჩატის ასლი",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "ჩატის დეტალები",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "ჩატები",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "აირჩიეთ ძლიერი პაროლი",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "არქივის გასუფთავება",
+  "close": "დახურვა",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "კონკრეტული მომხმარებლის დაბლოკვა ამ ოთახიდან",
+  "@commandHint_ban": {
+    "type": "String"
+  },
+  "commandHint_html": "HTML-ით დაფორმატებული ტექსტის გაგზავნა",
+  "@commandHint_html": {
+    "type": "String"
+  },
+  "commandHint_invite": "მომხმარებლის მოწვევა ამ ოთახში",
+  "@commandHint_invite": {
+    "type": "String"
+  },
+  "commandHint_join": "კონკრეტულ ოთახში შესვლა",
+  "@commandHint_join": {
+    "type": "String"
+  },
+  "commandHint_kick": "კონკრეტული მომხმარებლის ამოგდება ამ ოთახიდან",
+  "@commandHint_kick": {
+    "type": "String"
+  },
+  "commandHint_leave": "ამ ოთახის დატოვება",
+  "@commandHint_leave": {
+    "type": "String"
+  },
+  "commandHint_me": "საკუთარი თავის აღწერა",
+  "@commandHint_me": {
+    "type": "String"
+  },
+  "commandHint_myroomavatar": "ამ ოთახში თქვენი ავატარის დაყენება mxc-uri-ით",
+  "@commandHint_myroomavatar": {
+    "type": "String"
+  },
+  "commandHint_myroomnick": "ამ ოთახში თქვენი ზედმეტსახელის დაყენება",
+  "@commandHint_myroomnick": {
+    "type": "String"
+  },
+  "commandHint_op": "მომხმარებლის უფლებების დონის დაყენება (ნაგულისხმევი: 50)",
+  "@commandHint_op": {
+    "type": "String"
+  },
+  "commandHint_plain": "ჩვეულებრივი ტექსტის გაგზავნა",
+  "@commandHint_plain": {
+    "type": "String"
+  },
+  "commandHint_react": "შეტყობინებაზე რეაქციის გაგზავნა",
+  "@commandHint_react": {
+    "type": "String"
+  },
+  "commandHint_send": "ტექსტის გაგზავნა",
+  "@commandHint_send": {
+    "type": "String"
+  },
+  "commandHint_unban": "ამ ოთახში მომხმარებლისთვის დაბლოკვის მოხსნა",
+  "@commandHint_unban": {
+    "type": "String"
+  },
+  "commandInvalid": "არასწორი ბრძანება",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "ბრძანება {command} არასწორია.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    }
+  },
+  "compareEmojiMatch": "ემოჯიების შედარება",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "შეადარეთ ქვემოთ მოცემული ციფრები",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "ჩატის კონფიგურაცია",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "კონტაქტი დაპატიჟებულია ჯგუფში",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "შინაარსის შესახებ ეცნობათ სერვერის ადმინისტრატორს",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "კოპირებულია ბუფერში",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "კოპირება",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "ბუფერში კოპირება",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "ვერ მოხერხდა შეტყობინების გაშიფვრა: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "შეტყობინების გაშიფვრა დროებით ვერ მოხერხდა, სცადეთ მოგვიანებით",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} მონაწილე",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "შექმნა",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username}-მ შექმნა ჩატი",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "ამჟამად აქტიურია",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "მუქი",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "ეს მოქმედება სამუდამოდ გათიშავს თქვენს ანგარიშს და მისი გაუქმება შეუძლებელია! დარწმუნებული ხართ?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "ნაგულისხმევი უფლებების დონე ახალი მომხმარებლებისთვის",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "წაშლა",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "ანგარიშის წაშლა",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "შეტყობინების წაშლა",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "ყველა შეტყობინების წაშლა",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "ჩატის ისტორიის გასუფთავება",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "დარწმუნებული ხართ, რომ გსურთ ამ ჩატში არსებული ყველა შეტყობინების წაშლა? ამ მოქმედების გაუქმება შეუძლებელია.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "დარწმუნებული ხართ, რომ გსურთ ამ ჩატის ისტორიის გასუფთავება? ამ მოქმედების გაუქმება შეუძლებელია.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "ავტომატური წაშლის ჩართვა",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "ახალი შეტყობინებების ავტომატურად წაშლა გარკვეული დროის შემდეგ",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 დღე",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 კვირა",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 თვე",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "გათიშვა",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "მოწყობილობები",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "პირადი ჩატები",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "საჩვენებელი სახელი შეიცვალა",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "ფაილის ჩამოტვირთვა",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "რედაქტირება",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "დაბლოკილი სერვერების რედაქტირება",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "საჩვენებელი სახელის რედაქტირება",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "ოთახის ალიასების რედაქტირება",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "ოთახის ავატარის რედაქტირება",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "ეს ემოცია უკვე არსებობს!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "ემოციის არასწორი მალსახმობი!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "ემოციის მალსახმობი",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "ცარიელი ჩატი",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "ემოციების გლობალურად ჩართვა",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "შიფრაციის ჩართვა",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "ჩართვის შემდეგ შიფრაცია ვეღარ გამოირთვება. დარწმუნებული ხართ?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "დაშიფრულია",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "შიფრაცია",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "შიფრაცია არ არის ჩართული",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName}-მ დაასრულა ზარი",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "შეიყვანეთ ელ. ფოსტის მისამართი",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "ფონტის ზომა",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "გადაგზავნა",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "გადაგზავნილია",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "გაერთიანებიდან",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "მოწვევიდან",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "ჯგუფი",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "ჯგუფი საჯაროა",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "ჯგუფები",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "ჯგუფი {displayname}-თან ერთად",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "სტუმრები აკრძალულია",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "სტუმრებს შემოძრომა შეუძლიათ",
+  "hasWithdrawnTheInvitationFor": "{username}-მ გააუქმა მოწვევა {targetName}-სთვის",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "დახმარება",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "უცნობი მოვლენების დამალვა",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "იგნორირება",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "იგნორირებული მომხმარებლები",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "დავაწკაპუნე ბმულზე",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "არასწორი პაროლი ან გასაღები",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "კონტაქტის მოწვევა",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "კონტაქტის მოწვევა ჯგუფში {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "მოწვეული",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username}-მ მოიწვია {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "მხოლოდ მოწვეული მომხმარებლები",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username}-მ გადმოგცათ მოწვევა NYX-ში.\\n1. დააინსტალირეთ NYX: https://fluffychat.im\\n2. გაიარეთ რეგისტრაცია ან შედით სისტემაში\\n3. გახსენით მოწვევის ბმული:\\n{link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "წერს...",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} შემოუერთდა ჩატს",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "ოთახში შესვლა",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "შეიყვანეთ ოთახის მისამართი",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "მაგალითი: !roomname:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "არასწორი მისამართი!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "ოთახი ვერ მოიძებნა!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "ოთახში შესვლა ვერ მოხერხდა",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "ოთახი ნაპოვნია",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "გაგრძელება",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "თემა არ არის…",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "შემოსვლის მოთხოვნა",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "ოთახში შესვლა",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "შესავალი",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username}-მ ამოაგდო {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username}-მ ამოაგდო და დაბლოკა {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "ჩატიდან ამოგდება",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "თქვენ ამოგდებული ხართ ამ ჯგუფური ჩატიდან",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "წევრის წაშლა",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "ბოლოს აქტიური იყო: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "დატოვება",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "დატოვა ჩატი",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "ნათელი",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "კიდევ {count} მონაწილის ჩატვირთვა",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "იტვირთება… გთხოვთ მოიცადოთ.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "მეტის ჩატვირთვა…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "შესვლა",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "შესვლა სერვერზე {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "გასვლა",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "დარწმუნებული ხართ, რომ გსურთ NYX ანგარიშიდან გასვლა?",
+  "mention": "მოხსენიება",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "შეტყობინებები",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "მოდერატორი",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "ჩატის დადუმება",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "ახალი ჩატი",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 ახალი შეტყობინება NYX-ში",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "ვერიფიკაციის ახალი მოთხოვნა!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "შემდეგი",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "არა",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "სერვერთან კავშირი არ არის",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "ემოციები ვერ მოიძებნა. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "საჯარო ოთახებისთვის შიფრაცია ვერ ჩაირთვება.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "როგორც ჩანს, თქვენს მოწყობილობას არ აქვს Firebase Cloud Messaging სერვისები. თუ გსურთ NYX-ის შეტყობინებები, მკაცრად გირჩევთ ntfy-ის გამოყენებას.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "პაროლის აღდგენის მეთოდი ჯერ არ დაგიმატებიათ.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "არ გაქვთ უფლება",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "ოთახები ვერ მოიძებნა…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "შეტყობინებები",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} მომხმარებელი წერს…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "კარგი",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "გასაღებების ონლაინ სარეზერვო ასლი ჩართულია",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "უი! შეტყობინებების გამართვისას მოხდა შეცდომა.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "უი, რაღაც ისე ვერ წავიდა…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "შეტყობინებების წასაკითხად გახსენით აპლიკაცია",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "კამერის გახსნა",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "ან",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "მონაწილე",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "პაროლი ან აღდგენის გასაღები",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "პაროლი",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "დაგავიწყდათ პაროლი",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "პაროლი შეიცვალა",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "პაროლის აღდგენა",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "მიმაგრება",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "გთხოვთ აირჩიოთ პაროლი",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "გთხოვთ დააკლიკოთ ელ. ფოსტაში მოცემულ ბმულს და შემდეგ გააგრძელეთ.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "გთხოვთ შეიყვანოთ თქვენი პაროლი",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "გთხოვთ შეიყვანოთ თქვენი PIN კოდი",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "გთხოვთ შეიყვანოთ განსაბლოკი კოდი",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "გთხოვთ შეიყვანოთ თქვენი მომხმარებლის სახელი",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "გთხოვთ მიჰყვეთ ვებში მოცემულ ინსტრუქციებს და შემდეგ დააჭიროთ „შემდეგი“-ს.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "კონფიდენციალურობა",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "საჯარო ოთახები",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "მიზეზი",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username}-მ წაშალა მოვლენა",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "შეტყობინების წაშლა",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "უარყოფა",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username}-მ უარყო მოწვევა",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "ამოშლა",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "ყველა სხვა მოწყობილობის წაშლა",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "ჩატიდან დაბლოკვის მოხსნა",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "თქვენი ავატარის წაშლა",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "ოთახის უფრო ახალი ვერსიით ჩანაცვლება",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "პასუხი",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "შეტყობინების დასმენა",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "ოთახი განახლდა",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "ოთახის ვერსია",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "ფაილის შენახვა",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "ძებნა",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "უსაფრთხოება",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "გაგზავნა",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "შეტყობინების გაგზავნა",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "ტექსტად გაგზავნა",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "აუდიოს გაგზავნა",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "ფაილის გაგზავნა",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "სურათის გაგზავნა",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "შეტყობინებების გაგზავნა",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "ვიდეოს გაგზავნა",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username}-მ გამოგზავნა ფაილი",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username}-მ გამოგზავნა აუდიო",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username}-მ გამოგზავნა სურათი",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username}-მ გამოგზავნა სტიკერი",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username}-მ გამოგზავნა ვიდეო",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName}-მ გამოგზავნა ზარის ინფორმაცია",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "ძირითად ალიასად დაყენება",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "სტატუსის დაყენება",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "პარამეტრები",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "გაზიარება",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username}-მ გააზიარა მდებარეობა",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "გამოტოვება",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "საწყისი კოდი",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName}-მ წამოიწყო ზარი",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "სტატუსი",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "როგორია თქვენი დღე?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "გაგზავნა",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "სინქრონიზაცია… გთხოვთ მოიცადოთ.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "სისტემური",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "არ ემთხვევა",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "ემთხვევა",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "ძალიან ბევრი მოთხოვნაა. სცადეთ მოგვიანებით!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "თავიდან გაგზავნის მცდელობა",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username}-მ მოუხსნა დაბლოკვა {targetName}-ს",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "მოწყობილობის განბლოკვა",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "უცნობი მოწყობილობა",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "უცნობი შიფრაციის ალგორითმი",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "უცნობი მოვლენა: '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "ჩატისთვის ხმის ჩართვა",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "მოხსნა",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} და კიდევ {count} წერენ…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} და {username2} წერენ…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} წერს…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username}-მ დატოვა ჩატი",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username}-მ გამოგზავნა მოვლენა {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "ვერიფიცირებულია",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "მომხმარებლის ვერიფიკაცია",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "ამ მომხმარებლის ვერიფიკაცია",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "უსაფრთხოებისთვის, ვერიფიკაცია გაუკეთეთ ამ მომხმარებელს ფორმებისა და ემოჯიების შედარებით. ეს გააკეთეთ ისეთი უსაფრთხო არხით, როგორიცაა პირისპირ შეხვედრა.",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "სხვა მომხმარებლის მოლოდინში",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "თქვენ შეგიძლიათ გააგრძელოთ ვერიფიკაცია მას შემდეგ, რაც სხვა მომხმარებელი მიიღებს მას",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "ემოჯიების შედარება",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "შეადარეთ ემოჯიები და დარწმუნდით, რომ მათი თანმიმდევრობა ზუსტად ემთხვევა",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "გთხოვთ შეამოწმოთ, რომ ქვემოთ მოცემული ემოჯიები ემთხვევა სხვა მოწყობილობაზე არსებულებს",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "ვერიფიკაციის მოთხოვნა",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "უკეთესი უსაფრთხოებისთვის, მეორე მომხმარებელს სურს ვერიფიკაცია. შესადარებლად ნაჩვენები იქნება ემოჯიების თანმიმდევრობა",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "ვერიფიკაცია წარმატებულია",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "ახლა უკვე შეგიძლიათ ენდოთ ამ მომხმარებლის ვინაობას და გაუგზავნოთ ზარები ან შეტყობინებები",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "ვერიფიკაცია ჩაიშალა",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "მოთხოვნას ვადა გაუვიდა, უარყოფილია, ან მონაცემები არ ემთხვევა",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "დასრულებულია",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "თავიდან ცდა",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "გსურთ ამ მომხმარებლის ვერიფიკაცია?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "ეს არის თქვენი პირველი შეტყობინება ამ მომხმარებლისთვის. უსაფრთხოებისთვის, შეგიძლიათ ჯერ ვერიფიკაცია გაუკეთოთ მათ ვინაობას ან პირდაპირ გაგზავნოთ შეტყობინება.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "ვერიფიკაცია ახლავე",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "პირდაპირ გაგზავნა",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "შეტყობინებების მაცნეები",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "შეტყობინებების მაცნეები",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "ბიოს დამატება",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "ახალი ავატარის დაყენება",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "წევრები",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "როლები და უფლებები",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "პირადი პროფილი",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "შენიშვნის / ზედმეტსახელის დაყენება",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "მიმაგრებული შეტყობინებები",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count} მიმაგრებული შეტყობინება",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "მიმაგრებული შეტყობინებები არ არის",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "შეთანხმება",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "მედია და ფაილები",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "გამოკითხვები",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "თემის დატოვება",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "ჯგუფური ჩატის წაშლა",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "მედია",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "მედია არ არის",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "ფაილები არ არის",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "ფაილის ჩამოტვირთვა…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "კონტაქტებში დამატება",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "კონტაქტის დამატება",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "კონტაქტის წაშლა",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "ბიო",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "ბიო არ არის",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "მომხმარებლის დაბლოკვა",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "მომხმარებლის განბლოკვა",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "ზარი",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "ვერიფიკაციის დაწყება",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "ვერიფიკაცია წარმატებულია!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "სხვა ანგარიშის ვერიფიკაცია",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "ჩატის ისტორიის ხილვადობა",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "ხილულია ყველა მონაწილისთვის",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "ხილულია ყველასთვის",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "ხმოვანი შეტყობინება",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "მოთხოვნაზე პარტნიორის თანხმობის მოლოდინში…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "ემოჯიებზე პარტნიორის თანხმობის მოლოდინში…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "ციფრებზე პარტნიორის თანხმობის მოლოდინში…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "გაფრთხილება!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "გამოგზავნეთ ელ. ფოსტა",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "ვის რა მოქმედების შესრულება შეუძლია",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "ვის აქვს ამ ჯგუფში შემოსვლის უფლება",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "რატომ გსურთ ამის დასმენა?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "თქვენ შეგიძლიათ აღადგინოთ პაროლი ამ მისამართების გამოყენებით.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "დაწერეთ შეტყობინება…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "დიახ",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "თქვენ",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "თქვენ აღარ მონაწილეობთ ამ ჩატში",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "თქვენ დაბლოკილი ხართ ამ ჩატიდან",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "თქვენი საჯარო გასაღები",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "სივრცეში დამატება",
+  "obtainingLocation": "მდებარეობის მიღება…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "სერვერი {server1} არ არის Matrix სერვერი, გსურთ სცადოთ {server2}-ით?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "მდებარეობის უფლება უარყოფილია. გთხოვთ დაუშვათ მდებარეობის გაზიარება.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "მდებარეობის სერვისები გათიშულია. გთხოვთ ჩართოთ.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "მდებარეობის მიღების შეცდომა: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "ახალი სივრცის შექმნა",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "ვერ იხსნება URI: {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "ანიმაციური სტიკერებისა და ემოჯიების ავტომატური დაკვრა",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholders": {
+      "placeholder": {}
+    }
+  },
+  "spaceName": "სივრცის სახელი",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "სივრცე საჯაროა",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "მდებარეობის გაზიარება",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "რუკებში გახსნა",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "გაგზავნა Enter ღილაკით",
+  "scanQrCode": "QR კოდის სკანირება",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR კოდი",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "QR კოდის გაზიარება",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "ერთ-ერთი კლიენტიდან გახვედით",
+  "removeFromBundle": "ამ პაკეტიდან ამოშლა",
+  "unverified": "არავერიფიცირებული",
+  "repeatPassword": "გაიმეორეთ პაროლი",
+  "addAccount": "ანგარიშის დამატება",
+  "editBundlesForAccount": "ამ ანგარიშის პაკეტების რედაქტირება",
+  "addToBundle": "პაკეტში დამატება",
+  "bundleName": "პაკეტის სახელი",
+  "link": "ბმული",
+  "sender": "გამგზავნი",
+  "openGallery": "გალერეის გახსნა",
+  "messageInfo": "შეტყობინების ინფორმაცია",
+  "time": "დრო",
+  "removeFromSpace": "ამ სივრცედან ამოშლა",
+  "commandHint_discardsession": "სესიის გაუქმება",
+  "@commandHint_discardsession": {
+    "type": "String"
+  },
+  "commandHint_dm": "პირადი ჩატის შექმნა\\nგამოიყენეთ დროშა --no-encryption შიფრაციის გასათიშად",
+  "@commandHint_dm": {
+    "type": "String"
+  },
+  "commandHint_clearcache": "ქეშის გასუფთავება",
+  "@commandHint_clearcache": {
+    "type": "String"
+  },
+  "commandHint_create": "ცარიელი ჯგუფური ჩატის შექმნა\\nგამოიყენეთ დროშა --no-encryption შიფრაციის გასათიშად",
+  "@commandHint_create": {
+    "type": "String"
+  },
+  "markAsRead": "წაკითხულად მონიშვნა",
+  "reportUser": "მომხმარებლის დასმენა",
+  "reactedWith": "{sender}-მ რეაქცია გამოხატა: {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "დარწმუნებული ხართ, რომ გსურთ ამ მოვლენისთვის მიმაგრების სამუდამოდ მოხსნა?",
+  "pinMessage": "ოთახში მიმაგრება",
+  "emojis": "ემოჯიები",
+  "unsupportedAndroidVersionLong": "ეს ფუნქცია მოითხოვს Android-ის უფრო ახალ ვერსიას.",
+  "unsupportedAndroidVersion": "Android-ის მხარდაუჭერელი ვერსია",
+  "youRejectedTheInvitation": "თქვენ უარყავით მოწვევა",
+  "youJoinedTheChat": "თქვენ შემოუერთდით ჩატს",
+  "youBannedUser": "თქვენ დაბლოკეთ {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 {user}-მ მოგიწვიათ",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 თქვენ მოიწვიეთ {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 თქვენ ამოაგდეთ {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "თქვენ მოუხსენით დაბლოკვა {user}-ს",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 თქვენ მიიღეთ მოწვევა",
+  "youHaveWithdrawnTheInvitationFor": "თქვენ გააუქმეთ მოწვევა {user}-სთვის",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 თქვენ ამოაგდეთ და დაბლოკეთ {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Apple KeyChain-ში შენახვა",
+  "storeInAndroidKeystore": "Android Keystore-ში შენახვა",
+  "storeSecurlyOnThisDevice": "უსაფრთხოდ შენახვა ამ მოწყობილობაზე",
+  "users": "მომხმარებლები",
+  "countFiles": "{count} ფაილი",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "სარეზერვო ასლიდან აღდგენა",
+  "dehydrate": "სესიების ექსპორტი და მოწყობილობის წაშლა",
+  "dehydrateWarning": "ამ მოქმედების გაუქმება შეუძლებელია. დარწმუნდით, რომ სარეზერვო ასლი უსაფრთხოდ გაქვთ შენახული.",
+  "user": "მომხმარებელი",
+  "userNotFound": "მომხმარებელი ვერ მოიძებნა",
+  "custom": "მორგებული",
+  "confirmMatrixId": "ანგარიშის წასაშლელად, გთხოვთ დაადასტუროთ თქვენი Matrix ID.",
+  "supposedMxid": "ეს უნდა იყოს: {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "ჯგუფად მონიშვნა",
+  "commandHint_markasdm": "Matrix ID-ის პირად ჩატად მონიშვნა",
+  "whyIsThisMessageEncrypted": "რატომ არ იკითხება ეს შეტყობინება?",
+  "noKeyForThisMessage": "ეს შესაძლოა იმიტომ ხდებოდეს, რომ შეტყობინება გამოიგზავნა სანამ ამ მოწყობილობაზე შეხვიდოდით სისტემაში.\\n\\nასევე შესაძლებელია, რომ გამგზავნმა დაბლოკა თქვენი მოწყობილობა ან ქსელური პრობლემა შეიქმნა.\\n\\nკითხულობთ მას სხვა სესიიდან? თუ ასეა, გასაღებები იქიდან გადმოიტანეთ! გადადით პარამეტრები > მოწყობილობები და დარწმუნდით, რომ მოწყობილობები ვერიფიცირებულია.",
+  "newSpace": "ახალი სივრცე",
+  "doNotShowAgain": "აღარ აჩვენო",
+  "googlyEyesContent": "{senderName}-მ გამოგზავნათ გუგებიანი თვალები",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "გუგებიანი თვალების გაგზავნა",
+  "commandHint_cuddle": "მოფერების გაგზავნა",
+  "commandHint_hug": "ჩახუტების გაგზავნა",
+  "cuddleContent": "{senderName}-მ მოგეფერათ",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName}-მ ჩაგიხუტათ",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "ცარიელი ჩატი (ადრე: {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "გამოყოფილი სივრცე გაძლევთ საშუალებას დააჯგუფოთ ჩატები და შექმნათ საჯარო ან პირადი საზოგადოებები.",
+  "encryptThisChat": "ამ ჩატის დაშიფვრა",
+  "disableEncryptionWarning": "უსაფრთხოების მიზნებით, უკვე დაშიფრული ჩატებისთვის შიფრაცია ვერ გამოირთვება.",
+  "sorryThatsNotPossible": "ბოდიში, ეს შეუძლებელია…",
+  "report": "დასმენა",
+  "fileIsTooBigForServer": "გაგზავნა ვერ მოხერხდა! სვერვერი მხარს უჭერს ფაილებს მაქსიმალური ზომით {max}.",
+  "noOtherDevicesFound": "სხვა მოწყობილობები ვერ მოიძებნა",
+  "jumpToLastReadMessage": "ბოლო წაკითხულ შეტყობინებაზე გადასვლა",
+  "readUpToHere": "წაკითხულია აქამდე",
+  "jump": "გადასვლა",
+  "openLinkInBrowser": "ბმულის ბრაუზერში გახსნა",
+  "fileHasBeenSavedAt": "ფაილი შეინახა შემდეგ მისამართზე: {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 ო არა. რაღაც აირია. თუ გსურთ, შეგიძლიათ შეცდომის შესახებ ანგარიში გაუგზავნოთ დეველოპერებს.",
+  "noBackupWarning": "გაფრთხილება! თუ არ ჩართავთ ჩატის სარეზერვო ასლს, დაკარგავთ წვდომას დაშიფრულ შეტყობინებებზე. გასვლამდე მკაცრად გირჩევთ მის ჩართვას.",
+  "reopenChat": "ჩატის თავიდან გახსნა",
+  "importEmojis": "ემოჯიების პაკეტის იმპორტი",
+  "notAnImage": "ფაილი არ არის სურათი.",
+  "importNow": "იმპორტი ახლავე",
+  "importFromZipFile": "ZIP ფაილიდან იმპორტი.",
+  "replace": "ჩანაცვლება",
+  "exportEmotePack": "ემოციების პაკეტის ZIP ფაილად ექსპორტი",
+  "sendTypingNotifications": "წერის შეტყობინებების გაგზავნა",
+  "createGroup": "ჯგუფური ჩატის შექმნა",
+  "shareInviteLink": "მოწვევის ბმულის გაზიარება",
+  "tryAgain": "თავიდან ცდა",
+  "chatPermissions": "ჩატის უფლებები",
+  "chatDescription": "ჩატის აღწერა",
+  "chatDescriptionHasBeenChanged": "ჩატის აღწერა შეიცვალა",
+  "noChatDescriptionYet": "ჩატის აღწერა ჯერ არ არის.",
+  "invalidServerName": "სერვერის არასწორი სახელი",
+  "redactMessageDescription": "შეტყობინება წაიშლება ჩატის ყველა მონაწილისთვის. ამ მოქმედების გაუქმება შეუძლებელია.",
+  "optionalRedactReason": "(არასავალდებულო) შეტყობინების წაშლის მიზეზი...",
+  "setChatDescription": "ჩატის აღწერის დაყენება",
+  "setColorTheme": "ფერთა თემის დაყენება:",
+  "invite": "მოწვევა",
+  "addMembers": "წევრების დამატება",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "ბმულით მოწვევა",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "ეს სია მხოლოდ ადმინისტრატორისთვისაა ხილვადი.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "კონტაქტები ამ ჩატში",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "ამ ჯგუფს არ აქვს მოწვევის ბმული",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "შეტყობინებების სტილი:",
+  "redactedBy": "წაშლილია {username}-ს მიერ",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "წაშლილია {username}-ს მიერ მიზეზით: „{reason}“",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 ჯგუფურ ჩატში მოწვევა",
+  "emoteKeyboardNoRecents": "ბოლო ემოჯიები აქ გამოჩნდება...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "არასწორი მონაცემები!",
+  "wrongPinEntered": "არასწორი PIN კოდი! სცადეთ {seconds} წამში…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user}-მ დააკაკუნა ოთახში",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "გთხოვთ შეიყვანოთ 0-ზე მეტი რიცხვი",
+  "banUserDescription": "ეს მომხმარებელი დაიბლოკება ჩატის ოთახიდან და ვეღარ დაბრუნდება, სანამ დაბლოკვა არ მოეხსნება.",
+  "removeDevicesDescription": "თქვენ გამოხვალთ ამ მოწყობილობიდან და აღარ მიიღებთ შეტყობინებებს.",
+  "unbanUserDescription": "დაბლოკვის მოხსნის შემდეგ, მომხმარებელს შეეძლება თავიდან შემოუერთდეს ჩატს.",
+  "pushNotificationsNotAvailable": "შეტყობინებები მიუწვდომელია",
+  "makeAdminDescription": "თუ ამ მომხმარებელს ადმინისტრატორად გახდით, შესაძლოა ვეღარ შეძლოთ მისი უფლებების ჩამორთმევა, რადგან მას ზუსტად ისეთივე უფლებები ექნება, როგორც თქვენ.",
+  "archiveRoomDescription": "ჩატი არქივში გადავა და სხვა წევრები დაინახავენ, რომ დატოვეთ იგი.",
+  "learnMore": "გაიგეთ მეტი",
+  "roomUpgradeDescription": "მიმდინარე ჩატის ოთახი ხელახლა აიგება და შეიქმნება ახალი ვერსია. ყველა წევრს ეცნობება ოთახის ცვლილების შესახებ.",
+  "kickUserDescription": "მომხმარებელი ამოგდებული იქნება ჩატიდან, მაგრამ არა დაბლოკილი. საჯარო ჩატში მომხმარებელს შეუძლია დაბრუნება.",
+  "blockListDescription": "შეგიძლიათ დაბლოკოთ შემაწუხებელი მომხმარებლები. თქვენ არ მიიღებთ შეტყობინებებს ან მოწვევებს დაბლოკილი მომხმარებლებისგან.",
+  "createGroupAndInviteUsers": "ჯგუფის შექმნა და მომხმარებლების მოწვევა",
+  "blockedUsers": "დაბლოკილი მომხმარებლები",
+  "groupCanBeFoundViaSearch": "ჯგუფის პოვნა ძიებითაა შესაძლებელი",
+  "noUsersFoundWithQuery": "ძიებით „{query}“ მომხმარებლები ვერ მოიძებნა. შეამოწმეთ შეყვანილი მონაცემები.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "დაბლოკვა",
+  "yourGlobalUserIdIs": "თქვენი გლობალური მომხმარებლის ID არის: ",
+  "commandHint_sendraw": "მიმდევრობითი JSON ფაილის გაგზავნა",
+  "wrongRecoveryKey": "მოწოდებული აღდგენის გასაღები არასწორი ჩანს.",
+  "blockUsername": "მომხმარებლის სახელის იგნორირება",
+  "groupName": "ჯგუფის სახელი",
+  "databaseMigrationTitle": "მონაცემთა ბაზა ოპტიმიზებულია",
+  "searchChatsRooms": "ძებნა: #chat, @user…",
+  "databaseMigrationBody": "გთხოვთ მოიცადოთ. ამას შეიძლება დრო დასჭირდეს.",
+  "thisDevice": "ეს მოწყობილობა: ",
+  "publicSpaces": "საჯარო სივრცეები",
+  "passwordIsWrong": "მითითებული პაროლი არასწორია",
+  "pleaseEnterYourCurrentPassword": "გთხოვთ შეიყვანოთ მიმდინარე პაროლი",
+  "nothingFound": "ვერაფერი მოიძებნა…",
+  "newPassword": "ახალი პაროლი",
+  "passwordsDoNotMatch": "პაროლები არ ემთხვევა",
+  "select": "არჩევა",
+  "addChatOrSubSpace": "ჩატის ან ქვესივრცის დამატება",
+  "leaveEmptyToClearStatus": "სტატუსის გასასუფთავებლად დატოვეთ ცარიელი.",
+  "joinSpace": "სივრცეში შესვლა",
+  "searchForUsers": "ძებნა: @user…",
+  "initAppError": "შეცდომა აპლიკაციის ინიციალიზაციისას",
+  "sessionLostBody": "თქვენს სესიას ვადა გაუვიდა. შეატყობინეთ ამ შეცდომის შესახებ დეველოპერებს აქ: {url}. შეცდომა: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "აპლიკაცია ცდილობს სესიის აღდგენას სარეზერვო ასლიდან. შეატყობინეთ აქ: {url}. შეცდომა: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "ჩატის სხვა წევრებს შეუძლიათ დაინახონ, როდესაც წერთ.",
+  "formattedMessagesDescription": "დაფორმატებული ტექსტის ჩვენება Markdown სტილში, მაგალითად მსხვილად.",
+  "verifyOtherUserDescription": "მომხმარებლების ვერიფიკაცია უზრუნველყოფს თქვენი კავშირის ავთენტურობას. 💪",
+  "verifyOtherDeviceDescription": "სხვა მოწყობილობის ვერიფიკაცია ცვლის გასაღებებს, რაც ზრდის საერთო უსაფრთხოებას. 💪",
+  "canceledKeyVerification": "{sender}-მ გააუქმა გასაღებების ვერიფიკაცია",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "წაკითხვის დადასტურების გაგზავნა",
+  "formattedMessages": "დაფორმატებული შეტყობინებები",
+  "verifyOtherDevice": "🔐 სხვა მოწყობილობის ვერიფიკაცია",
+  "verifyOtherUser": "🔐 სხვა მომხმარებლის ვერიფიკაცია",
+  "sendReadReceiptsDescription": "ჩატის სხვა მომხმარებლებს შეუძლიათ დაინახონ, როდესაც წაიკითხავთ მათ შეტყობინებებს.",
+  "acceptedKeyVerification": "{sender}-მ მიიღო გასაღებების ვერიფიკაცია",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} მზადაა გასაღებების ვერიფიკაციისთვის",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender}-მ დაასრულა გასაღებების ვერიფიკაცია",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender}-მ მოითხოვა გასაღებების ვერიფიკაცია",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender}-მ დაიწყო გასაღებების ვერიფიკაცია",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "შემომავალი შეტყობინებები",
+  "stickers": "სტიკერები",
+  "discover": "აღმოჩენა / ძიება",
+  "commandHint_ignore": "კონკრეტული Matrix ID-ის იგნორირება",
+  "commandHint_unignore": "Matrix ID-ისთვის იგნორირების მოხსნა",
+  "unreadChatsInApp": "{appname}: {unread} წაუკითხავი ჩატი",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "კოდის დაყენების შემდეგ, NYX-ის გასახსნელად საჭირო იქნება ავტორიზაცია",
+  "globalChatId": "გლობალური ჩატის ID",
+  "accessAndVisibility": "წვდომა და ხილვადობა",
+  "accessAndVisibilityDescription": "ვის შეუძლია ჩატში შემოსვლა და როგორ შეიძლება მისი პოვნა.",
+  "customEmojisAndStickers": "მორგებული ემოჯიები და სტიკერები",
+  "hideRedactedMessages": "წაშლილი შეტყობინებების დამალვა",
+  "passwordRecoverySettings": "პაროლის აღდგენის პარამეტრები",
+  "knock": "დაკაკუნება",
+  "noOneCanJoin": "ვერავინ შემოვა",
+  "knocking": "აკაკუნებს",
+  "chatCanBeDiscoveredViaSearchOnServer": "ჩატის პოვნა შესაძლებელია სერვერზე ძიებით {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "ამჟამად დაბლოკილია {count} მომხმარებელი.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "როდესაც ვინმე წაშლის საკუთარ შეტყობინებას, ის სრულად გაქრება.",
+  "hideInvalidOrUnknownMessageFormats": "უცნობი ან არასწორი შეტყობინებების ფორმატების დამალვა",
+  "customEmojisAndStickersBody": "დაამატეთ და გააზიარეთ ემოჯიები და სტიკერები, რომლებიც შეგიძლიათ გამოიყენოთ ყველა ჩატში.",
+  "usersMustKnock": "მომხმარებლებმა უნდა დააკაკუნონ",
+  "noDatabaseEncryption": "მონაცემთა ბაზის შიფრაცია არ არის მხარდაჭერილი ამ პლატფორმაზე",
+  "publicChatAddresses": "საჯარო ჩატის მისამართები",
+  "createNewAddress": "ახალი მისამართის შექმნა",
+  "searchMore": "მეტის ძებნა…",
+  "gallery": "გალერეა",
+  "files": "ფაილები",
+  "searchIn": "ძებნა „{chat}“-ში…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "გადაუსვით მარჯვნიდან მარცხნივ საპასუხოდ",
+  "noMoreChatsFound": "მეტი ჩატი ვერ მოიძებნა…",
+  "space": "სივრცე",
+  "goToSpace": "გადასვლა სივრცეში {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "წაუკითხავად მონიშვნა",
+  "unread": "წაუკითხავი",
+  "userLevel": "{level} - მომხმარებელი",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - მოდერატორი",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - ადმინისტრატორი",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "სხვა მომხმარებლების მოწვევა ამ ჩატში",
+  "changeTheVisibilityOfChatHistory": "ჩატის ისტორიის ხილვადობის შეცვლა",
+  "changeTheCanonicalRoomAlias": "საჯარო ჩატის ძირითადი მისამართის შეცვლა",
+  "sendRoomNotifications": "შეტყობინების გაგზავნა ჩატის ყველა წევრისთვის",
+  "changeTheDescriptionOfTheGroup": "ჩატის აღწერის შეცვლა",
+  "changeGeneralChatSettings": "ჩატის ზოგადი პარამეტრების შეცვლა",
+  "chatPermissionsDescription": "დააყენეთ უფლებების დონეები, რომლებიც საჭიროა ჩატში სხვადასხვა მოქმედებისთვის. 0, 50 და 100 დონეები შეესაბამება ზოგად მომხმარებელს, მოდერატორს და ადმინისტრატორს.",
+  "changelog": "ცვლილებების ჟურნალი",
+  "updateInstalled": "🎉 ახალი ვერსია {version} წარმატებით დაინსტალირდა!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "გაგზავნა გაუქმდა",
+  "noChatsFoundHere": "აქ ჯერ არ არის ჩატები. ახალი ჩატის დასაწყებად დააკლიკეთ ქვემოთ მოცემულ ღილაკს ⤵️",
+  "loginWithMatrixId": "შესვლა Matrix ID-ით",
+  "doesNotSeemToBeAValidHomeserver": "არ ჰგავს სწორ მთავარ სერვერს. მართებულია URL?",
+  "calculatingFileSize": "ფაილის ზომის გამოთვლა…",
+  "oneOfYourDevicesIsNotVerified": "თქვენი დაკავშირებული მოწყობილობებიდან ერთ-ერთი ვერიფიცირებული არ არის",
+  "noticeChatBackupDeviceVerification": "შენიშვნა: როდესაც ყველა მოწყობილობა შეუერთდება ჩატის სარეზერვო ასლს, ისინი ავტომატურად გაივლიან ვერიფიკაციას.",
+  "continueText": "გაგრძელება",
+  "blur": "ბუნდოვანება:",
+  "opacity": "გამჭვირვალობა:",
+  "setWallpaper": "ფონის დაყენება",
+  "manageAccount": "ანგარიშის მართვა",
+  "aboutHomeserver": "{homeserver}-ს შესახებ",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "ვერსია",
+  "noContactInformationProvided": "სერვერს არ მოუწოდებია საკონტაქტო ინფორმაცია",
+  "contactServerAdmin": "სერვერის ადმინისტრატორთან დაკავშირება",
+  "name": "სახელი",
+  "surname": "გვარი",
+  "personalIntro": "პირადი შესავალი",
+  "nameDescription": "შეიყვანეთ თქვენი სახელი და ასევე შეგიძლიათ დაამატოთ ავატარი.",
+  "aboutYourselfDescription": "მოკლე აღწერა თქვენ შესახებ.",
+  "email": "ელ. ფოსტა",
+  "emailForLogin": "გამოიყენება თქვენს NYX ანგარიშში შესასვლელად.",
+  "changeEmail": "ელ. ფოსტის შეცვლა",
+  "changeEmailDescription": "შეგიძლიათ შეცვალოთ აღდგენის ელ. ფოსტა პაროლის გადასაყენებლად და ანგარიშის აღსადგენად.",
+  "bindNewEmail": "ახალი ელ. ფოსტის დაკავშირება",
+  "newEmailSameAsOld": "ახალი ელ. ფოსტა ძველის იდენტური არ უნდა იყოს",
+  "bindEmail": "ელ. ფოსტის დაკავშირება",
+  "bindEmailDescription": "საჭიროების შემთხვევაში შეგიძლიათ დააკავშიროთ ელ. ფოსტის მისამართი პაროლის გადასაყენებლად და ანგარიშის აღსადგენად.",
+  "enterEmail": "შეიყვანეთ ელ. ფოსტა",
+  "enterValidEmail": "გთხოვთ შეიყვანოთ სწორი ელ. ფოსტის მისამართი",
+  "getVerificationCode": "ვერიფიკაციის კოდის მიღება",
+  "verificationCode": "ვერიფიკაციის კოდი",
+  "enterVerificationCode": "შეიყვანეთ ვერიფიკაციის კოდი",
+  "enterCodeSentTo": "გთხოვთ შეიყვანოთ კოდი, რომელიც გაიგზავნა მისამართზე: {email}.",
+  "createPassword": "პაროლის შექმნა",
+  "createPasswordDescription": "თქვენი ანგარიშის უსაფრთხოებისთვის, გთხოვთ დააყენოთ შესვლის პაროლი.",
+  "enterPassword": "შეიყვანეთ პაროლი",
+  "enterPasswordAgain": "თავიდან შეიყვანეთ პაროლი",
+  "bind": "დაკავშირება",
+  "walletAddress": "საფულის მისამართი",
+  "walletForLogin": "გამოიყენება თქვენს NYX ანგარიშში შესასვლელად.",
+  "ethereumMainnetAddress": "Ethereum mainnet მისამართი",
+  "none": "არცერთი",
+  "username": "მომხმარებლის სახელი",
+  "usernameDescription": "შეგიძლიათ დააყენოთ მომხმარებლის სახელი NYX-ში. სხვებს შეეძლებათ გიპოვონ და გამოგზავნონ შეტყობინებები.",
+  "usernameRuleHint": "შეგიძლიათ გამოიყენოთ ასოები a-z, ციფრები 0-9 და ქვედა ხაზი (_). მინიმალური სიგრძეა 5 სიმბოლო.",
+  "chatViaLink": "სხვებს შეუძლიათ მოგწერონ ამ ბმულის გამოყენებით:",
+  "contactServerSecurity": "სერვერის გუნდთან დაკავშირება",
+  "supportPage": "მხარდაჭერის გვერდი",
+  "serverInformation": "სერვერის ინფორმაცია:",
+  "website": "ვებსაიტი",
+  "italicText": "დახრილი ტექსტი",
+  "strikeThrough": "გადახაზული",
+  "pleaseFillOut": "გთხოვთ შეავსოთ ეს ველი",
+  "addLink": "ბმულის დამატება",
+  "boldText": "მსხვილი ტექსტი",
+  "invalidUrl": "არასწორი URL",
+  "unableToJoinChat": "ჩატში შესვლა ვერ ხერხდება. შესაძლოა მეორე მხარემ დახურა ის.",
+  "sendImages": "{count} სურათის გაგზავნა",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "კომპრესია",
+  "previous": "წინა",
+  "otherPartyNotLoggedIn": "მეორე მხარე ამჟამად არ არის შესული და ვერ მიიღებს შეტყობინებებს!",
+  "appWantsToUseForLoginDescription": "ეს ამ აპლიკაციასა და ვებსაიტს საშუალებას აძლევს გააზიარონ თქვენი მონაცემები.",
+  "open": "გახსნა",
+  "appWantsToUseForLogin": "შესვლა სერვერით „{server}“",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "სერვერის პასუხის მოლოდინში…",
+  "synchronizingPleaseWaitCounter": "სინქრონიზაცია… ({percentage} %)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 ახალი ჩატის მოთხოვნა",
+  "generalNotificationSettings": "შეტყობინებების ზოგადი პარამეტრები",
+  "userSpecificNotificationSettings": "მომხმარებლისთვის სპეციალური პარამეტრები",
+  "notificationRuleMaster": "ყველა შეტყობინების დადუმება",
+  "notificationRuleSuppressNotices": "ავტომატური შეტყობინებების დამალვა",
+  "notificationRuleInviteForMe": "მოწვევა ჩემთვის",
+  "notificationRuleInviteForMeDescription": "შეატყობინეთ მომხმარებელს, როდესაც მიიღება ოთახის მოწვევა.",
+  "notificationRuleMemberEvent": "წევრის მოვლენები",
+  "notificationRuleMemberEventDescription": "წევრის შემოსვლის ან გასვლის შეტყობინებების დამალვა.",
+  "notificationRuleIsUserMention": "მომხმარებლის მოხსენიება",
+  "notificationRuleIsUserMentionDescription": "შეტყობინება, როდესაც მომხმარებლის სახელი მოხსენიებულია შეტყობინებაში.",
+  "notificationRuleContainsDisplayName": "შეიცავს საჩვენებელ სახელს",
+  "notificationRuleIsRoomMention": "ოთახის მოხსენიება",
+  "notificationRuleRoomnotifDescription": "შეატყობინეთ მომხმარებელს, როდესაც შეტყობინება შეიცავს @room-ს.",
+  "notificationRuleTombstone": "ოთახის დახურვა",
+  "notificationRuleRoomServerAcl": "ოთახის სერვერის ACL სია",
+  "notificationRuleSuppressEdits": "რედაქტირებების დამალვა",
+  "notificationRuleCall": "ზარი",
+  "notificationRuleRoomOneToOne": "პირადი ოთახი",
+  "notificationRuleRoomOneToOneDescription": "ახალი შეტყობინებების შეტყობინება პირად ჩატებში.",
+  "notificationRuleEncrypted": "დაშიფრულია",
+  "notificationRuleEncryptedDescription": "ახალი შეტყობინებების შეტყობინება დაშიფრულ ჩატებში.",
+  "notificationRuleJitsi": "Jitsi ვიჯეტი",
+  "notificationRuleJitsiDescription": "Jitsi მოვლენების შეტყობინება.",
+  "notificationRuleServerAcl": "სერვერის ACL მოვლენების დამალვა",
+  "notificationRuleServerAclDescription": "სერვერის უფლებებთან დაკავშირებული შეტყობინებების დამალვა.",
+  "deletePushRuleCanNotBeUndone": "შეტყობინების წესის წაშლა შეუძლებელია.",
+  "more": "მეტი",
+  "notificationRuleReactionDescription": "რეაქციებთან დაკავშირებული შეტყობინებების დამალვა.",
+  "notificationRuleMessageDescription": "ჩვეულებრივი შეტყობინებების შეტყობინება მომხმარებლისთვის.",
+  "notificationRuleContainsUserName": "შეიცავს მომხმარებლის სახელს",
+  "otherNotificationSettings": "შეტყობინებების სხვა პარამეტრები",
+  "notificationRuleContainsUserNameDescription": "შეატყობინეთ მომხმარებელს, თუ შეტყობინება შეიცავს მის მომხმარებლის სახელს.",
+  "notificationRuleIsRoomMentionDescription": "შეატყობინეთ მომხმარებელს ოთახის მოხსენიებების შესახებ.",
+  "contentNotificationSettings": "შინაარსის შეტყობინებების პარამეტრები",
+  "notificationRuleMasterDescription": "ყველა სხვა წესის იგნორირება და შეტყობინებების სრულიად გათიშვა.",
+  "notificationRuleSuppressNoticesDescription": "ბოტებისა და ავტომატური სისტემების შეტყობინებების დამალვა.",
+  "roomNotificationSettings": "ოთახის შეტყობინებების პარამეტრები",
+  "notificationRuleRoomServerAclDescription": "სერვერის წვდომის კონტროლის სიის (ACL) შეტყობინებების დამალვა.",
+  "notificationRuleContainsDisplayNameDescription": "შეატყობინეთ მომხმარებელს, თუ შეტყობინება შეიცავს მის საჩვენებელ სახელს.",
+  "notificationRuleRoomnotif": "ჩატის ოთახის შეტყობინება",
+  "notificationRuleTombstoneDescription": "ოთახის რეზოლუციის შეტყობინებების შეტყობინება.",
+  "notificationRuleReaction": "რეაქცია",
+  "notificationRuleSuppressEditsDescription": "შეტყობინების მოდიფიკაციის შეტყობინებების დამალვა.",
+  "notificationRuleCallDescription": "ზარებთან დაკავშირებული შეტყობინებების შეტყობინება.",
+  "notificationRuleEncryptedRoomOneToOne": "დაშიფრული პირადი ჩატი",
+  "notificationRuleEncryptedRoomOneToOneDescription": "ახალი შეტყობინებების შეტყობინება დაშიფრულ პირად ჩატებში.",
+  "notificationRuleMessage": "შეტყობინება",
+  "unknownPushRule": "შეტყობინების უცნობი წესი: '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "ჯვარედინად ვერიფიცირებული მოწყობილობები",
+  "shareKeysWithDescription": "განსაზღვრეთ, რომელ მოწყობილობებს ენდობით დაშიფრული შეტყობინებების წასაკითხად.",
+  "shareKeysWith": "გასაღებების გაზიარება…",
+  "allDevices": "ყველა მოწყობილობა",
+  "crossVerifiedDevicesIfEnabled": "ჯვარედინად ვერიფიცირებული მოწყობილობები (თუ ჩართულია)",
+  "verifiedDevicesOnly": "მხოლოდ ვერიფიცირებული მოწყობილობები",
+  "optionalMessage": "(არასავალდებულო) შეტყობინება…",
+  "takeAPhoto": "ფოტოს გადაღება",
+  "recordAVideo": "ვიდეოს ჩაწერა",
+  "notSupportedOnThisDevice": "არ არის მხარდაჭერილი ამ მოწყობილობაზე",
+  "enterNewChat": "ახალი ჩატის შეყვანა",
+  "commandHint_roomupgrade": "ოთახის მითითებულ ვერსიამდე განახლება",
+  "approve": "დამტკიცება",
+  "youHaveKnocked": "შემოსვლის მოთხოვნა გაგზავნილია",
+  "pleaseWaitUntilInvited": "გთხოვთ მოიცადოთ, სანამ ოთახის რომელიმე წევრი მოგიწვევთ.",
+  "countInvited": "{count} მოწვეული",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "საკონტროლო სია",
+  "sentVoiceMessage": "🎙️ {duration} - ხმოვანი შეტყობინება {sender}-სგან",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "მიმდინარე სესიიდან გასვლა",
+  "commandHint_logoutall": "ყველა აქტიური მოწყობილობიდან გასვლა",
+  "displayNavigationRail": "ნავიგაციის პანელის ჩვენება მობილურზე",
+  "customReaction": "მორგებული რეაქცია",
+  "moreEvents": "მეტი მოვლენა",
+  "declineInvite": "მოწვევის უარყოფა",
+  "noMessagesYet": "შეტყობინებები ჯერ არ არის",
+  "longPressToRecordVoiceMessage": "ხანგრძლივად დააჭირეთ ხმოვანი შეტყობინების ჩასაწერად.",
+  "pause": "პაუზა",
+  "resume": "განახლება",
+  "removeFromSpaceDescription": "ჩატი ამოიშლება სივრციდან, მაგრამ დარჩება თქვენს ზოგადი ჩატების სიაში.",
+  "countChats": "{chats} ჩატი",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "სივრცის წევრი: {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "სივრცე {spaces}-ის წევრებს შეუძლიათ შემოსვლის მოთხოვნა",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "გამოკითხვა",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "გამოკითხვის დაწყება",
+  "endPoll": "გამოკითხვის დასრულება",
+  "editPoll": "გამოკითხვის რედაქტირება",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "გამოკითხვის წაშლა",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "გამოკითხვის შედეგები ხილვადია",
+  "hiddenPoll": "ფარული გამოკითხვა",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "გამოკითხვის კითხვა",
+  "answerOption": "ვარიანტი",
+  "addAnswerOption": "პასუხის ვარიანტის დამატება",
+  "allowMultipleAnswers": "რამდენიმე პასუხის დაშვება",
+  "pollHasBeenEnded": "გამოკითხვა დასრულდა",
+  "startedAPoll": "{senderName}-მ შექმნა გამოკითხვა",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count} ხმა",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "შედეგები ხილვადი იქნება გამოკითხვის დასრულების შემდეგ",
+  "active": "აქტიური",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "დასრულებული",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "თემა",
+  "replyInThread": "თემაში პასუხი",
+  "countReplies": "{count} პასუხი",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "მთავარ ჩატში დაბრუნება",
+  "saveChanges": "ცვლილებების შენახვა",
+  "createSticker": "სტიკერის ან ემოჯის შექმნა",
+  "useAsSticker": "სტიკერად გამოყენება",
+  "useAsEmoji": "ემოჯიდ გამოყენება",
+  "stickerPackNameAlreadyExists": "სტიკერების პაკეტის სახელი უკვე არსებობს",
+  "newStickerPack": "სტიკერების ახალი პაკეტი",
+  "stickerPackName": "სტიკერების პაკეტის სახელი",
+  "attribution": "ატრიბუცია",
+  "skipChatBackup": "ჩატის სარეზერვო ასლის გამოტოვება",
+  "skipChatBackupWarning": "დარწმუნებული ხართ? ჩატის სარეზერვო ასლის გარეშე შესაძლოა დაკარგოთ შეტყობინებები მოწყობილობის შეცვლისას.",
+  "changedTheChatDescription": "{username}-მ შეცვალა ჩატის აღწერა",
+  "changedTheChatName": "{username}-მ შეცვალა ჩატის სახელი",
+  "noMoreResultsFound": "მეტი შედეგი ვერ მოიძებნა",
+  "chatSearchedUntil": "ჩატის ისტორია მოიძებნა დრომდე: {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "ფედერაციის საბაზისო URL",
+  "clientWellKnownInformation": "კლიენტის ცნობილი ინფორმაცია:",
+  "baseUrl": "საბაზისო URL (Base URL)",
+  "identityServer": "იდენტობის სერვერი:",
+  "versionWithNumber": "ვერსია: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "ლოგები",
+  "advancedConfigs": "მოწინავე კონფიგურაციები",
+  "advancedConfigurations": "მოწინავე კონფიგურაციები",
+  "signIn": "შესვლა",
+  "createNewAccount": "ახალი ანგარიშის შექმნა",
+  "signUpGreeting": "NYX დეცენტრალიზებულია! აირჩიეთ თქვენი საყვარელი სერვერი დასარეგისტრირებლად.",
+  "signInGreeting": "უკვე გაქვთ Matrix ანგარიში? მოგესალმებით! აირჩიეთ სერვერი შესასვლელად.",
+  "theProcessWasCanceled": "პროცესი გაუქმდა.",
+  "join": "შემოსვლა",
+  "searchOrEnterHomeserverAddress": "მოძებნეთ ან შეიყვანეთ მთავარი სერვერის მისამართი",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "ძალის დონის დაყენება",
+  "makeModerator": "მოდერატორად დანიშვნა",
+  "makeAdmin": "ადმინისტრატორად დანიშვნა",
+  "removeModeratorRights": "მოდერატორის უფლებების წართმევა",
+  "removeAdminRights": "ადმინისტრატორის უფლებების წართმევა",
+  "powerLevel": "ძალის დონე",
+  "setPowerLevelDescription": "ძალის დონე განსაზღვრავს წევრების პრივილეგიებს ამ ოთახში (0–100).",
+  "owner": "მფლობელი",
+  "mute": "დადუმება",
+  "@mute": {
+    "description": "Very short string"
+  },
+  "createNewChat": "ახალი ჩატის შექმნა",
+  "reset": "გადატვირთვა",
+  "supportFluffyChat": "დაუჭირეთ მხარი NYX-ს",
+  "support": "მხარდაჭერა",
+  "setLowPriority": "დაბალი პრიორიტეტის მინიჭება",
+  "unsetLowPriority": "დაბალი პრიორიტეტის მოხსნა",
+  "playSoundOnNotification": "ხმის დაკვრა შეტყობინებისას",
+  "addTag": "ჭდეების დამატება",
+  "removeTag": "ჭდეების წაშლა",
+  "tagName": "ჭდის სახელი",
+  "createNewTag": "ახალი ჭდის შექმნა",
+  "discardEdits": "გაქვთ შეუნახავი ცვლილებები. გსურთ მათი გაუქმება?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "ოთახების დამალვა სივრცეებში",
+  "possibleByYou": "ეს ვერსია შეუძლებელი იქნებოდა თქვენი მხარდაჭერის გარეშე. NYX არის უფასო, ღია კოდის მქონე და საზოგადოებაზე ორიენტირებული.",
+  "showThumbnailsInTimeline": "სურათებისა და ვიდეოების მინიატურების ჩვენება ქრონოლოგიაში",
+  "appSubtitle": "უსაფრთხო კომუნიკაცია ქსელში [matrix]",
+  "appDescription": "დაშიფრული და დეცენტრალიზებული შეტყობინებები ქსელში [matrix] მარტივი ინტერფეისით.",
+  "interactiveVerification": "ინტერაქტიული ვერიფიკაცია",
+  "interactiveVerificationDescription": "ვერიფიკაცია გაუკეთეთ ყველა მოწყობილობას ემოჯი იდენტიფიკატორების შედარებით პირადად ან უსაფრთხო არხით.",
+  "countUnverifiedDevices": "ეს ჩატი შეიცავს {count} ვერიფიცირებულ მოწყობილობას.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "დაშიფრული შეტყობინება",
+  "unencryptedMessage": "ჩვეულებრივი შეტყობინება (არადაშიფრული)",
+  "publicKey": "საჯარო გასაღები: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "მოწყობილობის იდენტობის გასაღები",
+  "showMore": "მეტის ჩვენება",
+  "showLess": "ნაკლების ჩვენება",
+  "restoreBootstrapEmptyDevicesDescription": "მოწყობილობის ვერიფიკაციისა და დაშიფრულ სარეზერვო ასლებთან წვდომისთვის შეიყვანეთ თქვენი პაროლი ან აღდგენის გასაღები.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "სესიის ვერიფიკაციისთვის გთხოვთ აირჩიოთ თქვენი სხვა მოწყობილობებიდან ერთ-ერთი:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "ანგარიშის გადატვირთვა",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "დაშიფრული იდენტობის აღდგენა",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "დაშიფრული იდენტობის გადატვირთვა",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "დაშიფრული იდენტობის გამართვა",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "გასაღებების მოლოდინში… გთხოვთ დატოვოთ სხვა მოწყობილობა ჩართული.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "გასაღებები არ გადაცემულა. სცადეთ თავიდან.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "განბლოკვა",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "ფაილის გახსნა",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "ანგარიშის გადატვირთვა ძველ შეტყობინებებს სამუდამოდ მიუწვდომელს გახდის. ყველა მოწყობილობა თავიდან უნდა გაივლიდეს ვერიფიკაციას. ეს გააკეთეთ მხოლოდ მაშინ, თუ ვერიფიკაციისთვის სხვა მოწყობილობა არ გაქვთ!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "NYX იყენებს ბოლოდან ბოლომდე შიფრაციას. აირჩიეთ ძლიერი პაროლი თქვენი დაშიფრული იდენტობისა და სარეზერვო ასლების დასაცავად.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "ახალი პაროლი",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "გაიმეორეთ პაროლი",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "პაროლები ემთხვევა ერთმანეთს",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "უნდა შედგებოდეს მინიმუმ 12 სიმბოლოსგან.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "უნდა შეიცავდეს როგორც დიდ, ისე პატარა ასოებს.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "უნდა შეიცავდეს სპეციალურ სიმბოლოებს.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "უნდა შეიცავდეს მინიმუმ ერთ ციფრს.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "ჩაიწერეთ თქვენი აღდგენის გასაღები, რათა მომავალში შეძლოთ შეტყობინებებისა და დაშიფრული იდენტობის აღდგენა.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "ფაილად შენახვა",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "მზად ხართ დასაწყებად!",
+  "noUserKeyFound": "მომხმარებლის გასაღები ვერ მოიძებნა",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "ხელმოუწერელი მოწყობილობა",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "ხელმოწერილი მოწყობილობა",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Curve25519 გასაღები ვერ მოიძებნა",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "შეტყობინება ვერ გაიშიფრა",
+  "knownSince": "ცნობილია: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "თქვენი შეტყობინება დაშიფრულია ბოლოდან ბოლომდე და მისი წაკითხვა მხოლოდ ამ მომხმარებელს შეუძლია:",
+  "messageCanOnlyBeReadByUsers": "თქვენი შეტყობინება დაშიფრულია ბოლოდან ბოლომდე და მისი წაკითხვა მხოლოდ ამ მომხმარებლებს შეუძლიათ:",
+  "today": "დღეს",
+  "sending": "იგზავნება",
+  "generatingThumbnail": "მინიატურის გენერაცია",
+  "encrypting": "იშიფრება",
+  "uploading": "იტვირთება",
+  "edited": "(რედაქტირებულია)",
+  "couldNotBeSent": "გაგზავნა ვერ მოხერხდა",
+  "yesterday": "გუშინ",
+  "resetRecoveryKey": "აღდგენის გასაღების გადატვირთვა",
+  "pleaseEnter6Digits": "აპლიკაციის დაბლოკვის ჩასართავად შეიყვანეთ 6 ციფრი.",
+  "disableAppLock": "აპლიკაციის დაბლოკვის გათიშვა",
+  "disableAppLockAreYouSure": "დარწმუნებული ხართ, რომ გსურთ აპლიკაციის დაბლოკვის გამორთვა?",
+  "enableBiometrics": "ბიომეტრიული შესვლის ჩართვა",
+  "disableBiometrics": "ბიომეტრიული შესვლის გამორთვა",
+  "biometricsDescription": "შეგიძლიათ განბლოკოთ აპლიკაცია თითის ანაბეჭდით ან სახის ამოცნობით. ეს დამოკიდებულია თქვენს მოწყობილობაზე.",
+  "useAppLock": "აპლიკაციის დაბლოკვის გამოყენება",
+  "unlockWithBiometrics": "განბლოკვა თითის ანაბეჭდით / სახით",
+  "resetPin": "PIN-ის გადატვირთვა",
+  "forwardCountMessages": "გადავგზავნოთ {count} შეტყობინება?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "სურათის რედაქტირება",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "მარცხნივ მობრუნება",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "მარჯვენა მობრუნება",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "სარკული ასახვა",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "შენახვა",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "ხატვა",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "გაუქმება",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "გასუფთავება",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "საშლელი",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "მოჭრა",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "შეტყობინებები იტვირთება…",
+  "buildDoesNotSupportFirebase": "ეს აგება არ უჭერს მხარს Firebase Push შეტყობინებებს.",
+  "unableToRegisterDeviceForFirebase": "მოწყობილობის რეგისტრაცია Firebase Cloud Messaging-ისთვის ვერ მოხერხდა.",
+  "unifiedPushDistributors": "UnifiedPush დისტრიბუტორები:",
+  "doubleTapToReact": "ორმაგი დაწკაპუნება რეაქციისთვის",
+  "doubleTapToReactDescription": "შეტყობინებაზე სწრაფი ორმაგი დაწკაპუნებით ტექსტის მონიშვნის ნაცვლად იგზავნება რეაქცია",
+  "doubleTapReaction": "ორმაგი დაწკაპუნების რეაქცია",
+  "sendingFilesDoNotExit": "მიმდინარეობს {count} ფაილის გაგზავნა… გთხოვთ არ გახვიდეთ აპლიკაციიდან!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "ვიდეოს კომპრესია…",
+  "shareCrashReports": "შეცდომის რეპორტების გაზიარება",
+  "shareCrashReportsDescription": "გავუგზავნოთ თუ არა ავტომატურად შეცდომის რეპორტები დეველოპერებს?",
+  "videoCallsBetaWarning": "ვიდეოზარები ბეტა ვერსიაშია და შესაძლოა შეიცავდეს ხარვეზებს. მადლობა გამოხმაურებისთვის.",
+  "callNotAllowed": "ზარის წამოწყება მხოლოდ ოთახის ადმინისტრატორებს ან მფლობელს შეუძლიათ.",
+  "countActiveCallMembers": "{count} წევრი აქტიურ ზარში",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "ზარში შესვლა",
+  "noDevicesFound": "მოწყობილობები ვერ მოიძებნა",
+  "incomingCall": "შემომავალი ზარი",
+  "waitingForParticipant": "მონაწილეების მოლოდინში…",
+  "decline": "უარყოფა",
+  "videoCall": "ვიდეოზარი",
+  "voiceCall": "ხმოვანი ზარი",
+  "previewImage": "[სურათი]",
+  "previewVideo": "[ვიდეო]",
+  "previewVoice": "[ხმოვანი შეტყობინება]",
+  "previewAudio": "[აუდიო]",
+  "previewFile": "[ფაილი]",
+  "previewLocation": "[მდებარეობა]",
+  "previewSticker": "[სტიკერი]",
+  "previewVoiceCall": "[ხმოვანი ზარი]",
+  "previewVideoCall": "[ვიდეოზარი]",
+  "missedCall": "გამოტოვებული ზარი",
+  "callBack": "უკან დარეკვა",
+  "hangUp": "ზარის დასრულება",
+  "startCall": "ზარის დაწყება",
+  "selectCamera": "კამერის არჩევა",
+  "selectMicrophone": "მიკროფონის არჩევა",
+  "selectSpeaker": "დინამიკის არჩევა",
+  "toggleMicrophone": "მიკროფონის გადართვა",
+  "toggleCamera": "კამერის გადართვა",
+  "startScreensharing": "ეკრანის გაზიარების დაწყება",
+  "stopScreensharing": "ეკრანის გაზიარების შეწყვეტა",
+  "raiseHand": "ხელის აწევა",
+  "stopRaiseHand": "ხელის ჩამოწევა",
+  "preferSpeaker": "დინამიკის უპირატესობა",
+  "unexpectedErrorOccurded": "მოხდა მოულოდნელი შეცდომა: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "ანგარიშები და პარამეტრები",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "შემომავალი ზარი {user}-სგან",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "სერვერმა უპასუხა შეცდომით: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "ხელმისაწვდომია განახლება: {version}",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "ჩამოტვირთვა",
+  "sharedLocation": "გაზიარებული მდებარეობა",
+  "contacts": "კონტაქტები",
+  "groupChats": "ჯგუფები",
+  "publicGroups": "საჯარო ჯგუფები",
+  "createGroupChat": "ჯგუფური ჩატის შექმნა",
+  "inviteFriends": "მეგობრების მოწვევა",
+  "emptyChatsTitle": "ჩატები ჯერ არ არის",
+  "emptyChatsDesc": "ახალი ჩატის დასაწყებად დააკლიკეთ ზემოთ მდებარე + ღილაკს",
+  "emptyUsersTitle": "პირადი ჩატები ჯერ არ არის",
+  "emptyUsersDesc": "სხვა ჩატების სანახავად შეგიძლიათ გამორთოთ ფილტრები",
+  "emptyUnreadTitle": "წაუკითხავი შეტყობინებები არ არის",
+  "emptyUnreadDesc": "მნიშვნელოვანი ჩატები შეგიძლიათ მიამაგროთ მათ პარამეტრებში",
+  "emptyGroupChatsTitle": "თქვენ არ ხართ არცერთი ჯგუფური ჩატის წევრი",
+  "emptyGroupChatsDesc": "სხვა ჩატების სანახავად შეგიძლიათ გამორთოთ ფილტრები",
+  "emptyPinnedTitle": "მიმაგრებული ჩატები არ არის",
+  "emptyPinnedDesc": "თქვენი საყვარელი ჩატები შეგიძლიათ მიამაგროთ სიის თავში",
+  "startChat": "ჩატის დაწყება",
+  "newGroupChat": "ახალი ჯგუფი",
+  "invitedYouToJoinGroup": "{username}-მ მოგიწვიათ ჯგუფურ ჩატში",
+  "joinGroupBannerTitle": "შემოუერთდით ჯგუფებს და დარჩით კავშირზე",
+  "joinGroupBannerDesc": "ჯგუფები კატეგორიზებულია თემების მიხედვით. ყველა ჯგუფი, რომელსაც შეუერთდებით, აქ გამოჩნდება.",
+  "certifiedGroups": "{count} სერტიფიცირებული ჯგუფი",
+  "membersCount": "{count} წევრი",
+  "recentlyOnline": "ახლახანს ონლაინ",
+  "lastSeenLongAgo": "ბოლოს ნანახია დიდი ხნის წინ",
+  "appearance": "გარეგნობა",
+  "language": "ენა",
+  "selectLanguage": "ენის არჩევა",
+  "privacyAndSecurity": "კონფიდენციალურობა და უსაფრთხოება",
+  "qrScanRecognizing": "ამოცნობა…",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "სკანირების დრო ამოიწურა, სცადეთ თავიდან",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "QR კოდი ვერ მოიძებნა",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "QR კოდი ცარიელია",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "სკანირება ჩაიშალა",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "არასწორი QR კოდი",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "ეს QR კოდი თქვენს საკუთარ ანგარიშს ეკუთვნის",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "ჯგუფის მოწვევის უარყოფა",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "დარწმუნებული ხართ, რომ გსურთ ჯგუფში {groupName} მოწვევის უარყოფა?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "კამერა",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "ფოტოები და ვიდეოები",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "ფაილი",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "ონლაინ",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "ოფლაინ",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "შეტყობინება წაშლილია",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "თქვენ გააუქმეთ შეტყობინება",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username}-მ გააუქმა შეტყობინება",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "ფაილი შეინახა",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "შენახულია გალერეაში",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "ფაილის გახსნა ვერ მოხერხდა",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "უცნობი ფაილი",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "გამოტოვებული ვიდეოზარი",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "ზარი გაუქმდა",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} ადამიანი ზარში",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "ზარში შესვლა",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "მონაწილეების მოლოდინში…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "ამ ოთახში ზარის წამოწყება მხოლოდ ოთახის ადმინისტრატორებს შეუძლიათ",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "ეს ჩატი წაიშლება სიიდან, მაგრამ თქვენ არ დატოვებთ ჯგუფს. ჩატი თავიდან გამოჩნდება ახალი შეტყობინების შემოსვლისას.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "ჯგუფის დაშლის შემდეგ, ყველა წევრი ამოგდებული იქნება და ამის აღდგენა შეუძლებელი იქნება.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "თარგმნა",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "ითარგმნება…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "თარგმნა ვერ მოხერხდა, სცადეთ თავიდან",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "აქტიური ზარი",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "ნაჩვენებია ხმოვანი ან ვიდეოზარის დროს",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "დააკლიკეთ ზარში დასაბრუნებლად",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "მეორე მხარემ გააუქმა ზარი",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "ვიდეოზარი გაუქმდა",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "მეორე მხარემ გააუქმა ვიდეოზარი",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "უკან",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "ირეკება…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "დაკავშირება…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "ზარი დასრულდა",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "ზარი ჩაიშალა",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "დინამიკი",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "ყურსასმენი",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "კამერის შებრუნება",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "ვიდეო",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "მიკროფონი გამორთულია",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "დასრულება",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "თქვენ",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "გასული ზარი",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} წამი",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} წუთი",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} საათი {minutes} წუთი",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "ჩემი როლის შეცვლა",
+  "permissions": "უფლებები",
+  "changeMyRoleConfirmMessage": "თქვენ ამცირებთ თქვენს საკუთარ უფლებების დონეს, ამ მოქმედების გაუქმება შეუძლებელია.",
+  "demoteToAdmin": "ადმინისტრატორამდე ჩამოქვეითება",
+  "demoteToModerator": "მოდერატორამდე ჩამოქვეითება",
+  "demoteToMember": "წევრამდე ჩამოქვეითება",
+  "addAdmin": "ადმინისტრატორის დამატება",
+  "addModerator": "მოდერატორის დამატება",
+  "groupAdmins": "ჯგუფის ადმინისტრატორები",
+  "groupModerators": "ჯგუფის მოდერატორები",
+  "addAdminHelp": "თქვენ შეგიძლიათ დაამატოთ ახალი ადმინისტრატორები საზოგადოების უკეთ სამართავად.",
+  "addModeratorHelp": "შეგიძლიათ დაამატოთ ახალი მოდერატორები ზედამხედველობის დასახმარებლად.",
+  "noCandidatesToAdd": "კანდიდატები დასამატებლად არ არიან",
+  "setAsAdminSuccess": "დაყენებულია ადმინისტრატორად",
+  "setAsModeratorSuccess": "დაყენებულია მოდერატორად",
+  "searchMembers": "წევრების ძებნა",
+  "noResults": "შედეგები არ არის",
+  "noResultsDescription": "შედეგები ვერ მოიძებნა. სცადეთ თავიდან.",
+  "removeAdminConfirm": "დარწმუნებული ხართ, რომ გსურთ ამ მომხმარებლისთვის ადმინისტრატორის უფლებების მოხსნა?",
+  "removeModeratorConfirm": "დარწმუნებული ხართ, რომ გსურთ ამ მომხმარებლისთვის მოდერატორის უფლებების მოხსნა?",
+  "removeAdminSuccess": "ადმინისტრატორის უფლებები მოხსნილია",
+  "removeModeratorSuccess": "მოდერატორის უფლებები მოხსნილია",
+  "manageMembers": "წევრების მართვა",
+  "inviteMembers": "წევრების მოწვევა",
+  "removeMembers": "წევრების ამოშლა",
+  "banMembers": "წევრების დაბლოკვა",
+  "editCommunity": "თემის რედაქტირება",
+  "changeCommunityName": "თემის სახელის შეცვლა",
+  "changeCommunityAvatar": "თემის ავატარის შეცვლა",
+  "changeCommunityDescription": "თემის აღწერის შეცვლა",
+  "messagesAndContent": "შეტყობინებები და შინაარსი",
+  "removeMessages": "შეტყობინებების ამოშლა",
+  "adminsOnly": "მხოლოდ ადმინისტრატორები",
+  "adminsAndModerators": "ადმინისტრატორები და მოდერატორები",
+  "resetPermissions": "უფლებების გადატვირთვა",
+  "resetPermissionsConfirmMessage": "დარწმუნებული ხართ, რომ გსურთ ყველა უფლების ნაგულისხმევ მნიშვნელობებზე დაბრუნება?",
+  "changeSettings": "პარამეტრების შეცვლა",
+  "permissionChangedFromTo": "{sender}-მ შეცვალა უფლება {permission} ღირებულებიდან {from} ღირებულებაზე {to}",
+  "changedUserRoleTo": "{username}-მ შეცვალა {target}-ის როლი და გახადა {role}",
+  "viewInChat": "ნახვა ჩატში",
+  "playbackSpeed": "აღწარმოების სიჩქარე",
+  "normalSpeed": "ნორმალური",
+  "qrScanHint": "მოათავსეთ QR კოდი ჩარჩოს შიგნით",
+  "torch": "ფარანი",
+  "remarkVisibleOnlyToUser": "შენიშვნა ხილვადია მხოლოდ თქვენთვის",
+  "pollVotes": "{count} ხმა",
+  "totalPollVotes": "სულ ხმები: {count}",
+  "scanQrMobileOnly": "QR კოდის სკანირება მხარდაჭერილია მხოლოდ მობილურ ვერსიაში",
+  "publicGroupTech": "ტექნოლოგიური სერვისები და პროგრამული უზრუნველყოფის შემუშავება",
+  "publicGroupMarketing": "ციფრული მარკეტინგი და რეკლამა",
+  "publicGroupWeb3": "Web3 ქსელი და კრიპტოვალუტები",
+  "publicGroupCrossBorder": "საერთაშორისო ვაჭრობა და ტრანსსასაზღვრო მომსახურება",
+  "publicGroupFreelance": "ფრილანსი და დამოუკიდებელი სამუშაო",
+  "blockUsers": "მომხმარებლების დაბლოკვა",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "ჩართულია / ნებადართულია",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "ეკრანის დაბლოკვის კოდი",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "შესვლის პაროლი",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "აღდგენის გასაღები",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "გასაღებების შენახვის დაშვება",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "უსაფრთხოდ შეინახეთ დაშიფრული იდენტობა და შეტყობინებების გასაღებები სერვერზე, რათა ისტორია ხელმისაწვდომი იყოს ახალ მოწყობილობებზე.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "აღდგენის გამართვა",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "გამოიყენეთ აღდგენის გასაღები დაშიფრული იდენტობისა და შეტყობინებების ისტორიის აღსადგენად მოწყობილობის დაკარგვის შემთხვევაში",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "აღდგენის გასაღების დაყენება",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "უსაფრთხოდ შეინახეთ გასაღებები სერვერზე, რათა შეტყობინებები ხილვადი იყოს ახალ მოწყობილობაზე.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "აღდგენის გასაღების გენერაცია",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "დააკლიკეთ აღდგენის გასაღების დასაკოპირებლად",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "აღდგენის გასაღების შენახვა",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "შეინახეთ აღდგენის გასაღები უსაფრთხო ადგილას, როგორიცაა პაროლების მენეჯერი ან დაშიფრული შენიშვნა.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "აღდგენის გასაღების შენახვა",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "აღდგენის გასაღები დაკოპირდა",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "აღდგენის გასაღები შეინახა",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "მიმდინარეობს აღდგენის გასაღების გენერაცია…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "ონლაინ სტატუსის გაზიარება",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "თუ გათიშულია, წაკითხვის დადასტურებებისა და წერის სტატუსის გაგზავნა ან მიღება შეწყდება",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "ფაილების ოპტიმიზაცია უფრო სწრაფი გაგზავნისთვის",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "შინაარსის მოდერაცია და უსაფრთხოება",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "ავატარის დამალვა ოთახის მოწვევის მოთხოვნებში",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "მედიაფაილების ჩვენება ჩატის ქრონოლოგიაში",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "ყოველთვის დამალვა",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "პირად ოთახებში",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "ყოველთვის ჩვენება",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "ყველა ელემენტი",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "მხოლოდ მოხსენიებები",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "ჯგუფური ჩატი",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "პირადი ჩატი",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "შეტყობინების გაგზავნა ჯგუფურ ჩატებში",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "შეტყობინების გაგზავნა პირად ჩატებში",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "ყველა შეტყობინება",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "მხოლოდ მოხსენიებები და საკვანძო სიტყვები",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "სერვერი არ უჭერს მხარს ამ ვარიანტს დაშიფრულ ჯგუფურ ჩატებში, ამიტომ შესაძლოა არ მიიღოთ შეტყობინებები ყველა ჯგუფიდან",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "დამოუკიდებელი პარამეტრები თითოეული ჩატისთვის",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "ამის ჩართვა გადაფარავს ნაგულისხმევ პარამეტრებს.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "შეტყობინების მიღება ამ ჩატში",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "მხოლოდ მოხსენიებები და საკვანძო სიტყვები",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "თქვენი სერვერი არ უჭერს მხარს ამ ვარიანტს დაშიფრულ ოთახებში.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "მორგებული პარამეტრების დაშვება",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "შეტყობინების მიღება ამ მოწყობილობაზე",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "მოხსენიებები",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "შეტყობინება ჯგუფში მოხსენიებისას",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "მეტი პარამეტრი",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "ძველი პაროლი",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "აპლიკაციის დაბლოკვის კოდი",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "ეკრანის დაბლოკვის ჩართვა",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "შეიყვანეთ ეკრანის დაბლოკვის კოდი",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "გაიმეორეთ ახალი კოდი",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "შეიყვანეთ ძველი კოდი",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "ძველი პაროლი არასწორია, სცადეთ თავიდან",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "დაბლოკვის კოდის შეცვლა",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "შენიშვნა: თუ დაგავიწყდებათ კოდი, მოგიწევთ აპლიკაციის თავიდან დაინსტალირება.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "აპლიკაციის დაბლოკვა ჩართულია",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "აპლიკაციის დაბლოკვა გამორთულია",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "ეს მოწყობილობა",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "ყველა სხვა მოწყობილობის სესიიდან გასვლა",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "გასვლა ყველა სხვა მოწყობილობიდან, გარდა ამისა.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "აქტიური სესიები",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "მოწყობილობის წაშლა",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "დარწმუნებული ხართ, რომ გსურთ მოწყობილობა {name}-ს წაშლა?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "მოწყობილობის ID (Device ID)",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "ბოლო შესვლა",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "IP მისამართი",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "კლიენტი / აპლიკაცია",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "კლიენტის ID",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "მოწყობილობის სახელი",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "მოწყობილობის ამოშლა",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} წინ",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "წუთი",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "საათი",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "დღე",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "შესვლა სერვერზე {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "მოგესალმებით {appName}-ში, სწრაფი და მარტივი კომუნიკაცია.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "ანგარიშის შექმნა",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "განახლება მზადაა",
+  "updateReadyMessage": "ჩვენ ოპტიმიზაცია გავუკეთეთ ზოგიერთ ფუნქციას. განახლების გამოყენებისთვის გადატვირთეთ აპლიკაცია.",
+  "restartNow": "ახლავე გადატვირთვა",
+  "noPublicGroupsYet": "ჯერ არცერთი სერტიფიცირებული ჯგუფი არ არის"
+}

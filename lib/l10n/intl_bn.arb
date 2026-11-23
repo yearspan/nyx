@@ -1,0 +1,4109 @@
+{
+  "@@locale": "bn",
+  "@@last_modified": "2021-08-14 12:41:10.154280",
+  "about": "সম্পর্কে",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "গ্রহণ করুন",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "{username} আমন্ত্রণ গ্রহণ করেছেন",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "অ্যাকাউন্ট",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassword": "পাসওয়ার্ড পুনরায় লিখুন",
+  "notAnImage": "চিত্র ফাইল নয়।",
+  "admin": "অ্যাডমিন",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "উফনাম",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "আর্কাইভ",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banned": "নিষিদ্ধ করা হয়েছে",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "বাতিল",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "চ্যাট",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "close": "বন্ধ করুন",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "অনুলিপি করুন",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "create": "তৈরি করুন",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "মুছে ফেলুন",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "ডিভাইসসমূহ",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "বিজ্ঞপ্তি",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "সম্পাদনা",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "এনক্রিপশন",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "এনক্রিপ্ট করা হয়েছে",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "ফরওয়ার্ড",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "গ্রুপ",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "help": "সহায়তা",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invited": "আমন্ত্রিত",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leave": "প্রস্থান করুন",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logout": "লগআউট",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "লগইন",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@videoCall": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@fileIsTooBigForServer": {
+    "type": "String",
+    "placeholders": {
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "@sendAsText": {
+    "type": "String"
+  },
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "@emoteSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "পার্টনারের অনুরোধ গ্রহণের জন্য অপেক্ষা করা হচ্ছে...",
+  "sentAPicture": "🖼️ {username} একটি ছবি পাঠিয়েছে",
+  "importEmojis": "ইমোজি ইম্পোর্ট করুন",
+  "unifiedPushDistributors": "ইউনিফাইড পুশ ডিস্ট্রিবিউটর:",
+  "groups": "গ্রুপসমূহ",
+  "blockListDescription": "আপনাকে ডিস্টার্ব করা ব্যবহারকারীদের ব্লক করতে পারেন। ব্লক লিস্টে থাকা ব্যক্তিদের থেকে কোনো বার্তা বা ঘর আমন্ত্রন পাবেন না।",
+  "useAsSticker": "স্টিকার হিসেবে ব্যবহার করুন",
+  "formattedMessages": "ফরম্যাট করা বার্তা",
+  "advancedConfigurations": "উন্নত কনফিগারেশন",
+  "groupChats": "গ্রুপ চ্যাট",
+  "resetPermissions": "অনুমতিসমূহ রিসেট করুন",
+  "editBlockedServers": "ব্লক করা সার্ভার সম্পাদন করুন",
+  "groupChat": "গ্রুপ চ্যাট",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "এনক্রিপশন চালু করুন",
+  "next": "পরবর্তী",
+  "replyInThread": "থ্রেডে উত্তর দিন",
+  "clearChatHistoryConfirmation": "আপনি কি নিশ্চিত যে এই চ্যাট হিস্ট্রি মুছে ফেলতে চান? এই কাজটি আর ফেরানো যাবে না।",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "ডানে ঘোড়ান",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "ম্যাপে খুলুন",
+  "noResults": "কোন ফলাফল নেই",
+  "noGoogleServicesWarning": "আপনার ডিভাইসে ফায়ারবেস ক্লাউড মেসেজিং উপলব্ধ নেই বলে মনে হচ্ছে। পুশ নোটিফিকেশন পেতে ntfy ইনস্টল করার পরামর্শ দেওয়া হচ্ছে।",
+  "publicGroupFreelance": "সাধারণ / ফ্রিল্যান্স ট্রেডিং",
+  "noBackupWarning": "সতর্কতা! চ্যাট ব্যাকআপ চালু না করলে আপনি এনক্রিপ্ট করা মেসেজের অ্যাক্সেস হারাতে পারেন। লগআউট করার আগে ব্যাকআপ চালু করা অত্যন্ত সুপারিশ করা হয়।",
+  "scanQrMobileOnly": "QR স্ক্যানিং শুধুমাত্র মোবাইল ডিভাইসে সমর্থিত",
+  "notificationRuleInviteForMe": "আমার জন্য আমন্ত্রণ",
+  "contactServerSecurity": "সার্ভার নিরাপত্তা যোগাযোগ",
+  "doNotShowAgain": "আর দেখাবেন না",
+  "commandHint_ignore": "প্রদত্ত ম্যাট্রিক্স আইডি উপেক্ষা করুন",
+  "copiedToClipboard": "ক্লিপবোর্ডে অনুলিপি করা হয়েছে",
+  "setAsModeratorSuccess": "মডারেটর হিসেবে সেট করা হয়েছে",
+  "changedUserRoleTo": "{username} {target} কে {role} হিসেবে সেট করেছে",
+  "files": "ফাইলসমূহ",
+  "commandHint_kick": "প্রদত্ত ব্যবহারকারীকে এই ঘর থেকে সরিয়ে দিন",
+  "previewVoiceCall": "[ভয়েস কল]",
+  "resume": "পুনরায় শুরু করুন",
+  "hasKnocked": "🚪 {user} দরজায় নক করেছে",
+  "mentionsAndKeywordsSubtitleGroup": "সার্ভারটি এনক্রিপ্ট করা গ্রুপ চ্যাটে এই বিকল্পটি সমর্থন করে না, তাই কিছু গ্রুপ চ্যাটে বিজ্ঞপ্তি নাও পেতে পারেন",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendReadReceiptsDescription": "চ্যাটের অন্যান্য অংশগ্রহণকারীরা দেখতে পাবে আপনি কখন বার্তাটি পড়েছেন।",
+  "commandHint_react": "প্রতিক্রিয়া হিসেবে উত্তর পাঠাও",
+  "polls": "জরিপসমূহ",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "গ্রুপ চ্যাট মুছুন",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edited": "(সম্পাদিত)",
+  "sentAnAudio": "🎤 {username} একটি অডিও পাঠিয়েছে",
+  "enterAnEmailAddress": "একটি ইমেইল ঠিকানা দিন",
+  "knocking": "নক করা হচ্ছে",
+  "notificationRuleRoomServerAclDescription": "রুম সার্ভার অ্যাক্সেস কন্ট্রোল লিস্টের (ACL) জন্য নোটিফিকেশন বন্ধ রাখে।",
+  "sendVideo": "ভিডিও পাঠান",
+  "reactedWith": "{sender} {reaction} দিয়ে প্রতিক্রিয়া জানিয়েছে",
+  "inPrivateRooms": "ব্যক্তিগত রুমে",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{১টি পিন করা বার্তা} other{{count}টি পিন করা বার্তা}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "stickerPackNameAlreadyExists": "স্টিকার প্যাকের নাম ইতিমধ্যেই বিদ্যমান",
+  "verifyTitle": "অন্য অ্যাকাউন্ট যাচাই করা হচ্ছে",
+  "setRecoveryKey": "রিকভারি কি সেটআপ করুন",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "remove": "সরান",
+  "ok": "ঠিক আছে",
+  "removeTag": "ট্যাগ সরান",
+  "whyIsThisMessageEncrypted": "এই বার্তাটি পড়া যাচ্ছে না কেন?",
+  "changeTheChatPermissions": "চ্যাটের অনুমতি পরিবর্তন করুন",
+  "removeFromSpace": "স্পেস থেকে সরান",
+  "media": "মিডিয়া",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "baseUrl": "বেস ইউআরএল",
+  "reset": "রিসেট",
+  "fontSize": "ফন্টের আকার",
+  "back": "ফিরে যান",
+  "@back": {
+    "placeholders": {}
+  },
+  "spaceMemberOf": "{spaces} স্পেসের সদস্য",
+  "youKicked": "👞 আপনি {user} কে বের করে দিয়েছেন",
+  "pollVotes": "{count} টি ভোট",
+  "verificationSuccessBody": "এখন আপনি এনক্রিপ্ট করা কল এবং বার্তার জন্য এই ব্যবহারকারীর পরিচয় বিশ্বাস করতে পারেন।",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingMessages": "আগত বার্তাসমূহ",
+  "aboutHomeserver": "{homeserver} সম্পর্কে",
+  "initAppError": "অ্যাপ আরম্ভ করার সময় একটি ত্রুটি ঘটেছে",
+  "saveAsFile": "ফাইল হিসেবে সংরক্ষণ করুন",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanUserDescription": "ব্যবহারকারী চেষ্টা করলে পুনরায় চ্যাটে প্রবেশ করতে পারবেন।",
+  "thread": "থ্রেড",
+  "accessAndVisibilityDescription": "কারা এই চ্যাটে যোগ দিতে পারবে এবং চ্যাটটি কীভাবে খুঁজে পাওয়া যাবে।",
+  "send": "পাঠান",
+  "previewFile": "[ফাইল]",
+  "openLinkInBrowser": "ব্রাউজারে লিঙ্ক খুলুন",
+  "file": "ফাইল",
+  "@file": {
+    "placeholders": {}
+  },
+  "membersCount": "{count} জন সদস্য",
+  "notificationRuleReactionDescription": "প্রতিক্রিয়াগুলির জন্য বিজ্ঞপ্তি বন্ধ রাখে।",
+  "useAsEmoji": "ইমোজি হিসেবে ব্যবহার করুন",
+  "changedTheChatName": "{username} চ্যাটের নাম পরিবর্তন করেছে",
+  "disable": "নিষ্ক্রিয় করুন",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "আবার পাঠানোর চেষ্টা করুন",
+  "skip": "এড়িয়ে যান",
+  "saveChanges": "পরিবর্তন সংরক্ষণ করুন",
+  "customEmojisAndStickers": "কাস্টম ইমোজি এবং স্টিকার",
+  "chatPermissionsDescription": "এই চ্যাটে নির্দিষ্ট কাজের জন্য প্রয়োজনীয় পাওয়ার লেভেল নির্ধারণ করুন। সাধারণত 0, 50 এবং 100 দ্বারা ব্যবহারকারী, মডারেটর এবং অ্যাডমিনদের নির্দেশ করা হয়।",
+  "addToSpace": "স্পেসে যুক্ত করুন",
+  "removeAdminSuccess": "অ্যাডমিন ক্ষমতা সরানো হয়েছে",
+  "sendImage": "ছবি পাঠান",
+  "publicGroupCrossBorder": "সীমান্তপার সেবা এবং ভার্চুয়াল সম্পদ",
+  "unknownEncryptionAlgorithm": "অজানা এনক্রিপশন অ্যালগরিদম",
+  "noEmotesFound": "কোন ইমোট পাওয়া যায়নি। 😕",
+  "waitingOtherUser": "অন্য ব্যবহারকারীর জন্য অপেক্ষা করা হচ্ছে",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youJoinedTheChat": "আপনি চ্যাটে যোগ দিয়েছেন",
+  "blur": "ঝাপসা (Blur):",
+  "disableAppLockAreYouSure": "আপনি কি নিশ্চিত যে অ্যাপ লক নিষ্ক্রিয় করতে চান?",
+  "time": "সময়",
+  "withTheseAddressesRecoveryDescription": "এই ঠিকানাগুলি দিয়ে আপনি পাসওয়ার্ড পুনরুদ্ধার করতে পারবেন।",
+  "joinSpace": "স্পেসে যোগ দিন",
+  "pinnedMessagesEmpty": "কোন পিন করা বার্তা নেই",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emailForLogin": "আপনার NYX অ্যাকাউন্টে লগইন করতে ব্যবহৃত হয়।",
+  "verifySuccess": "আপনি সফলভাবে যাচাই করেছেন!",
+  "locationDisabledNotice": "লোকেশন সার্ভিস নিষ্ক্রিয় রয়েছে। লোকেশন শেয়ার করতে অনুগ্রহ করে এটি চালু করুন।",
+  "changeCommunityDescription": "কম্যুনিটি বিবরণ পরিবর্তন করুন",
+  "bundleName": "বান্ডেল নাম",
+  "jump": "লাফ দিন",
+  "passphraseUpperAndLowerCaseRequirement": "বড় এবং ছোট হাতের অক্ষর ধারণ করে।",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "currentlyActive": "বর্তমানে সক্রিয়",
+  "hydrate": "ব্যাকআপ ফাইল থেকে পুনরুদ্ধার করুন",
+  "passwordIsWrong": "আপনার দেওয়া পাসওয়ার্ড ভুল",
+  "stickerPackName": "স্টিকার প্যাকের নাম",
+  "viewInChat": "চ্যাটে দেখুন",
+  "guestsCanJoin": "অতিথিরা যোগ দিতে পারবেন",
+  "youUnbannedUser": "আপনি {user} এর ওপর থেকে নিষেধাজ্ঞা তুলে নিয়েছেন",
+  "changeTheVisibilityOfChatHistory": "চ্যাট হিস্ট্রির দৃশ্যমানতা পরিবর্তন করুন",
+  "preferSpeaker": "স্পিকার পছন্দ করুন",
+  "updateAvailable": "আপডেট {version} পাওয়া যাচ্ছে",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "activatedEndToEndEncryption": "🔐 {username} অ্যান্ড-টু-অ্যান্ড এনক্রিপশন চালু করেছে",
+  "joinRoomNotFound": "রুম পাওয়া যায়নি!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "ভয়েস মেসেজ",
+  "alwaysShow": "সবসময় দেখান",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongPinEntered": "ভুল পিন দিয়েছেন! {seconds} সেকেন্ড পর আবার চেষ্টা করুন...",
+  "shareKeysWithDescription": "এনক্রিপ্ট করা চ্যাটে বার্তা পড়ার জন্য কোন ডিভাইসগুলোকে বিশ্বস্ত হিসেবে চিহ্নিত করা উচিত?",
+  "joinRoomExample": "যেমন #room-name:example.com",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_dm": "একটি সরাসরি চ্যাট শুরু করুন\nএনক্রিপশন বন্ধ করতে --no-encryption ব্যবহার করুন",
+  "clear": "মুছে ফেলুন",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "পাসওয়ার্ড পরিবর্তন করা হয়েছে",
+  "iHaveClickedOnLink": "আমি লিঙ্কে ক্লিক করেছি",
+  "userLeftTheChat": "🚪 {username} চ্যাট ছেড়ে গেছেন",
+  "appLockDescription": "লক পাসকোড সেট করার পর NYX-এ প্রবেশ করতে পরিচয় যাচাইয়ের প্রয়োজন হবে।",
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "কি-এর জন্য অপেক্ষা করা হচ্ছে... অনুগ্রহ করে অন্য ডিভাইসটি সক্রিয় রাখুন।",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noUserKeyFound": "কোন ব্যবহারকারীর কি পাওয়া যায়নি",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "যোগদানের জন্য আবেদন করুন",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "demoteToModerator": "মডারেটরে অবনমিত করুন",
+  "declineInviteTitle": "গ্রুপ আমন্ত্রন প্রত্যাখ্যান করুন",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "addTag": "ট্যাগ যোগ করুন",
+  "shareInviteLink": "আমন্ত্রণ লিঙ্ক শেয়ার করুন",
+  "deleteDevice": "ডিভাইস মুছুন",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "একটি শক্ত পাসওয়ার্ড চয়ন করুন",
+  "customEmojisAndStickersBody": "কাস্টম ইমোজি বা স্টিকার যোগ করুন বা শেয়ার করুন যা যে কোনো চ্যাটে ব্যবহার করা যেতে পারে।",
+  "signInGreeting": "ম্যাট্রিক্সে কি আপনার আগেই অ্যাকাউন্ট আছে? স্বাগতম! আপনার হোমসার্ভার বেছে নিন এবং সেশন চালু করুন।",
+  "participant": "অংশগ্রহণকারী",
+  "hideRedactedMessages": "মুছে ফেলা বা সম্পাদিত বার্তা গোপন করুন",
+  "version": "সংস্করণ",
+  "notificationRuleSuppressNotices": "স্বয়ংক্রিয় বার্তা বন্ধ করুন",
+  "noChatsFoundHere": "এখানে এখনও কোনো চ্যাট পাওয়া যায়নি। নিচের বোতাম ব্যবহার করে নতুন চ্যাট শুরু করুন। ⤵️",
+  "voiceCall": "ভয়েস কল",
+  "status": "স্ট্যাটাস",
+  "generatingThumbnail": "থাম্বনেইল তৈরি হচ্ছে",
+  "callNotificationsChannelDescription": "ভয়েস বা ভিডিও কল সক্রিয় থাকলে দেখানো হয়",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOutgoing": "আউটগোয়িং",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "removeModeratorConfirm": "এই ব্যবহারকারীর মডারেটর ক্ষমতা সরিয়ে দেবেন?",
+  "otherNotificationSettings": "অন্যান্য নোটিফিকেশন সেটিংস",
+  "inviteMembers": "সদস্যদের আমন্ত্রণ জানান",
+  "commandHint_leave": "এই রুমটি ত্যাগ করুন",
+  "confirmAppLockPasscode": "অনুগ্রহ করে নতুন লক পাসকোডটি পুনরায় লিখুন",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "{appName}-এ স্বাগতম",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "contentNotificationSettings": "বিষয়বস্তু নোটিফিকেশন সেটিংস",
+  "enterNewChat": "নতুন চ্যাটে প্রবেশ করুন",
+  "joinRoomEnter": "রুমে প্রবেশ করুন",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomNotificationSettings": "রুম নোটিফিকেশন সেটিংস",
+  "remarkVisibleOnlyToYou": "শুধুমাত্র আপনি এই মন্তব্যটি দেখতে পাবেন",
+  "readUpToHere": "এতদূর পর্যন্ত পড়া হয়েছে",
+  "redactedByBecause": "{username} এটি মুছে ফেলেছে কারণ: \"{reason}\"",
+  "inviteFriends": "বন্ধুদের আমন্ত্রণ জানান",
+  "invitedYouToJoinGroup": "{username} আপনাকে গ্রুপে যোগ দেওয়ার জন্য আমন্ত্রণ জানিয়েছে",
+  "appWantsToUseForLoginDescription": "আপনি এতদ্বারা অ্যাপ এবং ওয়েবসাইটকে আপনার সম্পর্কিত তথ্য শেয়ার করার অনুমতি দিচ্ছেন।",
+  "videoCallsBetaWarning": "ভিডিও কল একটি বিটা সুবিধা। এতে ত্রুটি থাকতে পারে। আপনার মতামত সাদরে গৃহীত হবে।",
+  "chatCanBeDiscoveredViaSearchOnServer": "{server} সার্ভারে অনুসন্ধানের মাধ্যমে চ্যাট খুঁজে পাওয়া সম্ভব",
+  "countParticipants": "{count, plural, =1{১ জন অংশগ্রহণকারী} other{{count} জন অংশগ্রহণকারী}}",
+  "commandHint_ban": "প্রদত্ত ব্যবহারকারীকে এই ঘর থেকে নিষিদ্ধ করুন",
+  "optionalMessage": "(ঐচ্ছিক) বার্তা...",
+  "resetPin": "পিন রিসেট করুন",
+  "notificationRuleSuppressEdits": "সম্পাদনা নোটিফিকেশন বন্ধ করুন",
+  "kickedAndBanned": "🙅 {username} {targetName} কে বের ও নিষিদ্ধ করেছে",
+  "emoteExists": "ইমোট ইতিমধ্যেই বিদ্যমান!",
+  "versionWithNumber": "সংস্করণ: {version}",
+  "loadingPleaseWait": "লোড হচ্ছে... অনুগ্রহ করে অপেক্ষা করুন।",
+  "emptyChatsDesc": "নতুন কথোপকথন শুরু করতে ডানদিকের উপরে + আইকনে আলতো চাপুন",
+  "shareQrCode": "QR কোড শেয়ার করুন",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendingFilesDoNotExit": "{count}টি ফাইল পাঠানো হচ্ছে... অনুগ্রহ করে বের হবেন না!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "blockUser": "ব্যবহারকারীকে ব্লক করুন",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "অনুগ্রহ করে আপনার পিন লিখুন",
+  "passphraseNumberRequirement": "কমপক্ষে একটি সংখ্যা ধারণ করে।",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "URI {uri} খোলা যাচ্ছে না",
+  "pleaseEnterYourUsername": "অনুগ্রহ করে আপনার ব্যবহারকারীর নাম দিন",
+  "usersMustKnock": "ব্যবহারকারীদের নক করতে হবে",
+  "loginPassword": "লগইন পাসওয়ার্ড",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationCode": "যাচাইকরণ কোড",
+  "noFiles": "কোন ফাইল নেই",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendReadReceipts": "পড়ার নিশ্চিতকরণ পাঠান",
+  "chatDescriptionHasBeenChanged": "চ্যাটের বিবরণ পরিবর্তিত হয়েছে",
+  "useAppLock": "অ্যাপ লক ব্যবহার করুন",
+  "qrCode": "QR কোড",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "countFiles": "{count}টি ফাইল",
+  "wrongRecoveryKey": "দুঃখিত... এটি সঠিক রিকভারি কি বলে মনে হচ্ছে না।",
+  "joinCall": "যোগ দিন",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "রিকভারি কি তৈরি করুন",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneOfYourDevicesIsNotVerified": "আপনার একটি ডিভাইস যাচাই করা হয়নি",
+  "buildDoesNotSupportFirebase": "এই বিল্ডটিতে ফায়ারবেস ক্লাউড মেসেজিং সমর্থিত নয়।",
+  "mentionsAndKeywordsSubtitleRoom": "আপনার হোমসার্ভার এনক্রিপ্ট করা রুমে এই বিকল্পটি সমর্থন করে না, তাই কিছু রুমে বিজ্ঞপ্তি নাও পেতে পারেন।",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheRoomAliases": "{username} রুমের উফনামসমূহ পরিবর্তন করেছে",
+  "verifyRequestTitle": "যাচাইকরণের অনুরোধ",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedKeyVerification": "{sender} কি যাচাইকরণ গ্রহণ করেছেন",
+  "markAsRead": "পড়া হয়েছে হিসেবে চিহ্নিত করুন",
+  "discover": "আবিষ্কার করুন",
+  "areGuestsAllowedToJoin": "অতিথি ব্যবহারকারীদের যোগ দেওয়ার অনুমতি আছে?",
+  "deleteChatDescription": "তালিকা থেকে চ্যাটটি সরান। আপনি রুম ছাড়বেন না, নতুন বার্তা আসলে এটি আবার দেখা যাবে।",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "verifiedDevicesOnly": "কেবলমাত্র যাচাইকৃত ডিভাইসসমূহ",
+  "unknownDevice": "অজানা ডিভাইস",
+  "publicSpaces": "পাবলিক স্পেসসমূহ",
+  "addChatOrSubSpace": "চ্যাট বা সাব-স্পেস যোগ করুন",
+  "crossVerifiedDevices": "ক্রস-যাচাইকৃত ডিভাইসসমূহ",
+  "leaveCommunity": "কম্যুনিটি ত্যাগ করুন",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandMissing": "{command} কোনো বৈধ কমান্ড নয়।",
+  "invitedUsersOnly": "কেবল আমন্ত্রিত ব্যবহারকারীরাই যোগ্য",
+  "youInvitedBy": "📩 আপনাকে {user} আমন্ত্রণ জানিয়েছেন",
+  "changeTheCanonicalRoomAlias": "প্রধান পাবলিক চ্যাট ঠিকানা পরিবর্তন করুন",
+  "longPressToRecordVoiceMessage": "ভয়েস মেসেজ রেকর্ড করতে দীর্ঘ সময় ধরে চেপে রাখুন।",
+  "lightTheme": "হালকা (Light)",
+  "changedTheJoinRulesTo": "{username} যোগদানের নিয়ম পরিবর্তন করে করেছে: {joinRules}",
+  "changelog": "পরিবর্তন তালিকা",
+  "sendAsText": "টেক্সট হিসেবে পাঠান",
+  "language": "ভাষা",
+  "whoIsAllowedToJoinThisGroup": "কারা এই গ্রুপে যোগ দিতে পারবে",
+  "disableAppLock": "পাসকোড নিষ্ক্রিয় করুন",
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOtherUserDescription": "অন্য ব্যবহারকারীকে যাচাই করলে আপনি নিশ্চিত হতে পারবেন আপনি কার সাথে চ্যাট করছেন। 💪\n\nআপনি যাচাই শুরু করলে উভয়ের অ্যাপে একটি পপআপ দেখাবে, যেখানে কিছু ইমোজি বা নম্বর মেলানো লাগবে।",
+  "notificationRuleIsUserMentionDescription": "বার্তায় ব্যবহারকারীকে সরাসরি উল্লেখ করা হলে নোটিফিকেশন দেয়।",
+  "removeMessages": "বার্তাসমূহ মুছে ফেলুন",
+  "missedCall": "মিসড কল",
+  "setLowPriority": "কম অগ্রাধিকার সেট করুন",
+  "notificationRuleMemberEventDescription": "সদস্যপদ ইভেন্টগুলির জন্য নোটিফিকেশন বন্ধ রাখে।",
+  "oneDay": "১ দিন",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "সেটিংস",
+  "hideRoomsInSpaces": "স্পেসের অন্তর্ভুক্ত রুমগুলো লুকান",
+  "doubleTapToReact": "প্রতিক্রিয়া জানাতে ডাবল-ট্যাপ করুন",
+  "ignoredUsers": "উপেক্ষিত ব্যবহারকারীগণ",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "আপনি কি নিশ্চিত যে {name} ডিভাইসটি মুছে ফেলতে চান?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} মিনিট",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "previewAudio": "[অডিও]",
+  "publicGroupWeb3": "Web3 ও ভার্চুয়াল সম্পদ ট্রেডিং",
+  "commandHint_logoutall": "সমস্ত সক্রিয় ডিভাইস থেকে লগআউট করুন",
+  "askSSSSSign": "অন্য ব্যক্তিকে স্বাক্ষর করতে সক্ষম হতে, অনুগ্রহ করে আপনার সিকিউর স্টোর পাসফ্রেজ বা রিকভারি কি দিন।",
+  "logoutDescription": "আপনি কি নিশ্চিত যে NYX অ্যাকাউন্ট থেকে লগআউট করতে চান?",
+  "fileSaved": "ফাইল সংরক্ষিত হয়েছে",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "aboutYourselfDescription": "আপনার নিজের সম্পর্কে একটি বিবরণ।",
+  "kickUserDescription": "ব্যবহারকারীকে চ্যাট থেকে বের করে দেওয়া হয় তবে নিষিদ্ধ করা হয় না। পাবলিক চ্যাটে তারা পুনরায় যোগ দিতে পারবে।",
+  "isTyping": "টাইপ করছেন",
+  "compareNumbersMatch": "অনুগ্রহ করে সংখ্যাগুলো মিলিয়ে দেখুন",
+  "setChatDescription": "চ্যাট বিবরণ সেট করুন",
+  "mentionsOnly": "কেবল মেনশনসমূহ",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} চ্যাটের অবতার পরিবর্তন করেছেন",
+  "createGroup": "গ্রুপ তৈরি করুন",
+  "videoCall": "ভিডিও কল",
+  "redactedAnEvent": "{username} একটি ইভেন্ট মুছে ফেলেছে",
+  "noMatrixServer": "{server1} কোনো ম্যাট্রিক্স সার্ভার নয়, এর বদলে {server2} ব্যবহার করবেন?",
+  "previewVoice": "[ভয়েস]",
+  "editCommunity": "কম্যুনিটি সম্পাদনা করুন",
+  "invalidInput": "অকার্যকর ইনপুট!",
+  "emptyPinnedDesc": "আপনি চ্যাট সেটিংসে চ্যাট পিন করতে পারেন",
+  "enterValidEmail": "একটি সঠিক ইমেইল দিন",
+  "commandHint_sendraw": "র' (raw) json পাঠান",
+  "notificationRuleContainsUserName": "ব্যবহারকারীর নাম অন্তর্ভুক্ত",
+  "createGroupAndInviteUsers": "একটি গ্রুপ তৈরি করুন এবং ব্যবহারকারীদের আমন্ত্রণ জানান",
+  "hideRedactedMessagesBody": "কেউ বার্তা মুছে ফেললে তা চ্যাটে আর দৃশ্যমান হবে না।",
+  "openAppToReadMessages": "বার্তা পড়তে অ্যাপ খুলুন",
+  "createdTheChat": "💬 {username} চ্যাট তৈরি করেছেন",
+  "googlyEyesContent": "{senderName} আপনাকে ইশারা পাঠিয়েছে",
+  "clearChatHistory": "চ্যাট ইতিহাস মুছে ফেলুন",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyGroupChatsDesc": "অন্যান্য কথোপকথন দেখতে আপনি ফিল্টার তুলে নিতে পারেন",
+  "learnMore": "আরও জানুন",
+  "removeDevicesDescription": "আপনাকে এই ডিভাইস থেকে লগআউট করা হবে এবং আপনি আর বার্তা পাবেন না।",
+  "commandHint_invite": "প্রদত্ত ব্যবহারকারীকে এই ঘরে আমন্ত্রণ জানান",
+  "missedVideoCall": "মিসড ভিডিও কল",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "removeDevice": "ডিভাইস সরান",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "সবার জন্য দৃশ্যমান",
+  "appLockEnabled": "অ্যাপ লক পাসকোড সক্রিয় করা হয়েছে",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForServer": "সার্ভারের জন্য অপেক্ষা করা হচ্ছে...",
+  "changedTheProfileAvatar": "{username} তাদের অবতার পরিবর্তন করেছে",
+  "displayNavigationRail": "মোবাইলে নেভিগেশন রেল দেখান",
+  "verifyBeforeFirstMessageTitle": "এই ব্যবহারকারীকে যাচাই করবেন?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} {targetName} এর ওপর থেকে নিষেধাজ্ঞা তুলে নিয়েছে",
+  "startPoll": "জরিপ শুরু করুন",
+  "select": "নির্বাচন করুন",
+  "dehydrateWarning": "এই কাজ আর ফেরানো যাবে না। ব্যাকআপ ফাইলটি নিরাপদে রাখা নিশ্চিত করুন।",
+  "notificationRuleIsRoomMention": "রুম মেনশন",
+  "deleteAllMessages": "সকল বার্তা মুছে ফেলুন",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiMatch": "অনুগ্রহ করে ইমোজিগুলো মিলিয়ে দেখুন",
+  "directChats": "সরাসরি চ্যাটসমূহ",
+  "confirmEventUnpin": "আপনি কি নিশ্চিত যে ইভেন্টটি স্থায়ীভাবে আনপিন করতে চান?",
+  "editRoomAvatar": "রুমের অবতার সম্পাদনা করুন",
+  "reportUser": "ব্যবহারকারীর বিরুদ্ধে রিপোর্ট করুন",
+  "removeModeratorRights": "মডারেটর ক্ষমতা সরান",
+  "replaceRoomWithNewerVersion": "রুম নতুন সংস্করণ দ্বারা প্রতিস্থাপন করুন",
+  "otherPartyCanceledCall": "অপর পক্ষ কলটি বাতিল করেছে",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "emptyUnreadTitle": "কোন না পড়া বার্তা নেই",
+  "microphoneOffHint": "মাইক্রোফোন বন্ধ আছে",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "report": "রিপোর্ট",
+  "hideAvatarInRoomInviteRequests": "রুম আমন্ত্রণ অনুরোধে অবতার লুকান",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "যাচাইকরণ ব্যর্থ হয়েছে",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "সার্ভারে আপনার মেসেজ কি নিরাপদে রাখুন যাতে যে কোনো ডিভাইসে চ্যাট হিস্ট্রি দেখা যায়।",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "translateFailed": "অনুবাদ ব্যর্থ হয়েছে। পরে আবার চেষ্টা করুন।",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "encryptThisChat": "এই চ্যাট এনক্রিপ্ট করুন",
+  "compareEmojiSameBody": "নিচের ইমোজিগুলি অন্য ডিভাইসে দেখানো ইমোজির অনুরূপ কিনা তা যাচাই করুন",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetRecoveryKey": "রিকভারি কি রিসেট করুন",
+  "autoDeleteDescription": "নির্দিষ্ট সময় পর পর অটোমেটিক বার্তা মুছে ফেলুন",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 NYX-এ নতুন বার্তা",
+  "unknownFile": "অজানা ফাইল",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "sentAVideo": "🎥 {username} একটি ভিডিও পাঠিয়েছে",
+  "contactHasBeenInvitedToTheGroup": "যোগাযোগের ব্যক্তি গ্রুপে আমন্ত্রিত হয়েছেন",
+  "messageNotifications": "বিজ্ঞপ্তি",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "uploading": "আপলোড হচ্ছে",
+  "allowMultipleAnswers": "একাধিক উত্তরের অনুমতি দিন",
+  "storeInAppleKeyChain": "Apple KeyChain-এ সংরক্ষণ করুন",
+  "hasWithdrawnTheInvitationFor": "{username} {targetName} এর জন্য আমন্ত্রণ প্রত্যাহার করেছে",
+  "identityServer": "আইডেন্টিটি সার্ভার:",
+  "enterCodeSentTo": "অনুগ্রহ করে ইমেইলে পাঠানো যাচাইকরণ কোডটি লিখুন: {email}",
+  "verifyNow": "এখনই যাচাই করুন",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} সেকেন্ড",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "chatDetails": "চ্যাট বিবরণ",
+  "commandHint_unban": "প্রদত্ত ব্যবহারকারীর ওপর থেকে নিষেধাজ্ঞা সরান",
+  "onlineKeyBackupEnabled": "অনলাইন কি ব্যাকআপ সক্রিয় রয়েছে",
+  "oopsPushError": "উফ! নোটিফিকেশন সেটআপ করার সময় সমস্যা হয়েছে।",
+  "knownSince": "পরিচিত হওয়ার সময়কাল: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "sendOnEnter": "Enter চাপলে মেসেজ পাঠান",
+  "publicGroupMarketing": "ট্রাফিক এবং মার্কেটিং",
+  "alwaysHide": "সবসময় লুকান",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "আপনার অবতার সরিয়ে ফেলুন",
+  "sendRoomNotifications": "@room নোটিফিকেশন পাঠান",
+  "tooManyRequestsWarning": "অনেক বেশি অনুরোধ করা হয়েছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন!",
+  "clearArchive": "আর্কাইভ খালি করুন",
+  "doubleTapToReactDescription": "টেক্সট নির্বাচনের পরিবর্তে প্রতিক্রিয়া পাঠাতে ডাবল-ট্যাপ করুন",
+  "reject": "প্রত্যাখ্যান করুন",
+  "whyDoYouWantToReportThis": "আপনি কেন এটি রিপোর্ট করতে চান?",
+  "unmuteChat": "আনমিউট",
+  "previewImage": "[ছবি]",
+  "emptyUsersDesc": "অন্যান্য কথোপকথন দেখতে আপনি ফিল্টার তুলে নিতে পারেন",
+  "accountsAndSettings": "অ্যাকোউন্ট এবং সেটিংস",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "doesNotSeemToBeAValidHomeserver": "সামঞ্জস্যপূর্ণ হোমসার্ভার বলে মনে হচ্ছে না। ইউআরএল সঠিক তো?",
+  "addModeratorHelp": "কম্যুনিটি পরিচালনায় মডারেটর যোগ করতে পারেন।",
+  "unsignedDevice": "স্বাক্ষরহীন (Unsigned) ডিভাইস",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceIdentityKey": "ডিভাইস আইডেন্টিটি কি",
+  "continueText": "চালিয়ে যান",
+  "sendAudio": "অডিও পাঠান",
+  "userWithdrewAMessage": "{username} একটি বার্তা প্রত্যাহার করেছে",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "searchIn": "চ্যাটে খুঁজুন \"{chat}\"...",
+  "storeRecoveryKeyDescription": "এনক্রিপ্ট করা বার্তা পুনরুদ্ধার করার জন্য আপনার রিকভারি কি লিখে রাখুন।",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newGroupChat": "নতুন গ্রুপ চ্যাট",
+  "changeYourAvatar": "আপনার অবতার পরিবর্তন করুন",
+  "notificationRuleEncryptedRoomOneToOne": "এনক্রিপ্ট করা ওয়ান-টু-ওয়ান রুম",
+  "emptyGroupChatsTitle": "আপনি কোনো গ্রুপে যোগ দেননি",
+  "searchMembers": "সদস্য খুঁজুন",
+  "leaveEmptyToClearStatus": "স্ট্যাটাস খালি করতে ফাঁকা রাখুন।",
+  "joinRoomFound": "মিল থাকা রুম পাওয়া গেছে",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyUsersTitle": "আপনার কোনো সরাসরি বার্তা নেই",
+  "blockUsers": "ব্যবহারকারীদের ব্লক করুন",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generalNotificationSettings": "সাধারণ নোটিফিকেশন সেটিংস",
+  "biometricsDescription": "বায়োমেট্রিক দিয়ে অ্যাপ আনলক করুন।",
+  "unexpectedErrorOccurded": "একটি অপ্রত্যাশিত ত্রুটি ঘটেছে: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessageDescription": "বার্তার সবার কাছ থেকে মুছে যাবে। এটি আর ফেরানো যাবে না।",
+  "video": "ভিডিও",
+  "@video": {
+    "placeholders": {}
+  },
+  "changedTheHistoryVisibilityTo": "{username} চ্যাট ইতিহাসের দৃশ্যমানতা করেছে: {rules}",
+  "torch": "ফ্ল্যাশলাইট",
+  "open": "খুলুন",
+  "youRejectedTheInvitation": "আপনি আমন্ত্রণ প্রত্যাখ্যান করেছেন",
+  "addMembers": "সদস্য যোগ করুন",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "databaseMigrationTitle": "ডাটাবেস অপ্টিমাইজ করা হয়েছে",
+  "changeCommunityAvatar": "কম্যুনিটি অবতার পরিবর্তন করুন",
+  "loginWelcomeSubtitle": "{appName}-এ স্বাগতম, একটি দ্রুত ও সহজ বার্তা পাঠানোর অ্যাপ।",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "addModerator": "মডারেটর যোগ করুন",
+  "notificationRuleCallDescription": "কল সম্পর্কিত নোটিফিকেশন দেয়।",
+  "nameDescription": "আপনার নাম দিন এবং একটি অবতার যুক্ত করুন।",
+  "deletePushRuleCanNotBeUndone": "নোটিফিকেশন সেটিং মুছে ফেললে এটি আর ফেরানো যাবে না।",
+  "obtainingLocation": "অবস্থান নেওয়া হচ্ছে...",
+  "commandHint_unignore": "প্রদত্ত ম্যাট্রিক্স আইডির ওপর থেকে উপেক্ষা তুলে নিন",
+  "isReadyForKeyVerification": "{sender} কি যাচাইয়ের জন্য প্রস্তুত",
+  "deviceIdLabel": "ডিভাইস আইডি",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "playSoundOnNotification": "বিজ্ঞপ্তিতে শব্দ বাজান",
+  "shareLocation": "অবস্থান শেয়ার করুন",
+  "lastLogin": "সর্বশেষ লগইন",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "মেনশনসমূহ",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "আপলোডের জন্য অপ্টিমাইজ করুন",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "গ্লোবালি ইমোট প্যাক সক্রিয় করুন",
+  "removeModeratorSuccess": "মডারেটর অধিকার সরানো হয়েছে",
+  "gallery": "গ্যালারি",
+  "tagName": "ট্যাগ নাম",
+  "searchChatsRooms": "খুঁজুন #চ্যাট, @ব্যবহারকারী...",
+  "commandHint_hug": "কোলাকুলি পাঠান",
+  "countReplies": "{count, plural, =1{একটি উত্তর} other{{count}টি উত্তর}}",
+  "commandHint_send": "টেক্সট পাঠান",
+  "privacy": "গোপনীয়তা",
+  "redactedBy": "{username} মুছে ফেলেছেন",
+  "demoteToMember": "সাধারণ সদস্যে অবনমিত করুন",
+  "notSupportedOnThisDevice": "এই ডিভাইসে সমর্থিত নয়",
+  "name": "নাম",
+  "sentAFile": "📁 {username} একটি ফাইল পাঠিয়েছে",
+  "rotateLeft": "বামে ঘোড়ান",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "একটি পাসকোড চয়ন করুন",
+  "joinRoomInvalid": "অকার্যকর ঠিকানা!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editImage": "ছবি সম্পাদনা করুন",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "crossVerifiedDevicesIfEnabled": "সক্রিয় থাকলে ক্রস-যাচাইকৃত ডিভাইসসমূহ",
+  "unsetLowPriority": "কম অগ্রাধিকার উঠিয়ে নিন",
+  "noMessagesYet": "এখনও কোনো বার্তা নেই",
+  "publicGroups": "পাবলিক গ্রুপসমূহ",
+  "commandHint_discardsession": "সেশন বাতিল করুন",
+  "previewVideoCall": "[ভিডিও কল]",
+  "whoCanPerformWhichAction": "কে কোন কাজটি করতে পারবে",
+  "cuddleContent": "{senderName} আপনাকে জড়িয়ে ধরেছে",
+  "verifyOtherUser": "🔐 অন্য ব্যবহারকারী যাচাই করুন",
+  "youBannedUser": "আপনি {user} কে নিষিদ্ধ করেছেন",
+  "website": "ওয়েবসাইট",
+  "createNewAccount": "নতুন অ্যাকাউন্ট তৈরি করুন",
+  "ethereumMainnetAddress": "Ethereum প্রধান নেটওয়ার্ক ঠিকানা",
+  "goToSpace": "স্পেসে যান: {space}",
+  "emojis": "ইমোজি",
+  "tryAgain": "আবার চেষ্টা করুন",
+  "blockDevice": "ডিভাইস ব্লক করুন",
+  "publicGroupTech": "প্রযুক্তি এবং উন্নয়ন সেবা",
+  "youInvitedUser": "📩 আপনি {user} কে আমন্ত্রণ জানিয়েছেন",
+  "roomHasBeenUpgraded": "রুমের সংস্করণ আপগ্রেড করা হয়েছে",
+  "eraser": "রবার (Eraser)",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "নতুন পাসফ্রেজ",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "knock": "নক করুন",
+  "createGroupChat": "গ্রুপ চ্যাট তৈরি করুন",
+  "hideInvalidOrUnknownMessageFormats": "অকার্যকর বার্তা ফরম্যাট লুকান",
+  "emoteInvalid": "অকার্যকর ইমোট শটকোড!",
+  "saveRecoveryKeyDescription": "নিরাপদ স্থানে যেমন পাসওয়ার্ড ম্যানেজারে রিকভারি কি সংরক্ষণ করুন।",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "যোগাযোগের ব্যক্তি যোগ করুন",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "বিবরণ",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "ভূমিকা ও অনুমতিসমূহ",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startScreensharing": "স্ক্রিন শেয়ারিং শুরু করুন",
+  "sendFile": "ফাইল পাঠান",
+  "youHaveWithdrawnTheInvitationFor": "আপনি {user} এর জন্য আমন্ত্রণ প্রত্যাহার করেছেন",
+  "changedTheHistoryVisibility": "{username} ইতিহাস দৃশ্যমানতা পরিবর্তন করেছে",
+  "removeFromBundle": "এই বান্ডেল থেকে সরিয়ে দিন",
+  "changeCommunityName": "কম্যুনিটি নাম পরিবর্তন করুন",
+  "visibleForAllParticipants": "সকল অংশগ্রহণকারীদের জন্য দৃশ্যমান",
+  "spaceName": "স্পেস নাম",
+  "deleteMessage": "বার্তা মুছুন",
+  "verificationFailedBody": "অনুরোধের সময় শেষ হয়েছে বা বাতিল হয়েছে।",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "countChats": "{chats}টি চ্যাট",
+  "notificationRuleReaction": "প্রতিক্রিয়া",
+  "crop": "ক্রপ করুন",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "countVotes": "{count, plural, =1{১টি ভোট} other{{count}টি ভোট}}",
+  "newPassword": "নতুন পাসওয়ার্ড",
+  "muteChat": "মিউট",
+  "addLink": "লিঙ্ক যোগ করুন",
+  "sentASticker": "😊 {username} একটি স্টিকার পাঠিয়েছে",
+  "resetPermissionsConfirmMessage": "আপনি কি নিশ্চিত যে সব অনুমতি ডিফল্ট সেটিংসে ফেরত পাঠাবেন?",
+  "shareCrashReports": "ক্র্যাশ রিপোর্ট শেয়ার করুন",
+  "adminLevel": "{level} - অ্যাডমিন",
+  "draw": "আঁকুন",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "পাসফ্রেজ মিলে গেছে",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "রুমের ঠিকানা দিন",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} জন টাইপ করছেন…",
+  "warning": "সতর্কতা!",
+  "retry": "পুনরায় চেষ্টা করুন",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "পুরানো ডিভাইস না থাকলে রিকভারি কি ব্যবহার করে এনক্রিপ্ট করা মেসেজ পুনরুদ্ধার করুন",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "পাবলিক রুম না থাকলে তবেই এনক্রিপশন চালুর অনুমতি মিলবে।",
+  "repeatPassphrase": "পাসফ্রেজ পুনরায় লিখুন",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "না",
+  "saveRecoveryKey": "রিকভারি কি সংরক্ষণ করুন",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "walletAddress": "ওয়ালেট ঠিকানা",
+  "locationPermissionDeniedNotice": "লোকেশন অনুমতি প্রত্যাখ্যাত। লোকেশন শেয়ার করতে অনুমতি প্রদান করুন।",
+  "shareCrashReportsDescription": "ডেভেলপারদের সাথে ক্র্যাশ রিপোর্ট অটোমেটিক শেয়ার করবেন?",
+  "appLockForgetWarning": "নোট: পাসকোড ভুলে গেলে অ্যাপ পুনরায় ইনস্টল করতে হবে।",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "anyoneCanJoin": "যে কেউ যোগ দিতে পারবে",
+  "savedToGallery": "গ্যালারিতে সংরক্ষিত হয়েছে",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "addAnswerOption": "উত্তরের বিকল্প যোগ করুন",
+  "youAreReadyToStart": "আপনি শুরু করতে প্রস্তুত!",
+  "bindNewEmail": "নতুন ইমেইল যুক্ত করুন",
+  "commandHint_googly": "ইশারা পাঠান",
+  "deleteAllMessagesConfirmation": "আপনি কি সমস্ত বার্তা মুছে ফেলার ব্যাপারে নিশ্চিত?",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteViaLink": "লিঙ্কের মাধ্যমে আমন্ত্রণ জানান",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "online": "অনলাইন",
+  "@online": {
+    "placeholders": {}
+  },
+  "changeSettings": "সেটিংস পরিবর্তন করুন",
+  "oldPassword": "পুরানো পাসওয়ার্ড",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appDescription": "বিকেন্দ্রীভূত [matrix] নেটওয়ার্কে সহজে সুরক্ষিত যোগাযোগ তৈরি করুন।",
+  "custom": "কাস্টম",
+  "swipeRightToLeftToReply": "উত্তর দিতে ডান থেকে বামে সোয়াইপ করুন",
+  "generatingRecoveryKey": "রিকভারি কি তৈরি হচ্ছে…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyPinnedTitle": "কোন পিন করা চ্যাট নেই",
+  "oneMonth": "১ মাস",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "পাসওয়ার্ড ভুলে গেছেন",
+  "wasDirectChatDisplayName": "ফাঁকা চ্যাট (পূর্বে {oldDisplayName} ছিল)",
+  "logs": "লগসমূহ",
+  "messageInfo": "বার্তা সংক্রান্ত তথ্য",
+  "contentHasBeenReported": "বিষয়বস্তুটি সার্ভার অ্যাডমিনকে রিপোর্ট করা হয়েছে",
+  "notificationRuleRoomOneToOneDescription": "ওয়ান-টু-ওয়ান রুমের বার্তার জন্য নোটিফিকেশন দেয়।",
+  "joinGroupBannerTitle": "গ্রুপ চ্যাটে যোগ দিন, যুক্ত থাকুন",
+  "addEmail": "ইমেইল যোগ করুন",
+  "thisDevice": "এই ডিভাইস:",
+  "usernameRuleHint": "আপনি a-z, 0-9 এবং underscores ব্যবহার করতে পারেন। সর্বনিম্ন ৫ অক্ষর।",
+  "waitingPartnerEmoji": "পার্টনারের ইমোজি গ্রহণের অপেক্ষা করা হচ্ছে...",
+  "commandHint_html": "HTML-ফরম্যাট করা টেক্সট পাঠায়",
+  "redactMessage": "বার্তা সংবেদনশীল করে মুছুন",
+  "newChatRequest": "📩 নতুন চ্যাটের অনুরোধ",
+  "poll": "জরিপ",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hiddenPoll": "গুপ্ত জরিপ",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "walletForLogin": "NYX অ্যাকাউন্টে লগইন করতে ব্যবহৃত হয়।",
+  "verificationSuccessTitle": "যাচাইকরণ সফল হয়েছে",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notificationRuleRoomnotif": "রুম বিজ্ঞপ্তি",
+  "storeSecurlyOnThisDevice": "এই ডিভাইসে নিরাপদে সংরক্ষণ করুন",
+  "appLock": "অ্যাপ লক",
+  "changeTheme": "আপনার থিম পছন্দ পরিবর্তন করুন",
+  "verifyRequestBody": "নিরাপত্তার স্বার্থে অন্য ব্যবহারকারী পরিচয় যাচাই করতে চায়।",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "speaker": "স্পিকার",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "makeAdmin": "অ্যাডমিন করুন",
+  "agreement": "চুক্তিপত্র",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrScanNotFound": "কোন QR কোড পাওয়া যায়নি",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "changeAppLock": "পাসকোড পরিবর্তন করুন",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmMatrixId": "অ্যাকাউন্ট মুছতে ম্যাট্রিক্স আইডি নিশ্চিত করুন।",
+  "ipAddressLabel": "IP ঠিকানা",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newEmailSameAsOld": "নতুন ইমেইলটি বর্তমান ইমেইলের মত হতে পারবে না",
+  "minutesUnit": "মিনিট",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "এই ডিভাইসে নোটিফিকেশন দিন",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notificationRuleMaster": "সমস্ত নোটিফিকেশন মিউট করুন",
+  "notificationRuleJitsiDescription": "Jitsi উইজেট ইভেন্টের বিজ্ঞপ্তি প্রদান করে।",
+  "noRoomsFound": "কোন রুম পাওয়া যায়নি...",
+  "support": "সহায়তা",
+  "commandHint_me": "নিজের বিবরণ দিন",
+  "notificationRuleTombstone": "টুম্বস্টোন (Tombstone)",
+  "noInviteLink": "এই গ্রুপের জন্য কোনো লিঙ্ক নেই",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "notificationRuleMemberEvent": "সদস্য সংক্রান্ত ইভেন্ট",
+  "privacyAndSecurity": "গোপনীয়তা ও নিরাপত্তা",
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "getVerificationCode": "যাচাইকরণ কোড পান",
+  "enterLockPasscode": "অনুগ্রহ করে আপনার পাসকোডটি লিখুন",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "serverRespondedWithError": "সার্ভার একটি ত্রুটি বার্তা দিয়েছে: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseFollowInstructionsOnWeb": "ওয়েবসাইটের নির্দেশাবলী অনুসরণ করে পরবর্তী ধাপে ক্লিক করুন।",
+  "userAndUserAreTyping": "{username} এবং {username2} টাইপ করছেন...",
+  "waitingPartnerNumbers": "পার্টনারের নম্বরসমূহ গ্রহণের জন্য অপেক্ষা করা হচ্ছে...",
+  "couldNotOpenFile": "ফাইল খোলা যাচ্ছে না",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unpin": "আনপিন করুন",
+  "skipChatBackup": "চ্যাট ব্যাকআপ এড়িয়ে যান",
+  "fileHasBeenSavedAt": "ফাইল {path} এ সংরক্ষিত হয়েছে",
+  "removeFromSpaceDescription": "চ্যাটটি স্পেস থেকে সরানো হবে কিন্তু আপনার চ্যাট তালিকায় থাকবে।",
+  "roomVersion": "রুমের সংস্করণ",
+  "pleaseClickOnLink": "ইমেইলের লিঙ্কে ক্লিক করে এগিয়ে যান।",
+  "errorObtainingLocation": "অবস্থান পেতে ত্রুটি হয়েছে: {error}",
+  "link": "লিঙ্ক",
+  "noDevicesFound": "কোন ডিভাইস পাওয়া যায়নি",
+  "recoveryKeyCopied": "রিকভারি কি অনুলিপি করা হয়েছে",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createSticker": "স্টিকার বা ইমোজি তৈরি করুন",
+  "callBack": "কল ব্যাক করুন",
+  "recoveryKeySaved": "রিকভারি কি সংরক্ষিত হয়েছে",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "অনুগ্রহ করে পাসওয়ার্ড লিখুন",
+  "spaceIsPublic": "স্পেস সর্বজনীন (পাবলিক)",
+  "declineInviteConfirm": "আপনি কি নিশ্চিত যে {groupName} গ্রুপ চ্যাটে যোগদানের আমন্ত্রণ প্রত্যাখ্যান করবেন?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "searchMore": "আরও খুঁজুন...",
+  "openFile": "ফাইল খুলুন",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accessAndVisibility": "অ্যাক্সেস এবং দৃশ্যমানতা",
+  "chats": "চ্যাটসমূহ",
+  "contentModerationAndSecurity": "কন্টেন্ট মডারেশন ও নিরাপত্তা",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "searchOrEnterHomeserverAddress": "খুঁজুন বা হোমসার্ভার ঠিকানা লিখুন",
+  "waitingForParticipant": "অংশগ্রহণকারীর জন্য অপেক্ষা করা হচ্ছে...",
+  "setRecoveryKeyDescription": "সার্ভারে নিরাপদে আপনার মেসেজ কি ব্যাকআপ রাখুন যাতে আপনি যেকোনো নতুন ডিভাইসে চ্যাট দেখতে পারেন।",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endPoll": "জরিপ সমাপ্ত করুন",
+  "turnedOn": "চালু",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupAdmins": "গ্রুপ অ্যাডমিনবৃন্দ",
+  "joinRoom": "রুমে যোগ দিন",
+  "noResultsDescription": "কোনো ফলাফল পাওয়া যায়নি। পুনরায় চেষ্টা করুন।",
+  "publicKey": "পাবলিক কি: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "password": "পাসওয়ার্ড",
+  "surname": "পদবী (Surname)",
+  "permissions": "অনুমতিসমূহ",
+  "compress": "সংকুচিত করুন (Compress)",
+  "incomingCall": "আগত কল",
+  "callCanceled": "কল বাতিল করা হয়েছে",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "notificationRuleJitsi": "Jitsi",
+  "enterAppLockPasscode": "অনুগ্রহ করে লক পাসকোড দিন",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "পাসকোড দুটি মিলছে না",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "কলে ফিরে যেতে স্পর্শ করুন",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "noCandidatesToAdd": "যোগ করার মতো কোনো সদস্য নেই",
+  "federationBaseUrl": "ফেডারেশন বেস ইউআরএল",
+  "timeAgo": "{time} আগে",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "qrScanRecognizing": "শনাক্ত করা হচ্ছে...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "sendCanceled": "পাঠানো বাতিল করা হয়েছে",
+  "noOneCanJoin": "কেউ যোগ দিতে পারবে না",
+  "addToBundle": "বান্ডেলে যুক্ত করুন",
+  "contacts": "যোগাযোগসমূহ",
+  "statusExampleMessage": "আজ আপনি কেমন আছেন?",
+  "independentSettingsPerChat": "প্রতিটি চ্যাটের জন্য স্বতন্ত্র সেটিংস",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "অ্যাপ লক",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "callFailed": "কল ব্যর্থ হয়েছে",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "replace": "প্রতিস্থাপন করুন",
+  "moderator": "মডারেটর",
+  "noChatDescriptionYet": "এখনো কোনো বিবরণ তৈরি করা হয়নি।",
+  "previewSticker": "[স্টিকার]",
+  "sender": "প্রেরক",
+  "security": "নিরাপত্তা",
+  "signUpGreeting": "NYX বিকেন্দ্রীভূত! আপনার অ্যাকাউন্ট তৈরির জন্য সার্ভার বেছে নিয়ে শুরু করুন!",
+  "userIsTyping": "{username} টাইপ করছেন...",
+  "joinRoomContinue": "চালিয়ে যান",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatDescription": "{username} চ্যাটের বিবরণ পরিবর্তন করেছেন",
+  "powerLevel": "পাওয়ার লেভেল",
+  "passwordsDoNotMatch": "পাসওয়ার্ড দুটি মিলছে না",
+  "space": "স্পেস",
+  "moreEvents": "আরও ইভেন্ট",
+  "unlock": "আনলক করুন",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "পাসফ্রেজ অথবা রিকভারি কি",
+  "createAccount": "অ্যাকাউন্ট তৈরি করুন",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareKeysWith": "যাদের সাথে কি শেয়ার করবেন...",
+  "commandHint_myroomnick": "এই রুমের জন্য নাম সেট করুন",
+  "incomingCallFrom": "{user} এর থেকে কল আসছে",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_create": "একটি খালি চ্যাট গ্রুপ তৈরি করুন\nএনক্রিপশন বন্ধ করতে --no-encryption ব্যবহার করুন",
+  "thereAreCountUsersBlocked": "বর্তমানে {count} জন ব্যবহারকারীকে ব্লক রাখা হয়েছে।",
+  "changeTheHomeserver": "হোমসার্ভার পরিবর্তন করুন",
+  "mentionsAndKeywordsRoom": "কেবল মেনশন ও কীওয়ার্ডসমূহ",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "জমা দিন",
+  "pollHasBeenEnded": "জরিপ শেষ হয়েছে",
+  "sentCallInformations": "{senderName} কলের তথ্য পাঠিয়েছেন",
+  "unknownEvent": "অজানা ইভেন্ট '{type}'",
+  "verifyThisUser": "এই ব্যবহারকারীকে যাচাই করুন",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedKeyVerification": "{sender} কি-যাচাইকরণ শুরু করেছেন",
+  "restoreBootstrapDevicesDescription": "এই সেশন যাচাই করতে আপনার যেকোনো একটি অন্য ডিভাইস বাছাই করুন:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "callDurHourMinutes": "{hours} ঘণ্টা {minutes} মিনিট",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "emptyUnreadDesc": "আপনি চ্যাট সেটিংসে চ্যাট পিন করতে পারেন",
+  "importNow": "এখনই ইম্পোর্ট করুন",
+  "thisDeviceSection": "এই ডিভাইসটি",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "ইমোট শর্টকোড",
+  "enterVerificationCode": "যাচাইকরণ কোড দিন",
+  "inviteText": "{username} আপনাকে NYX-এ আমন্ত্রণ পাঠিয়েছে।\n1. NYX.im ভিজিট করুন অ্যাপ ইন্সটল করুন \n2. সাইন আপ বা লগইন করুন \n3. লিঙ্ক খুলুন: \n {link}",
+  "messageCanOnlyBeReadByUsers": "বার্তাটি অ্যান্ড-টু-অ্যান্ড এনক্রিপ্ট করা এবং শুধু এই ব্যবহারকারীরাই পড়তে পারবেন:",
+  "joinRoomFailed": "রুমে যোগদান ব্যর্থ হয়েছে",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "ইমোজিগুলি মিলিয়ে দেখুন যেন একই ক্রমানুসারে থাকে",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "toggleMicrophone": "মাইক্রোফোন চাল/বন্ধ করুন",
+  "setPowerLevel": "পাওয়ার লেভেল সেট করুন",
+  "unableToJoinChat": "চ্যাটে যোগ দিতে ব্যর্থ। অপর পক্ষ হয়তো চ্যাট বন্ধ করেছে।",
+  "hugContent": "{senderName} আপনাকে জড়িয়ে ধরেছেন",
+  "changeGeneralChatSettings": "সাধারণ চ্যাট সেটিংস পরিবর্তন করুন",
+  "join": "যোগ দিন",
+  "personalProfile": "প্রোফাইল",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeEmailDescription": "আপনার রিকভারি ইমেইল পরিবর্তন করতে পারেন পাসওয়ার্ড রিসেট সহজ করতে।",
+  "enableEncryptionWarning": "আপনি আর এনক্রিপশন বন্ধ করতে পারবেন না। নিশ্চিত?",
+  "saveRecoveryKeyTitle": "রিকভারি কি নিশ্চিত করুন",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "strikeThrough": "মাঝখান দিয়ে কাটা (Strikethrough)",
+  "adminsOnly": "শুধু অ্যাডমিনগণ",
+  "bio": "বায়ো (Bio)",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "আপনাকে এই গ্রুপ থেকে সরিয়ে দেওয়া হয়েছে",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "unreadChatsInApp": "{appname}: {unread} টি না পড়া চ্যাট",
+  "notificationRuleMessageDescription": "সাধারণ বার্তার জন্য নোটিফিকেশন প্রদান করে।",
+  "enterEmail": "ইমেইল লিখুন",
+  "appWantsToUseForLogin": "লগইনের জন্য '{server}' ব্যবহার করুন",
+  "nothingFound": "কিছু পাওয়া যায়নি...",
+  "startedAPoll": "{senderName} একটি জরিপ শুরু করেছেন",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "messageCanOnlyBeReadByUser": "আপনার বার্তাটি অ্যান্ড-টু-অ্যান্ড এনক্রিপ্ট করা এবং কেবল এই ব্যবহারকারীই দেখতে পারবেন:",
+  "searchForUsers": "ব্যবহারকারীদের অনুসন্ধান করুন @users...",
+  "messagesAndContent": "বার্তা এবং বিষয়বস্তু",
+  "notificationRuleInviteForMeDescription": "কাউকে কোনো ঘরে আমন্ত্রণ জানালে বিজ্ঞপ্তি দেয়।",
+  "end": "সমাপ্ত",
+  "@end": {
+    "placeholders": {}
+  },
+  "publicChatAddresses": "পাবলিক চ্যাট ঠিকানাসমূহ",
+  "commandHint_cuddle": "আদর পাঠান",
+  "openCamera": "ক্যামেরা খুলুন",
+  "notificationRuleIsRoomMentionDescription": "রুম উল্লেখ করা হলে নোটিফিকেশন প্রদান করে।",
+  "noMedia": "কোনো মিডিয়া নেই",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "নতুনদের জন্য ডিফল্ট অনুমতি মাত্রা",
+  "previewVideo": "[ভিডিও]",
+  "raiseHand": "হাত তুলুন",
+  "removeMember": "সদস্য সরান",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "enterCall": "কলে প্রবেশ করুন",
+  "showMediaInTimeline": "টাইমলাইনে মিডিয়া প্রদর্শন করুন",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unread": "পড়া হয়নি",
+  "discardEdits": "আপনার অসংরক্ষিত পরিবর্তন রয়েছে। পরিবর্তনগুলি বর্জন করবেন?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheRoomInvitationLink": "{username} আমন্ত্রণ লিঙ্ক পরিবর্তন করেছেন",
+  "wrongOldPasscode": "ভুল বর্তমান পাসকোড, পুনরায় চেষ্টা করুন",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "previewLocation": "[অবস্থান]",
+  "enterPassword": "পাসওয়ার্ড দিন",
+  "username": "ব্যবহারকারীর নাম",
+  "sourceCode": "সোর্স কোড",
+  "completedKeyVerification": "{sender} কি-যাচাইকরণ সম্পন্ন করেছেন",
+  "italicText": "বাঁকা লেখা (Italic)",
+  "bioEmpty": "কোনো বায়ো নেই",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "owner": "মালিক",
+  "camera": "ক্যামেরা",
+  "@camera": {
+    "placeholders": {}
+  },
+  "serverInformation": "সার্ভার তথ্য:",
+  "noticeChatBackupDeviceVerification": "নোট: আপনি ব্যাকআপে ডিভাইস যুক্ত করলে অটো যাচাই হয়ে যাবে।",
+  "removeAdminRights": "অ্যাডমিন ক্ষমতা সরিয়ে নিন",
+  "notificationRuleMasterDescription": "সব নিয়ম ওভাররাইড করে নোটিফিকেশন বন্ধ করে।",
+  "blockedUsers": "ব্লক করা ব্যবহারকারীগণ",
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "takeAPhoto": "ছবি তুলুন",
+  "changeTheDescriptionOfTheGroup": "চ্যাটের বিবরণ পরিবর্তন করুন",
+  "photosAndVideos": "ছবি এবং ভিডিও",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "groupWith": "{displayname} এর সাথে গ্রুপ",
+  "addToContacts": "যোগাযোগ তালিকায় যুক্ত করুন",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWaitCounter": "সিঙ্ক হচ্ছে... ({percentage}%)",
+  "banMember": "সদস্য নিষিদ্ধ করুন",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "blocked": "ব্লকড",
+  "databaseMigrationBody": "অনুগ্রহ করে অপেক্ষা করুন। কিছু সময় লাগতে পারে।",
+  "notificationRuleServerAcl": "সার্ভার ACL ইভেন্ট দমন করুন",
+  "sharedTheLocation": "{username} তাদের অবস্থান শেয়ার করেছেন",
+  "allDevices": "সকল ডিভাইসসমূহ",
+  "recentlyOnline": "সম্প্রতি অনলাইনে ছিলেন",
+  "countActiveCallMembers": "{count} জন সক্রিয় কল সদস্য",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "yourPublicKey": "আপনার পাবলিক কি",
+  "messageDeleted": "এই বার্তাটি মুছে ফেলা হয়েছে",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "daysUnit": "দিন",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signIn": "সাইন ইন",
+  "setWallpaper": "ওয়ালপেপার সেট করুন",
+  "invitedUser": "📩 {username} {targetName} কে আমন্ত্রণ জানিয়েছেন",
+  "addAdmin": "অ্যাডমিন যোগ করুন",
+  "disableEncryptionWarning": "নিরাপত্তাজনিত কারণে চ্যাটে পূর্বে সক্রিয় থাকা এনক্রিপশন বন্ধ করা সম্ভব নয়।",
+  "removeMembers": "সদস্যদের সরিয়ে দিন",
+  "unsupportedAndroidVersion": "অসমর্থিত অ্যান্ড্রয়েড সংস্করণ",
+  "memberListAdminOnlyNotice": "এই তালিকাটি শুধুমাত্র গ্রুপ অ্যাডমিনদের জন্য দৃশ্যমান।",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "changedTheChatPermissions": "{username} চ্যাট অনুমতি পরিবর্তন করেছেন",
+  "noUsersFoundWithQuery": "দুঃখিত, \"{query}\" দিয়ে কোনো ব্যবহারকারী খুঁজে পাওয়া যায়নি।",
+  "sendMessages": "বার্তা পাঠান",
+  "channelCorruptedDecryptError": "এনক্রিপশন ত্রুটি ঘটেছে",
+  "addAdminHelp": "কম্যুনিটি সামলাতে অ্যাডমিনদের যুক্ত করতে পারেন।",
+  "commandInvalid": "কমান্ড অকার্যকর",
+  "playbackSpeed": "প্লেব্যাক গতি",
+  "previous": "পূর্ববর্তী",
+  "setStatus": "স্ট্যাটাস সেট করুন",
+  "joinedTheChat": "👋 {username} চ্যাটে যোগ দিয়েছেন",
+  "fromTheInvitation": "আমন্ত্রণ থেকে",
+  "inviteContact": "যোগাযোগের ব্যক্তি আমন্ত্রণ করুন",
+  "passwordRecoverySettings": "পাসওয়ার্ড পুনরুদ্ধার সেটিংস",
+  "stateEventYou": "আপনি",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "গ্রুপের নাম পরিবর্তন করুন",
+  "users": "ব্যবহারকারীগণ",
+  "enableAppLock": "অ্যাপ লক চালু করুন",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "অনলাইন স্ট্যাটাস শেয়ার করুন",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheGuestAccessRules": "{username} অতিথি প্রবেশাধিকার নিয়ম পরিবর্তন করেছেন",
+  "messageNotDecryptable": "বার্তা ডিক্রিপ্ট করা সম্ভব নয়",
+  "kicked": "👞 {username} {targetName} কে বের করে দিয়েছে",
+  "matrixId": "ম্যাট্রিক্স আইডি (Matrix ID)",
+  "openGallery": "গ্যালারি খুলুন",
+  "guestsAreForbidden": "অতিথিদের প্রবেশ নিষেধ",
+  "configureChat": "চ্যাট কনফিগার করুন",
+  "contactsInThisChat": "এই চ্যাটের পরিচিতিগণ",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "declineInvitation": "আমন্ত্রণ প্রত্যাখ্যান করুন",
+  "noOtherDevicesFound": "অন্য কোনো ডিভাইস পাওয়া যায়নি",
+  "moreSettings": "আরও সেটিংস",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteKeyboardNoRecents": "সাম্প্রতিক ইমোটগুলো এখানে আসবে...",
+  "notificationRuleSuppressNoticesDescription": "বটের মতো অটোমেশন ক্লায়েন্ট থেকে আসা নোটিফিকেশন বন্ধ রাখে।",
+  "incorrectPassphraseOrKey": "ভুল পাসফ্রেজ অথবা রিকভারি কি",
+  "verifyBeforeFirstMessageBody": "প্রথম বার বার্তা পাঠানোর আগে নিরাপদতার জন্য এই ব্যবহারকারীকে যাচাই করতে পারেন।",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAdminConfirm": "এই ব্যবহারকারীর অ্যাডমিন ক্ষমতা সরিয়ে দেবেন?",
+  "mirror": "মিরর (Mirror)",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_markasgroup": "গ্রুপ হিসেবে চিহ্নিত করুন",
+  "moderatorLevel": "{level} - মডারেটর",
+  "earpiece": "ইয়ারপিস",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "attribution": "স্বীকৃতি (Attribution)",
+  "notificationRuleEncryptedRoomOneToOneDescription": "এনক্রিপ্ট করা ওয়ান-টু-ওয়ান রুমের বার্তার জন্য নোটিফিকেশন দেয়।",
+  "forwardCountMessages": "{count, plural, =1{একটি বার্তা} other{{count}টি বার্তা}} ফরওয়ার্ড করবেন?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "groupCanBeFoundViaSearch": "অনুসন্ধানের মাধ্যমে গ্রুপ পাওয়া যাবে",
+  "makeAdminDescription": "ব্যবহারকারীকে অ্যাডমিন করলে তারা সব সুবিধা পেয়ে যাবেন। এটি আর ফেরানো যাবে না।",
+  "compressingVideo": "ভিডিও সংকুচিত করা হচ্ছে...",
+  "encryptionNotEnabled": "এনক্রিপশন সক্রিয় নেই",
+  "changeEmail": "ইমেইল পরিবর্তন করুন",
+  "bannedUser": "{username} {targetName} কে নিষিদ্ধ করেছেন",
+  "notificationRuleServerAclDescription": "Server ACL ইভেন্টের জন্য নোটিফিকেশন বন্ধ রাখে।",
+  "answeredTheCall": "{senderName} কলের উত্তর দিয়েছেন",
+  "theProcessWasCanceled": "প্রক্রিয়াটি বাতিল করা হয়েছে।",
+  "noPasswordRecoveryDescription": "আপনি এখনও পাসওয়ার্ড পুনরুদ্ধারের কোনো উপায় যোগ করেননি।",
+  "allowCustomSettings": "কাস্টম সেটিংসের অনুমতি দিন",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidServerName": "অকার্যকর সার্ভার নাম",
+  "loginWithMatrixId": "Matrix-ID দিয়ে লগইন করুন",
+  "invalidUrl": "অকার্যকর URL",
+  "callRinging": "রিং হচ্ছে...",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "manageAccount": "অ্যাকাউন্ট পরিচালনা করুন",
+  "synchronizingPleaseWait": "সিঙ্ক হচ্ছে... অনুগ্রহ করে অপেক্ষা করুন।",
+  "supportFluffyChat": "NYX কে সমর্থন করুন",
+  "notificationRuleSuppressEditsDescription": "সম্পাদিত বার্তার জন্য নোটিফিকেশন বন্ধ রাখে।",
+  "appearance": "চেহারা/ডিসপ্লে (Appearance)",
+  "qrScanHint": "স্ক্যান করতে ফ্রেমের মধ্যে QR কোডটি রাখুন",
+  "changeDeviceName": "ডিভাইসের নাম পরিবর্তন করুন",
+  "showLess": "কম দেখান",
+  "setNewAvatar": "নতুন অবতার সেট করুন",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "গ্রহণ করা হলে আপনি যাচাইকরণ প্রক্রিয়া চালিয়ে যেতে পারবেন",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "প্রদর্শিত নাম সম্পাদনা করুন",
+  "commandHint_myroomavatar": "এই রুমের ছবি (mxc-uri দ্বারা) সেট করুন",
+  "recoveryKey": "রিকভারি কি",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreSessionBody": "অ্যাপ ব্যাকআপ থেকে তথ্য পুনরুদ্ধারের চেষ্টা করছে। ডেভেলপারদের সমস্যা জানাতে পারেন: {url}। ভুল বার্তা: {error}",
+  "unverified": "অযাচিত/অযাচাইকৃত",
+  "changeMyRoleConfirmMessage": "আপনি নিজের ক্ষমতা কমিয়ে নিচ্ছেন। এটি পুনরায় পাওয়া সম্ভব না-ও হতে পারে।",
+  "clickToCopyRecoveryKey": "রিকভারি কি কপি করতে ক্লিক করুন",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userLevel": "{level} - সাধারণ ব্যবহারকারী",
+  "clientWellKnownInformation": "Client-Well-Known সম্পর্কিত তথ্য:",
+  "couldNotDecryptMessage": "বার্তাটি ডিক্রিপ্ট করা যায়নি: {error}",
+  "blockUsername": "ব্যবহারকারীর নাম উপেক্ষা করুন",
+  "customReaction": "কাস্টম প্রতিক্রিয়া",
+  "callConnecting": "সংযুক্ত করা হচ্ছে...",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "unknownPushRule": "অজানা পুশ রুল '{rule}'",
+  "mute": "মিউট",
+  "pleaseWaitUntilInvited": "রুমের কেউ আপনাকে আমন্ত্রণ না জানানো পর্যন্ত অপেক্ষা করুন।",
+  "passphraseSpecialCharactersRequirement": "বিশেষ বর্ণ (Special Characters) ধারণ করে।",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "সিস্টেম থিম",
+  "members": "সদস্যগণ",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "toggleCamera": "ক্যামেরা পাল্টান",
+  "translate": "অনুবাদ করুন",
+  "@translate": {
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "কমপক্ষে ১২ টি অক্ষরের দীর্ঘ।",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatSearchedUntil": "{time} পর্যন্ত চ্যাট খোঁজা হয়েছে",
+  "approve": "অনুমোদন করুন",
+  "changedTheGuestAccessRulesTo": "{username} অতিথি প্রবেশাধিকার নিয়ম পরিবর্তন করে করেছে: {rules}",
+  "autoplayImages": "অ্যানিমেটেড স্টিকার ও ইমোট স্বয়ংসক্রিয়ভাবে প্লে করুন",
+  "verifyOtherDevice": "🔐 অন্য ডিভাইস যাচাই করুন",
+  "logInTo": "{homeserver}-এ লগইন করুন",
+  "enableThisWillOverrideDefault": "এটি সক্রিয় করলে ডিফল্ট সেটিংস ওভাররাইড হবে।",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sending": "পাঠানো হচ্ছে",
+  "oneClientLoggedOut": "আপনার একটি ক্লায়েন্ট অ্যাকাউন্ট থেকে বের করে দেওয়া হয়েছে",
+  "invite": "আমন্ত্রণ জানান",
+  "theyDontMatch": "মিলছে না",
+  "ended": "সমাপ্ত",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "stopRaiseHand": "হাত তোলা বন্ধ করুন",
+  "newStickerPack": "নতুন স্টিকার প্যাক",
+  "call": "কল",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "decline": "প্রত্যাখ্যান",
+  "youWithdrewAMessage": "আপনি একটি বার্তা প্রত্যাহার করেছেন",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "changePassword": "পাসওয়ার্ড পরিবর্তন করুন",
+  "archiveRoomDescription": "চ্যাটটি আর্কাইভে সরানো হবে। অন্যান্য ব্যবহারকারীরা দেখতে পাবে যে আপনি ঘরটি ছেড়েছেন।",
+  "createNewAddress": "নতুন ঠিকানা তৈরি করুন",
+  "videoCallCanceled": "ভিডিও কল বাতিল করা হয়েছে",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "jumpToLastReadMessage": "সর্বশেষ পড়া বার্তায় যান",
+  "noConnectionToTheServer": "সার্ভারের সাথে কোনো সংযোগ নেই",
+  "privateChat": "ব্যক্তিগত চ্যাটসমূহ",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedLocation": "শেয়ার করা অবস্থান",
+  "downloadFile": "ফাইল ডাউনলোড করুন",
+  "editBundlesForAccount": "এই অ্যাকাউন্টের জন্য বান্ডেল সম্পাদন করুন",
+  "requestedKeyVerification": "{sender} কি-যাচাইকরণের অনুরোধ করেছেন",
+  "opacity": "অস্বচ্ছতা (Opacity):",
+  "deleteGroupChatDescription": "গ্রুপ ধ্বংসের পরে সমস্ত সদস্য বাদ যাবে। এটি ফেরানো যাবে না।",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "commandHint_op": "প্রদত্ত ব্যবহারকারীর পাওয়ার লেভেল সেট করুন (ডিফল্ট: 50)",
+  "pleaseEnterANumber": "অনুগ্রহ করে 0 এর চেয়ে বড় একটি সংখ্যা দিন",
+  "displaynameHasBeenChanged": "প্রদর্শিত নাম পরিবর্তিত হয়েছে",
+  "offline": "অফলাইন",
+  "@offline": {
+    "placeholders": {}
+  },
+  "advancedConfigs": "উন্নত কনফিগারেশনসমূহ",
+  "logoutAllOtherSessions": "অন্যান্য সমস্ত সেশন থেকে লগআউট করুন",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDescription": "চ্যাট বিবরণ",
+  "notifyMeInThisChat": "এই চ্যাটে আমাকে বিজ্ঞপ্তি দিন",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "উপেক্ষা করুন",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setColorTheme": "কালার থিম নির্বাচন করুন:",
+  "copyToClipboard": "ক্লিপবোর্ডে কপি করুন",
+  "deleteContact": "যোগাযোগ মুছুন",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteGroupChat": "📨 গ্রুপ চ্যাটের আমন্ত্রণ",
+  "yes": "হ্যাঁ",
+  "pinMessage": "রুমে পিন করুন",
+  "normalSpeed": "স্বাভাবিক",
+  "hideUnknownEvents": "অজানা ইভেন্ট লুকান",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "exportEmotePack": ".zip হিসেবে ইমোট প্যাক এক্সপোর্ট করুন",
+  "noKeyForThisMessage": "আপনি এই ডিভাইসে লগইন করার পূর্বে বার্তাটি পাঠালে এমন হতে পারে।\n\nঅথবা প্রেরক আপনাকে ব্লক করে থাকতে পারে। সেটিংসে গিয়ে ব্যাকআপ সক্রিয় আছে কিনা নিশ্চিত করুন।",
+  "activeSessions": "সক্রিয় সেশনসমূহ",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "doubleTapReaction": "ডাবল-ট্যাপ প্রতিক্রিয়া",
+  "qrScanIsOwnAccount": "এটি আপনার নিজের অ্যাকাউন্টের QR কোড",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "deleteAccount": "অ্যাকাউন্ট মুছুন",
+  "screenLockPasscode": "স্ক্রিন লক",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bindEmailDescription": "NYX অ্যাকাউন্টে প্রবেশ নিশ্চিত করতে ইমেইল যুক্ত করুন।",
+  "changedTheDisplaynameTo": "{username} তাদের নাম পরিবর্তন করে করেছে: \"{displayname}\"",
+  "theyMatch": "এগুলি মিলে গেছে",
+  "today": "আজ",
+  "bind": "বাইন্ড (Bind)",
+  "selectLanguage": "ভাষা নির্বাচন করুন",
+  "otherPartyCanceledVideoCall": "অপর পক্ষ ভিডিও কলটি বাতিল করেছে",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "deactivateAccountWarning": "এটি আপনার অ্যাকাউন্টটি নিষ্ক্রিয় করবে। নিশ্চিত?",
+  "restoreBootstrapEmptyDevicesDescription": "ডিভাইস সুরক্ষিত করতে আপনার পাসফ্রেজ বা কি দিন।",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "একটি বার্তা লিখুন...",
+  "setAsCanonicalAlias": "প্রধান উফনাম হিসেবে সেট করুন",
+  "notificationRuleEncrypted": "এনক্রিপ্ট করা",
+  "spaceMemberOfCanKnock": "{spaces} এর সদস্যরা দরজায় নক করতে পারেন",
+  "stickers": "স্টিকারসমূহ",
+  "youAcceptedTheInvitation": "👍 আপনি আমন্ত্রণ গ্রহণ করেছেন",
+  "reply": "উত্তর",
+  "sendAMessage": "একটি বার্তা পাঠান",
+  "personalIntro": "ব্যক্তিগত পরিচয়",
+  "answerOption": "উত্তরের বিকল্প",
+  "qrScanInvalid": "অকার্যকর QR কোড",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "deletePoll": "জরিপ মুছে ফেলুন",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlockWithBiometrics": "বায়োমেট্রিক দিয়ে আনলক করুন",
+  "clientInfo": "ক্লায়েন্ট",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pushNotificationsNotAvailable": "পুশ নোটিফিকেশন উপলব্ধ নেই",
+  "changeMyRole": "আমার ভূমিকা পরিবর্তন করুন",
+  "setUpCryptoIdentity": "ক্রিপ্টো পরিচয় সেটআপ করুন",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "interactiveVerification": "ইন্টারেক্টিভ যাচাইকরণ",
+  "resetAccount": "অ্যাকাউন্ট রিসেট করুন",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatPermissions": "চ্যাট অনুমতিসমূহ",
+  "block": "ব্লক",
+  "user": "ব্যবহারকারী",
+  "darkTheme": "গাঢ় (Dark)",
+  "showThumbnailsInTimeline": "ছবি ও ভিডিওর থাম্বনেইল দেখান",
+  "lastActiveAgo": "সর্বশেষ সক্রিয়: {localizedTimeShort}",
+  "badServerLoginTypesException": "সার্ভারে সমর্থিত লগইন অপশনসমূহ:\n{serverVersions}\nকিন্তু অ্যাপ সমর্থন করে কেবল:\n{supportedVersions}",
+  "countUnverifiedDevices": "চ্যাটে {count}টি অযাচাইকৃত ডিভাইস।",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinGroupBannerDesc": "গ্রুপ বিষয় এবং সদস্য অনুযায়ী গঠিত। সমস্ত যুক্ত হওয়া চ্যাট দেখাবে।",
+  "forwarded": "সফলভাবে ফরওয়ার্ড করা হয়েছে",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickFromChat": "চ্যাট থেকে বের করে দিন",
+  "done": "সম্পন্ন",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "supportPage": "সহায়তা পৃষ্ঠা",
+  "youKickedAndBanned": "🙅 আপনি {user} কে বের এবং নিষিদ্ধ করেছেন",
+  "all": "সব",
+  "notifyMeInGroupChats": "গ্রুপ চ্যাটে আমাকে বিজ্ঞপ্তি দিন",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "selectMicrophone": "মাইক্রোফোন নির্বাচন করুন",
+  "askVerificationRequest": "{username} এর থেকে যাচাই অনুরোধ গ্রহণ করবেন?",
+  "waitingForParticipants": "অন্যদের যোগদানের জন্য অপেক্ষা করা হচ্ছে...",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "email": "ইমেইল",
+  "roomUpgradeDescription": "নতুন চ্যাট সংস্করণে পুনর্গঠিত হবে। আরও জানুন https://spec.matrix.org/latest/rooms/",
+  "noMoreChatsFound": "আর কোনো চ্যাট পাওয়া যায়নি...",
+  "mentionsAndKeywords": "কেবল মেনশন ও কীওয়ার্ডসমূহ",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "আপনি কি নিশ্চিত যে লগআউট করতে চান?",
+  "userSentUnknownEvent": "{username} একটি {type} ইভেন্ট পাঠিয়েছে",
+  "userNotFound": "কোন ব্যবহারকারী পাওয়া যায়নি",
+  "groupIsPublic": "গ্রুপটি সর্বজনীন",
+  "enterPasswordAgain": "পুনরায় পাসওয়ার্ড লিখুন",
+  "setUpRecovery": "রিকভারি সেটআপ করুন",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "usernameDescription": "NYX-এ ইউজারনেম দিতে পারেন যাতে অন্যরা খুঁজতে পারে।",
+  "logoutAllOtherDevicesHint": "এই ডিভাইস ব্যতীত সমস্ত ডিভাইস থেকে বের হয়ে যান।",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "কি স্টোরেজের অনুমতি দিন",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "জরিপ শেষ হলে উত্তরগুলি দেখা যাবে",
+  "appSubtitle": "সুরক্ষিত [matrix] যোগাযোগ ব্যবস্থা",
+  "weSentYouAnEmail": "আমরা আপনাকে একটি ইমেইল পাঠিয়েছি",
+  "messages": "বার্তাসমূহ",
+  "unableToRegisterDeviceForFirebase": "ফায়ারবেসের সুবিধা সচল করা সম্ভব হয়নি।",
+  "startCall": "কল শুরু করুন",
+  "you": "আপনি",
+  "search": "অনুসন্ধান",
+  "makeModerator": "মডারেটর বানান",
+  "inviteOtherUsers": "এই চ্যাটে অন্য ব্যবহারকারীদের আমন্ত্রণ জানান",
+  "couldNotBeSent": "পাঠানো যায়নি",
+  "commandHint_logout": "বর্তমান ডিভাইস থেকে লগআউট করুন",
+  "verifyThisUserBody": "নিরাপত্তার জন্য দুই ডিভাইসে প্রতীক মেলাতে হবে।",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "কারণ",
+  "noKeysTransmitted": "কোন কি স্থানান্তরিত হয়নি। আবার চেষ্টা করুন।",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "callParticipantsCount": "কলে {count} জন ব্যক্তি আছেন",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "setAsAdminSuccess": "অ্যাডমিন হিসেবে সেট করা হয়েছে",
+  "noMoreResultsFound": "আর কোনো ফলাফল পাওয়া যায়নি",
+  "messageDecryptionFailed": "বার্তাটি ডিক্রিপ্ট করা সম্ভব হয়নি। পরে চেষ্টা করুন।",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "canceledKeyVerification": "{sender} কি যাচাই বাতিল করেছে",
+  "hangUp": "কল কাটুন",
+  "unencryptedMessage": "এনক্রিপ্ট না করা বার্তা",
+  "notificationRuleRoomnotifDescription": "বার্তায় '@room' থাকলে বিজ্ঞপ্তি দেয়।",
+  "otherPartyNotLoggedIn": "অপর পক্ষ বর্তমানে লগইন অবস্থায় নেই, তাই মেসেজ পাবেন না!",
+  "lastSeenLongAgo": "অনেক আগে শেষ দেখা গেছে",
+  "loadMore": "আরও লোড করুন...",
+  "selectSpeaker": "স্পিকার নির্বাচন করুন",
+  "setRemark": "মন্তব্য সেট করুন",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "formattedMessagesDescription": "মার্কডাউন ব্যবহার করে গাঢ় টেক্সটের মত সমৃদ্ধ বার্তা প্রদর্শন করুন।",
+  "youAreNoLongerParticipatingInThisChat": "আপনি আর এই চ্যাটে অংশগ্রহণ করছেন না",
+  "addAccount": "অ্যাকাউন্ট যোগ করুন",
+  "reportMessage": "বার্তা রিপোর্ট করুন",
+  "verifyOldAppLockPasscode": "অনুগ্রহ করে বর্তমান পাসকোড দিন",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "more": "আরও",
+  "commandHint_plain": "সাধারণ টেক্সট পাঠায়",
+  "signedDevice": "স্বাক্ষরিত (Signed) ডিভাইস",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "ফাইল ডাউনলোড হচ্ছে...",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editPoll": "জরিপ সম্পাদনা করুন",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notificationRuleContainsUserNameDescription": "বার্তায় আপনার নাম থাকলে বিজ্ঞপ্তি দেবে।",
+  "backToMainChat": "মূল চ্যাটে ফিরে যান",
+  "createNewChat": "নতুন চ্যাট তৈরি করুন",
+  "newPassphraseDescription": "বার্তা না হারানোর জন্য একটি শক্তিশালী পাসফ্রেজ বেছে নিন।",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banFromChat": "চ্যাট থেকে নিষিদ্ধ করুন",
+  "visibilityOfTheChatHistory": "চ্যাট ইতিহাস কতটুকু দেখতে পাবে",
+  "loadCountMoreParticipants": "আরও {count} জন অংশগ্রহণকারী লোড করুন",
+  "chatBackup": "চ্যাট ব্যাকআপ",
+  "changedTheJoinRules": "{username} যোগদানের নিয়ম পরিবর্তন করেছে",
+  "commandHint_roomupgrade": "রুমটি বর্তমান সংস্করণ থেকে আপডেট করুন",
+  "save": "সংরক্ষণ করুন",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "demoteToAdmin": "অ্যাডমিনে অবনমিত করুন",
+  "groupName": "গ্রুপের নাম",
+  "editRoomAliases": "রুমের উফনাম সম্পাদন করুন",
+  "newChat": "নতুন চ্যাট",
+  "newSpaceDescription": "স্পেস দিয়ে আপনি আপনার চ্যাটসমূহ একত্রিত করে কম্যুনিটি বানাতে পারেন।",
+  "pleaseFillOut": "অনুগ্রহ করে পূরণ করুন",
+  "createPasswordDescription": "অ্যাকাউন্ট নিরাপত্তার স্বার্থে পাসওয়ার্ড সেট করুন।",
+  "appLockDisabled": "অ্যাপ লক পাসকোড নিষ্ক্রিয় করা হয়েছে",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourGlobalUserIdIs": "আপনার গ্লোবাল ইউজার-আইডি: ",
+  "checkList": "চেকলিস্ট",
+  "unsupportedAndroidVersionLong": "এই সুবিধা পেতে নতুন অ্যান্ড্রয়েড প্রয়োজন।",
+  "manageMembers": "সদস্যদের পরিচালনা করুন",
+  "notificationRuleEncryptedDescription": "এনক্রিপ্ট করা রুমের বার্তার জন্য নোটিফিকেশন দেয়।",
+  "notificationRuleIsUserMention": "ব্যবহারকারীর উল্লেখ (Mention)",
+  "createNewTag": "নতুন ট্যাগ তৈরি করুন",
+  "compareEmoji": "ইমোজি মিলিয়ে দেখুন",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recordAVideo": "ভিডিও রেকর্ড করুন",
+  "interactiveVerificationDescription": "সংখ্যা বা ইমোজি মেলাবার মাধ্যমে ডিভাইস যাচাই করে নিন।",
+  "qrScanFailed": "শনাক্তকরণ ব্যর্থ হয়েছে",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "গ্রুপে মেনশন করা হলে আমাকে বিজ্ঞপ্তি দিন",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_clearcache": "ক্যাশে খালি করুন",
+  "pleaseEnterYourCurrentPassword": "অনুগ্রহ করে বর্তমান পাসওয়ার্ড লিখুন",
+  "dehydrate": "সেশন এক্সপোর্ট এবং ডিভাইস ডাটা পরিষ্কার",
+  "mediaAndFiles": "মিডিয়া এবং ফাইলসমূহ",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notificationRuleContainsDisplayName": "প্রদর্শিত নাম অন্তর্ভুক্ত",
+  "createNewSpace": "নতুন স্পেস",
+  "createPassword": "পাসওয়ার্ড তৈরি করুন",
+  "flipCamera": "ক্যামেরা ঘুরিয়ে নিন",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "disableBiometrics": "বায়োমেট্রিক সুবিধা নিষ্ক্রিয় করুন",
+  "pin": "পিন করুন",
+  "active": "সক্রিয়",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "অন্যান্য সব ডিভাইস সরিয়ে নিন",
+  "noContactInformationProvided": "সার্ভারে যোগাযোগের সঠিক কোনো তথ্য নেই",
+  "notificationRuleContainsDisplayNameDescription": "বার্তায় আপনার প্রদর্শিত নাম থাকলে নোটিফিকেশন পাঠায়।",
+  "commandHint_markasdm": "প্রদত্ত আইডির সাথে সরাসরি চ্যাট হিসেবে চিহ্নিত করুন",
+  "qrScanEmpty": "QR কোডে কিছু পাওয়া যায়নি",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "notifyAll": "সব ধরনের বার্তা",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "চ্যাট ত্যাগ করেছেন",
+  "groupModerators": "গ্রুপ মডারেটরগণ",
+  "clientIdLabel": "ক্লায়েন্ট আইডি",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImages": "{count}টি ছবি পাঠান",
+  "sorryThatsNotPossible": "দুঃখিত... এটি সম্ভব নয়",
+  "callEnded": "কল সমাপ্ত হয়েছে",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "noDatabaseEncryption": "ডাটাবেস এনক্রিপশন এই প্ল্যাটফর্মে সমর্থিত নয়",
+  "messageNotify": "বার্তা নোটিফিকেশন",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "ক্রিপ্টো আইডেন্টিটি রিসেট করুন",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "অথবা",
+  "storeInAndroidKeystore": "Android KeyStore-এ সংরক্ষণ করুন",
+  "enableBiometrics": "বায়োমেট্রিক সচল করুন",
+  "unbanFromChat": "চ্যাট থেকে নিষেধাজ্ঞা সরিয়ে নিন",
+  "sessionLostBody": "আপনার সেশন হারিয়ে গেছে। ত্রুটিটি রিপোর্ট করুন {url} ঠিকানায়। ত্রুটি বার্তা: {error}",
+  "rejectedTheInvitation": "{username} আমন্ত্রণ প্রত্যাখ্যান করেছে",
+  "certifiedGroups": "{count}টি প্রত্যয়িত গ্রুপ",
+  "pinnedMessages": "পিন করা বার্তাসমূহ",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "scanQrCode": "QR কোড স্ক্যান করুন",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startChat": "চ্যাট শুরু করুন",
+  "sendTypingNotificationsDescription": "আপনি টাইপ করার সময় অন্যরা তা দেখতে পাবে।",
+  "notifyMeInPrivateChats": "ব্যক্তিগত চ্যাটে আমাকে বিজ্ঞপ্তি দিন",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "totalPollVotes": "মোট ভোট: {count}",
+  "publicRooms": "পাবলিক রুমসমূহ",
+  "passwordRecovery": "পাসওয়ার্ড পুনরুদ্ধার",
+  "hoursUnit": "ঘণ্টা",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMembers": "সদস্যদের নিষিদ্ধ করুন",
+  "commandHint_join": "নির্দিষ্ট রুমে যোগ দিন",
+  "mention": "মেনশন",
+  "share": "শেয়ার করুন",
+  "selectCamera": "ক্যামেরা নির্বাচন করুন",
+  "saveFile": "ফাইল সংরক্ষণ করুন",
+  "notificationRuleCall": "কল",
+  "restoreCryptoIdentity": "ক্রিপ্টো আইডেন্টিটি পুনরুদ্ধার করুন",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "boldText": "গাঢ় লেখা (Bold)",
+  "importFromZipFile": ".zip ফাইল থেকে ইম্পোর্ট করুন",
+  "notificationRuleRoomServerAcl": "রুম সার্ভার ACL",
+  "supposedMxid": "এটি {mxid} হওয়ার কথা ছিল",
+  "encryptedMessage": "এনক্রিপ্ট করা বার্তা",
+  "oneWeek": "১ সপ্তাহ",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "পূর্বাবস্থায় ফেরান (Undo)",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentVoiceMessage": "🎙️ {duration} - {sender} থেকে ভয়েস মেসেজ",
+  "pleaseEnter6Digits": "অ্যাপ লক চালু করতে ৬ ডিজিট নিশ্চিত করুন।",
+  "sendDirectly": "সরাসরি পাঠান",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "নাম",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "নতুন যাচাইকরণের অনুরোধ!",
+  "globalChatId": "গ্লোবাল চ্যাট আইডি",
+  "download": "ডাউনলোড",
+  "banUserDescription": "নিষিদ্ধ ব্যবহারকারীকে আর চ্যাটে পুনরায় প্রবেশ করতে দেওয়া হবে না।",
+  "emptyChat": "ফাঁকা চ্যাট",
+  "pause": "বিরতি দিন",
+  "addBio": "বায়ো যোগ করুন",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messagesStyle": "বার্তাসমূহ:",
+  "endedTheCall": "{senderName} কল শেষ করেছেন",
+  "youHaveKnocked": "আপনি নক করেছেন",
+  "yesterday": "গতকাল",
+  "fromJoining": "যোগদানের পর থেকে",
+  "calculatingFileSize": "ফাইল আকার গণনা করা হচ্ছে...",
+  "shareOnlineStatusSubtitle": "এটি বন্ধ করলে পড়ার নিশ্চিতকরণ এবং টাইপিং তথ্য উভয়ই বন্ধ হবে",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "সমস্ত বার্তা",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "callNotAllowed": "কেবল মডারেটর বা অ্যাডমিন কল শুরু করতে পারবেন।",
+  "skipChatBackupWarning": "আপনি কি নিশ্চিত? ব্যাকআপ না নিলে পরবর্তীতে বার্তা হারাতে পারেন।",
+  "pleaseChooseAStrongPassword": "একটি শক্তিশালী পাসওয়ার্ড চয়ন করুন",
+  "verifyStart": "যাচাইকরণ শুরু করুন",
+  "optionalRedactReason": "(ঐচ্ছিক) মুছে ফেলার কারণ...",
+  "callNotificationsChannelName": "চলমান কলসমূহ",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "sendTypingNotifications": "টাইপিং বিজ্ঞপ্তি পাঠান",
+  "userSpecificNotificationSettings": "ব্যবহারকারী নির্দিষ্ট বিজ্ঞপ্তি সেটিংস",
+  "notificationRuleTombstoneDescription": "রুম নিষ্ক্রিয়করণের বার্তার বিজ্ঞপ্তি প্রদান করে।",
+  "oopsSomethingWentWrong": "উফ, কিছু একটা ভুল হয়েছে…",
+  "translating": "অনুবাদ করা হচ্ছে…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "stopScreensharing": "স্ক্রিন শেয়ার বন্ধ করুন",
+  "startedACall": "{senderName} কল শুরু করেছেন",
+  "verified": "যাচাইকৃত",
+  "encrypting": "এনক্রিপ্ট করা হচ্ছে",
+  "emptyChatsTitle": "এখনো কোনো চ্যাট নেই",
+  "joinRoomNoTopic": "এখনো কোনো বর্ণনা নেই~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "permissionChangedFromTo": "{sender} অনুমতিসমূহ পরিবর্তন করে {permission} কে {from} থেকে {to} করেছে",
+  "enableAutoDelete": "অটো-ডিলিট চালু করুন",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "possibleByYou": "আপনার সমর্থনের কারণেই এই রিলিজটি সম্ভব হয়েছে। NYX সম্পূর্ণ ফ্রি ও ওপেন সোর্স।",
+  "updateInstalled": "🎉 আপডেট {version} ইনস্টল হয়েছে!",
+  "notificationRuleRoomOneToOne": "ওয়ান-টু-ওয়ান রুম",
+  "qrScanTimeout": "সময় শেষ হয়েছে, আবার স্ক্যান করুন",
+  "@qrScanTimeout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "ব্যবহারকারী যাচাই করুন",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fileIsTooBigForServer": "পাঠাতে ব্যর্থ! ফাইল সাইজ সর্বোচ্চ {max} পর্যন্ত অনুমোদিত।",
+  "reportErrorDescription": "😭 কিছু সমস্যা দেখা দিয়েছে। ডেভেলপারদের কাছে ত্রুটি রিপোর্ট করতে পারেন।",
+  "markAsUnread": "না-পড়া হিসেবে চিহ্নিত করুন",
+  "chatViaLink": "অন্যরা আপনার সাথে চ্যাট করতে পারে এই লিঙ্কের মাধ্যমে:",
+  "none": "কোনটিই নয়",
+  "areYouSure": "আপনি কি নিশ্চিত?",
+  "noPermission": "কোন অনুমতি নেই",
+  "showMore": "আরও দেখান",
+  "answersVisible": "উত্তর দৃশ্যমান",
+  "setPowerLevelDescription": "পাওয়ার লেভেল নির্ধারণ করে ব্যবহারকারীর ক্ষমতা (০ থেকে ১০০ এর মধ্যে)।",
+  "callNotAllowedInRoom": "কেবল অ্যাডমিনদের কল শুরু করার অধিকার আছে",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "contactServerAdmin": "সার্ভার অ্যাডমিনের সাথে যোগাযোগ করুন",
+  "noCurve25519KeyFound": "কোন Curve25519 কি পাওয়া যায়নি",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "অ্যাকাউন্ট রিসেট করলে পুরানো সকল বার্তা হারিয়ে যাবে! সতর্কতা অবলম্বন করুন।",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "আপনাকে এই চ্যাট থেকে নিষিদ্ধ করা হয়েছে",
+  "userAndOthersAreTyping": "{username} এবং আরও {count} জন টাইপ করছেন…",
+  "adminsAndModerators": "অ্যাডমিন ও মডারেটরগণ",
+  "countInvited": "{count} জন আমন্ত্রিত",
+  "bindEmail": "ইমেইল বাইন্ড করুন",
+  "unblockUser": "আনব্লক করুন",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "{groupName} গ্রুপে পরিচিত ব্যক্তিকে যোগ করুন",
+  "loadingMessages": "মেসেজ লোড হচ্ছে...",
+  "notificationRuleMessage": "বার্তা",
+  "verifyOtherDeviceDescription": "অন্য ডিভাইস নিশ্চিত করতে নিরাপত্তা ইমোজি মেলাতে পারেন।",
+  "pollQuestion": "জরিপ প্রশ্ন",
+  "newSpace": "নতুন স্পেস",
+  "unblockDevice": "ডিভাইস আনব্লক করুন",
+  "reopenChat": "পুনরায় চ্যাট খুলুন",
+  "updateReadyTitle": "আপডেট প্রস্তুত",
+  "updateReadyMessage": "আমরা কিছু বৈশিষ্ট্য উন্নত করেছি। আপডেট প্রয়োগ করতে অ্যাপটি পুনরায় চালু করুন।",
+  "restartNow": "এখনই পুনরারম্ভ করুন",
+  "noPublicGroupsYet": "এখনও কোনো সার্টিফাইড গ্রুপ নেই"
+}

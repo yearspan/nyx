@@ -1,0 +1,4092 @@
+{
+  "@@locale": "vi",
+  "@@last_modified": "2021-08-14 12:41:09.767805",
+  "about": "Giới thiệu",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Chấp nhận",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} đã chấp nhận lời mời",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Tài khoản",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} đã kích hoạt mã hóa đầu cuối",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Thêm email",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Quản trị viên",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Bí danh",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Tất cả",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} đã trả lời cuộc gọi",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Bất kỳ ai cũng có thể tham gia",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Khóa ứng dụng",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Lưu trữ",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Cho phép khách tham gia không?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Bạn có chắc chắn không?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Bạn có chắc chắn muốn đăng xuất không?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Vui lòng nhập cụm mật khẩu lưu trữ an toàn hoặc khóa khôi phục để ký tên.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Chấp nhận yêu cầu xác minh từ {username}?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Các kiểu đăng nhập được máy chủ chính hỗ trợ:\n{serverVersions}\nNhưng ứng dụng này chỉ hỗ trợ:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Cấm khỏi đoạn chat",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Cấm thành viên",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Đã bị cấm",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} đã cấm {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Chặn thiết bị",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Đã chặn",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Hủy",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Đổi tên thiết bị",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} đã đổi ảnh đại diện đoạn chat",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} đã thay đổi quyền hạn đoạn chat",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} đã đổi biệt danh thành: '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} đã thay đổi quy tắc truy cập của khách",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} đã thay đổi quy tắc truy cập của khách thành: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} đã thay đổi khả năng hiển thị lịch sử",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} đã thay đổi khả năng hiển thị lịch sử thành: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} đã thay đổi quy tắc tham gia",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} đã thay đổi quy tắc tham gia thành: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} đã đổi ảnh đại diện",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} đã thay đổi bí danh phòng",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} đã thay đổi liên kết mời",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Đổi mật khẩu",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Đổi máy chủ chính",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Đổi giao diện",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Đổi tên nhóm",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Đổi ảnh đại diện của bạn",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "Mã hóa đã bị hỏng",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Trò chuyện",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Sao lưu trò chuyện",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Chi tiết trò chuyện",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Trò chuyện",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Chọn một mật khẩu mạnh",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Xóa lưu trữ",
+  "close": "Đóng",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Cấm người dùng được chỉ định trong phòng này",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Gửi văn bản định dạng HTML",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Mời người dùng được chỉ định tham gia phòng này",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Tham gia phòng được chỉ định",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Xóa người dùng được chỉ định khỏi phòng này",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Rời khỏi phòng này",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Giới thiệu bản thân",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Đặt ảnh đại diện của bạn trong phòng này (qua mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Đặt biệt danh của bạn trong phòng này",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Đặt cấp độ quyền của người dùng được chỉ định (mặc định: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Gửi văn bản thuần",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Gửi phản hồi dưới dạng biểu cảm",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Gửi văn bản",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Bỏ cấm người dùng được chỉ định trong phòng này",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Lệnh không hợp lệ",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} không phải là một lệnh.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Vui lòng so sánh biểu tượng cảm xúc",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Vui lòng so sánh các số sau",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Cấu hình trò chuyện",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "Liên hệ đã được mời vào nhóm",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Nội dung này đã được báo cáo cho quản trị viên máy chủ",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Đã sao chép vào khay nhớ tạm",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Sao chép",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Sao chép vào khay nhớ tạm",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Không thể giải mã tin nhắn: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Tin nhắn tạm thời không thể giải mã, vui lòng thử lại sau",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} người tham gia",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Tạo",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} đã tạo cuộc trò chuyện",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Đang hoạt động",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "Tối",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Thao tác này sẽ vô hiệu hóa tài khoản người dùng của bạn. Không thể hoàn tác! Bạn có chắc không?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Cấp độ quyền mặc định cho người dùng mới",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Xóa",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Xóa tài khoản",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Xóa tin nhắn",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Xóa tất cả tin nhắn",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Xóa lịch sử trò chuyện",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Bạn có chắc chắn muốn xóa tất cả tin nhắn trong đoạn chat này không? Thao tác này không thể hoàn tác.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Bạn có chắc chắn muốn xóa lịch sử trò chuyện này không? Thao tác này không thể hoàn tác.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Bật tự động xóa",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Tự động xóa tin nhắn mới trong đoạn chat này sau một khoảng thời gian",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 ngày",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 tuần",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 tháng",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Vô hiệu hóa",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Thiết bị",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Trò chuyện riêng",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Biệt danh đã được thay đổi",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Tải xuống tệp",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Chỉnh sửa",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Chỉnh sửa máy chủ bị chặn",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Chỉnh sửa biệt danh",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Chỉnh sửa bí danh phòng",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Chỉnh sửa ảnh đại diện phòng",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Biểu cảm đã tồn tại!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Mã phím tắt biểu cảm không hợp lệ!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Mã phím tắt biểu cảm",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Đoạn chat trống",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Bật gói biểu cảm toàn cục",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Bật mã hóa",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Bạn sẽ không thể tắt mã hóa sau này, bạn có chắc chắn không?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Đã mã hóa",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Mã hóa",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Chưa bật mã hóa",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} đã kết thúc cuộc gọi",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Nhập địa chỉ email",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Cỡ chữ",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Chuyển tiếp",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "Chuyển tiếp thành công",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Kể từ khi tham gia",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Kể từ khi có lời mời",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Nhóm",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Nhóm là công khai",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Nhóm",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Nhóm với {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Khách bị cấm",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Khách có thể tham gia",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} đã thu hồi lời mời đối với {targetName}",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Trợ giúp",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Ẩn các sự kiện không xác định",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Bỏ qua",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Người dùng đã bỏ qua",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Tôi đã nhấp vào liên kết",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Cụm mật khẩu hoặc khóa khôi phục không chính xác",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Mời liên hệ",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Mời liên hệ vào {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Đã mời",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} đã mời {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Chỉ người dùng được mời",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} đã mời bạn sử dụng NYX. \n1. Cài đặt NYX: https://fluffychat.im \n2. Đăng ký hoặc đăng nhập \n3. Mở liên kết mời:\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "Đang nhập",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} đã tham gia đoạn chat",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Tham gia phòng",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Nhập địa chỉ phòng",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "Ví dụ: !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Địa chỉ không hợp lệ!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Không tìm thấy phòng!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Tham gia phòng thất bại",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Đã tìm thấy phòng phù hợp",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Tiếp tục",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Chưa có chủ đề~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Xin tham gia",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Vào phòng",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Giới thiệu",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} đã đuổi {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} đã đuổi và cấm {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Đuổi khỏi đoạn chat",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Bạn đã bị đuổi khỏi nhóm này",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Xóa thành viên",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Hoạt động lần cuối: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Rời đi",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "đã rời khỏi đoạn chat",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Sáng",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Tải thêm {count} người tham gia",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Đang tải… Vui lòng đợi.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Tải thêm…",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Đăng nhập",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Đăng nhập vào {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Đăng xuất",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Bạn có chắc chắn muốn đăng xuất tài khoản NYX hiện tại không?",
+  "mention": "Nhắc đến",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Tin nhắn",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Điều hành viên",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Tắt thông báo",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Trò chuyện mới",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 Tin nhắn mới trên NYX",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Yêu cầu xác minh mới!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Tiếp theo",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Không",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Không thể kết nối đến máy chủ",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Không tìm thấy biểu cảm. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Bạn chỉ có thể bật mã hóa khi phòng không công khai.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Có vẻ như thiết bị của bạn không có Firebase Cloud Messaging. Nếu bạn vẫn muốn nhận thông báo đẩy cho NYX, bạn nên cài đặt ntfy. Nhờ ntfy hoặc một chương trình Unified Push khác, bạn có thể nhận thông báo đẩy một cách bảo mật dữ liệu. Bạn có thể tải xuống ntfy từ PlayStore hoặc F-Droid.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Bạn chưa thêm phương thức khôi phục mật khẩu.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Không có quyền",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Không tìm thấy phòng nào…",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Thông báo",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} người đang nhập…",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "Xác nhận",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Đã bật sao lưu khóa trực tuyến",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Rất tiếc! Đã xảy ra lỗi khi cấu hình thông báo đẩy.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Rất tiếc, đã có lỗi xảy ra…",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Mở ứng dụng để đọc tin nhắn",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Mở máy ảnh",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "hoặc",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Người tham gia",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Cụm mật khẩu hoặc khóa khôi phục",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Mật khẩu",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Quên mật khẩu",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Mật khẩu đã được thay đổi",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Khôi phục mật khẩu",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Ghim",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Vui lòng chọn một mã PIN",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Vui lòng nhấp vào liên kết trong email, sau đó tiếp tục.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Vui lòng nhập mật khẩu của bạn",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Vui lòng nhập mã PIN của bạn",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Vui lòng nhập mã khóa",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Vui lòng nhập tên người dùng của bạn",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Vui lòng làm theo hướng dẫn trên trang web và nhấp vào Tiếp theo.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Quyền riêng tư",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Phòng công khai",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Lý do",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} đã xóa một sự kiện",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Xóa tin nhắn",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Từ chối",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} đã từ chối lời mời",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Gỡ bỏ",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Xóa tất cả thiết bị khác",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Bỏ cấm khỏi đoạn chat",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Xóa ảnh đại diện của bạn",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Nâng cấp phòng lên phiên bản mới hơn",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Trả lời",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Báo cáo tin nhắn",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "Phòng đã được nâng cấp",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Phiên bản phòng",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Lưu tệp",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Tìm kiếm",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Bảo mật",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Gửi",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Gửi một tin nhắn",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Gửi dưới dạng văn bản",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Gửi âm thanh",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Gửi tệp",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Gửi hình ảnh",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Gửi tin nhắn",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Gửi video",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} đã gửi một tệp",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} đã gửi một tệp âm thanh",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} đã gửi một bức ảnh",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} đã gửi một nhãn dán",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} đã gửi một video",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} đã gửi thông tin cuộc gọi",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Đặt làm bí danh chính",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Đặt trạng thái",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Cài đặt",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Chia sẻ",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} đã chia sẻ vị trí",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Bỏ qua",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Mã nguồn",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} đã bắt đầu một cuộc gọi",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Trạng thái",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Hôm nay bạn thế nào?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Gửi",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Đang đồng bộ… Vui lòng đợi.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Hệ thống",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Chúng không khớp",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Chúng khớp nhau",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Quá nhiều yêu cầu. Vui lòng thử lại sau!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Thử gửi lại",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} đã bỏ cấm {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Bỏ chặn thiết bị",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Thiết bị không xác định",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Thuật toán mã hóa không xác định",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Sự kiện không xác định '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Bật lại thông báo",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Bỏ ghim",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} và {count} người khác đang nhập…",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} và {username2} đang nhập…",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} đang nhập…",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} đã rời khỏi đoạn chat",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} đã gửi một sự kiện {type}",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Đã xác minh",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Xác minh người dùng",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Xác minh người dùng này",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Để tăng độ bảo mật, hãy xác minh người dùng này bằng cách so sánh một tập hợp biểu tượng cảm xúc trên thiết bị của bạn, thực hiện việc này qua một kênh an toàn như gặp mặt trực tiếp",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Đang đợi người dùng khác",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "Sau khi được chấp nhận, bạn sẽ có thể tiếp tục quá trình xác minh",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "So sánh biểu tượng cảm xúc",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "So sánh các biểu tượng cảm xúc để đảm bảo chúng theo cùng một thứ tự",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Vui lòng xác minh xem các biểu tượng cảm xúc bên dưới có giống với thiết bị của đối phương không",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Yêu cầu xác minh",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Để tăng cường bảo mật, người dùng khác muốn xác minh danh tính của bạn, bạn sẽ thấy một tập hợp biểu tượng cảm xúc để so sánh",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Xác minh thành công",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Bây giờ bạn có thể tin tưởng danh tính của người dùng này để bắt đầu cuộc gọi hoặc gửi/nhận tin nhắn",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Xác minh thất bại",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "Yêu cầu đã quá hạn, bị từ chối hoặc không khớp xác minh",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Hoàn tất",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Thử lại",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Xác minh người dùng này?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Đây là tin nhắn đầu tiên bạn gửi cho người dùng này. Để tăng cường bảo mật, bạn có thể xác minh danh tính của họ trước khi gửi hoặc gửi trực tiếp.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Xác minh ngay",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Gửi trực tiếp",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Thông báo tin nhắn",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Thông báo tin nhắn",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Thêm tiểu sử",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Đặt ảnh đại diện mới",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Thành viên",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Vai trò và quyền hạn",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Hồ sơ cá nhân",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Đặt ghi chú",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Tin nhắn đã ghim",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 tin nhắn được ghim} other{{count} tin nhắn được ghim}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Chưa có tin nhắn được ghim",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Thỏa thuận",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Phương tiện và tệp",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Cuộc thăm dò",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Rời cộng đồng",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Xóa nhóm chat",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Phương tiện",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Không có phương tiện",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Không có tệp",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Đang tải tệp xuống…",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Thêm vào danh bạ",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Thêm liên hệ",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Xóa liên hệ",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Tiểu sử",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Chưa có tiểu sử",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Chặn người dùng",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Bỏ chặn",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Gọi",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Bắt đầu xác minh",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Bạn đã xác minh thành công!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Xác minh tài khoản khác",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Khả năng hiển thị lịch sử trò chuyện",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Hiển thị cho tất cả người tham gia",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Hiển thị cho mọi người",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Tin nhắn thoại",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Đang đợi đối phương chấp nhận yêu cầu…",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Đang đợi đối phương chấp nhận emoji…",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Đang đợi đối phương chấp nhận các số…",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Cảnh báo!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Chúng tôi đã gửi cho bạn một email",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Ai có thể thực hiện hành động nào",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Ai được phép tham gia nhóm này",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Lý do bạn muốn báo cáo điều này là gì?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Thông qua các địa chỉ này, bạn có thể khôi phục mật khẩu của mình.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Viết tin nhắn…",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Có",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Bạn",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Bạn không còn tham gia đoạn chat này nữa",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Bạn đã bị cấm khỏi đoạn chat này",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Khóa công khai của bạn",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Thêm vào không gian",
+  "obtainingLocation": "Đang lấy vị trí…",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} không phải là một máy chủ Matrix, hãy thử {server2}?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Quyền vị trí bị từ chối. Vui lòng cấp quyền này để chia sẻ vị trí của bạn.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Dịch vụ vị trí đã bị tắt. Vui lòng bật dịch vụ này để chia sẻ vị trí của bạn.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Lỗi khi lấy vị trí: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Tạo không gian mới",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Không thể mở URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Tự động phát nhãn dán động và biểu cảm",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Tên không gian",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Không gian là công khai",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Chia sẻ vị trí",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Mở trong bản đồ",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Nhấn Enter để gửi",
+  "scanQrCode": "Quét mã QR",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "Mã QR",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Chia sẻ mã QR",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Một trong các ứng dụng khách của bạn đã đăng xuất",
+  "removeFromBundle": "Xóa khỏi tập hợp này",
+  "unverified": "Chưa xác minh",
+  "repeatPassword": "Nhập lại mật khẩu",
+  "addAccount": "Thêm tài khoản",
+  "editBundlesForAccount": "Chỉnh sửa tập hợp cho tài khoản này",
+  "addToBundle": "Thêm vào tập hợp",
+  "bundleName": "Tên tập hợp",
+  "link": "Liên kết",
+  "sender": "Người gửi",
+  "openGallery": "Mở thư viện ảnh",
+  "messageInfo": "Thông tin tin nhắn",
+  "time": "Thời gian",
+  "removeFromSpace": "Xóa khỏi không gian này",
+  "commandHint_discardsession": "Hủy phiên",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Tạo trò chuyện riêng\nSử dụng tùy chọn --no-encryption để tắt mã hóa",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Xóa bộ nhớ đệm",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Tạo nhóm chat trống\nSử dụng tùy chọn --no-encryption để tắt mã hóa",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Đánh dấu là đã đọc",
+  "reportUser": "Báo cáo người dùng",
+  "reactedWith": "{sender} đã thả cảm xúc {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Bạn có chắc chắn muốn hủy ghim sự kiện này vĩnh viễn không?",
+  "pinMessage": "Ghim vào phòng",
+  "emojis": "Biểu tượng cảm xúc",
+  "unsupportedAndroidVersionLong": "Tính năng này yêu cầu phiên bản hệ thống Android mới hơn. Vui lòng kiểm tra cập nhật hoặc hỗ trợ LineageOS.",
+  "unsupportedAndroidVersion": "Phiên bản Android không được hỗ trợ",
+  "youRejectedTheInvitation": "Bạn đã từ chối lời mời",
+  "youJoinedTheChat": "Bạn đã tham gia đoạn chat",
+  "youBannedUser": "Bạn đã cấm {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Bạn đã nhận được lời mời từ {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Bạn đã mời {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Bạn đã đuổi {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Bạn đã bỏ cấm {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Bạn đã chấp nhận lời mời",
+  "youHaveWithdrawnTheInvitationFor": "Bạn đã thu hồi lời mời đối với {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Bạn đã đuổi và cấm {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Lưu trữ trong Apple KeyChain",
+  "storeInAndroidKeystore": "Lưu trữ trong Android KeyStore",
+  "storeSecurlyOnThisDevice": "Lưu trữ an toàn trên thiết bị này",
+  "users": "Người dùng",
+  "countFiles": "{count} tệp",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Khôi phục từ tệp sao lưu",
+  "dehydrate": "Xuất phiên và xóa thiết bị",
+  "dehydrateWarning": "Thao tác này không thể hoàn tác. Hãy đảm bảo bạn lưu trữ tệp sao lưu một cách an toàn.",
+  "user": "Người dùng",
+  "userNotFound": "Không tìm thấy người dùng",
+  "custom": "Tùy chỉnh",
+  "confirmMatrixId": "Vui lòng xác nhận Matrix ID của bạn để xóa tài khoản.",
+  "supposedMxid": "Phải là {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Đánh dấu là nhóm",
+  "commandHint_markasdm": "Đánh dấu Matrix ID đã cho là phòng chat riêng",
+  "whyIsThisMessageEncrypted": "Tại sao tin nhắn này không thể đọc được?",
+  "noKeyForThisMessage": "Điều này có thể xảy ra nếu tin nhắn được gửi trước khi bạn đăng nhập tài khoản trên thiết bị này.\n\nCũng có thể người gửi đã chặn thiết bị của bạn hoặc kết nối mạng gặp sự cố.\n\nBạn có thể đọc tin nhắn trong một phiên khác không? Nếu có, bạn có thể truyền tải thông tin từ đó! Nhấp vào Cài đặt > Thiết bị và đảm bảo các thiết bị của bạn đã được xác minh lẫn nhau. Khi bạn mở phòng chat lần sau và cả hai phiên đều ở chế độ nền trước, khóa sẽ tự động được truyền.\n\nBạn không muốn mất khóa khi đăng xuất hoặc chuyển thiết bị? Hãy đảm bảo đã bật tính năng sao lưu trò chuyện trong cài đặt.",
+  "newSpace": "Không gian mới",
+  "doNotShowAgain": "Không hiển thị lại",
+  "googlyEyesContent": "{senderName} đã gửi cho bạn biểu cảm \"mắt lồi\"",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Gửi biểu cảm \"mắt lồi\"",
+  "commandHint_cuddle": "Gửi hành động \"ôm ấp\"",
+  "commandHint_hug": "Gửi hành động \"ôm\"",
+  "cuddleContent": "{senderName} đã ôm ấp bạn",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} đã ôm bạn",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Đoạn chat trống (từng là {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Không gian cho phép bạn tổ chức các cuộc trò chuyện và xây dựng cộng đồng riêng tư hoặc công khai.",
+  "encryptThisChat": "Mã hóa đoạn chat này",
+  "disableEncryptionWarning": "Vì lý do bảo mật, bạn không thể tắt mã hóa trong các đoạn chat đã bật mã hóa trước đó.",
+  "sorryThatsNotPossible": "Rất tiếc... Điều đó là không thể",
+  "report": "Báo cáo",
+  "fileIsTooBigForServer": "Không thể gửi! Máy chủ chỉ hỗ trợ tệp tối đa {max}.",
+  "noOtherDevicesFound": "Không tìm thấy thiết bị nào khác",
+  "jumpToLastReadMessage": "Chuyển đến tin nhắn chưa đọc cuối cùng",
+  "readUpToHere": "Đã đọc đến đây",
+  "jump": "Chuyển đến",
+  "openLinkInBrowser": "Mở liên kết trong trình duyệt",
+  "fileHasBeenSavedAt": "Tệp đã được lưu tại {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "😭 Ôi không. Đã xảy ra lỗi. Nếu muốn, bạn có thể báo cáo lỗi này cho nhà phát triển.",
+  "noBackupWarning": "Cảnh báo! Nếu bạn không bật sao lưu trò chuyện, bạn sẽ không thể truy cập các tin nhắn được mã hóa. Bạn nên bật sao lưu trò chuyện trước khi đăng xuất.",
+  "reopenChat": "Mở lại đoạn chat",
+  "importEmojis": "Nhập bộ biểu cảm",
+  "notAnImage": "Không phải tệp hình ảnh.",
+  "importNow": "Nhập ngay",
+  "importFromZipFile": "Nhập từ tệp .zip",
+  "replace": "Thay thế",
+  "exportEmotePack": "Xuất gói biểu cảm dưới dạng .zip",
+  "sendTypingNotifications": "Gửi thông báo đang nhập",
+  "createGroup": "Tạo nhóm chat",
+  "shareInviteLink": "Chia sẻ liên kết mời",
+  "tryAgain": "Thử lại",
+  "chatPermissions": "Quyền hạn trò chuyện",
+  "chatDescription": "Mô tả trò chuyện",
+  "chatDescriptionHasBeenChanged": "Mô tả trò chuyện đã được thay đổi",
+  "noChatDescriptionYet": "Chưa có mô tả trò chuyện.",
+  "invalidServerName": "Tên máy chủ không hợp lệ",
+  "redactMessageDescription": "Tin nhắn sẽ bị xóa đối với tất cả những người tham gia trong cuộc trò chuyện này. Thao tác này không thể hoàn tác.",
+  "optionalRedactReason": "(Tùy chọn) Lý do xóa tin nhắn này...",
+  "setChatDescription": "Đặt mô tả trò chuyện",
+  "setColorTheme": "Đặt màu chủ đề:",
+  "invite": "Mời",
+  "addMembers": "Thêm thành viên",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Mời qua liên kết",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Danh sách này chỉ quản trị viên nhóm chat mới xem được.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Liên hệ trong nhóm chat này",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Nhóm này chưa có liên kết mời",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Kiểu tin nhắn:",
+  "redactedBy": "Đã bị xóa bởi {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "Đã bị xóa bởi {username}, lý do: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Lời mời tham gia nhóm chat",
+  "emoteKeyboardNoRecents": "Biểu cảm sử dụng gần đây sẽ xuất hiện ở đây...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Đầu vào không hợp lệ!",
+  "wrongPinEntered": "Đã nhập sai mã PIN! Vui lòng thử lại sau {seconds} giây…",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} đã yêu cầu lời mời tham gia phòng chat",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Vui lòng nhập một số lớn hơn 0",
+  "banUserDescription": "Người dùng này sẽ bị cấm vào phòng chat và sẽ không thể vào lại cho đến khi được gỡ cấm.",
+  "removeDevicesDescription": "Bạn sẽ đăng xuất khỏi thiết bị này và không thể nhận tin nhắn nữa.",
+  "unbanUserDescription": "Nếu người dùng cố gắng tham gia, họ có thể vào lại đoạn chat.",
+  "pushNotificationsNotAvailable": "Thông báo đẩy không khả dụng",
+  "makeAdminDescription": "Một khi bạn đặt người dùng này làm quản trị viên, bạn có thể không thu hồi được vì họ sẽ có quyền hạn giống như bạn.",
+  "archiveRoomDescription": "Đoạn chat sẽ được chuyển vào lưu trữ. Người dùng khác sẽ thấy rằng bạn đã rời khỏi đoạn chat.",
+  "learnMore": "Tìm hiểu thêm",
+  "roomUpgradeDescription": "Phòng chat mới sẽ được sử dụng để tạo lại phòng chat hiện tại. Tất cả những người tham gia sẽ nhận được thông báo chuyển sang phòng chat mới. Để biết thêm thông tin về các phiên bản phòng chat, vui lòng truy cập https://spec.matrix.org/latest/rooms/",
+  "kickUserDescription": "Người dùng này sẽ bị đuổi khỏi đoạn chat nhưng không bị cấm. Trong đoạn chat công khai, người dùng này có thể tham gia lại bất cứ lúc nào.",
+  "blockListDescription": "Bạn có thể chặn những người dùng làm phiền bạn. Bạn sẽ không nhận được bất kỳ tin nhắn hoặc lời mời tham gia phòng chat nào từ những người dùng trong danh sách chặn.",
+  "createGroupAndInviteUsers": "Tạo nhóm và mời người dùng",
+  "blockedUsers": "Người dùng đã chặn",
+  "groupCanBeFoundViaSearch": "Có thể tìm thấy nhóm thông qua tìm kiếm",
+  "noUsersFoundWithQuery": "Rất tiếc, không tìm thấy người dùng nào phù hợp với \"{query}\". Vui lòng kiểm tra lại xem có nhập sai không.",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Chặn",
+  "yourGlobalUserIdIs": "ID người dùng toàn cục của bạn là: ",
+  "commandHint_sendraw": "Gửi json thô",
+  "wrongRecoveryKey": "Rất tiếc… có vẻ đây không phải là khóa khôi phục chính xác.",
+  "blockUsername": "Bỏ qua tên người dùng",
+  "groupName": "Tên nhóm",
+  "databaseMigrationTitle": "Cơ sở dữ liệu đã được tối ưu hóa",
+  "searchChatsRooms": "Tìm kiếm #phòng, @người_dùng…",
+  "databaseMigrationBody": "Vui lòng đợi. Quá trình này có thể mất một chút thời gian.",
+  "thisDevice": "Thiết bị này:",
+  "publicSpaces": "Không gian công khai",
+  "passwordIsWrong": "Mật khẩu bạn nhập không đúng",
+  "pleaseEnterYourCurrentPassword": "Vui lòng nhập mật khẩu hiện tại của bạn",
+  "nothingFound": "Không tìm thấy nội dung nào…",
+  "newPassword": "Mật khẩu mới",
+  "passwordsDoNotMatch": "Mật khẩu không khớp",
+  "select": "Chọn",
+  "pleaseChooseAStrongPassword": "Vui lòng chọn một mật khẩu mạnh",
+  "addChatOrSubSpace": "Thêm đoạn chat hoặc không gian con",
+  "leaveEmptyToClearStatus": "Để trống để xóa trạng thái của bạn.",
+  "joinSpace": "Tham gia không gian",
+  "searchForUsers": "Tìm kiếm @người_dùng…",
+  "initAppError": "Đã xảy ra lỗi khi khởi tạo ứng dụng",
+  "sessionLostBody": "Phiên của bạn đã bị mất. Vui lòng báo cáo lỗi này cho nhà phát triển tại {url}. Thông báo lỗi là: {error}",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "Ứng dụng đang cố gắng khôi phục phiên của bạn từ bản sao lưu. Vui lòng báo cáo lỗi này cho nhà phát triển tại {url}. Thông báo lỗi là: {error}",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Những người tham gia khác trong đoạn chat có thể thấy bạn đang nhập tin nhắn mới.",
+  "formattedMessagesDescription": "Sử dụng Markdown để hiển thị nội dung văn bản phong phú, chẳng hạn như văn bản in đậm.",
+  "verifyOtherUserDescription": "Nếu bạn xác minh người dùng khác, bạn có thể đảm bảo rõ ràng mình đang liên lạc với ai. 💪\n\nKhi bạn bắt đầu xác minh, bạn và người dùng khác sẽ thấy một cửa sổ bật lên trong ứng dụng. Sau đó, bạn sẽ thấy một loạt biểu tượng cảm xúc hoặc số, bạn và người dùng khác cần so sánh xem chúng có khớp nhau không.\n\nCách tốt nhất là gặp mặt trực tiếp hoặc bắt đầu cuộc gọi video. 👭",
+  "verifyOtherDeviceDescription": "Khi bạn xác minh thiết bị khác, các thiết bị đó có thể trao đổi khóa, qua đó cải thiện độ bảo mật tổng thể. 💪 Khi bạn bắt đầu xác minh, ứng dụng trên cả hai thiết bị sẽ hiển thị một cửa sổ bật lên. Sau đó, bạn sẽ thấy một loạt biểu tượng cảm xúc hoặc số, bạn cần so sánh nội dung hiển thị trên cả hai thiết bị. Trước khi bắt đầu xác minh, tốt nhất nên đặt cả hai thiết bị ở gần tay. 🤳",
+  "canceledKeyVerification": "{sender} đã hủy xác minh khóa",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Gửi biên nhận đã đọc",
+  "formattedMessages": "Tin nhắn được định dạng",
+  "verifyOtherDevice": "🔐 Xác minh thiết bị khác",
+  "verifyOtherUser": "🔐 Xác minh người dùng khác",
+  "sendReadReceiptsDescription": "Những người tham gia khác trong đoạn chat có thể thấy bạn đã đọc tin nhắn chưa.",
+  "acceptedKeyVerification": "{sender} đã chấp nhận xác minh khóa",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} đã sẵn sàng xác minh khóa",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} đã hoàn tất xác minh khóa",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} đã yêu cầu xác minh khóa",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} đã bắt đầu xác minh khóa",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Tin nhắn đến",
+  "stickers": "Nhãn dán",
+  "discover": "Khám phá",
+  "commandHint_ignore": "Bỏ qua matrix ID được chỉ định",
+  "commandHint_unignore": "Bỏ qua việc bỏ qua matrix ID được chỉ định",
+  "unreadChatsInApp": "{appname}: {unread} cuộc trò chuyện chưa đọc",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "Sau khi thiết lập mật khẩu khóa, bạn cần xác thực khi vào ứng dụng NYX",
+  "globalChatId": "ID trò chuyện toàn cục",
+  "accessAndVisibility": "Truy cập và khả năng hiển thị",
+  "accessAndVisibilityDescription": "Ai có thể tham gia đoạn chat này và cách khám phá đoạn chat đó.",
+  "customEmojisAndStickers": "Biểu tượng cảm xúc và nhãn dán tùy chỉnh",
+  "hideRedactedMessages": "Ẩn các tin nhắn đã bị xóa",
+  "passwordRecoverySettings": "Cài đặt tìm lại mật khẩu",
+  "knock": "Yêu cầu",
+  "noOneCanJoin": "Không ai có thể tham gia",
+  "knocking": "Đang yêu cầu",
+  "chatCanBeDiscoveredViaSearchOnServer": "Có thể khám phá đoạn chat thông qua tìm kiếm trên {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Hiện có {count} người dùng bị chặn.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Nếu ai đó xóa một tin nhắn, tin nhắn đó sẽ không còn hiển thị trong đoạn chat nữa.",
+  "hideInvalidOrUnknownMessageFormats": "Ẩn các định dạng tin nhắn không hợp lệ hoặc không xác định",
+  "customEmojisAndStickersBody": "Thêm hoặc chia sẻ biểu tượng cảm xúc hoặc nhãn dán có thể sử dụng trong bất kỳ đoạn chat nào.",
+  "usersMustKnock": "Người dùng phải yêu cầu tham gia",
+  "noDatabaseEncryption": "Mã hóa cơ sở dữ liệu không được hỗ trợ trên nền tảng này",
+  "publicChatAddresses": "Địa chỉ trò chuyện công khai",
+  "createNewAddress": "Tạo địa chỉ mới",
+  "searchMore": "Tìm kiếm thêm…",
+  "gallery": "Thư viện ảnh",
+  "files": "Tệp",
+  "searchIn": "Tìm kiếm trong đoạn chat \"{chat}\"…",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Vuốt từ phải sang trái để trả lời",
+  "noMoreChatsFound": "Không tìm thấy thêm đoạn chat nào…",
+  "space": "Không gian",
+  "goToSpace": "Đi tới không gian: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Đánh dấu là chưa đọc",
+  "unread": "Chưa đọc",
+  "userLevel": "{level} - Người dùng",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Điều hành viên",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Quản trị viên",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Mời người dùng khác vào đoạn chat này",
+  "changeTheChatPermissions": "Thay đổi quyền hạn đoạn chat",
+  "changeTheVisibilityOfChatHistory": "Thay đổi khả năng hiển thị lịch sử trò chuyện",
+  "changeTheCanonicalRoomAlias": "Thay đổi địa chỉ phòng công khai chính",
+  "sendRoomNotifications": "Gửi thông báo đến tất cả mọi người trong phòng chat",
+  "changeTheDescriptionOfTheGroup": "Thay đổi mô tả trò chuyện",
+  "changeGeneralChatSettings": "Thay đổi cài đặt trò chuyện chung",
+  "chatPermissionsDescription": "Xác định cấp độ quyền nào trong đoạn chat này là bắt buộc đối với các hành động cụ thể. Cấp độ quyền 0, 50 và 100 thường đại diện cho người dùng, điều hành viên và quản trị viên, nhưng bạn có thể tùy chỉnh bất kỳ cấp độ nào.",
+  "changelog": "Nhật ký thay đổi",
+  "updateInstalled": "🎉 Đã cài đặt bản cập nhật {version}!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Gửi đã bị hủy",
+  "noChatsFoundHere": "Chưa tìm thấy đoạn chat nào ở đây. Sử dụng nút bên dưới ⤵️ để bắt đầu cuộc trò chuyện mới với ai đó",
+  "loginWithMatrixId": "Đăng nhập bằng Matrix-ID",
+  "doesNotSeemToBeAValidHomeserver": "Có vẻ không phải là máy chủ chính tương thích. URL không chính xác?",
+  "calculatingFileSize": "Đang tính kích thước tệp…",
+  "oneOfYourDevicesIsNotVerified": "Một trong các thiết bị của bạn chưa được xác minh",
+  "noticeChatBackupDeviceVerification": "Lưu ý: Khi bạn kết nối tất cả các thiết bị với bản sao lưu trò chuyện, các thiết bị đó sẽ tự động được xác minh.",
+  "continueText": "Tiếp tục",
+  "blur": "Làm mờ:",
+  "opacity": "Độ mờ đục:",
+  "setWallpaper": "Đặt hình nền",
+  "manageAccount": "Quản lý tài khoản",
+  "aboutHomeserver": "Giới thiệu về {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Phiên bản",
+  "noContactInformationProvided": "Máy chủ không cung cấp bất kỳ thông tin liên hệ hợp lệ nào",
+  "contactServerAdmin": "Liên hệ quản trị viên máy chủ",
+  "name": "Tên",
+  "surname": "Họ",
+  "personalIntro": "Giới thiệu cá nhân",
+  "nameDescription": "Nhập tên của bạn, đồng thời có thể thêm ảnh đại diện.",
+  "aboutYourselfDescription": "Văn bản giới thiệu về bản thân bạn.",
+  "email": "Email",
+  "emailForLogin": "Dùng để đăng nhập tài khoản NYX.",
+  "changeEmail": "Đổi email",
+  "changeEmailDescription": "Bạn có thể đổi email khôi phục để có thể đặt lại mật khẩu và khôi phục quyền truy cập vào tài khoản NYX của mình.",
+  "bindNewEmail": "Liên kết email mới",
+  "newEmailSameAsOld": "Email mới không được giống với email hiện tại",
+  "bindEmail": "Liên kết email",
+  "bindEmailDescription": "Bạn có thể liên kết email để có thể đặt lại mật khẩu và khôi phục quyền truy cập vào tài khoản NYX của mình.",
+  "enterEmail": "Nhập email",
+  "enterValidEmail": "Vui lòng nhập email hợp lệ",
+  "getVerificationCode": "Lấy mã xác minh",
+  "verificationCode": "Mã xác minh",
+  "enterVerificationCode": "Nhập mã xác minh",
+  "enterCodeSentTo": "Vui lòng nhập mã xác minh vừa được gửi qua email đến {email}.",
+  "createPassword": "Tạo mật khẩu",
+  "createPasswordDescription": "Vui lòng đặt mật khẩu đăng nhập dùng để xác thực bảo mật tài khoản.",
+  "enterPassword": "Nhập mật khẩu",
+  "enterPasswordAgain": "Nhập lại mật khẩu",
+  "bind": "Liên kết",
+  "walletAddress": "Địa chỉ ví",
+  "walletForLogin": "Dùng để đăng nhập tài khoản NYX.",
+  "ethereumMainnetAddress": "Địa chỉ mạng chính Ethereum",
+  "none": "Không có",
+  "username": "Tên người dùng",
+  "usernameDescription": "Bạn có thể đặt tên người dùng trên NYX. Sau khi thiết lập, người khác có thể tìm thấy bạn và liên hệ qua tên người dùng này.",
+  "usernameRuleHint": "Bạn có thể sử dụng a-z, 0-9 và dấu gạch dưới. Độ dài tối thiểu là 5 ký tự.",
+  "chatViaLink": "Bạn có thể trò chuyện với tôi qua liên kết này:",
+  "contactServerSecurity": "Liên hệ quản lý bảo mật máy chủ",
+  "supportPage": "Trang hỗ trợ",
+  "serverInformation": "Thông tin máy chủ:",
+  "website": "Trang web",
+  "italicText": "Chữ nghiêng",
+  "strikeThrough": "Gạch ngang",
+  "pleaseFillOut": "Vui lòng điền",
+  "addLink": "Thêm liên kết",
+  "boldText": "Chữ in đậm",
+  "invalidUrl": "URL không hợp lệ",
+  "unableToJoinChat": "Không thể tham gia đoạn chat. Có thể cuộc trò chuyện đã bị đóng từ phía khác.",
+  "sendImages": "Gửi {count} hình ảnh",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Nén",
+  "previous": "Trước",
+  "otherPartyNotLoggedIn": "Đối phương hiện không đăng nhập nên không thể nhận tin nhắn!",
+  "appWantsToUseForLoginDescription": "Bạn theo đây cho phép ứng dụng và trang web này chia sẻ thông tin về bạn.",
+  "open": "Mở",
+  "appWantsToUseForLogin": "Đăng nhập bằng máy chủ '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Đang đợi máy chủ…",
+  "synchronizingPleaseWaitCounter": "Đang đồng bộ… ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Yêu cầu trò chuyện mới",
+  "generalNotificationSettings": "Cài đặt thông báo chung",
+  "userSpecificNotificationSettings": "Sử dụng cài đặt thông báo cụ thể",
+  "notificationRuleMaster": "Tắt tất cả thông báo",
+  "notificationRuleSuppressNotices": "Ẩn tin nhắn tự động",
+  "notificationRuleInviteForMe": "Lời mời dành cho tôi",
+  "notificationRuleInviteForMeDescription": "Nhắc nhở người dùng khi được mời tham gia phòng chat.",
+  "notificationRuleMemberEvent": "Sự kiện thành viên",
+  "notificationRuleMemberEventDescription": "Ẩn thông báo sự kiện tư cách thành viên.",
+  "notificationRuleIsUserMention": "Nhắc đến người dùng",
+  "notificationRuleIsUserMentionDescription": "Thông báo cho người dùng khi tên người dùng được nhắc trực tiếp trong tin nhắn.",
+  "notificationRuleContainsDisplayName": "Chứa tên hiển thị",
+  "notificationRuleIsRoomMention": "Nhắc đến phòng chat",
+  "notificationRuleRoomnotifDescription": "Nhắc nhở người dùng khi tin nhắn chứa \"@room\".",
+  "notificationRuleTombstone": "Tấm bia mộ",
+  "notificationRuleRoomServerAcl": "ACL máy chủ phòng chat",
+  "notificationRuleSuppressEdits": "Ẩn chỉnh sửa",
+  "notificationRuleCall": "Cuộc gọi",
+  "notificationRuleRoomOneToOne": "Phòng chat một đối một",
+  "notificationRuleRoomOneToOneDescription": "Nhắc nhở người dùng tin nhắn trong phòng chat một đối một.",
+  "notificationRuleEncrypted": "Đã mã hóa",
+  "notificationRuleEncryptedDescription": "Nhắc nhở người dùng tin nhắn trong phòng chat đã mã hóa.",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Nhắc nhở người dùng các sự kiện tiện ích Jitsi.",
+  "notificationRuleServerAcl": "Ẩn sự kiện ACL máy chủ",
+  "notificationRuleServerAclDescription": "Ẩn thông báo sự kiện ACL máy chủ.",
+  "deletePushRuleCanNotBeUndone": "Thao tác xóa cài đặt thông báo này không thể hoàn tác.",
+  "more": "Thêm",
+  "notificationRuleReactionDescription": "Ẩn thông báo phản hồi.",
+  "notificationRuleMessageDescription": "Nhắc nhở người dùng tin nhắn thông thường.",
+  "notificationRuleContainsUserName": "Chứa tên người dùng",
+  "otherNotificationSettings": "Cài đặt thông báo khác",
+  "notificationRuleContainsUserNameDescription": "Thông báo cho người dùng khi tin nhắn chứa tên người dùng.",
+  "notificationRuleIsRoomMentionDescription": "Thông báo cho người dùng khi có sự nhắc đến phòng chat.",
+  "contentNotificationSettings": "Cài đặt thông báo nội dung",
+  "notificationRuleMasterDescription": "Ghi đè tất cả các quy tắc khác và vô hiệu hóa mọi thông báo.",
+  "notificationRuleSuppressNoticesDescription": "Ẩn thông báo từ các ứng dụng khách tự động như bot.",
+  "roomNotificationSettings": "Cài đặt thông báo phòng chat",
+  "notificationRuleRoomServerAclDescription": "Ẩn thông báo danh sách kiểm soát truy cập (ACL) máy chủ phòng chat.",
+  "notificationRuleContainsDisplayNameDescription": "Nhắc nhở người dùng khi tin nhắn chứa tên hiển thị của họ.",
+  "notificationRuleRoomnotif": "Thông báo phòng chat",
+  "notificationRuleTombstoneDescription": "Nhắc nhở người dùng tin nhắn giải thể phòng chat.",
+  "notificationRuleReaction": "Phản hồi",
+  "notificationRuleSuppressEditsDescription": "Ẩn thông báo chỉnh sửa tin nhắn.",
+  "notificationRuleCallDescription": "Nhắc nhở người dùng tin nhắn cuộc gọi.",
+  "notificationRuleEncryptedRoomOneToOne": "Phòng chat một đối một đã mã hóa",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Nhắc nhở người dùng tin nhắn trong phòng chat một đối một đã mã hóa.",
+  "notificationRuleMessage": "Tin nhắn",
+  "unknownPushRule": "Quy tắc đẩy không xác định '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Thiết bị xác minh chéo",
+  "shareKeysWithDescription": "Chọn thiết bị nào nên được tin tưởng để cho phép chúng đọc tin nhắn của bạn trong đoạn chat được mã hóa?",
+  "shareKeysWith": "Chia sẻ khóa với những thiết bị nào…",
+  "allDevices": "Tất cả thiết bị",
+  "crossVerifiedDevicesIfEnabled": "Thiết bị xác minh chéo (nếu bật)",
+  "verifiedDevicesOnly": "Chỉ thiết bị đã xác minh",
+  "optionalMessage": "(Tùy chọn) Tin nhắn…",
+  "takeAPhoto": "Chụp ảnh",
+  "recordAVideo": "Quay video",
+  "notSupportedOnThisDevice": "Không được hỗ trợ trên thiết bị này",
+  "enterNewChat": "Vào đoạn chat mới",
+  "commandHint_roomupgrade": "Nâng cấp phòng chat này lên phiên bản phòng chat được chỉ định",
+  "approve": "Phê duyệt",
+  "youHaveKnocked": "Bạn đã yêu cầu tham gia",
+  "pleaseWaitUntilInvited": "Vui lòng đợi cho đến khi ai đó từ phòng chat này mời bạn.",
+  "countInvited": "Đã mời {count}",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Danh sách kiểm tra",
+  "sentVoiceMessage": "🎙️ {duration} - Tin nhắn thoại từ {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Đăng xuất thiết bị hiện tại",
+  "commandHint_logoutall": "Đăng xuất tất cả thiết bị hoạt động",
+  "displayNavigationRail": "Hiển thị thanh điều hướng trên thiết bị di động",
+  "customReaction": "Phản hồi tùy chỉnh",
+  "moreEvents": "Thêm sự kiện",
+  "declineInvitation": "Từ chối lời mời",
+  "noMessagesYet": "Chưa có tin nhắn nào",
+  "longPressToRecordVoiceMessage": "Nhấn giữ để ghi âm tin nhắn thoại.",
+  "pause": "Tạm dừng",
+  "resume": "Tiếp tục",
+  "removeFromSpaceDescription": "Đoạn chat sẽ bị xóa khỏi không gian nhưng vẫn xuất hiện trong danh sách trò chuyện.",
+  "countChats": "{chats} cuộc trò chuyện",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Thành viên không gian của {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Thành viên không gian của {spaces} có thể gõ cửa",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Thăm dò ý kiến",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Bắt đầu thăm dò ý kiến",
+  "endPoll": "Kết thúc thăm dò ý kiến",
+  "editPoll": "Chỉnh sửa thăm dò ý kiến",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Xóa thăm dò ý kiến",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Kết quả thăm dò hiển thị",
+  "hiddenPoll": "Thăm dò ẩn",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Chủ đề thăm dò",
+  "answerOption": "Tùy chọn",
+  "addAnswerOption": "Thêm tùy chọn",
+  "allowMultipleAnswers": "Cho phép chọn nhiều tùy chọn thăm dò",
+  "pollHasBeenEnded": "Cuộc thăm dò đã kết thúc",
+  "startedAPoll": "{senderName} đã bắt đầu một cuộc thăm dò ý kiến",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{phiếu} other{{count} phiếu}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Kết quả sẽ hiển thị khi cuộc thăm dò kết thúc",
+  "active": "Đang diễn ra",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Đã kết thúc",
+  "@ended": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thread": "Chuỗi tin nhắn",
+  "replyInThread": "Trả lời trong chuỗi",
+  "countReplies": "{count, plural, =1{phản hồi} other{{count} phản hồi}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Quay lại đoạn chat chính",
+  "saveChanges": "Lưu thay đổi",
+  "createSticker": "Tạo nhãn dán hoặc hình ảnh biểu cảm",
+  "useAsSticker": "Dùng làm nhãn dán",
+  "useAsEmoji": "Dùng làm biểu tượng cảm xúc",
+  "stickerPackNameAlreadyExists": "Tên gói nhãn dán đã tồn tại",
+  "newStickerPack": "Gói nhãn dán mới",
+  "stickerPackName": "Tên gói nhãn dán",
+  "attribution": "Tác giả",
+  "skipChatBackup": "Bỏ qua sao lưu trò chuyện",
+  "skipChatBackupWarning": "Bạn có chắc không? Nếu không bật sao lưu trò chuyện, bạn có thể không truy cập được tin nhắn khi chuyển thiết bị.",
+  "changedTheChatDescription": "{username} đã thay đổi mô tả trò chuyện",
+  "changedTheChatName": "{username} đã thay đổi tên trò chuyện",
+  "noMoreResultsFound": "Không tìm thấy thêm kết quả nào",
+  "chatSearchedUntil": "Đã tìm kiếm lịch sử trò chuyện đến {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "URL cơ sở liên bang",
+  "clientWellKnownInformation": "Thông tin Client-Well-Known:",
+  "baseUrl": "URL cơ sở",
+  "identityServer": "Máy chủ danh tính:",
+  "versionWithNumber": "Phiên bản: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Nhật ký",
+  "advancedConfigs": "Cấu hình nâng cao",
+  "advancedConfigurations": "Cấu hình nâng cao",
+  "signIn": "Đăng nhập",
+  "createNewAccount": "Tạo tài khoản mới",
+  "signUpGreeting": "NYX phi tập trung! Chọn máy chủ bạn muốn tạo tài khoản!",
+  "signInGreeting": "Đã có tài khoản Matrix? Chào mừng trở lại! Chọn máy chủ chính để đăng nhập.",
+  "theProcessWasCanceled": "Quy trình đã bị hủy.",
+  "join": "Tham gia",
+  "searchOrEnterHomeserverAddress": "Tìm kiếm hoặc nhập địa chỉ máy chủ chính",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Đặt cấp độ quyền",
+  "makeModerator": "Điều hành viên",
+  "makeAdmin": "Quản trị viên",
+  "removeModeratorRights": "Xóa quyền điều hành viên",
+  "removeAdminRights": "Xóa quyền quản trị viên",
+  "powerLevel": "Cấp độ quyền",
+  "setPowerLevelDescription": "Cấp độ quyền xác định thành viên nhóm có thể làm gì trong phòng chat này, giá trị từ 0 đến 100.",
+  "owner": "Chủ sở hữu",
+  "mute": "Tắt tiếng",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Tạo cuộc trò chuyện mới",
+  "reset": "Đặt lại",
+  "supportFluffyChat": "Hỗ trợ NYX",
+  "support": "Hỗ trợ",
+  "setLowPriority": "Đặt độ ưu tiên thấp",
+  "unsetLowPriority": "Hủy đặt độ ưu tiên thấp",
+  "playSoundOnNotification": "Phát âm thanh khi có thông báo",
+  "addTag": "Thêm thẻ",
+  "removeTag": "Xóa thẻ",
+  "tagName": "Tên thẻ",
+  "createNewTag": "Tạo thẻ mới",
+  "discardEdits": "Có thay đổi chưa được lưu. Hủy bỏ chỉnh sửa?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Ẩn các phòng chat nằm trong không gian",
+  "possibleByYou": "Sẽ không có phiên bản này nếu thiếu sự hỗ trợ của bạn. NYX vẫn miễn phí, mã nguồn mở và hoàn toàn do cộng đồng điều khiển.",
+  "showThumbnailsInTimeline": "Hiển thị ảnh thu nhỏ của hình ảnh và video",
+  "appSubtitle": "Giao tiếp [matrix] an toàn",
+  "appDescription": "Giao tiếp mã hóa thông qua mạng [matrix] phi tập trung một cách đơn giản và dễ tiếp cận cho mọi người.",
+  "interactiveVerification": "Xác minh tương tác",
+  "interactiveVerificationDescription": "Nếu bạn và liên hệ ở cùng nhau hoặc qua kênh an toàn, các bạn có thể xác minh tất cả thiết bị cùng lúc bằng cách so sánh số an toàn hoặc biểu tượng cảm xúc.",
+  "countUnverifiedDevices": "Đoạn chat này có {count} thiết bị chưa xác minh.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Tin nhắn đã mã hóa",
+  "unencryptedMessage": "Tin nhắn chưa mã hóa",
+  "publicKey": "Khóa công khai: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Khóa định danh thiết bị",
+  "showMore": "Hiển thị thêm",
+  "showLess": "Hiển thị ít hơn",
+  "restoreBootstrapEmptyDevicesDescription": "Vui lòng nhập cụm mật khẩu hoặc khóa khôi phục để xác minh thiết bị này và có quyền truy cập vào bản sao lưu tin nhắn được mã hóa.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Vui lòng chọn một thiết bị khác để xác minh phiên này:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Đặt lại tài khoản",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Khôi phục định danh mã hóa",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Đặt lại định danh mã hóa",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Thiết lập định danh mã hóa",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Đang chờ khóa… Vui lòng giữ thiết bị kia hoạt động.",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Không có khóa nào được truyền. Vui lòng thử lại.",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Mở khóa",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Mở tệp",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Đặt lại tài khoản sẽ khiến bạn vĩnh viễn không thể truy cập các tin nhắn cũ. Bạn cần xác minh lại tất cả các thiết bị hiện tại. Chỉ thực hiện thao tác này khi không có thiết bị nào khác để xác minh phiên và bạn đã mất khóa khôi phục cũng như cụm mật khẩu!",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "NYX sử dụng mã hóa đầu cuối. Để không bị mất tin nhắn, vui lòng chọn cụm mật khẩu mạnh để bảo vệ định danh mã hóa và bản sao lưu tin nhắn được mã hóa.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Cụm mật khẩu mới",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Nhập lại cụm mật khẩu",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Cụm mật khẩu khớp nhau",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Độ dài ít nhất 12 ký tự.",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Chứa ký tự chữ hoa và chữ thường.",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Chứa ký tự đặc biệt.",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Chứa một số.",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Vui lòng ghi lại khóa khôi phục để khôi phục tin nhắn được mã hóa và định danh mã hóa.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Lưu thành tệp",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Bạn đã sẵn sàng để bắt đầu!",
+  "noUserKeyFound": "Không tìm thấy khóa người dùng",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Thiết bị chưa ký",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Thiết bị đã ký",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Không tìm thấy khóa curve25519",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Tin nhắn không thể giải mã",
+  "knownSince": "Ngày biết ban đầu: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Tin nhắn của bạn được mã hóa đầu cuối và chỉ người dùng đó mới có thể đọc:",
+  "messageCanOnlyBeReadByUsers": "Tin nhắn của bạn được mã hóa đầu cuối và chỉ những người dùng đó mới có thể đọc:",
+  "today": "Hôm nay",
+  "sending": "Đang gửi",
+  "generatingThumbnail": "Đang tạo ảnh thu nhỏ",
+  "encrypting": "Đang mã hóa",
+  "uploading": "Đang tải lên",
+  "edited": "(đã chỉnh sửa)",
+  "couldNotBeSent": "Không thể gửi",
+  "yesterday": "Hôm qua",
+  "resetRecoveryKey": "Đặt lại khóa khôi phục",
+  "pleaseEnter6Digits": "Vui lòng nhập 6 chữ số để bật khóa ứng dụng.",
+  "disableAppLock": "Tắt mã khóa",
+  "disableAppLockAreYouSure": "Bạn có chắc chắn muốn vô hiệu hóa khóa ứng dụng không?",
+  "enableBiometrics": "Bật xác thực sinh trắc học",
+  "disableBiometrics": "Tắt xác thực sinh trắc học",
+  "biometricsDescription": "Nhờ xác thực sinh trắc học, bạn có thể mở khóa ứng dụng bằng khuôn mặt hoặc dấu vân tay. Tính năng này có sẵn hay không tùy thuộc vào thiết bị của bạn.",
+  "useAppLock": "Sử dụng khóa ứng dụng",
+  "unlockWithBiometrics": "Mở khóa bằng sinh trắc học",
+  "resetPin": "Đặt lại mã PIN",
+  "forwardCountMessages": "Chuyển tiếp {count, plural, =1{tin nhắn} other{{count} tin nhắn}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Chỉnh sửa hình ảnh",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Xoay trái",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Xoay phải",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Phản chiếu",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Lưu",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Vẽ",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Hoàn tác",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Xóa",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Tẩy",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Cắt",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Đang tải tin nhắn…",
+  "buildDoesNotSupportFirebase": "Phiên bản này không hỗ trợ thông báo đám mây firebase.",
+  "unableToRegisterDeviceForFirebase": "Không thể đăng ký thiết bị cho thông báo đám mây firebase.",
+  "unifiedPushDistributors": "Bộ phân phối Unified Push:",
+  "doubleTapToReact": "Nhấn đúp để thả cảm xúc",
+  "doubleTapToReactDescription": "Nhấn đúp vào tin nhắn để thả cảm xúc thay vì chọn văn bản",
+  "doubleTapReaction": "Nhấn đúp thả cảm xúc",
+  "sendingFilesDoNotExit": "Đang gửi {count} tệp… Vui lòng không thoát!",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Đang nén video…",
+  "shareCrashReports": "Chia sẻ báo cáo sự cố",
+  "shareCrashReportsDescription": "Tự động chia sẻ báo cáo sự cố với nhà phát triển?",
+  "videoCallsBetaWarning": "Cuộc gọi video là tính năng thử nghiệm. Có thể có sự cố hoặc hành vi bất ngờ. Chúng tôi rất sẵn lòng lắng nghe phản hồi của bạn.",
+  "callNotAllowed": "Phòng này chỉ quản trị viên hoặc chủ phòng mới có thể bắt đầu cuộc gọi, vui lòng bảo họ bắt đầu trước, sau đó bạn có thể tham gia.",
+  "countActiveCallMembers": "{count} thành viên cuộc gọi đang hoạt động",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Vào cuộc gọi",
+  "noDevicesFound": "Không tìm thấy thiết bị nào",
+  "incomingCall": "Cuộc gọi đến",
+  "waitingForParticipant": "Đang đợi người tham gia…",
+  "decline": "Từ chối",
+  "videoCall": "Cuộc gọi video",
+  "voiceCall": "Cuộc gọi thoại",
+  "previewImage": "[Hình ảnh]",
+  "previewVideo": "[Video]",
+  "previewVoice": "[Giọng nói]",
+  "previewAudio": "[Âm thanh]",
+  "previewFile": "[Tệp]",
+  "previewLocation": "[Vị trí]",
+  "previewSticker": "[Nhãn dán]",
+  "previewVoiceCall": "[Cuộc gọi thoại]",
+  "previewVideoCall": "[Cuộc gọi video]",
+  "missedCall": "Cuộc gọi nhỡ",
+  "callBack": "Gọi lại",
+  "hangUp": "Gác máy",
+  "startCall": "Bắt đầu cuộc gọi",
+  "selectCamera": "Chọn máy ảnh",
+  "selectMicrophone": "Chọn micrô",
+  "selectSpeaker": "Chọn loa",
+  "toggleMicrophone": "Bật/tắt micrô",
+  "toggleCamera": "Bật/tắt máy ảnh",
+  "startScreensharing": "Bắt đầu chia sẻ màn hình",
+  "stopScreensharing": "Dừng chia sẻ màn hình",
+  "raiseHand": "Giơ tay",
+  "stopRaiseHand": "Hạ tay",
+  "preferSpeaker": "Ưu tiên loa",
+  "unexpectedErrorOccurded": "Đã xảy ra lỗi bất ngờ: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Tài khoản và cài đặt",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Cuộc gọi đến từ {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Máy chủ phản hồi lỗi: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Có bản cập nhật phiên bản {version}",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Tải xuống",
+  "sharedLocation": "Vị trí đã chia sẻ",
+  "contacts": "Liên hệ",
+  "groupChats": "Nhóm chat",
+  "publicGroups": "Nhóm công khai",
+  "createGroupChat": "Tạo nhóm chat",
+  "inviteFriends": "Mời bạn bè",
+  "emptyChatsTitle": "Chưa có trò chuyện",
+  "emptyChatsDesc": "Nhấn vào dấu + ở góc trên bên phải để bắt đầu cuộc trò chuyện mới",
+  "emptyUsersTitle": "Hiện bạn chưa có tin nhắn riêng nào",
+  "emptyUsersDesc": "Bạn có thể bỏ chọn bộ lọc để xem các cuộc trò chuyện khác",
+  "emptyUnreadTitle": "Không có tin nhắn chưa đọc nào",
+  "emptyUnreadDesc": "Bạn có thể thêm đoạn chat vào mục ghim trong cài đặt trò chuyện",
+  "emptyGroupChatsTitle": "Bạn chưa tham gia nhóm chat nào",
+  "emptyGroupChatsDesc": "Bạn có thể bỏ chọn bộ lọc để xem các cuộc trò chuyện khác",
+  "emptyPinnedTitle": "Bạn chưa ghim đoạn chat nào",
+  "emptyPinnedDesc": "Bạn có thể thêm đoạn chat vào mục ghim trong cài đặt trò chuyện",
+  "startChat": "Bắt đầu trò chuyện",
+  "newGroupChat": "Nhóm chat mới",
+  "invitedYouToJoinGroup": "{username} đã mời bạn tham gia nhóm chat",
+  "joinGroupBannerTitle": "Tham gia nhóm chat, giữ liên lạc",
+  "joinGroupBannerDesc": "Nhóm chat được phân nhóm theo chủ đề thành viên. Tất cả các nhóm chat bạn đã tham gia sẽ hiển thị ở đây.",
+  "certifiedGroups": "{count} nhóm được chứng nhận",
+  "membersCount": "{count} thành viên",
+  "recentlyOnline": "Hoạt động gần đây",
+  "lastSeenLongAgo": "Đã lâu không trực tuyến",
+  "appearance": "Giao diện",
+  "language": "Ngôn ngữ",
+  "selectLanguage": "Chọn ngôn ngữ",
+  "privacyAndSecurity": "Quyền riêng tư và bảo mật",
+  "qrScanRecognizing": "Đang nhận dạng...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Hết thời gian nhận dạng, vui lòng thử lại",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "Không nhận dạng được mã QR",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "Nội dung mã QR trống",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Nhận dạng thất bại",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "Mã QR không hợp lệ",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Đây là mã QR tài khoản của chính bạn",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Từ chối tham gia nhóm chat",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Bạn có chắc chắn muốn từ chối tham gia nhóm chat {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Máy ảnh",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Ảnh và video",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Tệp",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Trực tuyến",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Ngoại tuyến",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Tin nhắn đã thu hồi",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Bạn đã thu hồi một tin nhắn",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} đã thu hồi một tin nhắn",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Tệp đã được lưu",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Đã lưu vào bộ sưu tập",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Không thể mở tệp",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Tệp không xác định",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Cuộc gọi video nhỡ",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Cuộc gọi đã bị hủy",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} người đang gọi",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Tham gia",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Đang đợi những người khác tham gia…",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Chỉ quản trị viên phòng mới có thể bắt đầu cuộc gọi trong phòng này",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Xóa cuộc trò chuyện khỏi danh sách nhưng không rời khỏi đoạn chat, khi có tin nhắn mới sẽ tự động khôi phục hiển thị.",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Sau khi giải tán nhóm chat, tất cả thành viên sẽ bị xóa khỏi nhóm và không thể khôi phục.",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Dịch",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Đang dịch…",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Dịch thất bại, vui lòng thử lại sau",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Cuộc gọi đang diễn ra",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Hiển thị khi cuộc gọi thoại hoặc video đang diễn ra",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Nhấn để quay lại cuộc gọi",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Đối phương đã hủy cuộc gọi",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Cuộc gọi video đã bị hủy",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Đối phương đã hủy cuộc gọi video",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Quay lại",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Đang đổ chuông…",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Đang kết nối…",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Cuộc gọi kết thúc",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Cuộc gọi thất bại",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Loa ngoài",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Loa trong",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Lật",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Video",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Micrô chưa được bật",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Kết thúc",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Tôi",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Cuộc gọi đi",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} giây",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} phút",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} giờ {minutes} phút",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Thay đổi vai trò của tôi",
+  "permissions": "Quyền hạn",
+  "changeMyRoleConfirmMessage": "Bạn đang hạ cấp, thay đổi này sẽ không thể hoàn tác. Nếu bạn là người dùng có đặc quyền cuối cùng trong nhóm chat, bạn sẽ không thể lấy lại quyền.",
+  "demoteToAdmin": "Hạ cấp xuống quản trị viên",
+  "demoteToModerator": "Hạ cấp xuống điều hành viên",
+  "demoteToMember": "Hạ cấp xuống thành viên",
+  "addAdmin": "Thêm quản trị viên",
+  "addModerator": "Thêm điều hành viên",
+  "groupAdmins": "Quản trị viên nhóm chat",
+  "groupModerators": "Điều hành viên nhóm chat",
+  "addAdminHelp": "Bạn có thể thêm quản trị viên để giúp bạn quản lý cộng đồng.",
+  "addModeratorHelp": "Bạn có thể thêm điều hành viên để giúp bạn quản lý cộng đồng.",
+  "noCandidatesToAdd": "Chưa có thành viên nào có thể thêm",
+  "setAsAdminSuccess": "Đã đặt làm quản trị viên",
+  "setAsModeratorSuccess": "Đã đặt làm điều hành viên",
+  "searchMembers": "Tìm kiếm thành viên",
+  "noResults": "Không có kết quả",
+  "noResultsDescription": "Không tìm thấy kết quả liên quan, vui lòng tìm kiếm lại.",
+  "removeAdminConfirm": "Bạn có chắc chắn muốn hủy quyền quản trị viên của người dùng này không?",
+  "removeModeratorConfirm": "Bạn có chắc chắn muốn hủy quyền điều hành viên của người dùng này không?",
+  "removeAdminSuccess": "Đã hủy quyền quản trị viên",
+  "removeModeratorSuccess": "Đã hủy quyền điều hành viên",
+  "manageMembers": "Quản lý thành viên",
+  "inviteMembers": "Mời thành viên",
+  "removeMembers": "Xóa thành viên",
+  "banMembers": "Cấm thành viên",
+  "editCommunity": "Chỉnh sửa cộng đồng",
+  "changeCommunityName": "Đổi tên cộng đồng",
+  "changeCommunityAvatar": "Đổi ảnh đại diện cộng đồng",
+  "changeCommunityDescription": "Đổi tiểu sử cộng đồng",
+  "messagesAndContent": "Tin nhắn và nội dung",
+  "removeMessages": "Xóa tin nhắn",
+  "adminsOnly": "Chỉ quản trị viên",
+  "adminsAndModerators": "Quản trị viên và điều hành viên",
+  "resetPermissions": "Đặt lại quyền hạn",
+  "resetPermissionsConfirmMessage": "Bạn có chắc chắn muốn khôi phục tất cả quyền hạn về cài đặt mặc định không?",
+  "changeSettings": "Thay đổi cài đặt",
+  "permissionChangedFromTo": "{sender} đã đổi {permission} từ {from} thành {to}",
+  "changedUserRoleTo": "{username} đã đặt {target} thành {role}",
+  "viewInChat": "Xem trong đoạn chat",
+  "playbackSpeed": "Tốc độ phát",
+  "normalSpeed": "Bình thường",
+  "qrScanHint": "Đặt mã QR vào trong khung để quét",
+  "torch": "Đèn pin",
+  "remarkVisibleOnlyToYou": "Chỉ bạn mới có thể thấy ghi chú",
+  "pollVotes": "{count} phiếu",
+  "totalPollVotes": "Tổng số {count} phiếu",
+  "scanQrMobileOnly": "Tính năng quét mã chỉ hỗ trợ thiết bị di động",
+  "publicGroupTech": "Dịch vụ Công nghệ & Phát triển",
+  "publicGroupMarketing": "Lưu lượng truy cập & Quảng cáo tiếp thị",
+  "publicGroupWeb3": "Web3 & Giao dịch tài sản ảo",
+  "publicGroupCrossBorder": "Dịch vụ xuyên biên giới & Tài sản ảo",
+  "publicGroupFreelance": "Giao dịch tổng hợp / Nghề tự do",
+  "blockUsers": "Chặn người dùng",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Đã bật",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Mật khẩu khóa màn hình",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Mật khẩu đăng nhập",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Khóa khôi phục",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Cho phép lưu trữ khóa",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Lưu trữ an toàn định danh mã hóa và khóa tin nhắn của bạn trên máy chủ, nhờ đó bạn có thể xem lịch sử tin nhắn của mình trên bất kỳ thiết bị mới nào.",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Thiết lập khôi phục",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Nếu bạn mất tất cả các thiết bị hiện có, hãy sử dụng khóa khôi phục để khôi phục định danh mã hóa và lịch sử tin nhắn của bạn",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Đặt khóa khôi phục",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Lưu trữ an toàn định danh mã hóa và khóa tin nhắn của bạn trên máy chủ. Nhờ đó bạn có thể xem lịch sử tin nhắn của mình trên bất kỳ thiết bị mới nào.",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Tạo khóa khôi phục",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Nhấn để sao chép khóa khôi phục",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Lưu khóa khôi phục",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Lưu khóa khôi phục này ở một nơi an toàn, chẳng hạn như trình quản lý mật khẩu, ghi chú mã hóa hoặc két sắt vật lý.",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Lưu khóa khôi phục",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Đã sao chép khóa khôi phục",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Đã lưu khóa khôi phục",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "Đang tạo khóa khôi phục…",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Chia sẻ trạng thái trực tuyến",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Khi tắt, bạn sẽ không thể gửi hoặc nhận biên nhận đã đọc, thông báo nhập",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Tối ưu hóa cho việc tải lên",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Kiểm duyệt nội dung và bảo mật",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Ẩn ảnh đại diện trong yêu cầu lời mời phòng",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Hiển thị phương tiện trong dòng thời gian",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Luôn ẩn",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "Trong phòng riêng tư",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Luôn hiển thị",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Tất cả",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Chỉ nhắc đến",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Nhóm chat",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Trò chuyện riêng",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Thông báo cho tôi trong nhóm chat",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Thông báo cho tôi trong trò chuyện riêng",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Tất cả tin nhắn",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Chỉ nhắc đến và từ khóa",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "Máy chủ không hỗ trợ tùy chọn này trong nhóm chat được mã hóa, do đó bạn có thể không nhận được thông báo ở một số nhóm chat",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Cài đặt độc lập cho từng đoạn chat",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Bật tính năng này sẽ ghi đè lên cài đặt mặc định của bạn.",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Thông báo cho tôi trong đoạn chat này",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Chỉ nhắc đến và từ khóa",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Máy chủ chính của bạn không hỗ trợ tùy chọn này trong phòng được mã hóa, bạn có thể không nhận được thông báo trong một số phòng.",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Cho phép cài đặt tùy chỉnh",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Thông báo cho tôi trên thiết bị này",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Nhắc đến",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Thông báo khi được @ trong nhóm chat",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Thêm cài đặt",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Mật khẩu cũ",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Khóa mật khẩu",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Bật khóa màn hình",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Vui lòng nhập mật khẩu khóa màn hình",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Vui lòng nhập lại mật khẩu khóa màn hình mới",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Vui lòng nhập mật khẩu khóa màn hình cũ",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Mật khẩu cũ không chính xác, vui lòng nhập lại",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Đổi mã khóa",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Lưu ý: Nếu bạn quên mã khóa, bạn sẽ cần cài đặt lại ứng dụng.",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Mật khẩu nhập lại không khớp",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Đã bật mật khẩu khóa màn hình",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Đã tắt mật khẩu khóa màn hình",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Thiết bị này",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Đăng xuất tất cả phiên trên thiết bị khác",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Đăng xuất tất cả thiết bị ngoại trừ thiết bị này.",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Phiên hoạt động",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Xóa thiết bị",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Bạn có chắc chắn muốn xóa thiết bị {name}?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "ID thiết bị",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Đã đăng nhập",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "Địa chỉ IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Ứng dụng khách",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "ID ứng dụng khách",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Tên",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Gỡ thiết bị",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} trước",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "phút",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "giờ",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "ngày",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Hòa nhập vào {appName} của bạn",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "Chào mừng bạn đến với {appName}, ứng dụng nhắn tin nhanh chóng và tối giản.",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Tạo tài khoản",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Cập nhật đã sẵn sàng",
+  "updateReadyMessage": "Chúng tôi đã tối ưu hóa một số tính năng. Khởi động lại ứng dụng để áp dụng cập nhật.",
+  "restartNow": "Khởi động lại ngay",
+  "noPublicGroupsYet": "Chưa có nhóm được chứng nhận"
+}

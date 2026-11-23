@@ -1,0 +1,4088 @@
+{
+  "@@locale": "la",
+  "@@last_modified": "2026-06-06 00:00:00.000000",
+  "about": "De",
+  "@about": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "accept": "Accipere",
+  "@accept": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "acceptedTheInvitation": "👍 {username} invitationem accepit",
+  "@acceptedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "account": "Ratio",
+  "@account": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activatedEndToEndEncryption": "🔐 {username} encryptionem finem-ad-finem activavit",
+  "@activatedEndToEndEncryption": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addEmail": "Addere electronicam",
+  "@addEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "admin": "Administrator",
+  "@admin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alias": "Alias",
+  "@alias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "all": "Omnia",
+  "@all": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answeredTheCall": "{senderName} vocationem respondit",
+  "@answeredTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "anyoneCanJoin": "Quisquis coniungere potest",
+  "@anyoneCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLock": "Sera applicationis",
+  "@appLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "archive": "Archivum",
+  "@archive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areGuestsAllowedToJoin": "Licetne hospitibus coniungere?",
+  "@areGuestsAllowedToJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSure": "Esne certus?",
+  "@areYouSure": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToLogout": "Esne certus te exire velle?",
+  "@areYouSureYouWantToLogout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askSSSSSign": "Inscribe tuam tesseram reponendi securae vel clavem recuperationis ad signandum.",
+  "@askSSSSSign": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "askVerificationRequest": "Visne accipere petitionem verificationis a {username}?",
+  "@askVerificationRequest": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "badServerLoginTypesException": "Modi login a servo principali supportati:\n{serverVersions}\nSed haec applicatio tantum supportat:\n{supportedVersions}",
+  "@badServerLoginTypesException": {
+    "type": "String",
+    "placeholders": {
+      "serverVersions": {
+        "type": "String"
+      },
+      "supportedVersions": {
+        "type": "String"
+      }
+    }
+  },
+  "banFromChat": "Prohibere a colloquio",
+  "@banFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "banMember": "Prohibere membrum",
+  "@banMember": {
+    "placeholders": {}
+  },
+  "banned": "Prohibitus",
+  "@banned": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bannedUser": "{username} prohibuit {targetName}",
+  "@bannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "blockDevice": "Blokare machinam",
+  "@blockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blocked": "Blokatum",
+  "@blocked": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cancel": "Abrogare",
+  "@cancel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeDeviceName": "Mutare nomen machinae",
+  "@changeDeviceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changedTheChatAvatar": "{username} imaginem colloquii mutavit",
+  "@changedTheChatAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheChatPermissions": "{username} permissiones colloquii mutavit",
+  "@changedTheChatPermissions": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheDisplaynameTo": "{username} nomen ostensionis mutavit ad: '{displayname}'",
+  "@changedTheDisplaynameTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRules": "{username} regulas accessus hospitum mutavit",
+  "@changedTheGuestAccessRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheGuestAccessRulesTo": "{username} regulas accessus hospitum mutavit ad: {rules}",
+  "@changedTheGuestAccessRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibility": "{username} visibilitatem historiae mutavit",
+  "@changedTheHistoryVisibility": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheHistoryVisibilityTo": "{username} visibilitatem historiae mutavit ad: {rules}",
+  "@changedTheHistoryVisibilityTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "rules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRules": "{username} regulas coniungendi mutavit",
+  "@changedTheJoinRules": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheJoinRulesTo": "{username} regulas coniungendi mutavit ad: {joinRules}",
+  "@changedTheJoinRulesTo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "joinRules": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheProfileAvatar": "{username} imaginem profile mutavit",
+  "@changedTheProfileAvatar": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomAliases": "{username} alias cubiculi mutavit",
+  "@changedTheRoomAliases": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changedTheRoomInvitationLink": "{username} nexum invitationis cubiculi mutavit",
+  "@changedTheRoomInvitationLink": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Mutare tesseram",
+  "@changePassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheHomeserver": "Mutare servum domesticum",
+  "@changeTheHomeserver": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheme": "Mutare thema",
+  "@changeTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeTheNameOfTheGroup": "Mutare nomen gregis",
+  "@changeTheNameOfTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeYourAvatar": "Mutare tuam imaginem",
+  "@changeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "channelCorruptedDecryptError": "Encryptio corrupta est",
+  "@channelCorruptedDecryptError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chat": "Colloquium",
+  "@chat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatBackup": "Memoria colloquii",
+  "@chatBackup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chatDetails": "Singula colloquii",
+  "@chatDetails": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chats": "Colloquia",
+  "@chats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "chooseAStrongPassword": "Elige tesseram firmam",
+  "@chooseAStrongPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearArchive": "Purgare archivum",
+  "close": "Claudere",
+  "@close": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "commandHint_ban": "Prohibere usorem designatum in hoc cubiculo",
+  "@commandHint_ban": {
+    "type": "String",
+    "description": "Usage hint for the command /ban"
+  },
+  "commandHint_html": "Mittere textum formatum HTML",
+  "@commandHint_html": {
+    "type": "String",
+    "description": "Usage hint for the command /html"
+  },
+  "commandHint_invite": "Invitare usorem designatum ad hoc cubiculum",
+  "@commandHint_invite": {
+    "type": "String",
+    "description": "Usage hint for the command /invite"
+  },
+  "commandHint_join": "Coniungere cubiculum designatum",
+  "@commandHint_join": {
+    "type": "String",
+    "description": "Usage hint for the command /join"
+  },
+  "commandHint_kick": "Removere usorem designatum ex hoc cubiculo",
+  "@commandHint_kick": {
+    "type": "String",
+    "description": "Usage hint for the command /kick"
+  },
+  "commandHint_leave": "Exire hoc cubiculum",
+  "@commandHint_leave": {
+    "type": "String",
+    "description": "Usage hint for the command /leave"
+  },
+  "commandHint_me": "Introducere te",
+  "@commandHint_me": {
+    "type": "String",
+    "description": "Usage hint for the command /me"
+  },
+  "commandHint_myroomavatar": "Constituere imaginem tuam in hoc cubiculo (per mxc-uri)",
+  "@commandHint_myroomavatar": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomavatar"
+  },
+  "commandHint_myroomnick": "Constituere nomen tuum in hoc cubiculo",
+  "@commandHint_myroomnick": {
+    "type": "String",
+    "description": "Usage hint for the command /myroomnick"
+  },
+  "commandHint_op": "Constituere gradum permissionis usoris designati (defunctus: 50)",
+  "@commandHint_op": {
+    "type": "String",
+    "description": "Usage hint for the command /op"
+  },
+  "commandHint_plain": "Mittere textum purum",
+  "@commandHint_plain": {
+    "type": "String",
+    "description": "Usage hint for the command /plain"
+  },
+  "commandHint_react": "Mittere responsum ut reactionem",
+  "@commandHint_react": {
+    "type": "String",
+    "description": "Usage hint for the command /react"
+  },
+  "commandHint_send": "Mittere textum",
+  "@commandHint_send": {
+    "type": "String",
+    "description": "Usage hint for the command /send"
+  },
+  "commandHint_unban": "Solvere prohibitionem usoris designati in hoc cubiculo",
+  "@commandHint_unban": {
+    "type": "String",
+    "description": "Usage hint for the command /unban"
+  },
+  "commandInvalid": "Mandatum invalidum",
+  "@commandInvalid": {
+    "type": "String"
+  },
+  "commandMissing": "{command} non est mandatum.",
+  "@commandMissing": {
+    "type": "String",
+    "placeholders": {
+      "command": {
+        "type": "String"
+      }
+    },
+    "description": "State that {command} is not a valid /command."
+  },
+  "compareEmojiMatch": "Quaeso compara emojis",
+  "@compareEmojiMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareNumbersMatch": "Quaeso compara numeros sequentes",
+  "@compareNumbersMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "configureChat": "Configurare colloquium",
+  "@configureChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contactHasBeenInvitedToTheGroup": "Contactus ad gregem invitatus est",
+  "@contactHasBeenInvitedToTheGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentHasBeenReported": "Hoc contentum administratoribus servi relatum est",
+  "@contentHasBeenReported": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copiedToClipboard": "Copiatum ad tabulam",
+  "@copiedToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copy": "Copiare",
+  "@copy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "copyToClipboard": "Copiare ad tabulam",
+  "@copyToClipboard": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "couldNotDecryptMessage": "Nuntium decryptare non potuit: {error}",
+  "@couldNotDecryptMessage": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "messageDecryptionFailed": "Nuntius ad tempus decryptari non potest, quaeso postea iterum tenta",
+  "@messageDecryptionFailed": {
+    "placeholders": {}
+  },
+  "countParticipants": "{count} participes",
+  "@countParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "create": "Creare",
+  "@create": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "createdTheChat": "💬 {username} colloquium creavit",
+  "@createdTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "currentlyActive": "Nunc activus",
+  "@currentlyActive": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "darkTheme": "Obscurum",
+  "@darkTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "dateAndTimeOfDay": "{date}, {timeOfDay}",
+  "@dateAndTimeOfDay": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "timeOfDay": {
+        "type": "String"
+      }
+    }
+  },
+  "deactivateAccountWarning": "Hoc rationem tuam deactivatebit. Hoc revokari non potest! Esne certus?",
+  "@deactivateAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "defaultPermissionLevel": "Gradus permissionis defectus novorum usorum",
+  "@defaultPermissionLevel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "delete": "Delere",
+  "@delete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAccount": "Delere rationem",
+  "@deleteAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteMessage": "Delere nuntium",
+  "@deleteMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessages": "Delere omnes nuntios",
+  "@deleteAllMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistory": "Vacuare historiam colloquii",
+  "@clearChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteAllMessagesConfirmation": "Esne certus te omnes nuntios in hoc colloquio delere velle? Haec actio non potest revokari.",
+  "@deleteAllMessagesConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clearChatHistoryConfirmation": "Esne certus te historiam huius colloquii vacuare velle? Haec actio non potest revokari.",
+  "@clearChatHistoryConfirmation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAutoDelete": "Activa auto-deletionem",
+  "@enableAutoDelete": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "autoDeleteDescription": "Automatisce nuntios novos in hoc colloquio post tempus delere",
+  "@autoDeleteDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneDay": "1 dies",
+  "@oneDay": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneWeek": "1 hebdomas",
+  "@oneWeek": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneMonth": "1 mensis",
+  "@oneMonth": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "disable": "Desactivare",
+  "@disable": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "devices": "Machinae",
+  "@devices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "directChats": "Colloquia directa",
+  "@directChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "displaynameHasBeenChanged": "Nomen ostensionis mutatum est",
+  "@displaynameHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadFile": "Deprimere fasciculum",
+  "@downloadFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "edit": "Mutare",
+  "@edit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editBlockedServers": "Mutare servos blokatos",
+  "@editBlockedServers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editDisplayname": "Mutare nomen ostensionis",
+  "@editDisplayname": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAliases": "Mutare alias cubiculorum",
+  "@editRoomAliases": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "editRoomAvatar": "Mutare imaginem cubiculi",
+  "@editRoomAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteExists": "Emote iam exstat!",
+  "@emoteExists": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteInvalid": "Invalida brevis nota emote!",
+  "@emoteInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emoteShortcode": "Brevis nota emote",
+  "@emoteShortcode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "emptyChat": "Colloquium vacuum",
+  "@emptyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEmotesGlobally": "Activa emotes ubique",
+  "@enableEmotesGlobally": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryption": "Activa encryptionem",
+  "@enableEncryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableEncryptionWarning": "Postea encryptionem desactivare non poteris, esne certus?",
+  "@enableEncryptionWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encrypted": "Encryptum",
+  "@encrypted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryption": "Encryptio",
+  "@encryption": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "encryptionNotEnabled": "Encryptio non est activa",
+  "@encryptionNotEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "endedTheCall": "{senderName} vocationem finivit",
+  "@endedTheCall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterAnEmailAddress": "Inscribe electronicam",
+  "@enterAnEmailAddress": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fontSize": "Magnitudo litterarum",
+  "@fontSize": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forward": "Transmittere",
+  "@forward": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "forwarded": "Transmissum feliciter",
+  "@forwarded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromJoining": "Ab coniunctione",
+  "@fromJoining": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "fromTheInvitation": "Ab invitatione",
+  "@fromTheInvitation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "group": "Grex",
+  "@group": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupIsPublic": "Grex est publicus",
+  "@groupIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groups": "Greges",
+  "@groups": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupWith": "Grex cum {displayname}",
+  "@groupWith": {
+    "type": "String",
+    "placeholders": {
+      "displayname": {
+        "type": "String"
+      }
+    }
+  },
+  "guestsAreForbidden": "Hospitibus prohibitum est",
+  "@guestsAreForbidden": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "guestsCanJoin": "Hospites coniungere possunt",
+  "@guestsCanJoin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hasWithdrawnTheInvitationFor": "{username} invitationem pro {targetName} retraxit",
+  "@hasWithdrawnTheInvitationFor": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "help": "Auxilium",
+  "@help": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideUnknownEvents": "Celare eventus ignotos",
+  "@hideUnknownEvents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignore": "Neglegere",
+  "@ignore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ignoredUsers": "Usores neglegti",
+  "@ignoredUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "iHaveClickedOnLink": "Ego nexum prexi",
+  "@iHaveClickedOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incorrectPassphraseOrKey": "Tessera aut clavis recuperationis incorrecta",
+  "@incorrectPassphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContact": "Invitare contactum",
+  "@inviteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteContactToGroup": "Invitare contactum ad {groupName}",
+  "@inviteContactToGroup": {
+    "type": "String",
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "invited": "Invitatus",
+  "@invited": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invitedUser": "📩 {username} invitavit {targetName}",
+  "@invitedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedUsersOnly": "Tantum usores invitati",
+  "@invitedUsersOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inviteText": "{username} te invitat ut NYX utaris. \n1. Installa NYX: https://fluffychat.im \n2. Inscribe vel log in \n3. Aperie nexum invitationis:\n {link}",
+  "@inviteText": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "link": {
+        "type": "String"
+      }
+    }
+  },
+  "isTyping": "Scribit",
+  "@isTyping": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinedTheChat": "👋 {username} colloquio coniunxit",
+  "@joinedTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "joinRoom": "Coniungere cubiculum",
+  "@joinRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomHint": "Inscribe inscriptionem cubiculi",
+  "@joinRoomHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomExample": "Exempli gratia !room-name:nstalk.space",
+  "@joinRoomExample": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomInvalid": "Invalida inscriptio!",
+  "@joinRoomInvalid": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNotFound": "Cubiculum non inventum!",
+  "@joinRoomNotFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFailed": "Coniunctio cubiculi defecit",
+  "@joinRoomFailed": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomFound": "Cubiculum conveniens inventum",
+  "@joinRoomFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomContinue": "Pergere",
+  "@joinRoomContinue": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomNoTopic": "Nullum argumentum adhuc~",
+  "@joinRoomNoTopic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomApply": "Petere coniunctionem",
+  "@joinRoomApply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomEnter": "Intrare cubiculum",
+  "@joinRoomEnter": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "joinRoomIntro": "Introductio",
+  "@joinRoomIntro": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kicked": "👞 {username} expulit {targetName}",
+  "@kicked": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickedAndBanned": "🙅 {username} expulit et prohibuit {targetName}",
+  "@kickedAndBanned": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "kickFromChat": "Expellere a colloquio",
+  "@kickFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "kickedFromGroup": "Tu e hoc grege expulsus es",
+  "@kickedFromGroup": {
+    "placeholders": {}
+  },
+  "removeMember": "Removere membrum",
+  "@removeMember": {
+    "placeholders": {}
+  },
+  "lastActiveAgo": "Ultimo actus: {localizedTimeShort}",
+  "@lastActiveAgo": {
+    "type": "String",
+    "placeholders": {
+      "localizedTimeShort": {
+        "type": "String"
+      }
+    }
+  },
+  "leave": "Exire",
+  "@leave": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leftTheChat": "Colloquium reliquit",
+  "@leftTheChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lightTheme": "Clarum",
+  "@lightTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadCountMoreParticipants": "Onustus {count} plures participes",
+  "@loadCountMoreParticipants": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loadingPleaseWait": "Onustus... quaeso exspecta.",
+  "@loadingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadMore": "Onustus plura...",
+  "@loadMore": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "login": "Log in",
+  "@login": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logInTo": "Log in ad {homeserver}",
+  "@logInTo": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "logout": "Exire",
+  "@logout": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutDescription": "Esne certus te ex currenti ratione NYX exire velle?",
+  "mention": "Mentio",
+  "@mention": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messages": "Nuntii",
+  "@messages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moderator": "Moderator",
+  "@moderator": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "muteChat": "Obmutescere",
+  "@muteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newChat": "Colloquium novum",
+  "@newChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newMessageInFluffyChat": "💬 NYX nuntius novus",
+  "@newMessageInFluffyChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newVerificationRequest": "Nova petitio verificationis!",
+  "@newVerificationRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "next": "Proximus",
+  "@next": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "no": "Non",
+  "@no": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noConnectionToTheServer": "Nulla connexio ad servum",
+  "@noConnectionToTheServer": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEmotesFound": "Nullae emotes inventae. 😕",
+  "@noEmotesFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noEncryptionForPublicRooms": "Encryptionem in cubiculis publicis activare non potes.",
+  "@noEncryptionForPublicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noGoogleServicesWarning": "Videtur te non habere Firebase Cloud Messaging in telephonio tuo. Si notificationes NYX accipere vis, ntfy commendatur.",
+  "@noGoogleServicesWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPasswordRecoveryDescription": "Nondum tesseram recuperationis addidisti.",
+  "@noPasswordRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noPermission": "Nulla permissio",
+  "@noPermission": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noRoomsFound": "Nulla cubicula inventa...",
+  "@noRoomsFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifications": "Notificationes",
+  "@notifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "numUsersTyping": "{count} usores scribunt...",
+  "@numUsersTyping": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "onlineKeyBackupEnabled": "Memoria clavis online activa est",
+  "@onlineKeyBackupEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsPushError": "Vae! Error incidit dum notificationes configurantur.",
+  "@oopsPushError": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oopsSomethingWentWrong": "Vae, aliquid erravit...",
+  "@oopsSomethingWentWrong": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openAppToReadMessages": "Aperire applicationem ad legendos nuntios",
+  "@openAppToReadMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openCamera": "Aperire cameram",
+  "@openCamera": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "or": "Vel",
+  "@or": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "participant": "Pars",
+  "@participant": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseOrKey": "Tessera aut clavis recuperationis",
+  "@passphraseOrKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "password": "Tessera",
+  "@password": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordForgotten": "Oblitus tesserae",
+  "@passwordForgotten": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordHasBeenChanged": "Tessera mutata est",
+  "@passwordHasBeenChanged": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passwordRecovery": "Recuperatio tesserae",
+  "@passwordRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pin": "Figere",
+  "@pin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseChooseAPasscode": "Quaeso elige tesseram",
+  "@pleaseChooseAPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseClickOnLink": "Quaeso preme nexum in electronica et perge.",
+  "@pleaseClickOnLink": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Quaeso inscribe tesseram tuam",
+  "@pleaseEnterYourPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPin": "Quaeso inscribe tuum PIN",
+  "@pleaseEnterYourPin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterLockPasscode": "Quaeso inscribe tesseram serae",
+  "@enterLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUsername": "Quaeso inscribe tuum nomen usoris",
+  "@pleaseEnterYourUsername": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pleaseFollowInstructionsOnWeb": "Quaeso sequere monita in interrete et preme proximus.",
+  "@pleaseFollowInstructionsOnWeb": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privacy": "Privatum",
+  "@privacy": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "publicRooms": "Cubicula publica",
+  "@publicRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reason": "Causa",
+  "@reason": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "redactedAnEvent": "{username} eventum delevit",
+  "@redactedAnEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactMessage": "Delere nuntium",
+  "@redactMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reject": "Repudiare",
+  "@reject": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rejectedTheInvitation": "{username} invitationem repudiavit",
+  "@rejectedTheInvitation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "remove": "Removere",
+  "@remove": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeAllOtherDevices": "Removere omnes alias machinas",
+  "@removeAllOtherDevices": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbanFromChat": "Solvere prohibitionem a colloquio",
+  "@unbanFromChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeYourAvatar": "Removere tuam imaginem",
+  "@removeYourAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "replaceRoomWithNewerVersion": "Renovare cubiculum ad versionem novam",
+  "@replaceRoomWithNewerVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reply": "Respondere",
+  "@reply": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "reportMessage": "Delator nuntius",
+  "@reportMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomHasBeenUpgraded": "Cubiculum renovatum est",
+  "@roomHasBeenUpgraded": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "roomVersion": "Versio cubiculi",
+  "@roomVersion": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveFile": "Servare fasciculum",
+  "@saveFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "search": "Quaerere",
+  "@search": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "security": "Securitas",
+  "@security": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "send": "Mittere",
+  "@send": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAMessage": "Mittere nuntium",
+  "@sendAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendAsText": "Mittere ut textum",
+  "@sendAsText": {
+    "type": "String"
+  },
+  "sendAudio": "Mittere sonum",
+  "@sendAudio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendFile": "Mittere fasciculum",
+  "@sendFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendImage": "Mittere imaginem",
+  "@sendImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendMessages": "Mittere nuntios",
+  "@sendMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendVideo": "Mittere visivum",
+  "@sendVideo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sentAFile": "📁 {username} fasciculum misit",
+  "@sentAFile": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAnAudio": "🎤 {username} sonum misit",
+  "@sentAnAudio": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAPicture": "🖼️ {username} imaginem misit",
+  "@sentAPicture": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentASticker": "😊 {username} taeniam misit",
+  "@sentASticker": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentAVideo": "🎥 {username} visivum misit",
+  "@sentAVideo": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "sentCallInformations": "{senderName} informationes vocationis misit",
+  "@sentCallInformations": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "setAsCanonicalAlias": "Constituere ut alias canonicam",
+  "@setAsCanonicalAlias": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setStatus": "Constituere statum",
+  "@setStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "settings": "Configurationes",
+  "@settings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "share": "Communicare",
+  "@share": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sharedTheLocation": "{username} locum communicavit",
+  "@sharedTheLocation": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "skip": "Transilire",
+  "@skip": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sourceCode": "Fons codicis",
+  "@sourceCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startedACall": "{senderName} vocationem coepit",
+  "@startedACall": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "status": "Status",
+  "@status": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "statusExampleMessage": "Quomodo hodie vales?",
+  "@statusExampleMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "submit": "Submittere",
+  "@submit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "synchronizingPleaseWait": "Synchronizatio... quaeso exspecta.",
+  "@synchronizingPleaseWait": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "systemTheme": "Systema",
+  "@systemTheme": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyDontMatch": "Non conveniunt",
+  "@theyDontMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "theyMatch": "Conveniunt",
+  "@theyMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tooManyRequestsWarning": "Nimiae petitiones. Quaeso iterum tenta postea!",
+  "@tooManyRequestsWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "tryToSendAgain": "Tenta iterum mittere",
+  "@tryToSendAgain": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unbannedUser": "{username} solvit prohibitionem {targetName}",
+  "@unbannedUser": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "unblockDevice": "Solvere blokationem machinae",
+  "@unblockDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownDevice": "Machina ignota",
+  "@unknownDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEncryptionAlgorithm": "Algorithmus encryptionis ignotus",
+  "@unknownEncryptionAlgorithm": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unknownEvent": "Eventus ignotus '{type}'",
+  "@unknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "unmuteChat": "Revocare obmutescere",
+  "@unmuteChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unpin": "Unpin",
+  "@unpin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "userAndOthersAreTyping": "{username} et alii {count} scribunt...",
+  "@userAndOthersAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "userAndUserAreTyping": "{username} et {username2} scribunt...",
+  "@userAndUserAreTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "username2": {
+        "type": "String"
+      }
+    }
+  },
+  "userIsTyping": "{username} scribit...",
+  "@userIsTyping": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userLeftTheChat": "🚪 {username} colloquium reliquit",
+  "@userLeftTheChat": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "userSentUnknownEvent": "{username} eventum {type} misit",
+  "@userSentUnknownEvent": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "verified": "Verificatus",
+  "@verified": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyUser": "Verificare usorem",
+  "@verifyUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUser": "Verificare hunc usorem",
+  "@verifyThisUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyThisUserBody": "Ad securitatem meliorem, quaeso hunc usorem verifica comparando emojis",
+  "@verifyThisUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUser": "Exspectans alium usorem",
+  "@waitingOtherUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingOtherUserBody": "Cum acceptum erit, pergere poteris",
+  "@waitingOtherUserBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmoji": "Comparare emojis",
+  "@compareEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiOrderBody": "Compara emojis ut serves ordinem",
+  "@compareEmojiOrderBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "compareEmojiSameBody": "Quaeso verifica an emojis sint iidem",
+  "@compareEmojiSameBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestTitle": "Petitio verificationis",
+  "@verifyRequestTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyRequestBody": "Ad securitatem augendam, alius usor te verificare vult",
+  "@verifyRequestBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessTitle": "Verificatio successit",
+  "@verificationSuccessTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationSuccessBody": "Nunc huic usori confidere potes",
+  "@verificationSuccessBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedTitle": "Verificatio defecit",
+  "@verificationFailedTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verificationFailedBody": "Aut tempus exiit aut petitio repudiata est",
+  "@verificationFailedBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "done": "Actum",
+  "@done": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "retry": "Iterum tentare",
+  "@retry": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageTitle": "Verificare hunc usorem?",
+  "@verifyBeforeFirstMessageTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyBeforeFirstMessageBody": "Hic est primus nuntius.",
+  "@verifyBeforeFirstMessageBody": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyNow": "Verificare nunc",
+  "@verifyNow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendDirectly": "Mittere directe",
+  "@sendDirectly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotifications": "Notificationes nuntiorum",
+  "@messageNotifications": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotify": "Notificatio nuntii",
+  "@messageNotify": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addBio": "Addere biographiam",
+  "@addBio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setNewAvatar": "Constituere novam imaginem",
+  "@setNewAvatar": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "members": "Membra",
+  "@members": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rolesAndPermissions": "Partes et permissiones",
+  "@rolesAndPermissions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "personalProfile": "Profilum personale",
+  "@personalProfile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRemark": "Constituere notam",
+  "@setRemark": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessages": "Nuntii fixi",
+  "@pinnedMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pinnedMessagesCount": "{count, plural, =1{1 nuntius fixus} other{{count} nuntii fixi}}",
+  "@pinnedMessagesCount": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "num"
+      }
+    }
+  },
+  "pinnedMessagesEmpty": "Nulli nuntii fixi",
+  "@pinnedMessagesEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "agreement": "Conventio",
+  "@agreement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaAndFiles": "Media et fasciculi",
+  "@mediaAndFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "polls": "Suffragia",
+  "@polls": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "leaveCommunity": "Exire communitatem",
+  "@leaveCommunity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteGroupChat": "Delere colloquium gregis",
+  "@deleteGroupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "media": "Media",
+  "@media": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMedia": "Nulla media",
+  "@noMedia": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noFiles": "Nulli fasciculi",
+  "@noFiles": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "downloadingFile": "Fasciculus deprimitur...",
+  "@downloadingFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToContacts": "Addere ad contactus",
+  "@addToContacts": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addContact": "Addere contactum",
+  "@addContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteContact": "Delere contactum",
+  "@deleteContact": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bio": "Biographia",
+  "@bio": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "bioEmpty": "Nulla biographia",
+  "@bioEmpty": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "blockUser": "Blokare usorem",
+  "@blockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unblockUser": "Solvere blokationem usoris",
+  "@unblockUser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "call": "Vocare",
+  "@call": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyStart": "Incipere verificationem",
+  "@verifyStart": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifySuccess": "Felicitas in verificatione!",
+  "@verifySuccess": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyTitle": "Verificare alias rationes",
+  "@verifyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibilityOfTheChatHistory": "Visibilitas historiae colloquii",
+  "@visibilityOfTheChatHistory": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForAllParticipants": "Visibile omnibus participibus",
+  "@visibleForAllParticipants": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "visibleForEveryone": "Visibile omnibus",
+  "@visibleForEveryone": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "voiceMessage": "Nuntius vocalis",
+  "@voiceMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerAcceptRequest": "Exspectans partner ut accipiat...",
+  "@waitingPartnerAcceptRequest": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerEmoji": "Exspectans partner emoji...",
+  "@waitingPartnerEmoji": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingPartnerNumbers": "Exspectans partner numeros...",
+  "@waitingPartnerNumbers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "warning": "Monitum!",
+  "@warning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "weSentYouAnEmail": "Electronicam misimus tibi",
+  "@weSentYouAnEmail": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoCanPerformWhichAction": "Quis quid facere potest",
+  "@whoCanPerformWhichAction": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whoIsAllowedToJoinThisGroup": "Quis hunc gregem coniungere potest",
+  "@whoIsAllowedToJoinThisGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "whyDoYouWantToReportThis": "Cur hoc referre vis?",
+  "@whyDoYouWantToReportThis": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "withTheseAddressesRecoveryDescription": "Per has inscriptiones tesseram recuperare potes.",
+  "@withTheseAddressesRecoveryDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "writeAMessage": "Scribe nuntium...",
+  "@writeAMessage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yes": "Ita",
+  "@yes": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "you": "Tu",
+  "@you": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreNoLongerParticipatingInThisChat": "Non iam in hoc colloquio participas",
+  "@youAreNoLongerParticipatingInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youHaveBeenBannedFromThisChat": "Prohibitus es ab hoc colloquio",
+  "@youHaveBeenBannedFromThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "yourPublicKey": "Tua clavis publica",
+  "@yourPublicKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "addToSpace": "Addere ad spatium",
+  "obtainingLocation": "Locum obtinens...",
+  "@obtainingLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noMatrixServer": "{server1} non est servus Matrix, visne {server2}?",
+  "@noMatrixServer": {
+    "type": "String",
+    "placeholders": {
+      "server1": {
+        "type": "String"
+      },
+      "server2": {
+        "type": "String"
+      }
+    }
+  },
+  "locationPermissionDeniedNotice": "Permissio loci denegata est.",
+  "@locationPermissionDeniedNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "locationDisabledNotice": "Servivia loci desolata sunt.",
+  "@locationDisabledNotice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "errorObtainingLocation": "Error obtinendi locum: {error}",
+  "@errorObtainingLocation": {
+    "type": "String",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "createNewSpace": "Creare spatium novum",
+  "@createNewSpace": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "cantOpenUri": "Non potest aperire URI {uri}",
+  "@cantOpenUri": {
+    "type": "String",
+    "placeholders": {
+      "uri": {
+        "type": "String"
+      }
+    }
+  },
+  "autoplayImages": "Automatisce ludere imagines",
+  "@autoplayImages": {
+    "type": "String",
+    "placeholder": {}
+  },
+  "spaceName": "Nomen spatii",
+  "@spaceName": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "spaceIsPublic": "Spatium est publicum",
+  "@spaceIsPublic": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareLocation": "Communicare locum",
+  "@shareLocation": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openInMaps": "Aperire in mappis",
+  "@openInMaps": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "sendOnEnter": "Preme Enter ad mittendum",
+  "scanQrCode": "Scanned QR code",
+  "@scanQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "qrCode": "QR codex",
+  "@qrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareQrCode": "Communicare QR codicem",
+  "@shareQrCode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oneClientLoggedOut": "Una ex clientibus tuis exiit",
+  "removeFromBundle": "Removere ex fasciculo",
+  "unverified": "Non verificatus",
+  "repeatPassword": "Iterare tesseram",
+  "addAccount": "Addere rationem",
+  "editBundlesForAccount": "Mutare fasciculos huic rationi",
+  "addToBundle": "Addere ad fasciculum",
+  "bundleName": "Nomen fasciculi",
+  "link": "Nexus",
+  "sender": "Mittens",
+  "openGallery": "Aperire pinacothecam",
+  "messageInfo": "Singula nuntii",
+  "time": "Tempus",
+  "removeFromSpace": "Removere ex spatio",
+  "commandHint_discardsession": "Abicere sessionem",
+  "@commandHint_discardsession": {
+    "type": "String",
+    "description": "Usage hint for the command /discardsession"
+  },
+  "commandHint_dm": "Creare colloquium directum",
+  "@commandHint_dm": {
+    "type": "String",
+    "description": "Usage hint for the command /dm"
+  },
+  "commandHint_clearcache": "Purgare cache",
+  "@commandHint_clearcache": {
+    "type": "String",
+    "description": "Usage hint for the command /clearcache"
+  },
+  "commandHint_create": "Creare colloquium gregis vacuum",
+  "@commandHint_create": {
+    "type": "String",
+    "description": "Usage hint for the command /create"
+  },
+  "markAsRead": "Notare ut lectum",
+  "reportUser": "Referre usorem",
+  "reactedWith": "{sender} reagit cum {reaction}",
+  "@reactedWith": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "reaction": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmEventUnpin": "Visne hunc eventum in perpetuum unpin?",
+  "pinMessage": "Figere ad cubiculum",
+  "emojis": "Emojis",
+  "unsupportedAndroidVersionLong": "Haec functio novam versionem Android requirit.",
+  "unsupportedAndroidVersion": "Versio Android non supportata",
+  "youRejectedTheInvitation": "Invitationem repudiavisti",
+  "youJoinedTheChat": "Colloquio coniunxisti",
+  "youBannedUser": "Prohibuisti {user}",
+  "@youBannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedBy": "📩 Invitatus es a {user}",
+  "@youInvitedBy": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youInvitedUser": "📩 Invitasti {user}",
+  "@youInvitedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKicked": "👞 Expulisti {user}",
+  "@youKicked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youUnbannedUser": "Solvisti prohibitionem {user}",
+  "@youUnbannedUser": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youAcceptedTheInvitation": "👍 Invitationem accepisti",
+  "youHaveWithdrawnTheInvitationFor": "Retravisti invitationem pro {user}",
+  "@youHaveWithdrawnTheInvitationFor": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "youKickedAndBanned": "🙅 Expulisti et prohibuisti {user}",
+  "@youKickedAndBanned": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "storeInAppleKeyChain": "Reponere in Apple KeyChain",
+  "storeInAndroidKeystore": "Reponere in Android KeyStore",
+  "storeSecurlyOnThisDevice": "Secure reponere in hac machina",
+  "users": "Usores",
+  "countFiles": "{count} fasciculi",
+  "@countFiles": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hydrate": "Restaurare ex fasciculo",
+  "dehydrate": "Exportare sessionem et delere machinam",
+  "dehydrateWarning": "Haec actio non potest revokari.",
+  "user": "Usor",
+  "userNotFound": "Usor non inventus",
+  "custom": "Mos",
+  "confirmMatrixId": "Quaeso confirma tuum Matrix ID.",
+  "supposedMxid": "Oportet esse {mxid}",
+  "@supposedMxid": {
+    "type": "String",
+    "placeholders": {
+      "mxid": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_markasgroup": "Notare ut gregem",
+  "commandHint_markasdm": "Notare ut directum",
+  "whyIsThisMessageEncrypted": "Cur hic nuntius non legitur?",
+  "noKeyForThisMessage": "Nulla clavis pro hoc nuntio.",
+  "newSpace": "Spatium novum",
+  "doNotShowAgain": "Noli iterum ostendere",
+  "googlyEyesContent": "{senderName} misit tibi oculos",
+  "@googlyEyesContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_googly": "Mittere oculos",
+  "commandHint_cuddle": "Mittere amplexum",
+  "commandHint_hug": "Mittere complexum",
+  "cuddleContent": "{senderName} te amplexus est",
+  "@cuddleContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "hugContent": "{senderName} te complexus est",
+  "@hugContent": {
+    "type": "String",
+    "placeholders": {
+      "senderName": {
+        "type": "String"
+      }
+    }
+  },
+  "wasDirectChatDisplayName": "Colloquium vacuum (olim {oldDisplayName})",
+  "@wasDirectChatDisplayName": {
+    "type": "String",
+    "placeholders": {
+      "oldDisplayName": {
+        "type": "String"
+      }
+    }
+  },
+  "newSpaceDescription": "Spatium sinit te colligere colloquia.",
+  "encryptThisChat": "Encryptare hoc colloquium",
+  "disableEncryptionWarning": "Non potes encryptionem desactivare.",
+  "sorryThatsNotPossible": "Dolemus, hoc fieri non potest",
+  "report": "Referre",
+  "fileIsTooBigForServer": "Fasciculus nimis magnus est.",
+  "noOtherDevicesFound": "Nullae aliae machinae inventae",
+  "jumpToLastReadMessage": "Transire ad ultimum nuntium lectum",
+  "readUpToHere": "Legisse usque hic",
+  "jump": "Transire",
+  "openLinkInBrowser": "Aperire nexum in navigatro",
+  "fileHasBeenSavedAt": "Fasciculus servatus est apud {path}",
+  "@fileHasBeenSavedAt": {
+    "type": "String",
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "reportErrorDescription": "O deos! Error accidit.",
+  "noBackupWarning": "Monitum! Sine memoria clavis...",
+  "reopenChat": "Reaperire colloquium",
+  "importEmojis": "Importare emojis",
+  "notAnImage": "Non est imago.",
+  "importNow": "Importare nunc",
+  "importFromZipFile": "Importare ex .zip",
+  "replace": "Mutare",
+  "exportEmotePack": "Exportare sarcinam emote",
+  "sendTypingNotifications": "Mittere notificationes scribendi",
+  "createGroup": "Creare gregem",
+  "shareInviteLink": "Communicare nexum invitationis",
+  "tryAgain": "Iterum tentare",
+  "chatPermissions": "Permissiones colloquii",
+  "chatDescription": "Descriptio colloquii",
+  "chatDescriptionHasBeenChanged": "Descriptio colloquii mutata est",
+  "noChatDescriptionYet": "Nulla descriptio adhuc.",
+  "invalidServerName": "Invalidum nomen servi",
+  "redactMessageDescription": "Nuntius delebitur.",
+  "optionalRedactReason": "Causa deletionis (libera)...",
+  "setChatDescription": "Constituere descriptionem",
+  "setColorTheme": "Constituere colorem thematis:",
+  "invite": "Invitare",
+  "addMembers": "Addere membra",
+  "@addMembers": {
+    "placeholders": {}
+  },
+  "inviteViaLink": "Invitare per nexum",
+  "@inviteViaLink": {
+    "placeholders": {}
+  },
+  "memberListAdminOnlyNotice": "Index solum administratoribus visibilis.",
+  "@memberListAdminOnlyNotice": {
+    "placeholders": {}
+  },
+  "contactsInThisChat": "Contactus in hoc colloquio",
+  "@contactsInThisChat": {
+    "placeholders": {}
+  },
+  "noInviteLink": "Nullus nexus invitationis",
+  "@noInviteLink": {
+    "placeholders": {}
+  },
+  "messagesStyle": "Stilus nuntiorum:",
+  "redactedBy": "Deletum a {username}",
+  "@redactedBy": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "redactedByBecause": "Deletum a {username} propter: \"{reason}\"",
+  "@redactedByBecause": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "inviteGroupChat": "📨 Invitatio gregis",
+  "emoteKeyboardNoRecents": "Nulla recentia...",
+  "@emoteKeyboardNoRecents": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "invalidInput": "Invalida entrada!",
+  "wrongPinEntered": "PIN incorrectus!",
+  "@wrongPinEntered": {
+    "type": "String",
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "hasKnocked": "{user} pulsavit",
+  "@hasKnocked": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseEnterANumber": "Quaeso inscribe numerum",
+  "banUserDescription": "Usor prohibebitur.",
+  "removeDevicesDescription": "Exibis ab hac machina.",
+  "unbanUserDescription": "Usor iterum intrare potest.",
+  "pushNotificationsNotAvailable": "Notificationes non available",
+  "makeAdminDescription": "Hic usor fiet administrator.",
+  "archiveRoomDescription": "Cubiculum ad archivum movebitur.",
+  "learnMore": "Disce plura",
+  "roomUpgradeDescription": "Cubiculum renovabitur.",
+  "kickUserDescription": "Usor expulsus est.",
+  "blockListDescription": "Potes blokare usores molestos.",
+  "createGroupAndInviteUsers": "Creare gregem et invitare usores",
+  "blockedUsers": "Usores blokati",
+  "groupCanBeFoundViaSearch": "Grex inveniri potest per quaestionem",
+  "noUsersFoundWithQuery": "Nulli usores inventi cum \"{query}\"",
+  "@noUsersFoundWithQuery": {
+    "type": "String",
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "block": "Blokare",
+  "yourGlobalUserIdIs": "Tuum ID globalis est: ",
+  "commandHint_sendraw": "Mittere raw json",
+  "wrongRecoveryKey": "Clavis recuperationis incorrecta.",
+  "blockUsername": "Neglegere nomen usoris",
+  "groupName": "Nomen gregis",
+  "databaseMigrationTitle": "Basis datorum optimizata",
+  "searchChatsRooms": "Quaerere #colloquia, @usores...",
+  "databaseMigrationBody": "Quaeso exspecta...",
+  "thisDevice": "Haec machina:",
+  "publicSpaces": "Spatia publica",
+  "passwordIsWrong": "Tessera falsa est",
+  "pleaseEnterYourCurrentPassword": "Quaeso inscribe tesseram praesentem",
+  "nothingFound": "Nihil inventum...",
+  "newPassword": "Nova tessera",
+  "passwordsDoNotMatch": "Tesserae non conveniunt",
+  "select": "Eligere",
+  "pleaseChooseAStrongPassword": "Elige tesseram firmam",
+  "addChatOrSubSpace": "Addere colloquium vel sub-spatium",
+  "leaveEmptyToClearStatus": "Relinque vacuum...",
+  "joinSpace": "Coniungere spatium",
+  "searchForUsers": "Quaerere @usores...",
+  "initAppError": "Error in init applicationis",
+  "sessionLostBody": "Sessionem perdidisti.",
+  "@sessionLostBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreSessionBody": "Conamur restaurare sessionem.",
+  "@restoreSessionBody": {
+    "type": "String",
+    "placeholders": {
+      "url": {
+        "type": "String"
+      },
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sendTypingNotificationsDescription": "Alii videbunt te scribere.",
+  "formattedMessagesDescription": "Uti Markdown.",
+  "verifyOtherUserDescription": "Verificare alium usorem.",
+  "verifyOtherDeviceDescription": "Verificare aliam machinam.",
+  "canceledKeyVerification": "{sender} verificationem clavium cancellavit",
+  "@canceledKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "sendReadReceipts": "Mittere cautiones lectionis",
+  "formattedMessages": "Nuntii formati",
+  "verifyOtherDevice": "🔐 Verificare aliam machinam",
+  "verifyOtherUser": "🔐 Verificare alium usorem",
+  "sendReadReceiptsDescription": "Alii videbunt te legisse.",
+  "acceptedKeyVerification": "{sender} verificationem clavium accepit",
+  "@acceptedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "isReadyForKeyVerification": "{sender} paratus est ad verificationem",
+  "@isReadyForKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "completedKeyVerification": "{sender} verificationem complevit",
+  "@completedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "requestedKeyVerification": "{sender} verificationem petivit",
+  "@requestedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "startedKeyVerification": "{sender} verificationem coepit",
+  "@startedKeyVerification": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      }
+    }
+  },
+  "incomingMessages": "Nuntii intrantes",
+  "stickers": "Taeniae",
+  "discover": "Invenire",
+  "commandHint_ignore": "Neglegere matrix ID",
+  "commandHint_unignore": "Desinere neglegere matrix ID",
+  "unreadChatsInApp": "{appname}: {unread} colloquia non lecta",
+  "@unreadChatsInApp": {
+    "type": "String",
+    "placeholders": {
+      "appname": {
+        "type": "String"
+      },
+      "unread": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockDescription": "PIN pro app",
+  "globalChatId": "ID colloquii globalis",
+  "accessAndVisibility": "Accessus et visibilitas",
+  "accessAndVisibilityDescription": "Quis coniungere potest.",
+  "customEmojisAndStickers": "Emojis et taeniae mos",
+  "hideRedactedMessages": "Celare nuntios deletos",
+  "passwordRecoverySettings": "Configurationes recuperationis",
+  "knock": "Pulsare",
+  "noOneCanJoin": "Nemo coniungere potest",
+  "knocking": "Pulsans",
+  "chatCanBeDiscoveredViaSearchOnServer": "Colloquium inveniri potest in {server}",
+  "@chatCanBeDiscoveredViaSearchOnServer": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "thereAreCountUsersBlocked": "Sunt {count} usores blokati.",
+  "@thereAreCountUsersBlocked": {
+    "type": "String",
+    "count": {
+      "type": "num"
+    }
+  },
+  "hideRedactedMessagesBody": "Celare deletos nuntios.",
+  "hideInvalidOrUnknownMessageFormats": "Celare invalidas formas",
+  "customEmojisAndStickersBody": "Addere emojis mos.",
+  "usersMustKnock": "Usores pulsare debent",
+  "noDatabaseEncryption": "Encryptio basis datorum non supportatur",
+  "publicChatAddresses": "Inscriptiones publicae",
+  "createNewAddress": "Creare novam inscriptionem",
+  "searchMore": "Quaerere plus...",
+  "gallery": "Pinacotheca",
+  "files": "Fasciculi",
+  "searchIn": "Quaerere in \"{chat}\"...",
+  "@searchIn": {
+    "type": "String",
+    "placeholders": {
+      "chat": {
+        "type": "String"
+      }
+    }
+  },
+  "swipeRightToLeftToReply": "Trahere ad respondendum",
+  "noMoreChatsFound": "Nulla plura colloquia",
+  "space": "Spatium",
+  "goToSpace": "Ire ad spatium: {space}",
+  "@goToSpace": {
+    "type": "String",
+    "space": {}
+  },
+  "markAsUnread": "Notare ut non lectum",
+  "unread": "Non lectum",
+  "userLevel": "{level} - Usor",
+  "@userLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "moderatorLevel": "{level} - Moderator",
+  "@moderatorLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "adminLevel": "{level} - Administrator",
+  "@adminLevel": {
+    "type": "String",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "inviteOtherUsers": "Invitare alios usores",
+  "changeTheChatPermissions": "Mutare permissiones",
+  "changeTheVisibilityOfChatHistory": "Mutare visibilitatem historiae",
+  "changeTheCanonicalRoomAlias": "Mutare alias canonicam",
+  "sendRoomNotifications": "Mittere notificationes cubiculi",
+  "changeTheDescriptionOfTheGroup": "Mutare descriptionem",
+  "changeGeneralChatSettings": "Mutare configurationes generales",
+  "chatPermissionsDescription": "Definire permissiones.",
+  "changelog": "Mutarationum index",
+  "updateInstalled": "🎉 Renovatio {version} installata est!",
+  "@updateInstalled": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCanceled": "Missio cancellata",
+  "noChatsFoundHere": "Nulla colloquia hic.",
+  "loginWithMatrixId": "Log in cum Matrix-ID",
+  "doesNotSeemToBeAValidHomeserver": "Servus invalidus.",
+  "calculatingFileSize": "Calculans magnitudinem...",
+  "oneOfYourDevicesIsNotVerified": "Una machina non est verificata",
+  "noticeChatBackupDeviceVerification": "Notitia de memoria",
+  "continueText": "Pergere",
+  "blur": "Blur:",
+  "opacity": "Opacitas:",
+  "setWallpaper": "Constituere tapetem",
+  "manageAccount": "Administrare rationem",
+  "aboutHomeserver": "De {homeserver}",
+  "@aboutHomeserver": {
+    "type": "String",
+    "placeholders": {
+      "homeserver": {
+        "type": "String"
+      }
+    }
+  },
+  "version": "Versio",
+  "noContactInformationProvided": "Nulla informatio contactus",
+  "contactServerAdmin": "Contactare administratorem",
+  "name": "Nomen",
+  "surname": "Cognomen",
+  "personalIntro": "Introductio personalis",
+  "nameDescription": "Inscribe nomen tuum.",
+  "aboutYourselfDescription": "De te ipso.",
+  "email": "Electonica",
+  "emailForLogin": "Pro login.",
+  "changeEmail": "Mutare electronicam",
+  "changeEmailDescription": "Potes mutare electronicam.",
+  "bindNewEmail": "Ligare novam electronicam",
+  "newEmailSameAsOld": "Nova electronica eadem est",
+  "bindEmail": "Ligare electronicam",
+  "bindEmailDescription": "Potes ligare electronicam.",
+  "enterEmail": "Inscribe electronicam",
+  "enterValidEmail": "Inscribe validam electronicam",
+  "getVerificationCode": "Accipere codicem",
+  "verificationCode": "Codex verificationis",
+  "enterVerificationCode": "Inscribe codicem",
+  "enterCodeSentTo": "Inscribe codicem missum ad {email}",
+  "createPassword": "Creare tesseram",
+  "createPasswordDescription": "Constituere tesseram.",
+  "enterPassword": "Inscribe tesseram",
+  "enterPasswordAgain": "Iterare tesseram",
+  "bind": "Ligare",
+  "walletAddress": "Inscriptio crumenae",
+  "walletForLogin": "Pro login cum crumena",
+  "ethereumMainnetAddress": "Inscriptio Ethereum",
+  "none": "Nihil",
+  "username": "Nomen usoris",
+  "usernameDescription": "Nomen usoris tuum.",
+  "usernameRuleHint": "Utere a-z, 0-9.",
+  "chatViaLink": "Colloqui per nexum:",
+  "contactServerSecurity": "Contactare securitatem",
+  "supportPage": "Pagina subsidii",
+  "serverInformation": "Informatio servi:",
+  "website": "Situs interretialis",
+  "italicText": "Litterae obliquae",
+  "strikeThrough": "Lineatum",
+  "pleaseFillOut": "Quaeso imple",
+  "addLink": "Addere nexum",
+  "boldText": "Litterae crassae",
+  "invalidUrl": "Invalidum URL",
+  "unableToJoinChat": "Non potest coniungere",
+  "sendImages": "Mittere {count} imagines",
+  "@sendImages": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compress": "Comprimere",
+  "previous": "Prior",
+  "otherPartyNotLoggedIn": "Alia pars non est online",
+  "appWantsToUseForLoginDescription": "Permittis hanc app.",
+  "open": "Aperire",
+  "appWantsToUseForLogin": "Log in cum '{server}'",
+  "@appWantsToUseForLogin": {
+    "type": "String",
+    "placeholders": {
+      "server": {
+        "type": "String"
+      }
+    }
+  },
+  "waitingForServer": "Exspectans servum...",
+  "synchronizingPleaseWaitCounter": " Synchronizatio... ({percentage}%)",
+  "@synchronizingPleaseWaitCounter": {
+    "type": "String",
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "newChatRequest": "📩 Nova petitio colloquii",
+  "generalNotificationSettings": "Configurationes generales",
+  "userSpecificNotificationSettings": "Configurationes speciales",
+  "notificationRuleMaster": "Obmutescere omnia",
+  "notificationRuleSuppressNotices": "Celare notitias",
+  "notificationRuleInviteForMe": "Invitationes mihi",
+  "notificationRuleInviteForMeDescription": "Monere cum invitatus",
+  "notificationRuleMemberEvent": "Eventus membrorum",
+  "notificationRuleMemberEventDescription": "Celare eventus membrorum",
+  "notificationRuleIsUserMention": "Mentio usoris",
+  "notificationRuleIsUserMentionDescription": "Monere cum nominatus",
+  "notificationRuleContainsDisplayName": "Continet nomen",
+  "notificationRuleIsRoomMention": "Mentio cubiculi",
+  "notificationRuleRoomnotifDescription": "Monere cum @room",
+  "notificationRuleTombstone": "Monumentum",
+  "notificationRuleRoomServerAcl": "ACL cubiculi",
+  "notificationRuleSuppressEdits": "Celare emendationes",
+  "notificationRuleCall": "Vocatio",
+  "notificationRuleRoomOneToOne": "Colloquium unum ad unum",
+  "notificationRuleRoomOneToOneDescription": "Monere in colloquio",
+  "notificationRuleEncrypted": "Encryptum",
+  "notificationRuleEncryptedDescription": "Monere in encrypto",
+  "notificationRuleJitsi": "Jitsi",
+  "notificationRuleJitsiDescription": "Monere Jitsi",
+  "notificationRuleServerAcl": "Celare ACL",
+  "notificationRuleServerAclDescription": "Celare ACL",
+  "deletePushRuleCanNotBeUndone": "Non revocabile",
+  "more": "Plus",
+  "notificationRuleReactionDescription": "Celare reactiones",
+  "notificationRuleMessageDescription": "Monere nuntios",
+  "notificationRuleContainsUserName": "Continet nomen usoris",
+  "otherNotificationSettings": "Aliae notificationes",
+  "notificationRuleContainsUserNameDescription": "Monere cum nomen tuum continet",
+  "notificationRuleIsRoomMentionDescription": "Monere cum cubiculum mentio",
+  "contentNotificationSettings": "Notificationes contenti",
+  "notificationRuleMasterDescription": "Omittere omnia",
+  "notificationRuleSuppressNoticesDescription": "Celare bot",
+  "roomNotificationSettings": "Configurationes cubiculi",
+  "notificationRuleRoomServerAclDescription": "Celare ACL",
+  "notificationRuleContainsDisplayNameDescription": "Monere cum nomen ostensionis",
+  "notificationRuleRoomnotif": "Notificatio cubiculi",
+  "notificationRuleTombstoneDescription": "Monere de lapide",
+  "notificationRuleReaction": "Reactio",
+  "notificationRuleSuppressEditsDescription": "Celare emendationes",
+  "notificationRuleCallDescription": "Monere de vocatione",
+  "notificationRuleEncryptedRoomOneToOne": "Encryptum 1:1",
+  "notificationRuleEncryptedRoomOneToOneDescription": "Monere in 1:1",
+  "notificationRuleMessage": "Nuntius",
+  "unknownPushRule": "Ignota regula '{rule}'",
+  "@unknownPushRule": {
+    "type": "String",
+    "placeholders": {
+      "rule": {
+        "type": "String"
+      }
+    }
+  },
+  "crossVerifiedDevices": "Machinae verificatae",
+  "shareKeysWithDescription": "Eligere quas machinas...",
+  "shareKeysWith": "Communicare claves cum...",
+  "allDevices": "Omnes machinae",
+  "crossVerifiedDevicesIfEnabled": "Machinae cross-verificatae",
+  "verifiedDevicesOnly": "Tantum machinae verificatae",
+  "optionalMessage": "Nuntius (liber)...",
+  "takeAPhoto": "Capere imaginem",
+  "recordAVideo": "Registrare visivum",
+  "notSupportedOnThisDevice": "Non supportatum in hac machina",
+  "enterNewChat": "Intrare novum colloquium",
+  "commandHint_roomupgrade": "Renovare cubiculum",
+  "approve": "Approbare",
+  "youHaveKnocked": "Pulsavisti",
+  "pleaseWaitUntilInvited": "Quaeso exspecta dum invitatus sis",
+  "countInvited": "Invitati {count}",
+  "@countInvited": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "checkList": "Index",
+  "sentVoiceMessage": "🎙️ {duration} - Nuntius vocalis a {sender}",
+  "@sentVoiceMessage": {
+    "type": "String",
+    "placeholders": {
+      "sender": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "commandHint_logout": "Exire ab hac machina",
+  "commandHint_logoutall": "Exire ab omnibus machinis",
+  "displayNavigationRail": "Ostendere vectem navigationis",
+  "customReaction": "Reactio mos",
+  "moreEvents": "Plures eventus",
+  "declineInvitation": "Repudiare invitationem",
+  "noMessagesYet": "Nulli nuntii adhuc",
+  "longPressToRecordVoiceMessage": "Longum preme ad registrandum",
+  "pause": "Pausare",
+  "resume": "Resumere",
+  "removeFromSpaceDescription": "Removere ex spatio",
+  "countChats": "{chats} colloquia",
+  "@countChats": {
+    "type": "String",
+    "placeholders": {
+      "chats": {
+        "type": "int"
+      }
+    }
+  },
+  "spaceMemberOf": "Membrum spatii {spaces}",
+  "@spaceMemberOf": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "spaceMemberOfCanKnock": "Membrum spatii {spaces} pulsare potest",
+  "@spaceMemberOfCanKnock": {
+    "type": "String",
+    "placeholders": {
+      "spaces": {
+        "type": "String"
+      }
+    }
+  },
+  "poll": "Suffragium",
+  "@poll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "startPoll": "Incipere suffragium",
+  "endPoll": "Finire suffragium",
+  "editPoll": "Mutare suffragium",
+  "@editPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deletePoll": "Delere suffragium",
+  "@deletePoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "answersVisible": "Responsa visibilia",
+  "hiddenPoll": "Suffragium occultum",
+  "@hiddenPoll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "pollQuestion": "Quaestio suffragii",
+  "answerOption": "Optio",
+  "addAnswerOption": "Addere optionem",
+  "allowMultipleAnswers": "Permittere plura responsa",
+  "pollHasBeenEnded": "Suffragium finitum est",
+  "startedAPoll": "{senderName} suffragium coepit",
+  "@startedAPoll": {
+    "placeholders": {
+      "senderName": {}
+    }
+  },
+  "countVotes": "{count, plural, =1{suffragium} other{{count} suffragia}}",
+  "@countVotes": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "answersWillBeVisibleWhenPollHasEnded": "Responsa apparebunt post finem",
+  "active": "Activum",
+  "@active": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ended": "Finitum",
+  "thread": "Filum",
+  "replyInThread": "Respondere in filo",
+  "countReplies": "{count, plural, =1{1 responsum} other{{count} responsa}}",
+  "@countReplies": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backToMainChat": "Redire ad colloquium principale",
+  "saveChanges": "Servare mutationes",
+  "createSticker": "Creare taeniam",
+  "useAsSticker": "Uti ut taeniam",
+  "useAsEmoji": "Uti ut emoji",
+  "stickerPackNameAlreadyExists": "Nomen sarcinae iam exstat",
+  "newStickerPack": "Nova sarcina taeniarum",
+  "stickerPackName": "Nomen sarcinae",
+  "attribution": "Auctor",
+  "skipChatBackup": "Transilire memoriam",
+  "skipChatBackupWarning": "Esne certus?",
+  "changedTheChatDescription": "{username} descriptionem mutavit",
+  "changedTheChatName": "{username} nomen colloquii mutavit",
+  "noMoreResultsFound": "Nulli plures exitus",
+  "chatSearchedUntil": "Colloquium quaesitum usque ad {time}",
+  "@chatSearchedUntil": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "federationBaseUrl": "URL foederationis",
+  "clientWellKnownInformation": "Informatio clientis",
+  "baseUrl": "URL basica",
+  "identityServer": "Servus identitatis:",
+  "versionWithNumber": "Versio: {version}",
+  "@versionWithNumber": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "logs": "Logi",
+  "advancedConfigs": "Configurationes provectae",
+  "advancedConfigurations": "Configurationes provectae",
+  "signIn": "Log in",
+  "createNewAccount": "Creare rationem novam",
+  "signUpGreeting": "NYX est decentralizatum!",
+  "signInGreeting": "Habesne rationem?",
+  "theProcessWasCanceled": "Processus cancellatus est",
+  "join": "Coniungere",
+  "searchOrEnterHomeserverAddress": "Quaerere vel inscribe servum",
+  "matrixId": "Matrix ID",
+  "setPowerLevel": "Constituere gradum potestatis",
+  "makeModerator": "Facere moderatorem",
+  "makeAdmin": "Facere administratorem",
+  "removeModeratorRights": "Removere iura moderatoris",
+  "removeAdminRights": "Removere iura administratoris",
+  "powerLevel": "Gradus potestatis",
+  "setPowerLevelDescription": "Gradus potestatis definit quid usor facere possit",
+  "owner": "Dominus",
+  "mute": "Obmutescere",
+  "@mute": {
+    "description": "This should be a very short string because there is not much space in the button!"
+  },
+  "createNewChat": "Creare colloquium novum",
+  "reset": "Restaurare",
+  "supportFluffyChat": "Subsidium NYX",
+  "support": "Subsidium",
+  "setLowPriority": "Constituere humilem prioritatem",
+  "unsetLowPriority": "Removere humilem prioritatem",
+  "playSoundOnNotification": "Ludere sonum in notificatione",
+  "addTag": "Addere notam",
+  "removeTag": "Removere notam",
+  "tagName": "Nomen notae",
+  "createNewTag": "Creare novam notam",
+  "discardEdits": "Abicere mutationes?",
+  "@discardEdits": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideRoomsInSpaces": "Celare cubicula in spatiis",
+  "possibleByYou": "Sine te non fuisset.",
+  "showThumbnailsInTimeline": "Ostendere imagines minutas",
+  "appSubtitle": "Comunicatio secura [matrix]",
+  "appDescription": "Comunicatio encrypta per [matrix]",
+  "interactiveVerification": "Verificatio interactiva",
+  "interactiveVerificationDescription": "Si tu et contactus...",
+  "countUnverifiedDevices": "Sunt {count} machinae non verificatae.",
+  "@countUnverifiedDevices": {
+    "type": "int",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "encryptedMessage": "Nuntius encryptus",
+  "unencryptedMessage": "Nuntius non encryptus",
+  "publicKey": "Clavis publica: {key}",
+  "@publicKey": {
+    "type": "String",
+    "placeholders": {
+      "key": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdentityKey": "Clavis identitatis machinae",
+  "showMore": "Ostendere plus",
+  "showLess": "Ostendere minus",
+  "restoreBootstrapEmptyDevicesDescription": "Inscribe tesseram recuperationis.",
+  "@restoreBootstrapEmptyDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreBootstrapDevicesDescription": "Quaeso elige aliam machinam:",
+  "@restoreBootstrapDevicesDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccount": "Restaurare rationem",
+  "@resetAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "restoreCryptoIdentity": "Restaurare identitatem crypto",
+  "@restoreCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetCryptoIdentity": "Restaurare identitatem crypto",
+  "@resetCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpCryptoIdentity": "Constituere identitatem crypto",
+  "@setUpCryptoIdentity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "waitingForKeys": "Exspectans claves...",
+  "@waitingForKeys": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noKeysTransmitted": "Nullae claves transmissae",
+  "@noKeysTransmitted": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unlock": "Reserare",
+  "@unlock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "openFile": "Aperire fasciculum",
+  "@openFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "resetAccountWarning": "Restauratio delebit...",
+  "@resetAccountWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphraseDescription": "NYX utitur encryptione.",
+  "@newPassphraseDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "newPassphrase": "Nova tessera",
+  "@newPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "repeatPassphrase": "Iterare tesseram",
+  "@repeatPassphrase": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphrasesMatch": "Tesserae conveniunt",
+  "@passphrasesMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseLengthRequirement": "Longitudo saltem 12 characterum",
+  "@passphraseLengthRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseUpperAndLowerCaseRequirement": "Continet maiusculas et minusculas",
+  "@passphraseUpperAndLowerCaseRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseSpecialCharactersRequirement": "Continet characteres speciales",
+  "@passphraseSpecialCharactersRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passphraseNumberRequirement": "Continet numerum",
+  "@passphraseNumberRequirement": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "storeRecoveryKeyDescription": "Scribe clavem recuperationis.",
+  "@storeRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveAsFile": "Servare ut fasciculum",
+  "@saveAsFile": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "youAreReadyToStart": "Paratus es incipere!",
+  "noUserKeyFound": "Nulla clavis usoris inventa",
+  "@noUserKeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "unsignedDevice": "Machina non signata",
+  "@unsignedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "signedDevice": "Machina signata",
+  "@signedDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "noCurve25519KeyFound": "Nulla clavis curve25519 inventa",
+  "@noCurve25519KeyFound": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "messageNotDecryptable": "Nuntius non decryptabilis",
+  "knownSince": "Cognitum ab: {date}",
+  "@knownSince": {
+    "type": "String",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "messageCanOnlyBeReadByUser": "Nuntius tuus encryptus est et solum ab hoc usore legi potest:",
+  "messageCanOnlyBeReadByUsers": "Nuntius tuus encryptus est et solum ab his usoribus legi potest:",
+  "today": "Hodie",
+  "sending": "Mittens",
+  "generatingThumbnail": "Generans imaginem minutam",
+  "encrypting": "Encryptio",
+  "uploading": "Imponens",
+  "edited": "(mutatum)",
+  "couldNotBeSent": "Non potuit mitti",
+  "yesterday": "Heri",
+  "resetRecoveryKey": "Restaurare clavem recuperationis",
+  "pleaseEnter6Digits": "Quaeso inscribe 6 digitos.",
+  "disableAppLock": "Desactivare seram",
+  "disableAppLockAreYouSure": "Esne certus?",
+  "enableBiometrics": "Activa biometrica",
+  "disableBiometrics": "Desactivare biometrica",
+  "biometricsDescription": "Utere biometricis.",
+  "useAppLock": "Uti sera",
+  "unlockWithBiometrics": "Reserare cum biometricis",
+  "resetPin": "Restaurare PIN",
+  "forwardCountMessages": "Transmittere {count, plural, =1{nuntium} other{{count} nuntios}}?",
+  "@forwardCountMessages": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editImage": "Mutare imaginem",
+  "@editImage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateLeft": "Rotare ad sinistram",
+  "@rotateLeft": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "rotateRight": "Rotare ad dextram",
+  "@rotateRight": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mirror": "Speculum",
+  "@mirror": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "save": "Servare",
+  "@save": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "draw": "Describere",
+  "@draw": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "undo": "Revocare",
+  "@undo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clear": "Purgare",
+  "@clear": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "eraser": "Deletorium",
+  "@eraser": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "crop": "Secare",
+  "@crop": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loadingMessages": "Onustus nuntios...",
+  "buildDoesNotSupportFirebase": "Aedificatio non supportat Firebase",
+  "unableToRegisterDeviceForFirebase": "Non potest registrari pro Firebase",
+  "unifiedPushDistributors": "Distributores Unified Push:",
+  "doubleTapToReact": "Bis tange ad reagendum",
+  "doubleTapToReactDescription": "Bis tange nuntium...",
+  "doubleTapReaction": "Bis tange",
+  "sendingFilesDoNotExit": "Mittens fasciculos...",
+  "@sendingFilesDoNotExit": {
+    "type": "String",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "compressingVideo": "Comprimens visivum...",
+  "shareCrashReports": "Communicare relationes errorum",
+  "shareCrashReportsDescription": "Communicare automatice relationes errorum?",
+  "videoCallsBetaWarning": "Vocationes visivae sunt beta.",
+  "callNotAllowed": "Vocatio non permissa",
+  "countActiveCallMembers": "{count} membra activa",
+  "@countActiveCallMembers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enterCall": "Intrare vocationem",
+  "noDevicesFound": "Nullae machinae inventae",
+  "incomingCall": "Vocatio intrans",
+  "waitingForParticipant": "Exspectans participem...",
+  "decline": "Repudiare",
+  "videoCall": "Vocatio visiva",
+  "voiceCall": "Vocatio vocalis",
+  "previewImage": "[Imago]",
+  "previewVideo": "[Visivum]",
+  "previewVoice": "[Vox]",
+  "previewAudio": "[Sonus]",
+  "previewFile": "[Fasciculus]",
+  "previewLocation": "[Locus]",
+  "previewSticker": "[Taenia]",
+  "previewVoiceCall": "[Vocatio vocalis]",
+  "previewVideoCall": "[Vocatio visiva]",
+  "missedCall": "Vocatio omissa",
+  "callBack": "Revocare",
+  "hangUp": "Finire",
+  "startCall": "Incipere vocationem",
+  "selectCamera": "Eligere cameram",
+  "selectMicrophone": "Eligere microphonum",
+  "selectSpeaker": "Eligere altifisonum",
+  "toggleMicrophone": "Mutare microphonum",
+  "toggleCamera": "Mutare cameram",
+  "startScreensharing": "Incipere communicationem veli",
+  "stopScreensharing": "Desinere communicationem veli",
+  "raiseHand": "Tollere manum",
+  "stopRaiseHand": "Desinere tollere manum",
+  "preferSpeaker": "Praeferre altifisonum",
+  "unexpectedErrorOccurded": "Error inexpectatus accidit: {msg}",
+  "@unexpectedErrorOccurded": {
+    "placeholders": {
+      "msg": {
+        "type": "String"
+      }
+    }
+  },
+  "accountsAndSettings": "Rationes et configurationes",
+  "@accountsAndSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "incomingCallFrom": "Vocatio ab {user}",
+  "@incomingCallFrom": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "serverRespondedWithError": "Servus respondit cum errore: {error}",
+  "@serverRespondedWithError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailable": "Renovatio {version} praesto est",
+  "@updateAvailable": {
+    "type": "String",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "download": "Deprimere",
+  "sharedLocation": "Locus communicatus",
+  "contacts": "Contactus",
+  "groupChats": "Colloquia gregis",
+  "publicGroups": "Greges publici",
+  "createGroupChat": "Creare colloquium gregis",
+  "inviteFriends": "Invitare amicos",
+  "emptyChatsTitle": "Nulla colloquia",
+  "emptyChatsDesc": "Tange + ut incipias",
+  "emptyUsersTitle": "Nulli usores",
+  "emptyUsersDesc": "Potes mutare filtras",
+  "emptyUnreadTitle": "Nulli nuntii non lecti",
+  "emptyUnreadDesc": "Potes addere ad fixa",
+  "emptyGroupChatsTitle": "Nulli greges",
+  "emptyGroupChatsDesc": "Non es in ullo grege",
+  "emptyPinnedTitle": "Nulli nuntii fixi",
+  "emptyPinnedDesc": "Potes figere nuntios",
+  "startChat": "Incipere colloquium",
+  "newGroupChat": "Grex novus",
+  "invitedYouToJoinGroup": "{username} te invitavit ad gregem",
+  "joinGroupBannerTitle": "Coniungere gregem",
+  "joinGroupBannerDesc": "Colloquere cum aliis",
+  "certifiedGroups": "{count} greges certificados",
+  "membersCount": "{count} membra",
+  "recentlyOnline": "Nuper online",
+  "lastSeenLongAgo": "Olim visus",
+  "appearance": "Species",
+  "language": "Lingua",
+  "selectLanguage": "Eligere linguam",
+  "privacyAndSecurity": "Privatum et securitas",
+  "qrScanRecognizing": "Recognoscens...",
+  "@qrScanRecognizing": {
+    "placeholders": {}
+  },
+  "qrScanTimeout": "Tempus exiit",
+  "@qrScanTimeout": {
+    "placeholders": {}
+  },
+  "qrScanNotFound": "QR non inventus",
+  "@qrScanNotFound": {
+    "placeholders": {}
+  },
+  "qrScanEmpty": "QR vacuus",
+  "@qrScanEmpty": {
+    "placeholders": {}
+  },
+  "qrScanFailed": "Recognitio defecit",
+  "@qrScanFailed": {
+    "placeholders": {}
+  },
+  "qrScanInvalid": "QR invalidus",
+  "@qrScanInvalid": {
+    "placeholders": {}
+  },
+  "qrScanIsOwnAccount": "Hic est tuus acoount",
+  "@qrScanIsOwnAccount": {
+    "placeholders": {}
+  },
+  "declineInviteTitle": "Repudiare invitationem",
+  "@declineInviteTitle": {
+    "placeholders": {}
+  },
+  "declineInviteConfirm": "Visne repudiare invitationem ad {groupName}?",
+  "@declineInviteConfirm": {
+    "placeholders": {
+      "groupName": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Camera",
+  "@camera": {
+    "placeholders": {}
+  },
+  "photosAndVideos": "Imagines et visiva",
+  "@photosAndVideos": {
+    "placeholders": {}
+  },
+  "file": "Fasciculus",
+  "@file": {
+    "placeholders": {}
+  },
+  "online": "Online",
+  "@online": {
+    "placeholders": {}
+  },
+  "offline": "Offline",
+  "@offline": {
+    "placeholders": {}
+  },
+  "messageDeleted": "Nuntius deletus",
+  "@messageDeleted": {
+    "placeholders": {}
+  },
+  "youWithdrewAMessage": "Retravisti nuntium",
+  "@youWithdrewAMessage": {
+    "placeholders": {}
+  },
+  "userWithdrewAMessage": "{username} retravit nuntium",
+  "@userWithdrewAMessage": {
+    "type": "String",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "fileSaved": "Fasciculus servatus est",
+  "@fileSaved": {
+    "placeholders": {}
+  },
+  "savedToGallery": "Servatum in pinacothecam",
+  "@savedToGallery": {
+    "placeholders": {}
+  },
+  "couldNotOpenFile": "Non potuit aperire fasciculum",
+  "@couldNotOpenFile": {
+    "placeholders": {}
+  },
+  "unknownFile": "Fasciculus ignotus",
+  "@unknownFile": {
+    "placeholders": {}
+  },
+  "missedVideoCall": "Vocatio visiva omissa",
+  "@missedVideoCall": {
+    "placeholders": {}
+  },
+  "callCanceled": "Vocatio cancellata",
+  "@callCanceled": {
+    "placeholders": {}
+  },
+  "callParticipantsCount": "{count} in vocatione",
+  "@callParticipantsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "joinCall": "Coniungere",
+  "@joinCall": {
+    "placeholders": {}
+  },
+  "waitingForParticipants": "Exspectans participes...",
+  "@waitingForParticipants": {
+    "placeholders": {}
+  },
+  "callNotAllowedInRoom": "Vocatio non permissa",
+  "@callNotAllowedInRoom": {
+    "placeholders": {}
+  },
+  "deleteChatDescription": "Delere hunc colloquium",
+  "@deleteChatDescription": {
+    "placeholders": {}
+  },
+  "deleteGroupChatDescription": "Delere hunc gregem",
+  "@deleteGroupChatDescription": {
+    "placeholders": {}
+  },
+  "translate": "Vertere",
+  "@translate": {
+    "placeholders": {}
+  },
+  "translating": "Vertere...",
+  "@translating": {
+    "placeholders": {}
+  },
+  "translateFailed": "Versio defecit",
+  "@translateFailed": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelName": "Vocationes",
+  "@callNotificationsChannelName": {
+    "placeholders": {}
+  },
+  "callNotificationsChannelDescription": "Notificatio vocationum",
+  "@callNotificationsChannelDescription": {
+    "placeholders": {}
+  },
+  "callOngoingNotificationText": "Vocatio in cursu",
+  "@callOngoingNotificationText": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledCall": "Alia pars cancellavit",
+  "@otherPartyCanceledCall": {
+    "placeholders": {}
+  },
+  "videoCallCanceled": "Vocatio visiva cancellata",
+  "@videoCallCanceled": {
+    "placeholders": {}
+  },
+  "otherPartyCanceledVideoCall": "Alia pars cancellavit",
+  "@otherPartyCanceledVideoCall": {
+    "placeholders": {}
+  },
+  "back": "Redire",
+  "@back": {
+    "placeholders": {}
+  },
+  "callRinging": "Sonans...",
+  "@callRinging": {
+    "placeholders": {}
+  },
+  "callConnecting": "Conectens...",
+  "@callConnecting": {
+    "placeholders": {}
+  },
+  "callEnded": "Vocatio finita",
+  "@callEnded": {
+    "placeholders": {}
+  },
+  "callFailed": "Vocatio defecit",
+  "@callFailed": {
+    "placeholders": {}
+  },
+  "speaker": "Altifisonum",
+  "@speaker": {
+    "placeholders": {}
+  },
+  "earpiece": "Auriculare",
+  "@earpiece": {
+    "placeholders": {}
+  },
+  "flipCamera": "Convertere",
+  "@flipCamera": {
+    "placeholders": {}
+  },
+  "video": "Visivum",
+  "@video": {
+    "placeholders": {}
+  },
+  "microphoneOffHint": "Microphonum desoletum",
+  "@microphoneOffHint": {
+    "placeholders": {}
+  },
+  "end": "Finire",
+  "@end": {
+    "placeholders": {}
+  },
+  "stateEventYou": "Ego",
+  "@stateEventYou": {
+    "placeholders": {}
+  },
+  "callOutgoing": "Exiens",
+  "@callOutgoing": {
+    "placeholders": {}
+  },
+  "callDurSeconds": "{seconds} secundae",
+  "@callDurSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurMinutes": "{minutes} minuta",
+  "@callDurMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "callDurHourMinutes": "{hours} horae {minutes} minuta",
+  "@callDurHourMinutes": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "changeMyRole": "Mutare meam partem",
+  "permissions": "Permissiones",
+  "changeMyRoleConfirmMessage": "Esne certus?",
+  "demoteToAdmin": "Demovere ad administratorem",
+  "demoteToModerator": "Demovere ad moderatorem",
+  "demoteToMember": "Demovere ad membrum",
+  "addAdmin": "Addere administratorem",
+  "addModerator": "Addere moderatorem",
+  "groupAdmins": "Administratores gregis",
+  "groupModerators": "Moderatores gregis",
+  "addAdminHelp": "Potes addere administratores",
+  "addModeratorHelp": "Potes addere moderatores",
+  "noCandidatesToAdd": "Nulli candidati",
+  "setAsAdminSuccess": "Constitutum ut administrator",
+  "setAsModeratorSuccess": "Constitutum ut moderator",
+  "searchMembers": "Quaerere membra",
+  "noResults": "Nulli exitus",
+  "noResultsDescription": "Nulli exitus inventi",
+  "removeAdminConfirm": "Visne removere administratorem?",
+  "removeModeratorConfirm": "Visne removere moderatorem?",
+  "removeAdminSuccess": "Remotum cum successu",
+  "removeModeratorSuccess": "Remotum cum successu",
+  "manageMembers": "Administrare membra",
+  "inviteMembers": "Invitare membra",
+  "removeMembers": "Removere membra",
+  "banMembers": "Prohibere membra",
+  "editCommunity": "Mutare communitatem",
+  "changeCommunityName": "Mutare nomen",
+  "changeCommunityAvatar": "Mutare imaginem",
+  "changeCommunityDescription": "Mutare descriptionem",
+  "messagesAndContent": "Nuntii et contentum",
+  "removeMessages": "Removere nuntios",
+  "adminsOnly": "Solum administratores",
+  "adminsAndModerators": "Administratores et moderatores",
+  "resetPermissions": "Restaurare permissiones",
+  "resetPermissionsConfirmMessage": "Visne restaurare permissiones?",
+  "changeSettings": "Mutare configurationes",
+  "permissionChangedFromTo": "{sender} mutavit {permission} ab {from} ad {to}",
+  "changedUserRoleTo": "{username} posuit {target} ut {role}",
+  "viewInChat": "Videre in colloquio",
+  "playbackSpeed": "Velocitas",
+  "normalSpeed": "Normalis",
+  "qrScanHint": "Pone QR in quadrum",
+  "torch": "Lux",
+  "remarkVisibleOnlyToYou": "Notula solum tibi visibilis",
+  "pollVotes": "{count} suffragia",
+  "totalPollVotes": "Summa suffragiorum {count}",
+  "scanQrMobileOnly": "QR scan solum in mobili",
+  "publicGroupTech": "Technologia et evolutio",
+  "publicGroupMarketing": "Mercatus et venditio",
+  "publicGroupWeb3": "Web3 et res crypto",
+  "publicGroupCrossBorder": "Servitia transfinium",
+  "publicGroupFreelance": "Opus liberum",
+  "blockUsers": "Blokare usores",
+  "@blockUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@privacyAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@blockedUsers": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "turnedOn": "Activatum",
+  "@turnedOn": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "screenLockPasscode": "Sera veli",
+  "@screenLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginPassword": "Tessera login",
+  "@loginPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKey": "Clavis recuperationis",
+  "@recoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorage": "Permittere reponendum clavium",
+  "@allowKeyStorage": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowKeyStorageDescription": "Reponere claves in servo",
+  "@allowKeyStorageDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecovery": "Constituere recuperationem",
+  "@setUpRecovery": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setUpRecoverySubtitle": "Si machinam perdideris",
+  "@setUpRecoverySubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKey": "Constituere clavem recuperationis",
+  "@setRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "setRecoveryKeyDescription": "Clavis recuperationis",
+  "@setRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generateRecoveryKey": "Generare clavem recuperationis",
+  "@generateRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clickToCopyRecoveryKey": "Preme ad copiam",
+  "@clickToCopyRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyTitle": "Servare clavem recuperationis",
+  "@saveRecoveryKeyTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKeyDescription": "Servare in loco tuto",
+  "@saveRecoveryKeyDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "saveRecoveryKey": "Servare clavem",
+  "@saveRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeyCopied": "Clavis copiata est",
+  "@recoveryKeyCopied": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "recoveryKeySaved": "Clavis servata est",
+  "@recoveryKeySaved": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "generatingRecoveryKey": "Generans clavem recuperationis...",
+  "@generatingRecoveryKey": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatus": "Communicare statum online",
+  "@shareOnlineStatus": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "shareOnlineStatusSubtitle": "Cum desoletum...",
+  "@shareOnlineStatusSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mediaOptimizeSubtitle": "Optimizare media",
+  "@mediaOptimizeSubtitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "contentModerationAndSecurity": "Moderatio et securitas",
+  "@contentModerationAndSecurity": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hideAvatarInRoomInviteRequests": "Celare imaginem in invitationibus",
+  "@hideAvatarInRoomInviteRequests": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "showMediaInTimeline": "Ostendere media in linea temporis",
+  "@showMediaInTimeline": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysHide": "Semper celare",
+  "@alwaysHide": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "inPrivateRooms": "In cubiculis privatis",
+  "@inPrivateRooms": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "alwaysShow": "Semper ostendere",
+  "@alwaysShow": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyAll": "Omnia",
+  "@notifyAll": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsOnly": "Tantum mentiones",
+  "@mentionsOnly": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "groupChat": "Colloquium gregis",
+  "@groupChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "privateChat": "Colloquium privatum",
+  "@privateChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInGroupChats": "Notificare in gregibus",
+  "@notifyMeInGroupChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInPrivateChats": "Notificare in privatis",
+  "@notifyMeInPrivateChats": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allMessages": "Omnes nuntios",
+  "@allMessages": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywords": "Mentiones et claves",
+  "@mentionsAndKeywords": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleGroup": "Servus non supportat",
+  "@mentionsAndKeywordsSubtitleGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "independentSettingsPerChat": "Configurationes independentes",
+  "@independentSettingsPerChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableThisWillOverrideDefault": "Hoc mutabit defectum",
+  "@enableThisWillOverrideDefault": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeInThisChat": "Notificare in hoc colloquio",
+  "@notifyMeInThisChat": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsRoom": "Mentiones et claves in cubiculo",
+  "@mentionsAndKeywordsRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentionsAndKeywordsSubtitleRoom": "Servus non supportat",
+  "@mentionsAndKeywordsSubtitleRoom": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "allowCustomSettings": "Permittere configurationes mos",
+  "@allowCustomSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeOnThisDevice": "Notificare in hac machina",
+  "@notifyMeOnThisDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "mentions": "Mentiones",
+  "@mentions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "notifyMeWhenMentionedInGroup": "Notificare cum nominatus",
+  "@notifyMeWhenMentionedInGroup": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "moreSettings": "Plures configurationes",
+  "@moreSettings": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "oldPassword": "Vetus tessera",
+  "@oldPassword": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockTitle": "Sera applicationis",
+  "@appLockTitle": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@appLockDescription": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enableAppLock": "Activa seram",
+  "@enableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "enterAppLockPasscode": "Inscribe tesseram serae",
+  "@enterAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmAppLockPasscode": "Confirma tesseram",
+  "@confirmAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "verifyOldAppLockPasscode": "Verifica vetus PIN",
+  "@verifyOldAppLockPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "wrongOldPasscode": "Vetus PIN falsus",
+  "@wrongOldPasscode": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "@disableAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "changeAppLock": "Mutare seram",
+  "@changeAppLock": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockForgetWarning": "Si oblitus eris...",
+  "@appLockForgetWarning": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "passcodesDoNotMatch": "Tesserae non conveniunt",
+  "@passcodesDoNotMatch": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockEnabled": "Sera activa",
+  "@appLockEnabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "appLockDisabled": "Sera desolata",
+  "@appLockDisabled": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "thisDeviceSection": "Haec machina",
+  "@thisDeviceSection": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherSessions": "Exire ab aliis sessionibus",
+  "@logoutAllOtherSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "logoutAllOtherDevicesHint": "Exire ab omnibus aliis",
+  "@logoutAllOtherDevicesHint": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "activeSessions": "Sessiones activae",
+  "@activeSessions": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deleteDevice": "Delere machinam",
+  "@deleteDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "confirmDeleteDevice": "Visne delere machinam {name}?",
+  "@confirmDeleteDevice": {
+    "type": "String",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deviceIdLabel": "ID machinae",
+  "@deviceIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "lastLogin": "Ultimus login",
+  "@lastLogin": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "ipAddressLabel": "Inscriptio IP",
+  "@ipAddressLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientInfo": "Client",
+  "@clientInfo": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "clientIdLabel": "ID clientis",
+  "@clientIdLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "deviceNameLabel": "Nomen machinae",
+  "@deviceNameLabel": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "removeDevice": "Removere machinam",
+  "@removeDevice": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "timeAgo": "{time} ante",
+  "@timeAgo": {
+    "type": "String",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "minutesUnit": "minuta",
+  "@minutesUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "hoursUnit": "horae",
+  "@hoursUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "daysUnit": "dies",
+  "@daysUnit": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "loginWelcomeTitle": "Gratus ad {appName}",
+  "@loginWelcomeTitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "loginWelcomeSubtitle": "Applicatio nuntiorum velox",
+  "@loginWelcomeSubtitle": {
+    "type": "String",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "createAccount": "Creare rationem",
+  "@createAccount": {
+    "type": "String",
+    "placeholders": {}
+  },
+  "updateReadyTitle": "Renovatio parata",
+  "updateReadyMessage": "Nonnullas functiones optimavimus. Renovatione applicanda applicationem sile rursus incipe.",
+  "restartNow": "Nunc rursus incipere",
+  "noPublicGroupsYet": "Nondum coetus certificati"
+}
